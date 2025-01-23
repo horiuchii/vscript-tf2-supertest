@@ -1,0 +1,7 @@
+
+*.cache
+
+*.bsp
+*.vmx
+*.prt
+*.log
