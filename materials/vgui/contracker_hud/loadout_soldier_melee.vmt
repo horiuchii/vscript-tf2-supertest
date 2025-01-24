@@ -3,6 +3,6 @@ patch
 	include materials\vgui\contracker_hud\base_menu.vmt
 	insert
 	{
-		$detail vgui\contracker_hud\loadout_melee
+		$detail vgui\contracker_hud\loadout_soldier_melee
 	}
 }

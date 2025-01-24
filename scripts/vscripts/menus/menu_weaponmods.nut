@@ -1,18 +1,22 @@
 Cookies.AddCookie("unusual", 0);
 Cookies.AddCookie("skin", null);
-Cookies.AddCookie("wear", 0);
+Cookies.AddCookie("wear", 0.0);
 Cookies.AddCookie("seed_lo", 0);
 Cookies.AddCookie("seed_hi", 0);
+Cookies.AddCookie("spells", 0);
+Cookies.AddCookie("festivizer", 0);
 
 DefineMenu(class extends Menu{
     id = "weapon_mod"
     items = [
     class extends MenuItem{
-        titles = ["Skins"];
+        titles = ["Skins & War Paints"];
 
         function GenerateDesc(player)
         {
-            return "Select the skin to apply to override weapons.\nCurrent: TODO";
+            local current_skin = Cookies.Get(player, "skin")
+            local skin_string = IsSkinValid(current_skin) ? SKINS[current_skin].display_name : "None"
+            return "Select the skin to apply to override weapons.\nCurrent: " + skin_string;
         }
 
         function OnSelected(player)
@@ -45,7 +49,7 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
-        titles = ["Lower Skin Seed Bytes", "Upper Skin Seed Bytes"];
+        titles = ["Low Skin Seed Bytes", "High Skin Seed Bytes"];
 
         function GenerateDesc(player)
         {
@@ -65,16 +69,26 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
-        titles = ["Killstreaker"];
+        titles = ["Festivizer: Off" "Festivizer: On"];
+
+        function OnMenuOpened(player)
+        {
+            index = Cookies.Get(player, "festivizer")
+        }
 
         function GenerateDesc(player)
         {
-            return "Set the killstreaker to apply to override weapons.\nCurrent: TODO";
+            return "Whether the override weapon should be festivized.\nCurrent: " + (Cookies.Get(player, "festivizer") ? "On" : "Off");
         }
 
         function OnSelected(player)
         {
-            player.GoToMenu("weapon_mod_killstreak")
+            Cookies.Set(player, "festivizer", index);
+            SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            if(index)
+                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Your override weapons will now be festivized.");
+            else
+                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Your override weapons will no longer be festivized.");
         }
     },
     class extends MenuItem{
@@ -99,9 +113,63 @@ DefineMenu(class extends Menu{
             Cookies.Set(player, "unusual", unusual)
             SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
             if(unusual)
-                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Set your override weapon unusual to: " + WEAPON_UNUSUAL_NAME[unusual] + ".")
+                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Set your override weapon unusual to: " + WEAPON_UNUSUAL_NAME[unusual] + ".");
             else
-                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Removed your override weapon unusual.")
+                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Removed your override weapon unusual.");
+        }
+    },
+    class extends MenuItem{
+        titles = ["Spells: Off" "Spells: On"];
+
+        function GenerateDesc(player)
+        {
+            return "Whether the pumpkin bomb and green flame spells\nshould appear on override weapons. Current: " + (Cookies.Get(player, "spells") ? "On" : "Off");
+        }
+
+        function OnSelected(player)
+        {
+            Cookies.Set(player, "spells", index);
+            SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            if(index)
+                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Spells will appear on your override weapons.");
+            else
+                player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Spells will not appear on your override weapons.");
+        }
+    }
+    class extends MenuItem{
+        titles = ["KS Type: None", "KS Type: Basic", "KS Type: Specialized", "KS Type: Professional"];
+
+        function GenerateDesc(player)
+        {
+            return "Which killstreak type should be applied to your\noverride weapons. Current: Professional";
+        }
+
+        function OnSelected(player)
+        {
+        }
+    },
+    class extends MenuItem{
+        titles = ["Spec. KS Sheen: Team Shine", "Spec. KS Sheen: Hot Rod", "Spec. KS Sheen: Manndarin", "Spec. KS Sheen: Deadly Daffodil", "Spec. KS Sheen: Agonizing Emerald", "Spec. KS Sheen: Mean Green", "Spec. KS Sheen: Villianous Violet"];
+
+        function GenerateDesc(player)
+        {
+            return "Which sheen color should be applied to your Spec.\nKS override weapons. Current: Villianous Violet";
+        }
+
+        function OnSelected(player)
+        {
+        }
+    },
+    class extends MenuItem{
+        titles = ["Pro. KS Particle: Cerebral Discharge", "Pro. KS Particle: Fire Horns", "Pro. KS Particle: Flames", "Pro. KS Particle: Hypno-Beam", "Pro. KS Particle: Incinerator", "Pro. KS Particle: Singularity", "Pro. KS Particle: Tornado"];
+
+        function GenerateDesc(player)
+        {
+            return "Which particle should be applied to your Pro. KS\noverride weapons. Current: Cerebral Discharge";
+        }
+
+        function OnSelected(player)
+        {
         }
     }
     ]

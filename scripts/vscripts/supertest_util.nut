@@ -88,7 +88,7 @@
 CTFPlayer.ForceTaunt <- function(taunt_id)
 {
 	local active_weapon = GetActiveWeapon()
-	local weapon = CreateByClassname(active_weapon.GetClassname() == "tf_weapon_rocketpack" ? "tf_weapon_shotgun_pyro" : "tf_weapon_bat")
+	local weapon = CreateByClassname(active_weapon.GetClassname() == "tf_weapon_rocketpack" ? "tf_weapon_shotgun_pyro" : active_weapon.GetClassname())
 
 	StopTaunt(true) // both are needed to fully clear the taunt
 	RemoveCond(TF_COND_TAUNTING)

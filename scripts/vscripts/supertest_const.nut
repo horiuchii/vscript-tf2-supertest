@@ -93,7 +93,6 @@ enum WeaponSlot
     [KILLSTREAK_COLOR_HOT_ROD] = "Hot Rod"
 }
 
-
 ::DAI_INITIAL_TICKS <- 12; // how many ticks until DAI starts
 ::DAI_PERIOD_TICKS <- 8; // how many ticks inbetween DAI inputs
 

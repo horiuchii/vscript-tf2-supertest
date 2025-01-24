@@ -11,6 +11,8 @@ class Menu
     {
         return id;
     }
+
+    function OnMenuOpened(player){}
 }
 
 ::DefineMenu <- function(menu_class)
@@ -22,6 +24,8 @@ class MenuItem
 {
     titles = null;
     index = 0;
+
+    function OnMenuOpened(player){}
 
     function GenerateDesc(player)
     {
@@ -73,10 +77,16 @@ IncludeScript(projectDir+"menus/menu_taunts.nut", this);
 
 ::CTFPlayer.OpenMenu <- function()
 {
-    SetVar("menu", GetVar("stored_menu") ? GetVar("stored_menu") : MENUS["main_menu"]());
+    local menu = SetVar("menu", GetVar("stored_menu") ? GetVar("stored_menu") : MENUS["main_menu"]());
     PlaySoundForPlayer({sound_name = "ui/cyoa_map_open.wav"});
     EntFireByHandle(env_hudhint_menu, "HideHudHint", "", 0, this, this);
     SetVar("last_saved_cloak", GetSpyCloakMeter());
+
+    menu.OnMenuOpened(this);
+    foreach(menuitem in menu.items)
+    {
+        menuitem.OnMenuOpened(this)
+    }
 }
 
 ::CTFPlayer.GoToMenu <- function(menu_id)
@@ -85,6 +95,12 @@ IncludeScript(projectDir+"menus/menu_taunts.nut", this);
     menu.parent_menu = GetVar("menu");
     SetVar("menu", menu);
     PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_expand.wav"});
+
+    menu.OnMenuOpened(this);
+    foreach(menuitem in menu.items)
+    {
+        menuitem.OnMenuOpened(this)
+    }
 }
 
 ::CTFPlayer.GoUpMenuDir <- function()
@@ -103,6 +119,7 @@ IncludeScript(projectDir+"menus/menu_taunts.nut", this);
 {
     AddFlag(FL_ATCONTROLS);
     AddCustomAttribute("no_attack", 1, -1);
+    SetPropInt(this, "m_afButtonForced", 0)
     AddCond(TF_COND_GRAPPLED_TO_PLAYER) // block taunts
     SetSpyCloakMeter(0.01);
     if(InCond(TF_COND_TAUNTING))

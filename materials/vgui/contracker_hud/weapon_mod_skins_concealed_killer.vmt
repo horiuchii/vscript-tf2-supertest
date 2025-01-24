@@ -1,0 +1,9 @@
+patch
+{
+	include materials\vgui\contracker_hud\base_menu.vmt
+	insert
+	{
+		$detail vgui\contracker_hud\weapon_mod_skins_concealed_killer
+		$detailtexturetransform "center 0.5 0.5 scale 0.475 3.5 rotate 0 translate -0.373 0.4"
+	}
+}

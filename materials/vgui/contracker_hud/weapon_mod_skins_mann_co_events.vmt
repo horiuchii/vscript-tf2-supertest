@@ -1,0 +1,9 @@
+patch
+{
+	include materials\vgui\contracker_hud\base_menu.vmt
+	insert
+	{
+		$detail vgui\contracker_hud\weapon_mod_skins_mann_co_events
+		$detailtexturetransform "center 0.5 0.5 scale 0.45 3.5 rotate 0 translate -0.373 0.4"
+	}
+}

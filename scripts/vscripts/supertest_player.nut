@@ -171,4 +171,7 @@ AddListener("tick_frame", 0, function()
         else
             SetVar("last_press_menu_button", Time());
     }
+
+    if(GetActiveWeapon())
+        SetVar("priority_weapon_switch_slot", GetActiveWeapon().GetSlot());
 }

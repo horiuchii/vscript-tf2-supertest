@@ -94,7 +94,7 @@ function GenerateClassWeaponSelectMenu()
                 function OnSelected(player)
                 {
                     player.UnequipWeaponInSlot(class_id, slot_id);
-                    player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Removed the " + UpperFirst(class_name) + "'s " + slot_name + " override.")
+                    player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Removed the " + UpperFirst(class_name) + "'s " + slot_name + " override.");
                 }
             })
             foreach(weapon in FilterWeapons(class_index + 1, (name == "spy") ? LOADOUT_SLOT_IDS_SPY[slot_index] : LOADOUT_SLOT_IDS[slot_index]))

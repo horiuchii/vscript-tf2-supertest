@@ -105,6 +105,7 @@ class Cookies
             switch(type(cookie_value))
             {
                 case "string": cookie_value = cookie_value.tostring(); break;
+                case "float": cookie_value = cookie_value.tofloat(); break;
                 case "bool":
                 case "integer": cookie_value = cookie_value.tointeger(); break;
             }
@@ -141,6 +142,7 @@ class Cookies
                     switch(type(CookieData[key_buffer]))
                     {
                         case "string": value_buffer = value_buffer.tostring(); break;
+                        case "float": value_buffer = value_buffer.tofloat(); break;
                         case "integer": value_buffer = value_buffer.tointeger(); break;
                     }
                     Cookies.Set(player, key_buffer, value_buffer, false);
@@ -156,17 +158,6 @@ class Cookies
             player.SendChat("\x07" + "FFA500" + "Save: " + "tf/scriptdata/" + SAVE_DIR + player.GetAccountID() + SAVE_EXTENSION);
             player.SendChat("\x07" + "FFA500" + "Error: " + exception);
         }
-    }
-
-    function MakeGenericCookieString(player, cookie)
-    {
-        local option_setting = Get(player, cookie);
-        if(type(option_setting) == "integer" || type(option_setting) == "bool")
-            option_setting = option_setting ? "[On]" : "[Off]";
-        else
-            option_setting = "[" + option_setting + "]";
-
-        return option_setting + "\n";
     }
 }
 ::Cookies <- Cookies();
