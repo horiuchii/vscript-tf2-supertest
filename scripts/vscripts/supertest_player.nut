@@ -129,6 +129,8 @@ OnGameEvent("post_inventory_application", 0, function(params)
     SetVar("last_press_menu_button", 0);
     SetVar("dai_ticks", 0);
     SetVar("dai_direction", null);
+    SetVar("side_dai_ticks", 0);
+    SetVar("side_dai_direction", null);
     SetVar("last_saved_cloak", 0);
     SetVar("taunt_tick_listener", null);
 

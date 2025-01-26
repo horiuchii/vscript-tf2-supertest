@@ -126,6 +126,8 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
             }
             else if(classname == "tf_weapon_pistol")
                 weapon.SetReserveAmmo(200)
+            else if(IsAtleastOne(classname, ["tf_weapon_smg" "tf_weapon_charged_smg"]))
+                weapon.SetReserveAmmo(75)
             else
                 weapon.SetReserveAmmo(0)
 
@@ -242,7 +244,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     if(!switched_weapon)
     {
         DebugPrint("EQUIPPED LATE")
-        Weapon_Switch(GetPropEntityArray(this, "m_hMyWeapons", 0))
+        Weapon_Switch(GetPropEntityArray(this, "m_hMyWeapons", GetVar("priority_weapon_switch_slot") != null ? GetVar("priority_weapon_switch_slot") : 0))
     }
 
     RunWithDelay(0.1, function()

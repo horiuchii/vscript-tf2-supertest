@@ -159,24 +159,15 @@ OnGameEvent("player_say", 101, function(params)
     }
 
     // Navigate Menu UP/DOWN
-    if(IsHoldingButton(IN_FORWARD))
+    if(IsHoldingButton(IN_FORWARD) || IsHoldingButton(IN_BACK))
     {
-        if(GetVar("dai_direction") != -1)
+        local desired_input = (IsHoldingButton(IN_FORWARD) ? -1 : 1)
+
+        if(GetVar("dai_direction") != desired_input)
         {
             SetVar("dai_ticks", -DAI_INITIAL_TICKS);
-            SetVar("dai_direction", -1);
-            ShiftMenuInput(-1);
-        }
-        else
-            AddVar("dai_ticks", 1);
-    }
-    else if(IsHoldingButton(IN_BACK))
-    {
-        if(GetVar("dai_direction") != 1)
-        {
-            SetVar("dai_ticks", -DAI_INITIAL_TICKS);
-            SetVar("dai_direction", 1);
-            ShiftMenuInput(1);
+            SetVar("dai_direction", desired_input);
+            ShiftMenuInput(desired_input);
         }
         else
             AddVar("dai_ticks", 1);
@@ -192,9 +183,27 @@ OnGameEvent("player_say", 101, function(params)
     }
 
     // Modify Menu Item
-    if(WasButtonJustPressed(IN_MOVELEFT) || WasButtonJustPressed(IN_MOVERIGHT))
+    if(IsHoldingButton(IN_MOVELEFT) || IsHoldingButton(IN_MOVERIGHT))
     {
-        menu.items[menu.selected_index].OnLeftRightInput(this, WasButtonJustPressed(IN_MOVELEFT) ? -1 : 1)
+        local desired_input = (IsHoldingButton(IN_MOVELEFT) ? -1 : 1)
+
+        if(GetVar("side_dai_direction") != desired_input)
+        {
+            SetVar("side_dai_ticks", -SIDE_DAI_INITIAL_TICKS);
+            SetVar("side_dai_direction", desired_input);
+            ModifyMenuItem(desired_input);
+        }
+        else
+            AddVar("side_dai_ticks", 1);
+    }
+    else
+    {
+        SetVar("side_dai_direction", null);
+    }
+
+    if(GetVar("side_dai_direction") && GetVar("side_dai_ticks") > 0 && GetVar("side_dai_ticks") % SIDE_DAI_PERIOD_TICKS == 0)
+    {
+        ModifyMenuItem(GetVar("side_dai_direction"));
     }
 
     // Select Menu Item
@@ -228,6 +237,13 @@ OnGameEvent("player_say", 101, function(params)
     menu.selected_index = new_loc;
 
     PlaySoundForPlayer({sound_name = "ui/cyoa_node_absent.wav"});
+}
+
+::CTFPlayer.ModifyMenuItem <- function(offset)
+{
+    local menu = GetVar("menu");
+    local menuitem = menu.items[menu.selected_index];
+    menuitem.OnLeftRightInput(this, offset);
 }
 
 ::CTFPlayer.DisplayMenu <- function()

@@ -34,6 +34,35 @@ function GenerateLoadoutMenu()
             }
         }
     }
+    menu.items.append(class extends MenuItem
+    {
+        titles = ["Clear Loadout Overrides"];
+
+        function GenerateDesc(player)
+        {
+            return "Clear all loadout overrides for each class.";
+        }
+
+        function OnSelected(player)
+        {
+            for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_index++)
+            {
+                for (local weapon_slot_index = WeaponSlot.Primary; weapon_slot_index < WeaponSlot.MAX; weapon_slot_index++)
+                {
+                    if(weapon_slot_index == WeaponSlot.DisguiseKit)
+                        continue;
+
+                    if(weapon_slot_index == WeaponSlot.InvisWatch && class_index != TF_CLASS_SPY)
+                        continue;
+
+                    Cookies.Set(player, FormatWeaponCookie(class_index, weapon_slot_index), null)
+                }
+            }
+
+            player.SendChat(CHAT_PREFIX + "Cleared override weapon selections.");
+            player.Regenerate(true)
+        }
+    })
     DefineMenu(menu);
 }
 GenerateLoadoutMenu();

@@ -125,6 +125,8 @@ enum WeaponSlot
 
 ::DAI_INITIAL_TICKS <- 12; // how many ticks until DAI starts
 ::DAI_PERIOD_TICKS <- 8; // how many ticks inbetween DAI inputs
+::SIDE_DAI_INITIAL_TICKS <- 10; // how many ticks until DAI starts
+::SIDE_DAI_PERIOD_TICKS <- 10; // how many ticks inbetween DAI inputs
 
 ::FLAG_WARPAINT_AND_UNUSUAL <- 1
 ::FLAG_ACCEPTS_ENERGYORB <- 2
