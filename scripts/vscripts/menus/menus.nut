@@ -22,6 +22,7 @@ class Menu
 
 class MenuItem
 {
+    assigned_menu = null;
     titles = null;
     index = 0;
 
@@ -54,12 +55,23 @@ class MenuItem
         return true;
     }
 }
+::MenuItem <- MenuItem
 
 IncludeScript(projectDir+"menus/menu_mainmenu.nut", this);
 IncludeScript(projectDir+"menus/menu_loadout.nut", this);
 IncludeScript(projectDir+"menus/menu_weaponmods.nut", this);
 IncludeScript(projectDir+"menus/menu_weaponmods_skins.nut", this);
 IncludeScript(projectDir+"menus/menu_taunts.nut", this);
+
+OnGameEvent("player_say", 101, function(params)
+{
+    local player = GetPlayerFromUserID(params.userid);
+
+    if(params.text != "/menu" && params.text != "!menu")
+        return;
+
+    player.GetVar("menu") ? player.CloseMenu() : player.OpenMenu();
+})
 
 ::CTFPlayer.CloseMenu <- function()
 {

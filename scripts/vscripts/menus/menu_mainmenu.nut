@@ -40,25 +40,25 @@ DefineMenu(class extends Menu{
             player.GoToMenu("taunts")
         }
     },
-    class extends MenuItem{
-        titles = ["Server Settings"];
+    // class extends MenuItem{
+    //     titles = ["Server Settings"];
 
-        function GenerateDesc(player)
-        {
-            return "Modify specific server console commands.\n(Random Crits, Spread, Holiday, etc.)\n";
-        }
+    //     function GenerateDesc(player)
+    //     {
+    //         return "Modify specific server console commands.\n(Random Crits, Spread, Holiday, etc.)\n";
+    //     }
 
-        function OnSelected(player){}
-    },
-    class extends MenuItem{
-        titles = ["Player Settings"];
+    //     function OnSelected(player){}
+    // },
+    // class extends MenuItem{
+    //     titles = ["Player Settings"];
 
-        function GenerateDesc(player)
-        {
-            return "Modify settings specific to you.\n(Infinite Ammo/Clip, Perma Crits, etc.)\n";
-        }
+    //     function GenerateDesc(player)
+    //     {
+    //         return "Modify settings specific to you.\n(Infinite Ammo/Clip, Perma Crits, etc.)\n";
+    //     }
 
-        function OnSelected(player){}
-    }
+    //     function OnSelected(player){}
+    // }
     ]
 })

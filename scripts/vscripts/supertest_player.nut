@@ -86,11 +86,21 @@ OnGameEvent("player_disconnect", 0, function(params)
     player.RemoveInstancedProps();
 })
 
+OnGameEvent("player_team", 0, function(params)
+{
+    local player = GetPlayerFromUserID(params.userid);
+
+    //if we switch to spectator, remove the menu
+    if(params.team != TF_TEAM_RED && params.team != TF_TEAM_BLUE)
+        player.SetScriptOverlayMaterial(null);
+        player.SetVar("menu", null)
+})
+
 OnGameEvent("post_inventory_application", 0, function(params)
 {
     local player = GetPlayerFromUserID(params.userid);
 
-    if(IsPlayerABot(player))
+    if(IsPlayerABot(player) || player.GetTeam() == TEAM_UNASSIGNED)
         return;
 
     player.ValidateScriptScope()
@@ -120,6 +130,7 @@ OnGameEvent("post_inventory_application", 0, function(params)
     SetVar("dai_ticks", 0);
     SetVar("dai_direction", null);
     SetVar("last_saved_cloak", 0);
+    SetVar("taunt_tick_listener", null);
 
     SetVar("last_buttons", 0);
 
@@ -138,9 +149,12 @@ OnGameEvent("post_inventory_application", 0, function(params)
 AddListener("tick_frame", 0, function()
 {
     GlobalTickCounter += 1;
-    foreach(player in GetAlivePlayers())
+    foreach(player in GetPlayers())
     {
         if(IsPlayerABot(player))
+            return;
+
+        if(PlayerSpawned.find(player) == null)
             return;
 
         player.OnTick();

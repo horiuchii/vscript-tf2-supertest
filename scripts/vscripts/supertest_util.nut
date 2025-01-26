@@ -92,15 +92,62 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
 
 	StopTaunt(true) // both are needed to fully clear the taunt
 	RemoveCond(TF_COND_TAUNTING)
+
+    if(weapon.GetClassname() == "tf_weapon_builder" || weapon.GetClassname() == "tf_weapon_sapper")
+    {
+        SetPropInt(weapon, "m_iObjectType", 3);
+        SetPropInt(weapon, "m_iSubType", 3);
+        SetPropInt(weapon, "m_iObjectMode", 0);
+        SetPropBoolArray(weapon, "m_aBuildableObjectTypes", true, 3);
+    }
+
 	weapon.DispatchSpawn()
 	SetPropInt(weapon, "m_AttributeManager.m_Item.m_iItemDefinitionIndex", taunt_id)
 	SetPropBool(weapon, "m_AttributeManager.m_Item.m_bInitialized", true)
 	SetPropBool(weapon, "m_bForcePurgeFixedupStrings", true)
 	SetPropEntity(this, "m_hActiveWeapon", weapon)
+    Weapon_Equip(weapon)
 	SetPropInt(this, "m_iFOV", 0) // fix sniper rifles
 	HandleTauntCommand(0)
-	SetPropEntity(this, "m_hActiveWeapon", active_weapon)
-	weapon.Kill()
+
+    active_weapon.ValidateScriptScope();
+    local wep_scriptscope = active_weapon.GetScriptScope();
+
+    //if we are holding an override weapon, add ks mods so that eyes keep glowing
+    if("override" in wep_scriptscope)
+    {
+        local ks_tier = Cookies.Get(this, "killstreak");
+        if(ks_tier >= 1)
+        {
+            weapon.AddAttribute("killstreak tier", ks_tier, -1);
+
+            if(ks_tier >= 2)
+                weapon.AddAttribute("killstreak idleeffect", Cookies.Get(this, "killstreak_sheen"), -1);
+
+            if(ks_tier >= 3)
+                weapon.AddAttribute("killstreak effect", Cookies.Get(this, "killstreak_particle"), -1);
+        }
+    }
+
+    SetVar("taunt_tick_listener", AddListener("tick_frame", 1, function(){
+        if(!IsValid(active_weapon))
+            RemoveListener(GetVar("taunt_tick_listener"))
+
+        if(!InCond(TF_COND_TAUNTING))
+        {
+            SetPropEntity(this, "m_hActiveWeapon", active_weapon)
+            KillIfValid(weapon)
+            RemoveListener(GetVar("taunt_tick_listener"))
+        }
+    }))
+}
+
+//stolen from kstf2's regen script (https://github.com/kstf2/regen.nut/blob/main/regen.nut)
+::CTFWeaponBase.SetReserveAmmo <- function(amount)
+{
+    if (this == null || this.GetOwner() == null || !this.GetOwner().IsPlayer()) return
+
+    SetPropIntArray(this.GetOwner(), "m_iAmmo", amount, this.GetPrimaryAmmoType())
 }
 
 ::CTFPlayer.PlaySoundForPlayer <- function(data, delay = 0)
@@ -329,4 +376,15 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     // Shift the 32-bit value left by 32 bits
     local value64 = value32 << 32;
     return value64;
+}
+
+::IsAtleastOne <- function(comparee, array)
+{
+    foreach(comparison in array)
+    {
+        if(comparee == comparison)
+            return true;
+    }
+
+    return false;
 }

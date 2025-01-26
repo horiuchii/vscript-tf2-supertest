@@ -77,77 +77,103 @@ function GenerateClassWeaponSelectMenu()
     {
         foreach(slot_index, slot in (name == "spy") ? LOADOUT_SLOT_NAMES_SPY : LOADOUT_SLOT_NAMES)
         {
-            local menu = class extends Menu{id = "loadout_" + name + "_" + slot; items = []};
-            menu.items.append(class extends MenuItem
-            {
-                class_id = class_index + 1;
-                class_name = name;
-                slot_name = slot;
-                slot_id = (name == "spy") ? LOADOUT_SLOT_IDS_SPY[slot_index] : LOADOUT_SLOT_IDS[slot_index];
-                titles = ["Remove Override"];
+            DefineMenu(class extends Menu{
+                id = "loadout_" + name + "_" + slot;
+                _class_index = class_index + 1;
+                _name = name;
+                _slot = slot;
+                _slot_id = slot_index;
 
-                function GenerateDesc(player)
+                function constructor()
                 {
-                    return "Remove the " + UpperFirst(class_name) + "'s " + slot_name + " override.";
+                    GenerateLoadoutWeaponMenuItems(this);
                 }
-
-                function OnSelected(player)
-                {
-                    player.UnequipWeaponInSlot(class_id, slot_id);
-                    player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Removed the " + UpperFirst(class_name) + "'s " + slot_name + " override.");
-                }
-            })
-            foreach(weapon in FilterWeapons(class_index + 1, (name == "spy") ? LOADOUT_SLOT_IDS_SPY[slot_index] : LOADOUT_SLOT_IDS[slot_index]))
-            {
-                if(safeget(weapon, "variant", false))
-                    continue;
-
-                local weapon_menu_item = class extends MenuItem
-                {
-                    class_id = class_index + 1;
-                    class_name = name;
-                    slot_name = slot;
-                    slot_id = weapon.slot
-                    weapon_idnames = [weapon.weapon_id];
-                    titles = [weapon.display_name];
-
-                    function GenerateDesc(player)
-                    {
-                        local pre_newline = "Set the " + UpperFirst(class_name) + "'s " + slot_name;
-
-                        local weapon_name = titles[index];
-                        local newline = weapon_name.len() < 24 ? "\noverride to the " : " override to the\n";
-
-                        return pre_newline + newline + titles[index] + ".";
-                    }
-
-                    function OnSelected(player)
-                    {
-                        player.EquipWeapon(class_id, weapon_idnames[index]);
-                        player.SetVar("priority_weapon_switch_slot", slot_id);
-                        player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Equipped the " + titles[index] + " for " + UpperFirst(class_name) + "'s " + slot_name + " override.")
-                    }
-                }
-
-                if(safeget(weapon, "variants", false))
-                {
-                    foreach (variant_wep in weapon.variants)
-                    {
-                        if(!(variant_wep in WEAPONS))
-                        {
-                            DebugPrint("ERROR: INVALID VARIANT: " + variant_wep);
-                            continue;
-                        }
-
-                        weapon_menu_item.titles.append(WEAPONS[variant_wep].display_name)
-                        weapon_menu_item.weapon_idnames.append(variant_wep)
-                    }
-                }
-
-                menu.items.append(weapon_menu_item)
-            }
-            DefineMenu(menu);
+            });
         }
     }
 }
 GenerateClassWeaponSelectMenu();
+
+::GenerateLoadoutWeaponMenuItems <- function(menu)
+{
+    menu.items = []
+
+    menu.items.append(class extends MenuItem
+    {
+        class_id = menu._class_index;
+        class_name = menu._name;
+        slot_name = menu._slot;
+        slot_id = (menu._name == "spy") ? LOADOUT_SLOT_IDS_SPY[menu._slot_id] : LOADOUT_SLOT_IDS[menu._slot_id];
+        titles = ["Remove Override"];
+
+        function GenerateDesc(player)
+        {
+            return "Remove the " + UpperFirst(class_name) + "'s " + slot_name + " override.";
+        }
+
+        function OnSelected(player)
+        {
+            player.UnequipWeaponInSlot(class_id, slot_id);
+            player.SendChat(CHAT_PREFIX + "Removed the " + UpperFirst(class_name) + "'s " + slot_name + " override.");
+        }
+    }())
+    foreach(weapon in FilterWeapons(menu._class_index, (menu._name == "spy") ? LOADOUT_SLOT_IDS_SPY[menu._slot_id] : LOADOUT_SLOT_IDS[menu._slot_id]))
+    {
+        if(safeget(weapon, "variant", false))
+            continue;
+
+        local weapon_menu_item = class extends MenuItem
+        {
+            class_id = menu._class_index;
+            class_name = menu._name;
+            slot_name = menu._slot;
+            slot_id = weapon.slot
+            weapon_idnames = [weapon.weapon_id];
+            titles = [weapon.display_name];
+
+            function GenerateDesc(player)
+            {
+                local pre_newline = "Set the " + UpperFirst(class_name) + "'s " + slot_name;
+
+                local weapon_name = titles[index];
+                local newline = weapon_name.len() < 24 ? "\noverride to the " : " override to the\n";
+
+                return pre_newline + newline + titles[index] + ".";
+            }
+
+            function OnSelected(player)
+            {
+                player.EquipWeapon(class_id, weapon_idnames[index]);
+                if(slot_id != WeaponSlot.InvisWatch)
+                {
+                    local offset = 0
+
+                    if(player.GetPlayerClass() == TF_CLASS_SPY && slot_id == WeaponSlot.Secondary)
+                        offset = 1;
+                    if(player.GetPlayerClass() == TF_CLASS_SPY && slot_id == WeaponSlot.Melee)
+                        offset = -2;
+
+                    player.SetVar("priority_weapon_switch_slot", slot_id + offset);
+                }
+                player.SendChat(CHAT_PREFIX + "Equipped the " + titles[index] + " for " + UpperFirst(class_name) + "'s " + slot_name + " override.")
+            }
+        }()
+
+        if(safeget(weapon, "variants", false))
+        {
+            foreach (variant_wep in weapon.variants)
+            {
+                if(!(variant_wep in WEAPONS))
+                {
+                    DebugPrint("ERROR: INVALID VARIANT: " + variant_wep);
+                    continue;
+                }
+
+                weapon_menu_item.titles.append(WEAPONS[variant_wep].display_name)
+                weapon_menu_item.weapon_idnames.append(variant_wep)
+            }
+        }
+
+        menu.items.append(weapon_menu_item)
+    }
+}

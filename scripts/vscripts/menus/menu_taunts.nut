@@ -127,7 +127,6 @@
     [31492] = "Peace!"
 }
 
-
 DefineMenu(class extends Menu{
     id = "taunts"
     items = [
@@ -177,6 +176,7 @@ function GenerateClassTauntSelectMenu()
         {
             menuitems.append(class extends MenuItem
             {
+                class_index = index;
                 taunt_name = taunt_name_;
                 id = taunt_index;
                 titles = [taunt_name_];
@@ -188,6 +188,9 @@ function GenerateClassTauntSelectMenu()
 
                 function OnSelected(player)
                 {
+                    if(player.GetPlayerClass() != class_index + 1)
+                        return;
+
                     player.CloseMenu()
                     player.ForceTaunt(id)
                 }

@@ -62,6 +62,87 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     return classname;
 }
 
+::UpdateReserveAmmoOnWeapon <- function(classname, slot, item_id, weapon)
+{
+    switch(slot)
+    {
+        case WeaponSlot.Primary:
+        {
+            if(IsAtleastOne(classname, ["tf_weapon_scattergun" "tf_weapon_soda_popper" "tf_weapon_handgun_scout_primary" "tf_weapon_pep_brawler_blaster" "tf_weapon_sentry_revenge" "tf_weapon_shotgun"]))
+                weapon.SetReserveAmmo(32)
+            else if(IsAtleastOne(classname, ["tf_weapon_rocketlauncher" "tf_weapon_rocketlauncher_directhit"]))
+            {
+                switch(item_id)
+                {
+                    case 237: weapon.SetReserveAmmo(60); break;
+                    default: weapon.SetReserveAmmo(20); break;
+                }
+            }
+            else if(IsAtleastOne(classname, ["tf_weapon_flamethrower" "tf_weapon_minigun"]))
+                weapon.SetReserveAmmo(200)
+            else if(classname == "tf_weapon_rocketlauncher_fireball")
+                weapon.SetReserveAmmo(40)
+            else if(IsAtleastOne(classname, ["tf_weapon_grenadelauncher" "tf_weapon_cannon" "tf_weapon_shotgun_building_rescue"]))
+                weapon.SetReserveAmmo(16)
+            else if(classname == "tf_weapon_syringegun_medic")
+                weapon.SetReserveAmmo(150)
+            else if(classname == "tf_weapon_crossbow")
+                weapon.SetReserveAmmo(38)
+            else if(IsAtleastOne(classname, ["tf_weapon_sniperrifle", "tf_weapon_sniperrifle_decap", "tf_weapon_sniperrifle_classic"]))
+                weapon.SetReserveAmmo(25)
+            else if(classname == "tf_weapon_compound_bow")
+                weapon.SetReserveAmmo(12)
+            else if(classname == "tf_weapon_revolver")
+                weapon.SetReserveAmmo(24)
+            else
+                weapon.SetReserveAmmo(0)
+
+            break;
+        }
+        case WeaponSlot.Secondary:
+        {
+            if(classname == "tf_weapon_handgun_scout_secondary" || classname == "tf_weapon_pistol")
+            {
+                switch(GetPlayerClass())
+                {
+                    case TF_CLASS_ENGINEER: weapon.SetReserveAmmo(200); break;
+                    default: weapon.SetReserveAmmo(36); break;
+                }
+            }
+            else if(IsAtleastOne(classname, ["tf_weapon_lunchbox" "tf_weapon_lunchbox_drink" "tf_weapon_jar_gas" "tf_weapon_jar" "tf_weapon_jar_milk" "tf_weapon_cleaver" "tf_weapon_rocketpack"]))
+                weapon.SetReserveAmmo(1)
+            else if(classname == "tf_weapon_shotgun")
+                weapon.SetReserveAmmo(32)
+            else if(classname == "tf_weapon_flaregun")
+                weapon.SetReserveAmmo(16)
+            else if(classname == "tf_weapon_pipebomblauncher")
+            {
+                switch(item_id)
+                {
+                    case 265: weapon.SetReserveAmmo(72); break;
+                    case 130: weapon.SetReserveAmmo(36); break;
+                    default: weapon.SetReserveAmmo(24); break;
+                }
+            }
+            else if(classname == "tf_weapon_pistol")
+                weapon.SetReserveAmmo(200)
+            else
+                weapon.SetReserveAmmo(0)
+
+            break;
+        }
+        case WeaponSlot.Melee:
+        {
+            if(IsAtleastOne(classname, ["tf_weapon_bat_wood" "tf_weapon_bat_giftwrap"]))
+                weapon.SetReserveAmmo(1)
+            else
+                weapon.SetReserveAmmo(0)
+
+            break;
+        }
+    }
+}
+
 ::CTFPlayer.GetDesiredWeapon <- function(tfclass, slot)
 {
     return Cookies.Get(this, FormatWeaponCookie(tfclass, slot))
@@ -124,7 +205,6 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         if(weapon_slot_index == WeaponSlot.InvisWatch && GetPlayerClass() != TF_CLASS_SPY)
             continue;
 
-        local switchwep = false;
         local desired_weapon = GetDesiredWeapon(GetPlayerClass(), weapon_slot_index);
 
         if(!IsWeaponValid(desired_weapon))
@@ -137,19 +217,33 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 
         local weapon_table = WEAPONS[desired_weapon];
 
-        if(GetVar("priority_weapon_switch_slot") && GetVar("priority_weapon_switch_slot") == weapon_slot_index && !(safeget(WEAPONS[desired_weapon], "unequipable", false)))
-        {
-            switchwep = true;
-            switched_weapon = true;
-        }
-
         if(weapon_table.classname.find("tf_wearable") != null)
             GiveCosmetic(desired_weapon, weapon_table.item_id)
         else
-            GiveWeapon(desired_weapon, weapon_table.classname, ("item_id_override" in weapon_table) ? weapon_table.item_id_override : weapon_table.item_id, switchwep);
+            GiveWeapon(desired_weapon, weapon_table.classname, ("item_id_override" in weapon_table) ? weapon_table.item_id_override : weapon_table.item_id);
+
+        if(!switched_weapon && !(safeget(WEAPONS[desired_weapon], "unequipable", false)))
+        {
+            local wep_to_switch_to = null
+            if(GetVar("priority_weapon_switch_slot") == weapon_slot_index)
+            {
+                wep_to_switch_to = GetPropEntityArray(this, "m_hMyWeapons", GetVar("priority_weapon_switch_slot"))
+            }
+
+            if(wep_to_switch_to)
+            {
+                Weapon_Switch(wep_to_switch_to)
+                switched_weapon = true;
+                DebugPrint("EQUIPPING EARLY: " + desired_weapon + " id: " + (GetVar("priority_weapon_switch_slot") != null ? GetVar("priority_weapon_switch_slot") : weapon_slot_index))
+            }
+        }
     }
+
     if(!switched_weapon)
+    {
+        DebugPrint("EQUIPPED LATE")
         Weapon_Switch(GetPropEntityArray(this, "m_hMyWeapons", 0))
+    }
 
     RunWithDelay(0.1, function()
     {
@@ -157,10 +251,15 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     })
 }
 
-::CTFPlayer.GiveWeapon <- function(weapon_id, className, itemID, switchwep = true)
+::CTFPlayer.GiveWeapon <- function(weapon_id, classname, item_id)
 {
-    local weapon = CreateByClassname(ConvertWeaponClassname(className))
-    SetPropInt(weapon, NETPROP_ITEMDEFINDEX, itemID)
+    local weapon = CreateByClassname(ConvertWeaponClassname(classname))
+
+    weapon.ValidateScriptScope();
+    local wep_scriptscope = weapon.GetScriptScope();
+    wep_scriptscope["override"] <- true;
+
+    SetPropInt(weapon, NETPROP_ITEMDEFINDEX, item_id)
     SetPropBool(weapon, NETPROP_INITIALIZED, true)
     SetPropBool(weapon, NETPROP_VALIDATED_ATTACHED, true)
     weapon.SetTeam(GetTeam())
@@ -179,10 +278,10 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
             {
                 case SkinType.LegacySkin:
                 {
-                    if(itemID in skin_data.replacements)
+                    if(item_id in skin_data.replacements)
                     {
-                        SetPropInt(weapon, NETPROP_ITEMDEFINDEX, skin_data.replacements[itemID]);
-                        DebugPrint("replaceing item id with " + skin_data.replacements[itemID] + " for skin id " + desired_skin)
+                        SetPropInt(weapon, NETPROP_ITEMDEFINDEX, skin_data.replacements[item_id]);
+                        DebugPrint("replaceing item id with " + skin_data.replacements[item_id] + " for skin id " + desired_skin)
                     }
                     break;
                 }
@@ -207,7 +306,6 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     {
         weapon.AddAttribute("SPELL: Halloween pumpkin explosions", 1, -1);
         weapon.AddAttribute("SPELL: Halloween green flames", 1, -1);
-        DebugPrint("giving spells")
     }
 
     if(Cookies.Get(this, "festivizer"))
@@ -215,7 +313,19 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         weapon.AddAttribute("is_festivized", 1, -1);
     }
 
-    if(className == "tf_weapon_builder" || className == "tf_weapon_sapper")
+    local ks_tier = Cookies.Get(this, "killstreak");
+    if(ks_tier >= 1)
+    {
+        weapon.AddAttribute("killstreak tier", ks_tier, -1);
+
+        if(ks_tier >= 2)
+            weapon.AddAttribute("killstreak idleeffect", Cookies.Get(this, "killstreak_sheen"), -1);
+
+        if(ks_tier >= 3)
+            weapon.AddAttribute("killstreak effect", Cookies.Get(this, "killstreak_particle"), -1);
+    }
+
+    if(classname == "tf_weapon_builder" || classname == "tf_weapon_sapper")
     {
         SetPropInt(weapon, "m_iObjectType", 3);
         SetPropInt(weapon, "m_iSubType", 3);
@@ -237,8 +347,6 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     }
 
     Weapon_Equip(weapon)
-    if(switchwep && !(safeget(WEAPONS[weapon_id], "unequipable", false)))
-        Weapon_Switch(weapon)
 
     weapon.ReapplyProvision()
 
@@ -263,6 +371,9 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     {
         wearables_to_kill[i].Kill()
     }
+
+    if(item_id != 527 && item_id != 528)
+        UpdateReserveAmmoOnWeapon(classname, WEAPONS[weapon_id].slot, item_id, weapon)
 
     return weapon
 }
@@ -1900,7 +2011,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     },
     ["widowmaker"] = {
         display_name = "Widowmaker"
-        classname = "tf_weapon_shotgun_primary"
+        classname = "tf_weapon_shotgun"
         item_id = 527
         used_by_classes = [TF_CLASS_ENGINEER]
         slot = WeaponSlot.Primary
@@ -2286,7 +2397,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     }),
     ["machina"] = combinetables(clone(WEP_BASE_SNIPERRIFLE), {
         display_name = "Machina"
-        item_id = 402
+        item_id = 526
         variants = ["shooting_star"]
     }),
     ["shooting_star"] = combinetables(clone(WEP_BASE_SNIPERRIFLE), {

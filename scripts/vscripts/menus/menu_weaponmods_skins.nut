@@ -1856,7 +1856,7 @@ function GenerateSelectCollectionMenu()
         function OnSelected(player)
         {
             Cookies.Set(player, "skin", null);
-            player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Unequipped your weapon override skin.");
+            player.SendChat(CHAT_PREFIX + "Unequipped your weapon override skin.");
             SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
         }
     })
@@ -1914,7 +1914,7 @@ function GenerateSkinSelectCollectionMenu()
                 function OnSelected(player)
                 {
                     Cookies.Set(player, "skin", skin_id);
-                    player.SendChat("\x07" + "66B2B2" + "[SUPER TEST] " + "Equipped the " + titles[0] + " as your weapon override skin.");
+                    player.SendChat(CHAT_PREFIX + "Equipped the " + titles[0] + " as your weapon override skin.");
                     SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
                 }
             })

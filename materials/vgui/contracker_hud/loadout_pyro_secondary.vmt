@@ -3,6 +3,6 @@ patch
 	include materials\vgui\contracker_hud\base_menu.vmt
 	insert
 	{
-		$detail vgui\contracker_hud\loadout_scout_secondary
+		$detail vgui\contracker_hud\loadout_pyro_secondary
 	}
 }

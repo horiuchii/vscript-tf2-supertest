@@ -150,8 +150,8 @@
     local extraVM;
     for (local item = this.FirstMoveChild(); item != null; item = item.NextMovePeer())
     {
-        local className = item.GetClassname();
-        if (startswith(className, "tf_we") || className == "tf_powerup_bottle")
+        local classname = item.GetClassname();
+        if (startswith(classname, "tf_we") || classname == "tf_powerup_bottle")
         {
             items.push(item);
             if (extraVM = GetPropEntity(item, "m_hExtraWearableViewModel"))
