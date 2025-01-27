@@ -1,4 +1,4 @@
-::DEBUG <- true;
+::DEBUG <- GetDeveloperLevel();
 
 ::projectDir <- ""
 IncludeScript(projectDir+"/__lizardlib/_lizardlib.nut", this);

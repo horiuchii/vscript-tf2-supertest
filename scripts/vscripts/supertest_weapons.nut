@@ -583,6 +583,21 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         slot = WeaponSlot.Primary
     },
     //MULTICLASS MELEE
+    ["envballs"] = {
+        display_name = "Cubemap Balls"
+        classname = "saxxy"
+        item_id = -1
+        used_by_classes = [TF_CLASS_SCOUT, TF_CLASS_SOLDIER, TF_CLASS_PYRO, TF_CLASS_DEMOMAN, TF_CLASS_HEAVY, TF_CLASS_ENGINEER, TF_CLASS_MEDIC, TF_CLASS_SNIPER, TF_CLASS_SPY]
+        slot = WeaponSlot.Melee
+        variant = true
+        extra_code = function(weapon)
+        {
+            PrecacheModel("models/shadertest/envballs.mdl")
+            PrecacheModel("empty.mdl")
+            weapon.SetModel("empty.mdl")
+            weapon.SetCustomViewModel("models/shadertest/envballs.mdl")
+        }
+    },
     ["pan"] = {
         display_name = "Frying Pan"
         classname = "saxxy"
@@ -866,7 +881,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id = 0
         used_by_classes = [TF_CLASS_SCOUT]
         slot = WeaponSlot.Melee
-        variants = ["holy_mackerel" "holy_mackerel_festive" "unarmed_combat" "bat_festive" "batsaber" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["holy_mackerel" "holy_mackerel_festive" "unarmed_combat" "bat_festive" "batsaber" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["bat_festive"] = {
         display_name = "Festive Bat"
@@ -1169,7 +1184,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_SOLDIER]
         slot = WeaponSlot.Melee
-        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["equalizer"] = {
         display_name = "Equalizer"
@@ -1368,7 +1383,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Melee
-        variants = ["lollichop" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["lollichop" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["lollichop"] = {
         display_name = "Lollichop"
@@ -1664,7 +1679,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id_override = 191
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Melee
-        variants = ["scottish_handshake" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["scottish_handshake" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["scottish_handshake"] = {
         display_name = "Scottish Handshake"
@@ -1911,7 +1926,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id_override = 195
         used_by_classes = [TF_CLASS_HEAVY]
         slot = WeaponSlot.Melee
-        variants = ["apoco_fists" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["apoco_fists" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["apoco_fists"] = {
         display_name = "Apoco-Fists"
@@ -2084,7 +2099,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["wrench"] = combinetables(clone(WEP_BASE_WRENCH), {
         item_id_override = 197
         flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
-        variants = ["aus_wrench" "wrench_festive" "gold_wrench" "silver_bk_wrench_mk1" "gold_bk_wrench_mk1" "rust_bk_wrench_mk1" "blood_bk_wrench_mk1" "carbonado_bk_wrench_mk1" "diamond_bk_wrench_mk1" "silver_bk_wrench_mk2" "gold_bk_wrench_mk2" "gold_pan" "saxxy" "necro_smasher" "prinny_knife"]
+        variants = ["aus_wrench" "wrench_festive" "gold_wrench" "silver_bk_wrench_mk1" "gold_bk_wrench_mk1" "rust_bk_wrench_mk1" "blood_bk_wrench_mk1" "carbonado_bk_wrench_mk1" "diamond_bk_wrench_mk1" "silver_bk_wrench_mk2" "gold_bk_wrench_mk2" "gold_pan" "saxxy" "necro_smasher" "prinny_knife" "envballs"]
     }),
     ["wrench_festive"] = combinetables(clone(WEP_BASE_WRENCH), {
         display_name = "Festive Wrench"
@@ -2269,7 +2284,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id_override = 198
         used_by_classes = [TF_CLASS_MEDIC]
         slot = WeaponSlot.Melee
-        variants = ["bonesaw_festive" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["bonesaw_festive" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["bonesaw_festive"] = {
         display_name = "Festive Bonesaw"
@@ -2504,7 +2519,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_SNIPER]
         slot = WeaponSlot.Melee
-        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife"]
+        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["tribalman_shiv"] = {
         display_name = "Tribalman's Shiv"
@@ -2596,7 +2611,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["knife"] = combinetables(clone(WEP_BASE_KNIFE), {
         item_id_override = 194
         flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
-        variants = ["aus_knife" "knife_festive" "sharp_dresser" "blackrose_teamcolor" "blackrose_baccara" "silver_bk_knife_mk1" "gold_pan" "saxxy" "prinny_knife" "gold_bk_knife_mk1" "rust_bk_knife_mk1" "blood_bk_knife_mk1" "carbonado_bk_knife_mk1" "diamond_bk_knife_mk1" "silver_bk_knife_mk2" "gold_bk_knife_mk2"]
+        variants = ["aus_knife" "knife_festive" "sharp_dresser" "blackrose_teamcolor" "blackrose_baccara" "silver_bk_knife_mk1" "gold_pan" "saxxy" "prinny_knife" "gold_bk_knife_mk1" "rust_bk_knife_mk1" "blood_bk_knife_mk1" "carbonado_bk_knife_mk1" "diamond_bk_knife_mk1" "silver_bk_knife_mk2" "gold_bk_knife_mk2" "envballs"]
     }),
     ["knife_festive"] = combinetables(clone(WEP_BASE_KNIFE), {
         display_name = "Festive Knife"
