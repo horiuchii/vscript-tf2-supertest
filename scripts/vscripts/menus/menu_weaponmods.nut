@@ -5,6 +5,7 @@ Cookies.AddCookie("seed_lo", 0);
 Cookies.AddCookie("seed_hi", 0);
 Cookies.AddCookie("spells", 0);
 Cookies.AddCookie("festivizer", 0);
+Cookies.AddCookie("statclock", 0);
 
 Cookies.AddCookie("killstreak", 0);
 Cookies.AddCookie("killstreak_sheen", 1);
@@ -110,6 +111,29 @@ DefineMenu(class extends Menu{
                     player.SendChat(CHAT_PREFIX + "Your override weapons will now be festivized.");
                 else
                     player.SendChat(CHAT_PREFIX + "Your override weapons will no longer be festivized.");
+            }
+        },
+        class extends MenuItem{
+            titles = ["Stat Clock: Off" "Stat Clock: On"];
+
+            function OnMenuOpened(player)
+            {
+                index = Cookies.Get(player, "statclock")
+            }
+
+            function GenerateDesc(player)
+            {
+                return "Whether the override weapon has a Stat Clock.\nOnly shows on skinned weapons. Current: " + (Cookies.Get(player, "statclock") ? "On" : "Off");
+            }
+
+            function OnSelected(player)
+            {
+                Cookies.Set(player, "statclock", index);
+                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                if(index)
+                    player.SendChat(CHAT_PREFIX + "Your override weapons will now show a Stat Clock.");
+                else
+                    player.SendChat(CHAT_PREFIX + "Your override weapons will no longer show a Stat Clock.");
             }
         },
         class extends MenuItem{

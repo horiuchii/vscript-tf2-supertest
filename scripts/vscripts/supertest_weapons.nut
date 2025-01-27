@@ -315,6 +315,11 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         weapon.AddAttribute("is_festivized", 1, -1);
     }
 
+    if(Cookies.Get(this, "statclock"))
+    {
+        weapon.AddAttribute("kill eater", casti2f(0), -1);
+    }
+
     local ks_tier = Cookies.Get(this, "killstreak");
     if(ks_tier >= 1)
     {

@@ -1,4 +1,4 @@
-::DEBUG <- false;
+::DEBUG <- true;
 
 ::projectDir <- ""
 IncludeScript(projectDir+"/__lizardlib/_lizardlib.nut", this);

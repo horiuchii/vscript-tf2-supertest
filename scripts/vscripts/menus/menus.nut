@@ -291,7 +291,7 @@ OnGameEvent("player_say", 101, function(params)
         }
     }
 
-    SendGameText(-1, 0.31, 0, "255 255 255", message);
+    SendGameText(-1, 0.2175, 0, "255 255 255", message);
     local desc = !menu.items[menu.selected_index] ? "INVALID ITEM" : menu.items[menu.selected_index].GenerateDesc(this);
-    SendGameText(-1, desc.find("\n") ? 0.58 : 0.6, 1, "255 255 255", desc);
+    SendGameText(-1, desc.find("\n") ? 0.49 : 0.51, 1, "255 255 255", desc);
 }
