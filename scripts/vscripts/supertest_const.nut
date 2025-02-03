@@ -43,6 +43,88 @@ enum WeaponSlot
 ::LOADOUT_SLOT_NAMES_SPY <- ["secondary", "melee", "watch", "sapper"];
 ::LOADOUT_SLOT_IDS_SPY <- [WeaponSlot.Primary, WeaponSlot.Melee, WeaponSlot.InvisWatch, WeaponSlot.Secondary];
 
+::TF_AMMO_PRIMARY <- 1
+::TF_AMMO_SECONDARY <- 2
+::TF_AMMO_METAL <- 3
+::TF_AMMO_GRENADES1 <- 4
+::TF_AMMO_GRENADES2 <- 5
+::TF_AMMO_GRENADES3 <- 6
+
+::CLASS_AMMO <- {
+    [TF_CLASS_SCOUT] = {
+        [TF_AMMO_PRIMARY] = 32,
+        [TF_AMMO_SECONDARY] = 36,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 1,
+        [TF_AMMO_GRENADES2] = 1,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_SOLDIER] = {
+        [TF_AMMO_PRIMARY] = 20,
+        [TF_AMMO_SECONDARY] = 32,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 1,
+        [TF_AMMO_GRENADES2] = 1,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_PYRO] = {
+        [TF_AMMO_PRIMARY] = 200,
+        [TF_AMMO_SECONDARY] = 32,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 1,
+        [TF_AMMO_GRENADES2] = 0,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_DEMOMAN] = {
+        [TF_AMMO_PRIMARY] = 16,
+        [TF_AMMO_SECONDARY] = 24,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 1,
+        [TF_AMMO_GRENADES2] = 1,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_HEAVY] = {
+        [TF_AMMO_PRIMARY] = 200,
+        [TF_AMMO_SECONDARY] = 32,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 1,
+        [TF_AMMO_GRENADES2] = 1,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_ENGINEER] = {
+        [TF_AMMO_PRIMARY] = 32,
+        [TF_AMMO_SECONDARY] = 200,
+        [TF_AMMO_METAL] = 200,
+        [TF_AMMO_GRENADES1] = 0,
+        [TF_AMMO_GRENADES2] = 0,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_MEDIC] = {
+        [TF_AMMO_PRIMARY] = 150,
+        [TF_AMMO_SECONDARY] = 150,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 0,
+        [TF_AMMO_GRENADES2] = 0,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_SNIPER] = {
+        [TF_AMMO_PRIMARY] = 25,
+        [TF_AMMO_SECONDARY] = 75,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 1,
+        [TF_AMMO_GRENADES2] = 0,
+        [TF_AMMO_GRENADES3] = 1
+    },
+    [TF_CLASS_SPY] = {
+        [TF_AMMO_PRIMARY] = 20,
+        [TF_AMMO_SECONDARY] = 24,
+        [TF_AMMO_METAL] = 100,
+        [TF_AMMO_GRENADES1] = 0,
+        [TF_AMMO_GRENADES2] = 1,
+        [TF_AMMO_GRENADES3] = 1
+    }
+}
+
 ::NETPROP_ITEMDEFINDEX <- "m_AttributeManager.m_Item.m_iItemDefinitionIndex"
 ::NETPROP_INITIALIZED <- "m_AttributeManager.m_Item.m_bInitialized"
 ::NETPROP_VALIDATED_ATTACHED <- "m_bValidatedAttachedEntity"

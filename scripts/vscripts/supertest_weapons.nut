@@ -62,87 +62,55 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     return classname;
 }
 
-::UpdateReserveAmmoOnWeapon <- function(classname, slot, item_id, weapon)
+::CTFPlayer.UpdateReserveAmmoOnWeapon <- function(weapon)
 {
-    switch(slot)
+    local ammo_type = weapon.GetPrimaryAmmoType();
+    local tf_class = GetPlayerClass();
+    local max_ammo = CLASS_AMMO[tf_class][ammo_type]
+
+    switch(ammo_type)
     {
-        case WeaponSlot.Primary:
+        case TF_AMMO_PRIMARY:
         {
-            if(IsAtleastOne(classname, ["tf_weapon_scattergun" "tf_weapon_soda_popper" "tf_weapon_handgun_scout_primary" "tf_weapon_pep_brawler_blaster" "tf_weapon_sentry_revenge" "tf_weapon_shotgun"]))
-                weapon.SetReserveAmmo(32)
-            else if(IsAtleastOne(classname, ["tf_weapon_rocketlauncher" "tf_weapon_rocketlauncher_directhit"]))
-            {
-                switch(item_id)
-                {
-                    case 237: weapon.SetReserveAmmo(60); break;
-                    default: weapon.SetReserveAmmo(20); break;
-                }
-            }
-            else if(IsAtleastOne(classname, ["tf_weapon_flamethrower" "tf_weapon_minigun"]))
-                weapon.SetReserveAmmo(200)
-            else if(classname == "tf_weapon_rocketlauncher_fireball")
-                weapon.SetReserveAmmo(40)
-            else if(IsAtleastOne(classname, ["tf_weapon_grenadelauncher" "tf_weapon_cannon" "tf_weapon_shotgun_building_rescue"]))
-                weapon.SetReserveAmmo(16)
-            else if(classname == "tf_weapon_syringegun_medic")
-                weapon.SetReserveAmmo(150)
-            else if(classname == "tf_weapon_crossbow")
-                weapon.SetReserveAmmo(38)
-            else if(IsAtleastOne(classname, ["tf_weapon_sniperrifle", "tf_weapon_sniperrifle_decap", "tf_weapon_sniperrifle_classic"]))
-                weapon.SetReserveAmmo(25)
-            else if(classname == "tf_weapon_compound_bow")
-                weapon.SetReserveAmmo(12)
-            else if(classname == "tf_weapon_revolver")
-                weapon.SetReserveAmmo(24)
-            else
-                weapon.SetReserveAmmo(0)
+            local mult1 = weapon.GetAttribute("hidden primary max ammo bonus", 1);
+            local mult2 = weapon.GetAttribute("maxammo primary increased", 1);
+            local mult3 = weapon.GetAttribute("maxammo primary reduced", 1);
+
+            max_ammo = (max_ammo * mult1 * mult2 * mult3);
+            break;
+        }
+        case TF_AMMO_SECONDARY:
+        {
+            local mult1 = weapon.GetAttribute("hidden secondary max ammo penalty", 1);
+            local mult2 = weapon.GetAttribute("maxammo secondary increased", 1);
+            local mult3 = weapon.GetAttribute("maxammo secondary reduced", 1);
+
+            max_ammo = (max_ammo * mult1 * mult2 * mult3);
+            break;
+        }
+        case TF_AMMO_METAL:
+        {
+            local mult1 = weapon.GetAttribute("maxammo metal increased", 1);
+            local mult2 = weapon.GetAttribute("maxammo metal reduced", 1);
+
+            max_ammo = (max_ammo * mult1 * mult2);
 
             break;
         }
-        case WeaponSlot.Secondary:
+        case TF_AMMO_GRENADES1:
         {
-            if(classname == "tf_weapon_handgun_scout_secondary" || classname == "tf_weapon_pistol")
-            {
-                switch(GetPlayerClass())
-                {
-                    case TF_CLASS_ENGINEER: weapon.SetReserveAmmo(200); break;
-                    default: weapon.SetReserveAmmo(36); break;
-                }
-            }
-            else if(IsAtleastOne(classname, ["tf_weapon_lunchbox" "tf_weapon_lunchbox_drink" "tf_weapon_jar_gas" "tf_weapon_jar" "tf_weapon_jar_milk" "tf_weapon_cleaver" "tf_weapon_rocketpack"]))
-                weapon.SetReserveAmmo(1)
-            else if(classname == "tf_weapon_shotgun")
-                weapon.SetReserveAmmo(32)
-            else if(classname == "tf_weapon_flaregun")
-                weapon.SetReserveAmmo(16)
-            else if(classname == "tf_weapon_pipebomblauncher")
-            {
-                switch(item_id)
-                {
-                    case 265: weapon.SetReserveAmmo(72); break;
-                    case 130: weapon.SetReserveAmmo(36); break;
-                    default: weapon.SetReserveAmmo(24); break;
-                }
-            }
-            else if(classname == "tf_weapon_pistol")
-                weapon.SetReserveAmmo(200)
-            else if(IsAtleastOne(classname, ["tf_weapon_smg" "tf_weapon_charged_smg"]))
-                weapon.SetReserveAmmo(75)
-            else
-                weapon.SetReserveAmmo(0)
+            local mult1 = weapon.GetAttribute("maxammo grenades1 increased", 1);
 
-            break;
-        }
-        case WeaponSlot.Melee:
-        {
-            if(IsAtleastOne(classname, ["tf_weapon_bat_wood" "tf_weapon_bat_giftwrap"]))
-                weapon.SetReserveAmmo(1)
-            else
-                weapon.SetReserveAmmo(0)
+            max_ammo = (max_ammo * mult1);
 
             break;
         }
     }
+
+    if(InCond(TF_COND_RUNE_HASTE))
+        max_ammo *= 2
+
+    weapon.SetReserveAmmo(max_ammo)
 }
 
 ::CTFPlayer.GetDesiredWeapon <- function(tfclass, slot)
@@ -380,7 +348,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     }
 
     if(item_id != 527 && item_id != 528)
-        UpdateReserveAmmoOnWeapon(classname, WEAPONS[weapon_id].slot, item_id, weapon)
+        UpdateReserveAmmoOnWeapon(weapon)
 
     return weapon
 }
@@ -2574,9 +2542,10 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Ambassador"
         classname = "tf_weapon_revolver"
         item_id = 61
+        flags = FLAG_AUSTRAILIUM
         used_by_classes = [TF_CLASS_SPY]
         slot = WeaponSlot.Primary
-        variants = ["ambassador_festive"]
+        variants = ["aus_ambassador" "ambassador_festive"]
     },
     ["ambassador_festive"] = {
         display_name = "Festive Ambassador"
