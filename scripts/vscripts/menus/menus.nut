@@ -62,6 +62,7 @@ IncludeScript(projectDir+"menus/menu_loadout.nut", this);
 IncludeScript(projectDir+"menus/menu_weaponmods.nut", this);
 IncludeScript(projectDir+"menus/menu_weaponmods_skins.nut", this);
 IncludeScript(projectDir+"menus/menu_taunts.nut", this);
+IncludeScript(projectDir+"menus/menu_botrange.nut", this);
 
 OnGameEvent("player_say", 101, function(params)
 {

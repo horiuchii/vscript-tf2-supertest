@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "supertest/volume_light_02_top"
+	"$additive" "1"
+	"$nocull" "1"
+}
+

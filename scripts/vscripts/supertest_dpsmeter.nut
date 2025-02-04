@@ -1,9 +1,9 @@
-::dps_boss <- null
+::dps_boss <- null;
+::spawn_point <- FindByName(null, "base_boss_spawn_point");
 
 AddListener("tick_frame", 0, function()
 {
-    local spawn_point = FindByName(null, "base_boss_spawn_point");
-    if(!spawn_point)
+    if(!spawn_point.IsValid())
         return;
 
     if(!dps_boss)

@@ -11,6 +11,8 @@ IncludeScript(projectDir+"supertest_hud.nut", this);
 IncludeScript(projectDir+"supertest_player.nut", this);
 IncludeScript(projectDir+"supertest_dpsmeter.nut", this);
 
+RemoveSpawnedBots()
+
 Convars.SetValue("mp_waitingforplayers_cancel", 1);
 Convars.SetValue("sv_alltalk", 1);
 Convars.SetValue("mp_disable_respawn_times", 1);

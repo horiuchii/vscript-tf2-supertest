@@ -41,17 +41,16 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
-        titles = ["Bot Controls"];
+        titles = ["Bot Range Controls"];
 
         function GenerateDesc(player)
         {
-            return "Control the bots inside of the bot range.";
+            return "Control aspects about the bot range.";
         }
 
         function OnSelected(player)
         {
-            if(GetMapName() == "supertest")
-                player.GoToMenu("bot_controls")
+            player.GoToMenu("bot_controls")
         }
     }
     ]
