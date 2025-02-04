@@ -40,25 +40,19 @@ DefineMenu(class extends Menu{
             player.GoToMenu("taunts")
         }
     },
-    // class extends MenuItem{
-    //     titles = ["Server Settings"];
+    class extends MenuItem{
+        titles = ["Bot Controls"];
 
-    //     function GenerateDesc(player)
-    //     {
-    //         return "Modify specific server console commands.\n(Random Crits, Spread, Holiday, etc.)\n";
-    //     }
+        function GenerateDesc(player)
+        {
+            return "Control the bots inside of the bot range.";
+        }
 
-    //     function OnSelected(player){}
-    // },
-    // class extends MenuItem{
-    //     titles = ["Player Settings"];
-
-    //     function GenerateDesc(player)
-    //     {
-    //         return "Modify settings specific to you.\n(Infinite Ammo/Clip, Perma Crits, etc.)\n";
-    //     }
-
-    //     function OnSelected(player){}
-    // }
+        function OnSelected(player)
+        {
+            if(GetMapName() == "supertest")
+                player.GoToMenu("bot_controls")
+        }
+    }
     ]
 })

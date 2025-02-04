@@ -112,12 +112,20 @@ OnGameEvent("teamplay_setup_finished", function()
 
 ::SetPersistentVar <- function(name, value)
 {
+    if(!tf_gamerules)
+        return;
+
+    tf_gamerules.ValidateScriptScope();
     local persistentVars = tf_gamerules.GetScriptScope();
     persistentVars[name] <- value;
 }
 
 ::GetPersistentVar <- function(name, defValue = null)
 {
+    if(!tf_gamerules)
+        return null;
+
+    tf_gamerules.ValidateScriptScope();
     local persistentVars = tf_gamerules.GetScriptScope();
     return name in persistentVars ? persistentVars[name] : defValue;
 }

@@ -14,6 +14,9 @@ IncludeScript(projectDir+"supertest_dpsmeter.nut", this);
 Convars.SetValue("mp_waitingforplayers_cancel", 1);
 Convars.SetValue("sv_alltalk", 1);
 Convars.SetValue("mp_disable_respawn_times", 1);
+Convars.SetValue("tf_bot_reevaluate_class_in_spawnroom", 0);
+Convars.SetValue("tf_bot_keep_class_after_death", 1);
+ForceEnableUpgrades(2)
 
 function OnPostSpawn()
 {

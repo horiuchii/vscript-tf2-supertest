@@ -25,7 +25,7 @@
 ::CTFPlayer.GetVar <- function(name)
 {
     local playerVars = this.GetScriptScope();
-    return playerVars[name];
+    return safeget(playerVars, name, null);
 }
 
 ::CTFPlayer.AddVar <- function(name, addValue)

@@ -2,10 +2,14 @@
 
 AddListener("tick_frame", 0, function()
 {
+    local spawn_point = FindByName(null, "base_boss_spawn_point");
+    if(!spawn_point)
+        return;
+
     if(!dps_boss)
     {
         dps_boss = SpawnEntityFromTable("base_boss", {
-            origin = FindByName(null, "base_boss_spawn_point").GetOrigin()
+            origin = spawn_point.GetOrigin()
             model = "models/bots/boss_bot/static_boss_tank.mdl"
             health = 300
         })

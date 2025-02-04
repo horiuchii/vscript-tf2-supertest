@@ -90,6 +90,9 @@ OnGameEvent("player_team", 0, function(params)
 {
     local player = GetPlayerFromUserID(params.userid);
 
+    if(IsPlayerABot(player))
+        return;
+
     //if we switch to spectator, remove the menu
     if(params.team != TF_TEAM_RED && params.team != TF_TEAM_BLUE)
         player.SetScriptOverlayMaterial(null);
@@ -104,7 +107,8 @@ OnGameEvent("post_inventory_application", 0, function(params)
         return;
 
     player.ValidateScriptScope()
-    RunWithDelay(-1, function(){
+    RunWithDelay(-1, function()
+    {
         if(!safeget(params, "dont_reequip", false))
         {
             SetPropInt(player, "m_Shared.m_bShieldEquipped", 0)
@@ -173,6 +177,7 @@ AddListener("tick_frame", 0, function()
     SetVar("last_saved_ang", EyeAngles());
     SetVar("last_saved_ducked", GetPropBool(this, "m_Local.m_bDucked"));
     SetVar("last_saved_velocity", GetAbsVelocity());
+    SetCurrency(30000)
 
     if(GetVar("menu"))
     {

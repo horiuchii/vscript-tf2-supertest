@@ -1,0 +1,10 @@
+"MVM.PlayerUpgraded"
+{
+	//"soundlevel"		"SNDLVL_96dB"
+	"channel" "CHAN_REPLACE"
+	"volume"			"0"
+	"rndwave"
+	{
+		"wave"		"mvm\mvm_bought_upgrade.wav"
+	}
+}
