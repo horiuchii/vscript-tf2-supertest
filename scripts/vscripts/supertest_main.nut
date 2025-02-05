@@ -14,6 +14,7 @@ IncludeScript(projectDir+"supertest_dpsmeter.nut", this);
 RemoveSpawnedBots()
 
 Convars.SetValue("mp_waitingforplayers_cancel", 1);
+Convars.SetValue("mp_teams_unbalance_limit", 0);
 Convars.SetValue("sv_alltalk", 1);
 Convars.SetValue("mp_disable_respawn_times", 1);
 Convars.SetValue("tf_bot_reevaluate_class_in_spawnroom", 0);

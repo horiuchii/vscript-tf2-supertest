@@ -14,7 +14,7 @@ DefineMenu(class extends Menu{
 
             function GenerateDesc(player)
             {
-                return "Generated the bots from the saved parameters.";
+                return "Generate a team of " + (index ? "BLU" : "RED") +" bots in the range.";
             }
 
             function OnSelected(player)
@@ -49,7 +49,7 @@ DefineMenu(class extends Menu{
 
             function GenerateDesc(player)
             {
-                return "Kicks all bots from the game.";
+                return "Kick all bots from the game.";
             }
 
             function OnSelected(player)

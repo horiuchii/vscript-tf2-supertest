@@ -41,11 +41,11 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
-        titles = ["Bot Range Controls"];
+        titles = ["Bot Range"];
 
         function GenerateDesc(player)
         {
-            return "Control aspects about the bot range.";
+            return "Interact with the bot range.";
         }
 
         function OnSelected(player)
