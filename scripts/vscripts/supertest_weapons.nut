@@ -66,6 +66,10 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 {
     local ammo_type = weapon.GetPrimaryAmmoType();
     local tf_class = GetPlayerClass();
+
+    if(ammo_type == -1)
+        return;
+
     local max_ammo = CLASS_AMMO[tf_class][ammo_type]
 
     switch(ammo_type)
