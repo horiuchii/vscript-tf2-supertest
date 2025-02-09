@@ -1729,7 +1729,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["minigun"] = combinetables(clone(WEP_BASE_MINIGUN), {
         item_id_override = 202
         flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
-        variants = ["aus_minigun" "minigun_festive" "silver_bk_minigun_mk1" "gold_bk_minigun_mk1" "rust_bk_minigun_mk1" "blood_bk_minigun_mk1" "carbonado_bk_minigun_mk1" "diamond_bk_minigun_mk1" "silver_bk_minigun_mk2" "gold_bk_minigun_mk2"]
+        variants = ["aus_minigun" "minigun_festive" "iron_curtain" "silver_bk_minigun_mk1" "gold_bk_minigun_mk1" "rust_bk_minigun_mk1" "blood_bk_minigun_mk1" "carbonado_bk_minigun_mk1" "diamond_bk_minigun_mk1" "silver_bk_minigun_mk2" "gold_bk_minigun_mk2"]
     }),
     ["minigun_festive"] = combinetables(clone(WEP_BASE_MINIGUN), {
         display_name = "Festive Minigun"
@@ -1738,7 +1738,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     }),
     ["iron_curtain"] = combinetables(clone(WEP_BASE_MINIGUN), {
         display_name = "Iron Curtain"
-        item_id = 654,
+        item_id = 298,
         variant = true
     }),
     ["silver_bk_minigun_mk1"] = combinetables(clone(WEP_BASE_MINIGUN), {
