@@ -1,4 +1,3 @@
-::TICKRATE_TIME <- 0.01515151515;
 ::CONTRACKER_HUD <- "vgui/contracker_hud/";
 ::CHAT_PREFIX <- "\x07" + "66B2B2" + "[SUPER TEST] " + "\x07" + "DAFFF9";
 

@@ -102,8 +102,8 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     }
 
 	weapon.DispatchSpawn()
-	SetPropInt(weapon, "m_AttributeManager.m_Item.m_iItemDefinitionIndex", taunt_id)
-	SetPropBool(weapon, "m_AttributeManager.m_Item.m_bInitialized", true)
+	SetPropInt(weapon, NETPROP_ITEMDEFINDEX, taunt_id)
+	SetPropBool(weapon, NETPROP_INITIALIZED, true)
 	SetPropBool(weapon, "m_bForcePurgeFixedupStrings", true)
 	SetPropEntity(this, "m_hActiveWeapon", weapon)
     Weapon_Equip(weapon)
@@ -168,111 +168,6 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     ClientPrint(this, HUD_PRINTTALK, message);
 }
 
-::CTFPlayer.CreateInstancedProp <- function(model)
-{
-    PrecacheModel(model);
-    local prop = CreateByClassname("obj_teleporter"); // not using SpawnEntityFromTable as that creates spawning noises
-    prop.DispatchSpawn();
-
-    prop.AddEFlags(EFL_NO_THINK_FUNCTION); // prevents the entity from disappearing
-    SetPropBool(prop, "m_bPlacing", true);
-    SetPropInt(prop, "m_fObjectFlags", 2); // sets "attachment" flag, prevents entity being snapped to player feet
-    SetPropEntity(prop, "m_hBuilder", this);
-
-    prop.SetModel(model);
-    prop.KeyValueFromInt("disableshadows", 1);
-
-    return prop;
-}
-
-::CTFPlayer.RemoveInstancedProps <- function()
-{
-    local entity = null
-    while(entity = FindByClassname(entity, "obj_teleporter"))
-    {
-        if(GetPropEntity(entity, "m_hBuilder") == this)
-            entity.Destroy();
-    }
-}
-
-::ConstructTwoDimArray <- function(size1, size2, default_value)
-{
-	local return_array = array(size1);
-	for(local i = 0; i < size1; i++)
-		return_array[i] = array(size2, default_value);
-
-	return return_array;
-}
-
-::ParentEntity <- function(child, parent)
-{
-	if((!child || !child.IsValid()) || (!parent || !parent.IsValid()))
-	{
-		DebugPrint("ERROR: ParentEntity was called with a invalid entity, aborting! Child: " + child + " Parent: " + parent);
-		return;
-	}
-
-    child.AcceptInput("SetParent", "!activator", parent, null);
-}
-
-::VLerp <- function(a,b,t)
-{
-    return (a + (b - a) * t)
-}
-
-::deg <- function(radians)
-{
-    return radians * (180.0 / PI);
-}
-
-::is_zero_approx <- function(v)
-{
-    return fabs(v) < Epsilon
-}
-
-::is_equal_approx <- function(a, b)
-{
-    if(a == b)
-        return true;
-
-    local tolerance = Epsilon * abs(a);
-    if(tolerance < Epsilon)
-        tolerance = Epsilon;
-    return abs(a - b) < tolerance;
-}
-
-::wrapf <- function(v, min, max)
-{
-    local range = max - min;
-    if(is_zero_approx(range))
-        return min;
-
-    local result = v - (range * floor((v - min) / range));
-    if(is_equal_approx(result, max))
-        return min;
-
-    return result;
-}
-
-::sign <- function(val)
-{
-    return (0 < val).tointeger() - (val < 0).tointeger()
-}
-
-::move_towards_angle <- function(from, to, delta)
-{
-    local diff = (to - from + 540) % 360 - 180;
-    if (fabs(diff) <= delta)
-        return to;
-    return from + sign(diff) * delta;
-}
-
-
-::move_towards <- function(from, to, delta)
-{
-    return fabs(to - from) <= delta ? to : from + sign(to - from) * delta
-}
-
 ::ArrayToStr <- function(value)
 {
     local new_value = "[";
@@ -282,64 +177,6 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     }
     new_value += "]";
     return new_value;
-}
-
-::round <- function(val, decimalPoints)
-{
-	local f = pow(10, decimalPoints) * 1.0;
-	local newVal = val * f;
-	newVal = floor(newVal + 0.5);
-	newVal = (newVal * 1.0) / f;
-
-	return newVal;
-}
-
-::RotateVector <- function(origin, rotation, input)
-{
-    input -= origin;
-    input = RotatePosition(origin, rotation, input);
-    return input += origin;
-}
-
-::RotateVectorDirectDegrees <- function(vector, degrees)
-{
-    local radians = degrees * (PI / 180.0);
-    local cos_angle = cos(radians);
-    local sin_angle = sin(radians);
-
-    local new_x = vector.x * cos_angle - vector.y * sin_angle;
-    local new_y = vector.x * sin_angle - vector.y * cos_angle;
-
-    return Vector(new_x, new_y, vector.z);
-}
-
-::TicksToTime <- function(ticks)
-{
-    return ticks * TICKRATE_TIME;
-}
-
-::FormatTime <- function(input_time)
-{
-	local input_time_type = type(input_time);
-
-	if(input_time_type == "integer")
-	{
-		local Min = input_time / 60;
-		local Sec = input_time - (Min * 60);
-		local SecString = format("%s%i", Sec < 10 ? "0" : "", Sec);
-		return (Min + ":" + SecString).tostring();
-	}
-
-	if(input_time_type == "float")
-	{
-		local timedecimal = split((round(input_time - input_time.tointeger(), 3)).tostring(), ".");
-		local Min = input_time.tointeger() / 60;
-		local Sec = input_time.tointeger() - (Min * 60);
-		local SecString = format("%s%i", Sec < 10 ? "0" : "", Sec);
-		return (Min + ":" + SecString + "." + (timedecimal.len() == 1 ? "000" : timedecimal[1].len() == 1 ? timedecimal[1].tostring() + "0" : timedecimal[1].tostring())).tostring();
-	}
-
-	return input_time.tostring();
 }
 
 ::UpperFirst <- function(string)
@@ -365,26 +202,4 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
             new_string += string[i].tochar()
     }
     return new_string.tolower();
-}
-
-::CombineInt32ToInt64 <- function(high, low)
-{
-    return (high << 32) | (low & 0xFFFFFFFF);
-}
-
-::Convert32BitTo64Bit <- function(value32) {
-    // Shift the 32-bit value left by 32 bits
-    local value64 = value32 << 32;
-    return value64;
-}
-
-::IsAtleastOne <- function(comparee, array)
-{
-    foreach(comparison in array)
-    {
-        if(comparee == comparison)
-            return true;
-    }
-
-    return false;
 }
