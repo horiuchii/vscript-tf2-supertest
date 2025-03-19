@@ -1,34 +1,41 @@
 "MVM.PlayerUpgraded"
 {
 	"volume"			"0"
+	"wav" "misc/null.wav"
 }
 
 "MVM.TankEngineLoop"
 {
 	"volume"			"0"
+	"wave" "misc/null.wav"
 }
 
 "MVM.TankStart"
 {
 	"volume"			"0"
+	"wave" "misc/null.wav"
 }
 
 "MVM.TankPing"
 {
 	"volume"			"0"
+	"wave" "misc/null.wav"
 }
 
 "Announcer.MVM_Tank_Alert_Another"
 {
 	"volume"			"0"
+	"wave" "misc/null.wav"
 }
 
 "Announcer.MVM_Tank_Alert_Spawn"
 {
 	"volume"			"0"
+	"wave" "misc/null.wav"
 }
 
 "Announcer.MVM_Tank_Alert_Multiple"
 {
 	"volume"			"0"
+	"wave" "misc/null.wav"
 }

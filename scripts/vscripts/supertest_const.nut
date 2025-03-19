@@ -28,6 +28,18 @@
     [TF_CLASS_SPY] = 8
 }
 
+::TF_CLASS_REMAP_INV <- {
+    [0] = TF_CLASS_SCOUT,
+    [1] = TF_CLASS_SOLDIER,
+    [2] = TF_CLASS_PYRO,
+    [3] = TF_CLASS_DEMOMAN,
+    [4] = TF_CLASS_HEAVY,
+    [5] = TF_CLASS_ENGINEER,
+    [6] = TF_CLASS_MEDIC,
+    [7] = TF_CLASS_SNIPER,
+    [8] = TF_CLASS_SPY
+}
+
 enum WeaponSlot
 {
     Primary

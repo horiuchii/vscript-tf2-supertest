@@ -292,7 +292,16 @@ OnGameEvent("player_say", 101, function(params)
         }
     }
 
-    SendGameText(-1, 0.2175, 0, "255 255 255", message);
+    SendGameText(-1, 0.13, 0, "255 255 255", message);
     local desc = !menu.items[menu.selected_index] ? "INVALID ITEM" : menu.items[menu.selected_index].GenerateDesc(this);
-    SendGameText(-1, desc.find("\n") ? 0.49 : 0.51, 1, "255 255 255", desc);
+    local linecount = split(desc, "\n").len()
+    local desc_text_y;
+    switch(linecount)
+    {
+        case 0:
+        case 1: desc_text_y = 0.46; break;
+        case 2: desc_text_y = 0.445; break;
+        case 3: desc_text_y = 0.425; break;
+    }
+    SendGameText(-1, desc_text_y, 1, "255 255 255", desc);
 }

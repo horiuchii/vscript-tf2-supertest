@@ -4,7 +4,7 @@
 	"$detail" "vgui\contracker_hud/loadout_demoman_secondary"
 	"$translucent" 1
 	"$ignorez" 1
-	"$basetexturetransform" "center 0.5 0.5 scale 1.75 1.0 rotate 0 translate 0.025 0.1"
-	$detailtexturetransform "center 0.5 0.5 scale 0.4 3.5 rotate 0 translate -0.373 0.7"
+	"$basetexturetransform" "center 0.5 0.5 scale 1.75 1.0 rotate 0 translate 0.025 0.125"
+	$detailtexturetransform "center 0.5 0.5 scale 0.4 3.5 rotate 0 translate -0.373 1"
 	"$detailblendmode" 2
 }

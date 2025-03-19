@@ -272,7 +272,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         }
 
         local desired_unusual = Cookies.Get(this, "unusual");
-        if(desired_unusual && desired_unusual != WEAPON_UNUSUAL_ENERGYORB || GetWeaponIndexFlags(weapon_id) & FLAG_ACCEPTS_ENERGYORB)
+        if(desired_unusual && (desired_unusual != WEAPON_UNUSUAL_ENERGYORB || GetWeaponIndexFlags(weapon_id) & FLAG_ACCEPTS_ENERGYORB))
             weapon.AddAttribute("attach particle effect", desired_unusual, -1);
     }
 

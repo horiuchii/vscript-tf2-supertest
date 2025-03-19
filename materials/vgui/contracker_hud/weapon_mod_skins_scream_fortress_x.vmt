@@ -4,6 +4,6 @@ patch
 	insert
 	{
 		$detail vgui\contracker_hud\weapon_mod_skins_scream_fortress_x
-		$detailtexturetransform "center 0.5 0.5 scale 0.475 3.5 rotate 0 translate -0.373 0.7"
+		$detailtexturetransform "center 0.5 0.5 scale 0.475 3.5 rotate 0 translate -0.373 1"
 	}
 }

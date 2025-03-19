@@ -45,7 +45,7 @@ DefineMenu(class extends Menu{
 
         function GenerateDesc(player)
         {
-            return "Interact with the bot range.";
+            return "Interact with the bots inside of the bot range.";
         }
 
         function OnSelected(player)

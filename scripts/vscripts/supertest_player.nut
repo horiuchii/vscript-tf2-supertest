@@ -6,6 +6,7 @@
     StartDisabled = 0,
     TeamNum = 0
 });
+GlobalRespawnroom.SetSolid(SOLID_NONE)
 ::env_hudhint_menu <- SpawnEntityFromTable("env_hudhint", {message = "%+attack3% DOUBLE TAP OR CHAT /menu TO OPEN MENU"});
 
 OnGameEvent("player_spawn", 0, function(params)
