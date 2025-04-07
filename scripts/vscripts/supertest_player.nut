@@ -77,16 +77,6 @@ OnGameEvent("player_activate", 0, function(params)
     Cookies.CreateCache(player);
 })
 
-OnGameEvent("player_disconnect", 0, function(params)
-{
-    local player = GetPlayerFromUserID(params.userid);
-
-    if(IsPlayerABot(player))
-        return;
-
-    player.RemoveInstancedProps();
-})
-
 OnGameEvent("player_team", 0, function(params)
 {
     local player = GetPlayerFromUserID(params.userid);
@@ -179,6 +169,7 @@ AddListener("tick_frame", 0, function()
     SetVar("last_saved_ducked", GetPropBool(this, "m_Local.m_bDucked"));
     SetVar("last_saved_velocity", GetAbsVelocity());
     SetCurrency(30000)
+    SetCurrency(30000);
 
     if(GetVar("menu"))
     {

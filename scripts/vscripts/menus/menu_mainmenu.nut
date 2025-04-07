@@ -52,6 +52,19 @@ DefineMenu(class extends Menu{
         {
             player.GoToMenu("bot_controls")
         }
+    },
+    class extends MenuItem{
+        titles = ["Server CVars"];
+
+        function GenerateDesc(player)
+        {
+            return "Modify server console variables.";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("server_cvar")
+        }
     }
     ]
 })

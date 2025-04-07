@@ -27,7 +27,7 @@
     "Robot"
 ]
 
-::spawned_bot_type <- "Normal";
+ServerCookies.AddCookie("spawned_bot_type", "Normal");
 
 OnGameEvent("player_spawn", 0, function(params)
 {
@@ -40,7 +40,7 @@ OnGameEvent("player_spawn", 0, function(params)
     {
         player.SnapEyeAngles(QAngle(0,-90,0));
 
-        switch(spawned_bot_type)
+        switch(ServerCookies.Get("spawned_bot_type"))
         {
             case "Zombie":
             {
@@ -103,16 +103,25 @@ DefineMenu(class extends Menu{
 
             function GenerateDesc(player)
             {
-                return "Equip spawning bots with a special skin.\nZombie skin requires Halloween / Full Moon to apply.\nCurrent: " + spawned_bot_type;
+                return "Equip spawning bots with a special skin.\nCurrent: " + ServerCookies.Get("spawned_bot_type");
             }
 
             function OnSelected(player)
             {
-                ::spawned_bot_type = SpawnedBotType[index]
-                if(::spawned_bot_type == "Normal")
+                local new_bot_type = SpawnedBotType[index];
+                ServerCookies.Set("spawned_bot_type", new_bot_type)
+
+                if(new_bot_type == "Zombie" && !IsHolidayActive(kHoliday_HalloweenOrFullMoon))
+                {
+                    Convars.SetValue("tf_force_holiday", kHoliday_FullMoon);
+                    player.SendChat(CHAT_PREFIX + "Forced the holiday to \"Full Moon\" to allow the Zombie skin to appear.");
+                }
+
+
+                if(new_bot_type == "Normal")
                     player.SendChat(CHAT_PREFIX + "Newly spawned bots will have no skin applied to them.");
                 else
-                    player.SendChat(CHAT_PREFIX + "Newly spawned bots will have the " + ::spawned_bot_type + " skin applied to them.");
+                    player.SendChat(CHAT_PREFIX + "Newly spawned bots will have the " + new_bot_type + " skin applied to them.");
             }
         },
         class extends MenuItem{

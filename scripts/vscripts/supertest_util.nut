@@ -168,6 +168,11 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     ClientPrint(this, HUD_PRINTTALK, message);
 }
 
+::SendChatAll <- function(message)
+{
+    ClientPrint(null, HUD_PRINTTALK, message);
+}
+
 ::ArrayToStr <- function(value)
 {
     local new_value = "[";
