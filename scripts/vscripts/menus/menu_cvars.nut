@@ -32,14 +32,15 @@ class CvarMenuItem
 
 ::CVarList <- [
     CvarMenuItem("sv_gravity" , "Gravity", [400, 800, 1200], ["0.5x", "1.0x", "1.5x"], "The scale of gravitational force."),
-    CvarMenuItem("tf_cheapobjects", "Cheap Buildings", [0, 1], ["Off", "On"], "Whether engineer buildings should be free to build and upgrade."),
+    CvarMenuItem("tf_cheapobjects", "Cheap Buildings", [0, 1], ["Off", "On"], "Whether engineer buildings should\nbe free to build and upgrade."),
     CvarMenuItem("tf_weapon_criticals", "Random Crits", [0, 1], ["Off", "On"], "Whether weapons should random crit."),
-    CvarMenuItem("tf_weapon_criticals_melee", "Melee Random Crits", [0, 1, 2], ["Never", "Default", "Always"], "Whether melee weapons should random crit.\nDefault is follows whatever value Random Crits is set to."),
-    CvarMenuItem("tf_use_fixed_weaponspreads", "Bullet Spread", [0, 1], ["Random", "Fixed"], "Whether hitscan weapons should have a fixed bullet spread."),
-    CvarMenuItem("tf_grapplinghook_enable", "Grapple Hook", [0, 1], ["Off", "On"], "Whether players will be prompted to equip a grappling hook on spawn."),
+    CvarMenuItem("tf_weapon_criticals_melee", "Melee Random Crits", [0, 1, 2], ["Never", "Default", "Always"], "Whether melee weapons should random crit.\nDefault follows what value Random Crits is set to."),
+    CvarMenuItem("tf_use_fixed_weaponspreads", "Bullet Spread", [0, 1], ["Random", "Fixed"], "Whether hitscan weapons\nshould have a fixed bullet spread."),
+    CvarMenuItem("tf_grapplinghook_enable", "Grapple Hook", [0, 1], ["Off", "On"], "Whether players will be prompted\nto equip a grappling hook on spawn."),
+    CvarMenuItem("tf_spells_enabled", "Spells", [0, 1], ["Off", "On"], "Whether players will be prompted to\nequip a spell book on spawn."),
     CvarMenuItem("tf_forced_holiday", "Force Holiday", [0, 1, 2, 3, 5, 8, 11, 12], ["None", "Birthday", "Halloween", "Christmas", "End Of The Line", "Full Moon", "April Fools", "Rick May's Birthday"], "What holiday should be forced on."),
     CvarMenuItem("tf_bot_force_jump", "Force Bot Jump", [0, 1], ["Off", "On"], "Whether bots will continuously jump."),
-    CvarMenuItem("tf_bot_melee_only", "Force Bot Melee", [0, 1], ["Off", "On"], "Whether players will be prompted to equip a grappling hook on spawn."),
+    CvarMenuItem("tf_bot_melee_only", "Force Bot Melee", [0, 1], ["Off", "On"], "Whether bots will have their melee out."),
 ]
 
 foreach(cvar in CVarList)

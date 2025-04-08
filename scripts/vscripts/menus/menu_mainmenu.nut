@@ -28,6 +28,19 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
+        titles = ["Player Modifiers"];
+
+        function GenerateDesc(player)
+        {
+            return "Modify aspects about yourself.\n(Conditions, Spells, Health & Ammo)";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("player_mod")
+        }
+    },
+    class extends MenuItem{
         titles = ["Taunts"];
 
         function GenerateDesc(player)

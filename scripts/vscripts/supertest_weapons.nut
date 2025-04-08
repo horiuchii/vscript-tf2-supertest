@@ -354,7 +354,12 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     if(item_id != 527 && item_id != 528)
         UpdateReserveAmmoOnWeapon(weapon)
 
-    return weapon
+    if(WEAPONS[weapon_id].slot == WeaponSlot.Secondary)
+    {
+        SetPropInt(this, "m_Shared.m_bShieldEquipped", 0)
+    }
+
+    return weapon;
 }
 
 ::CTFPlayer.GiveCosmetic <- function(weapon_id, item_id)
@@ -416,8 +421,13 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         wearables_to_kill[i].Kill()
     }
 
-    if(WEAPONS[weapon_id].classname == "tf_wearable_demoshield")
-        SetPropInt(this, "m_Shared.m_bShieldEquipped", 1)
+    if(WEAPONS[weapon_id].slot == WeaponSlot.Secondary)
+    {
+        if(WEAPONS[weapon_id].classname == "tf_wearable_demoshield")
+            SetPropInt(this, "m_Shared.m_bShieldEquipped", 1)
+        else
+            SetPropInt(this, "m_Shared.m_bShieldEquipped", 0)
+    }
 
 	return wearable
 }
@@ -833,6 +843,10 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         used_by_classes = [TF_CLASS_SCOUT]
         slot = WeaponSlot.Secondary
         variants = ["guillotine_thirstier"]
+        extra_code = function(weapon)
+        {
+            weapon.AddAttribute("item style override" 0, -1);
+        }
     },
     ["guillotine_thirstier"] = {
         display_name = "The Flying Guillotine (Thirstier)"

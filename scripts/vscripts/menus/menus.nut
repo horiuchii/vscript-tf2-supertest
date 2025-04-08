@@ -64,6 +64,7 @@ IncludeScript(projectDir+"menus/menu_weaponmods_skins.nut", this);
 IncludeScript(projectDir+"menus/menu_taunts.nut", this);
 IncludeScript(projectDir+"menus/menu_botrange.nut", this);
 IncludeScript(projectDir+"menus/menu_cvars.nut", this);
+IncludeScript(projectDir+"menus/menu_playermods.nut", this);
 
 OnGameEvent("player_say", 101, function(params)
 {
@@ -250,6 +251,9 @@ OnGameEvent("player_say", 101, function(params)
 
 ::CTFPlayer.DisplayMenu <- function()
 {
+    if((GlobalTickCounter % 2) != 0)
+        return;
+
     local menu = GetVar("menu");
     if(!menu)
         return;

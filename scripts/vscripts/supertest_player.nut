@@ -16,9 +16,6 @@ OnGameEvent("player_spawn", 0, function(params)
     if(IsPlayerABot(player))
         return;
 
-    EntFireByHandle(GlobalRespawnroom, "StartTouch", null, 0.1, player, player)
-    EntFireByHandle(env_hudhint_menu, "ShowHudHint", "", 0, player, player);
-
     if (params.team == 0)
     {
         SendGlobalGameEvent("player_activate", {userid = params.userid});
@@ -41,6 +38,17 @@ OnGameEvent("player_spawn", 1, function(params)
 
     if(IsPlayerABot(player))
         return;
+
+    if(player.GetTeam() != TF_TEAM_RED && player.GetTeam() != TF_TEAM_BLUE)
+        return;
+
+    EntFireByHandle(GlobalRespawnroom, "StartTouch", null, 0.1, player, player);
+
+    if(Time() - player.GetVar("last_show_menu_hint") < MENU_HINT_COOLDOWN_TIME)
+    {
+        player.SetVar("last_show_menu_hint", 0);
+        EntFireByHandle(env_hudhint_menu, "ShowHudHint", "", 0, player, player);
+    }
 
     if(!player.GetVar("last_life_death"))
     {
@@ -86,8 +94,10 @@ OnGameEvent("player_team", 0, function(params)
 
     //if we switch to spectator, remove the menu
     if(params.team != TF_TEAM_RED && params.team != TF_TEAM_BLUE)
+    {
         player.SetScriptOverlayMaterial(null);
-        player.SetVar("menu", null)
+        player.SetVar("menu", null);
+    }
 })
 
 OnGameEvent("post_inventory_application", 0, function(params)
@@ -102,7 +112,6 @@ OnGameEvent("post_inventory_application", 0, function(params)
     {
         if(!safeget(params, "dont_reequip", false))
         {
-            SetPropInt(player, "m_Shared.m_bShieldEquipped", 0)
             player.EquipDesiredWeapons();
         }
         player.SetHealth(player.GetMaxHealth())
@@ -127,7 +136,18 @@ OnGameEvent("post_inventory_application", 0, function(params)
     SetVar("side_dai_ticks", 0);
     SetVar("side_dai_direction", null);
     SetVar("last_saved_cloak", 0);
+
+    SetVar("last_show_menu_hint", 0);
+
     SetVar("taunt_tick_listener", null);
+
+    SetVar("show_conds", false);
+    SetVar("show_keys", false);
+
+    SetVar("inf_cash", true);
+    SetVar("inf_ammo", false);
+    SetVar("inf_clip", false);
+    SetVar("invuln", false);
 
     SetVar("last_buttons", 0);
 
@@ -168,8 +188,6 @@ AddListener("tick_frame", 0, function()
     SetVar("last_saved_ang", EyeAngles());
     SetVar("last_saved_ducked", GetPropBool(this, "m_Local.m_bDucked"));
     SetVar("last_saved_velocity", GetAbsVelocity());
-    SetCurrency(30000)
-    SetCurrency(30000);
 
     if(GetVar("menu"))
     {
@@ -177,9 +195,41 @@ AddListener("tick_frame", 0, function()
         return;
     }
 
+    SetPropInt(this, "m_takedamage", GetVar("invuln") ? DAMAGE_EVENTS_ONLY : DAMAGE_YES);
+
+    if(GetVar("inf_cash"))
+    {
+        SetCurrency(30000);
+    }
+
+    if(GetVar("inf_ammo") || GetVar("inf_clip"))
+    {
+        for(local i = 0; i < MAX_WEAPONS; i++)
+        {
+            local heldWeapon = GetPropEntityArray(this, "m_hMyWeapons", i);
+            if(heldWeapon == null)
+                continue;
+
+            if(GetVar("inf_clip"))
+                heldWeapon.SetClip1(heldWeapon.GetMaxClip1());
+            if(GetVar("inf_ammo"))
+                UpdateReserveAmmoOnWeapon(heldWeapon);
+        }
+    }
+
+    if(GetVar("show_conds"))
+    {
+        DrawConditions();
+    }
+
+    if(GetVar("show_keys"))
+    {
+        DrawKeys();
+    }
+
     if(WasButtonJustPressed(IN_ATTACK3))
     {
-        if (Time() - GetVar("last_press_menu_button") < OPEN_MENU_DOUBLEPRESS_TIME)
+        if(Time() - GetVar("last_press_menu_button") < OPEN_MENU_DOUBLEPRESS_TIME)
             OpenMenu();
         else
             SetVar("last_press_menu_button", Time());
@@ -187,4 +237,40 @@ AddListener("tick_frame", 0, function()
 
     if(GetActiveWeapon())
         SetVar("priority_weapon_switch_slot", GetActiveWeapon().GetSlot());
+}
+
+::CTFPlayer.DrawConditions <- function()
+{
+    if((GlobalTickCounter % 2) == 1)
+        return;
+
+    local hud_string = "";
+    foreach(cond_index, cond_name in TF_COND_NAMES)
+    {
+        if(!InCond(cond_index))
+            continue;
+
+        local cond_time = GetCondDuration(cond_index);
+        local hud_string_addition = "[" + cond_index + "] " + cond_name + " " + (cond_time <= 0 ? "∞" : format("%.2f", cond_time)) + "\n";
+
+        if(hud_string_addition.len() + hud_string.len() >= 225)
+            break;
+        else
+            hud_string += hud_string_addition;
+    }
+
+    SendGameText(0, -1, 4, "255 255 255", hud_string);
+}
+
+::CTFPlayer.DrawKeys <- function()
+{
+    if((GlobalTickCounter % 2) == 0)
+        return;
+
+    local hud_string = "";
+    foreach(key in DRAW_KEYS)
+    {
+        hud_string += "[" + key + "] " + (IsHoldingButton(getroottable()[key.tostring()]) ? "[ О ]\n" : "[ Χ ]\n");
+    }
+    SendGameText(1, -1, 3, "255 255 255", hud_string);
 }

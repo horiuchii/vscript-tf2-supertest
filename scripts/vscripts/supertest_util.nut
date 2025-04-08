@@ -25,21 +25,25 @@
 ::CTFPlayer.GetVar <- function(name)
 {
     local playerVars = this.GetScriptScope();
-    return safeget(playerVars, name, null);
+    try
+    {
+        return playerVars[name];
+    }
+    catch (exception)
+    {
+        printl("ERROR: Failed to get player var \"" + name + "\"");
+        return null;
+    }
 }
 
 ::CTFPlayer.AddVar <- function(name, addValue)
 {
-    local playerVars = this.GetScriptScope();
-    local value = playerVars[name];
-    return playerVars[name] <- value + addValue;
+    return SetVar(name, GetVar(name) + addValue);
 }
 
 ::CTFPlayer.SubtractVar <- function(name, subtractValue)
 {
-    local playerVars = this.GetScriptScope();
-    local value = playerVars[name];
-    return playerVars[name] <- value - subtractValue;
+    return SetVar(name, GetVar(name) - subtractValue);
 }
 
 ::ignored_print_vars <- ["__vname", "__vrefs"];
@@ -207,4 +211,9 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
             new_string += string[i].tochar()
     }
     return new_string.tolower();
+}
+
+::round <- function(value)
+{
+    return floor(value + 0.5);
 }
