@@ -130,6 +130,7 @@ OnGameEvent("post_inventory_application", 0, function(params)
 {
     SetVar("menu", null);
     SetVar("stored_menu", null);
+    SetVar("current_menuitem_desc", null);
     SetVar("last_press_menu_button", 0);
     SetVar("dai_ticks", 0);
     SetVar("dai_direction", null);

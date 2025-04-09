@@ -68,6 +68,7 @@ DefineMenu(class extends Menu{
                 function OnSelected(player)
                 {
                     player.SetVar("invuln", index);
+                    player.SendChat(CHAT_PREFIX + "Invulnerability is now: " + (player.GetVar("invuln") ? "On" : "Off"));
                 }
             },
             class extends MenuItem{
@@ -81,6 +82,7 @@ DefineMenu(class extends Menu{
                 function OnSelected(player)
                 {
                     player.SetVar("inf_cash", index);
+                    player.SendChat(CHAT_PREFIX + "Infinite MvM Cash is now: " + (player.GetVar("inf_cash") ? "On" : "Off"));
                 }
             },
             class extends MenuItem{
@@ -94,6 +96,7 @@ DefineMenu(class extends Menu{
                 function OnSelected(player)
                 {
                     player.SetVar("inf_clip", index);
+                    player.SendChat(CHAT_PREFIX + "Infinite clip is now: " + (player.GetVar("inf_clip") ? "On" : "Off"));
                 }
             },
             class extends MenuItem{
@@ -107,6 +110,7 @@ DefineMenu(class extends Menu{
                 function OnSelected(player)
                 {
                     player.SetVar("inf_ammo", index);
+                    player.SendChat(CHAT_PREFIX + "Infinite reserve ammo is now: " + (player.GetVar("inf_ammo") ? "On" : "Off"));
                 }
             },
             class extends MenuItem{
@@ -120,6 +124,7 @@ DefineMenu(class extends Menu{
                 function OnSelected(player)
                 {
                     player.SetVar("show_conds", index);
+                    player.SendChat(CHAT_PREFIX + "The Show Conds HUD is now: " + (player.GetVar("show_conds") ? "On" : "Off"));
                 }
             },
             class extends MenuItem{
@@ -133,6 +138,7 @@ DefineMenu(class extends Menu{
                 function OnSelected(player)
                 {
                     player.SetVar("show_keys", index);
+                    player.SendChat(CHAT_PREFIX + "The Show Keys HUD is now: " + (player.GetVar("show_keys") ? "On" : "Off"));
                 }
             },
         ]

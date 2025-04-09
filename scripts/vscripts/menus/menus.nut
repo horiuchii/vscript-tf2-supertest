@@ -50,7 +50,7 @@ class MenuItem
             new_loc = 0;
 
         this.index = new_loc;
-
+        player.SetVar("current_menuitem_desc", null);
         player.PlaySoundForPlayer({sound_name = "ui/cyoa_node_absent.wav"});
         return true;
     }
@@ -87,7 +87,7 @@ OnGameEvent("player_say", 101, function(params)
     ClearText();
     AddCustomAttribute("no_attack", 0, -1);
     SetSpyCloakMeter(GetVar("last_saved_cloak"));
-    RemoveCond(TF_COND_GRAPPLED_TO_PLAYER)
+    RemoveCond(TF_COND_GRAPPLED_TO_PLAYER);
 }
 
 ::CTFPlayer.OpenMenu <- function()
@@ -96,11 +96,11 @@ OnGameEvent("player_say", 101, function(params)
     PlaySoundForPlayer({sound_name = "ui/cyoa_map_open.wav"});
     EntFireByHandle(env_hudhint_menu, "HideHudHint", "", 0, this, this);
     SetVar("last_saved_cloak", GetSpyCloakMeter());
-
+    SetVar("current_menuitem_desc", null);
     menu.OnMenuOpened(this);
     foreach(menuitem in menu.items)
     {
-        menuitem.OnMenuOpened(this)
+        menuitem.OnMenuOpened(this);
     }
 }
 
@@ -110,11 +110,11 @@ OnGameEvent("player_say", 101, function(params)
     menu.parent_menu = GetVar("menu");
     SetVar("menu", menu);
     PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_expand.wav"});
-
+    SetVar("current_menuitem_desc", null);
     menu.OnMenuOpened(this);
     foreach(menuitem in menu.items)
     {
-        menuitem.OnMenuOpened(this)
+        menuitem.OnMenuOpened(this);
     }
 }
 
@@ -125,7 +125,7 @@ OnGameEvent("player_say", 101, function(params)
         CloseMenu();
         return;
     }
-
+    SetVar("current_menuitem_desc", null);
     SetVar("menu", GetVar("menu").parent_menu);
     PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_collapse.wav"});
 }
@@ -138,7 +138,7 @@ OnGameEvent("player_say", 101, function(params)
     AddCond(TF_COND_GRAPPLED_TO_PLAYER) // block taunts
     SetSpyCloakMeter(0.01);
     if(InCond(TF_COND_TAUNTING))
-        RemoveCond(TF_COND_TAUNTING)
+        RemoveCond(TF_COND_TAUNTING);
 
     if(IsHoldingButton(IN_SCORE))
     {
@@ -213,6 +213,7 @@ OnGameEvent("player_say", 101, function(params)
     if(WasButtonJustPressed(IN_ATTACK))
     {
         menu.items[menu.selected_index].OnSelected(this);
+        SetVar("current_menuitem_desc", null);
         PlaySoundForPlayer({sound_name = "ui/buttonclick.wav"});
     }
 
@@ -240,6 +241,7 @@ OnGameEvent("player_say", 101, function(params)
     menu.selected_index = new_loc;
 
     PlaySoundForPlayer({sound_name = "ui/cyoa_node_absent.wav"});
+    SetVar("current_menuitem_desc", null);
 }
 
 ::CTFPlayer.ModifyMenuItem <- function(offset)
@@ -298,7 +300,12 @@ OnGameEvent("player_say", 101, function(params)
     }
 
     SendGameText(-1, 0.13, 0, "255 255 255", message);
-    local desc = !menu.items[menu.selected_index] ? "INVALID ITEM" : menu.items[menu.selected_index].GenerateDesc(this);
+
+    local desc = GetVar("current_menuitem_desc");
+
+    if(!desc)
+        desc = SetVar("current_menuitem_desc", !menu.items[menu.selected_index] ? "INVALID ITEM" : menu.items[menu.selected_index].GenerateDesc(this))
+
     local linecount = split(desc, "\n").len()
     local desc_text_y;
     switch(linecount)
