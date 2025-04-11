@@ -79,7 +79,7 @@ def parse_taunt_data(next = 0):
             
             #set the name of the taunt
             taunt_name = item['item_name'][7:] #remove the "Taunt: " from the start of the name
-            output_str += f"\t\tname = \"{taunt_name.lstrip("The ") if taunt_name.startswith("The ") else taunt_name}\"\n" #remove the "The " prefix aswell
+            output_str += f"\t\tname = \"{taunt_name[4:] if taunt_name.startswith("The ") else taunt_name}\"\n" #remove the "The " prefix aswell
             
             #set the classes used by this taunt
             if 'used_by_classes' in item:
@@ -166,17 +166,27 @@ def debug_parse_raw(next = 0):
 response = requests.get(url_misc)
 if response.status_code == 200:
     output_str += "::COSMETICS <- {\n"
+    print("Generating Cosmetic Data....")
     parse_cosmetic_data()
+    print("DONE!")
     output_str += "}\n"
     output_str += "\n::TAUNTS <- {\n"
+    print("Generating Taunt Data....")
     parse_taunt_data()
+    print("DONE!")
     output_str += "}\n"
     output_str += "\n::UNUSUALS <- {\n"
+    print("Generating Unusual Data....")
     parse_unusual_data()
+    print("DONE!")
     output_str += "}\n"
     # debug_parse_raw()
+    print("Writing generated data to file....")
     with open('scripts/vscripts/supertest_generated_data.nut', 'w', encoding="utf-8") as output_file:
         output_file.write(output_str)
-    print("DONE")
+    print("DONE!")
+    print("Done with everything!")
 else:
     print(f"Error: {response.status_code}")
+
+input("")

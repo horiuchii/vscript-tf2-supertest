@@ -36,7 +36,7 @@ class Cookies
         PlayerData[player.entindex()][namespace][cookie] <- value;
 
         if(save)
-            SavePlayerData(player)
+            SavePlayerData(player, namespace) //save only one namespace at a time for perf
 
         return value;
     }
@@ -68,7 +68,7 @@ class Cookies
         LoadPlayerData(player);
     }
 
-    function SavePlayerData(player)
+    function SavePlayerData(player, namespace_to_save = null)
     {
         if(!player.GetAccountID())
         {
@@ -78,6 +78,9 @@ class Cookies
 
         foreach(namespace, cookie_table in CookieData)
         {
+            if(namespace_to_save && namespace_to_save != namespace)
+                continue;
+
             local save = "";
 
             foreach(name, value in cookie_table)

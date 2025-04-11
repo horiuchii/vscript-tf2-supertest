@@ -8578,7 +8578,7 @@
 		name = "Victory Lap"
 	},
 	[1174] = {
-		name = "able Tantrum"
+		name = "Table Tantrum"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1175] = {
@@ -8685,7 +8685,7 @@
 		classes = [TF_CLASS_PYRO]
 	},
 	[30917] = {
-		name = "rackman's Touchdown"
+		name = "Trackman's Touchdown"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30918] = {
@@ -8783,7 +8783,7 @@
 		classes = [TF_CLASS_SPY]
 	},
 	[31290] = {
-		name = "ravel Agent"
+		name = "Travel Agent"
 		classes = [TF_CLASS_SPY]
 	},
 	[31291] = {
