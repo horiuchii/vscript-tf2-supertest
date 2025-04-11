@@ -5,3 +5,4 @@
 *.vmx
 *.prt
 *.log
+.env

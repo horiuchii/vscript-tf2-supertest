@@ -217,6 +217,12 @@ enum WeaponSlot
     [KS_EFFECT_HYPNOBEAM] = "Hypno-Beam"
 }
 
+enum UnusualType
+{
+    Cosmetic
+    Taunt
+}
+
 ::DAI_INITIAL_TICKS <- 12; // how many ticks until DAI starts
 ::DAI_PERIOD_TICKS <- 8; // how many ticks inbetween DAI inputs
 ::SIDE_DAI_INITIAL_TICKS <- 10; // how many ticks until DAI starts

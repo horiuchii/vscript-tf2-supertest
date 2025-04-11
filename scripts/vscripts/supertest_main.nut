@@ -3,6 +3,7 @@
 ::projectDir <- ""
 IncludeScript(projectDir+"/__lizardlib/_lizardlib.nut", this);
 IncludeScript(projectDir+"supertest_const.nut", this);
+IncludeScript(projectDir+"supertest_generated_data.nut", this);
 IncludeScript(projectDir+"supertest_util.nut", this);
 IncludeScript(projectDir+"supertest_cookies.nut", this);
 IncludeScript(projectDir+"menus/menus.nut", this);
