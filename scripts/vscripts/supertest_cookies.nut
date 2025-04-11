@@ -1,63 +1,58 @@
 ::SAVE_DIR <- "supertest/"
 ::SAVE_EXTENSION <- ".sav"
 ::KEY_VALUE_SPLITTER <- "="
-::DATA_SPLITTER <- "\n"
+::DATA_SPLITTER <- ";" //dont ever use /n as it is REALLY slow to save as a splitter
 
 class Cookies
 {
     PlayerData = {}
-    PlayerBannedSaving = {}
-    loaded_cookies = false
-
     CookieData = {}
+
+    function AddCookieNamespace(namespace, name, default_value)
+    {
+        if(!(namespace in CookieData))
+            CookieData[namespace] <- {};
+
+        CookieData[namespace][name] <- default_value;
+    }
 
     function AddCookie(name, default_value)
     {
-        CookieData[name] <- default_value
+        AddCookieNamespace("general", name, default_value);
+    }
+
+    function GetNamespace(namespace, player, cookie)
+    {
+        return PlayerData[player.entindex()][namespace][cookie];
     }
 
     function Get(player, cookie)
     {
-        return PlayerData[player.entindex()][cookie];
+        return GetNamespace("general", player, cookie);
     }
 
-    function Set(player, cookie, value, save = true)
+    function SetNamespace(namespace, player, cookie, value, save = true)
     {
-        PlayerData[player.entindex()][cookie] <- value;
+        PlayerData[player.entindex()][namespace][cookie] <- value;
 
         if(save)
-        {
-            SetPersistentVar("player_cookies", PlayerData);
-            SavePlayerData(player);
-        }
+            SavePlayerData(player)
 
-        return PlayerData[player.entindex()][cookie];
+        return value;
     }
 
-    function Add(player, cookie, value, save = true)
+    function Set(player, cookie, value)
     {
-        PlayerData[player.entindex()][cookie] <- PlayerData[player.entindex()][cookie] + value;
-
-        if(save)
-        {
-            SetPersistentVar("player_cookies", PlayerData);
-            SavePlayerData(player);
-        }
-
-        return PlayerData[player.entindex()][cookie];
+        SetNamespace("general", player, cookie, value);
     }
 
     function Reset(player)
     {
-        local default_cookies = {};
-        foreach (name, cookie in CookieData)
+        PlayerData[player.entindex()] <- {};
+        foreach(namespace, cookie_table in CookieData)
         {
-            default_cookies[name] <- cookie;
+            PlayerData[player.entindex()][namespace] <- clone(cookie_table);
         }
-
-        PlayerData[player.entindex()] <- default_cookies;
-
-        SetPersistentVar("player_cookies", PlayerData);
     }
 
     function CreateCache(player)
@@ -66,97 +61,86 @@ class Cookies
 
         if(!player.GetAccountID())
         {
-            PlayerBannedSaving[player.GetUserID()] <- true;
-            player.SendChat("Something went wrong when trying to get your cookies. Rejoining may fix.");
+            player.SendChat("Something went wrong when trying to get your AccountID. Rejoining may fix.");
             return;
         }
 
-        if(!loaded_cookies)
-        {
-            LoadPersistentCookies();
-        }
-
-        LoadPlayerData(player)
-    }
-
-    function LoadPersistentCookies()
-    {
-        local cookies_to_load = GetPersistentVar("player_cookies", null);
-        if(cookies_to_load)
-            PlayerData = cookies_to_load;
-
-        loaded_cookies = true;
+        LoadPlayerData(player);
     }
 
     function SavePlayerData(player)
     {
-        if(player.GetUserID() in PlayerBannedSaving)
+        if(!player.GetAccountID())
         {
-            player.SendChat("Refusing to save your cookies due to a previous error. Rejoining may fix.");
+            player.SendChat("Something went wrong when trying to get your AccountID. Rejoining may fix.");
             return;
         }
 
-        local save = "";
-
-        foreach (name, cookie in CookieData)
+        foreach(namespace, cookie_table in CookieData)
         {
-            local cookie_value = Cookies.Get(player, name);
+            local save = "";
 
-            switch(type(cookie_value))
+            foreach(name, value in cookie_table)
             {
-                case "string": cookie_value = cookie_value.tostring(); break;
-                case "float": cookie_value = cookie_value.tofloat(); break;
-                case "bool":
-                case "integer": cookie_value = cookie_value.tointeger(); break;
+                local cookie_value = Cookies.GetNamespace(namespace, player, name);
+
+                switch(type(cookie_value))
+                {
+                    case "string": cookie_value = cookie_value.tostring(); break;
+                    case "float": cookie_value = cookie_value.tofloat(); break;
+                    case "bool":
+                    case "integer": cookie_value = cookie_value.tointeger(); break;
+                }
+
+                save += name + KEY_VALUE_SPLITTER + cookie_value + DATA_SPLITTER
             }
 
-            save += name + KEY_VALUE_SPLITTER + cookie_value + DATA_SPLITTER
+            StringToFile(SAVE_DIR + player.GetAccountID() + "_" + namespace + SAVE_EXTENSION, save);
         }
-
-        StringToFile(SAVE_DIR + player.GetAccountID() + SAVE_EXTENSION, save);
     }
 
     function LoadPlayerData(player)
     {
-        if(player.GetUserID() in PlayerBannedSaving)
+        if(!player.GetAccountID())
         {
-            player.SendChat("Refusing to load your cookies due to a previous error. Rejoining may fix.");
+            player.SendChat("Something went wrong when trying to get your AccountID. Rejoining may fix.");
             return;
         }
 
-        local save = FileToString(SAVE_DIR + player.GetAccountID() + SAVE_EXTENSION);
-
-        if(save == null)
-            return false;
-
-        try
+        foreach(namespace, cookie_table in CookieData)
         {
-            local split_save = split(save, DATA_SPLITTER, true);
-            foreach (save_entry in split_save)
+            local save = FileToString(SAVE_DIR + player.GetAccountID() + "_" + namespace + SAVE_EXTENSION);
+
+            if(save == null)
+                continue;
+
+            try
             {
-                local entry_array = split(save_entry, KEY_VALUE_SPLITTER);
-                local key_buffer = entry_array[0];
-                local value_buffer = entry_array[1];
-                if(key_buffer in CookieData)
+                local split_save = split(save, DATA_SPLITTER, true);
+                foreach (save_entry in split_save)
                 {
-                    switch(type(CookieData[key_buffer]))
+                    local entry_array = split(save_entry, KEY_VALUE_SPLITTER);
+                    local key_buffer = entry_array[0];
+                    local value_buffer = entry_array[1];
+                    if(key_buffer in CookieData[namespace])
                     {
-                        case "string": value_buffer = value_buffer.tostring(); break;
-                        case "float": value_buffer = value_buffer.tofloat(); break;
-                        case "integer": value_buffer = value_buffer.tointeger(); break;
+                        switch(type(CookieData[namespace][key_buffer]))
+                        {
+                            case "string": value_buffer = value_buffer.tostring(); break;
+                            case "float": value_buffer = value_buffer.tofloat(); break;
+                            case "bool": value_buffer = !!value_buffer; break;
+                            case "integer": value_buffer = value_buffer.tointeger(); break;
+                        }
+                        SetNamespace(namespace, player, key_buffer, value_buffer, false);
                     }
-                    Cookies.Set(player, key_buffer, value_buffer, false);
                 }
             }
-
-            SetPersistentVar("player_cookies", PlayerData);
-            return true;
-        }
-        catch(exception)
-        {
-            player.SendChat("\x07" + "FF0000" + "Your cookies failed to load. Please alert a server admin and provide the text below.");
-            player.SendChat("\x07" + "FFA500" + "Save: " + "tf/scriptdata/" + SAVE_DIR + player.GetAccountID() + SAVE_EXTENSION);
-            player.SendChat("\x07" + "FFA500" + "Error: " + exception);
+            catch(exception)
+            {
+                player.SendChat("\x07" + "FF0000" + "Your cookies failed to load. Please alert a server admin and provide the text below.");
+                player.SendChat("\x07" + "FFA500" + "Save: " + "tf/scriptdata/" + SAVE_DIR + player.GetAccountID() + "_" + namespace + SAVE_EXTENSION);
+                player.SendChat("\x07" + "FFA500" + "Error: " + exception);
+            }
         }
     }
 }
@@ -165,7 +149,6 @@ class Cookies
 class ServerCookies
 {
     ServerData = {}
-
     CookieData = {}
 
     function AddCookie(name, default_value)
@@ -196,7 +179,7 @@ class ServerCookies
 
         foreach (name, cookie in CookieData)
         {
-            local cookie_value = ServerCookies.Get(name);
+            local cookie_value = Get(name);
 
             switch(type(cookie_value))
             {
@@ -233,9 +216,10 @@ class ServerCookies
                     {
                         case "string": value_buffer = value_buffer.tostring(); break;
                         case "float": value_buffer = value_buffer.tofloat(); break;
+                        case "bool": value_buffer = !!value_buffer; break;
                         case "integer": value_buffer = value_buffer.tointeger(); break;
                     }
-                    ServerCookies.Set(key_buffer, value_buffer, false);
+                    Set(key_buffer, value_buffer, false);
                 }
             }
             return true;

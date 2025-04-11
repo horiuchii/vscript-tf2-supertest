@@ -279,7 +279,9 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     if(Cookies.Get(this, "spells"))
     {
         weapon.AddAttribute("SPELL: Halloween pumpkin explosions", 1, -1);
-        weapon.AddAttribute("SPELL: Halloween green flames", 1, -1);
+
+        if(GetPlayerClass() == TF_CLASS_PYRO && weapon.GetSlot() == WeaponSlot.Primary)
+            weapon.AddAttribute("SPELL: Halloween green flames", 1, -1);
     }
 
     if(Cookies.Get(this, "festivizer"))
