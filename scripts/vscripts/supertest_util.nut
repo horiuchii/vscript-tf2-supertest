@@ -228,3 +228,58 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
 {
     return floor(value + 0.5);
 }
+
+::ordinal <- function(n)
+{
+    local suffix = "th";
+    local lastTwo = n % 100;
+    local lastDigit = n % 10;
+
+    if (lastTwo < 11 || lastTwo > 13)
+    {
+        switch (lastDigit)
+        {
+            case 1:
+                suffix = "st";
+                break;
+            case 2:
+                suffix = "nd";
+                break;
+            case 3:
+                suffix = "rd";
+                break;
+        }
+    }
+
+    return n.tostring() + suffix;
+}
+
+::CTFPlayer.GivePlayerCosmetic <- function(item_id, model_path = null, style_id = null)
+{
+	local weapon = CreateByClassname("tf_weapon_parachute");
+	SetPropInt(weapon, NETPROP_ITEMDEFINDEX, 1101);
+	SetPropBool(weapon, NETPROP_INITIALIZED, true);
+	weapon.SetTeam(GetTeam());
+	weapon.DispatchSpawn();
+	Weapon_Equip(weapon);
+	local wearable = GetPropEntity(weapon, "m_hExtraWearable");
+	weapon.Kill();
+
+	SetPropInt(wearable, NETPROP_ITEMDEFINDEX, item_id);
+	SetPropBool(wearable, NETPROP_INITIALIZED, true);
+	SetPropBool(wearable, NETPROP_VALIDATED_ATTACHED, true);
+
+    if(style_id != null)
+        wearable.AddAttribute("item style override", style_id, -1);
+
+	wearable.DispatchSpawn();
+
+	// (optional) Set the model to something new. (Obeys econ's ragdoll physics when ragdolling as well)
+	if (model_path)
+		wearable.SetModelSimple(model_path);
+
+	// (optional) recalculates bodygroups on the player
+	SendGlobalGameEvent("post_inventory_application", { userid = GetUserID(), dont_reequip = true })
+
+	return wearable;
+}

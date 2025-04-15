@@ -22,6 +22,7 @@ Convars.SetValue("sv_alltalk", 1);
 Convars.SetValue("mp_disable_respawn_times", 1);
 Convars.SetValue("tf_bot_reevaluate_class_in_spawnroom", 0);
 Convars.SetValue("tf_bot_keep_class_after_death", 1);
+Convars.SetValue("tf_player_movement_restart_freeze", 0);
 ForceEnableUpgrades(2);
 
 function TickFrame()

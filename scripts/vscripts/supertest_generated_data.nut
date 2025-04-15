@@ -3077,14 +3077,6 @@
 		image = "backpack/player/items/mvm_loot/medic/robo_backpack"
 		classes = [TF_CLASS_MEDIC]
 	},
-	[844] = {
-		name = "The Tin Pot"
-		name_internal = "The Tin Pot"
-		model = "None"
-		image = "backpack/player/items/mvm_loot/soldier/robot_helmet"
-		classes = [TF_CLASS_SOLDIER]
-		styles = ["Battered" "Standard Issue"]
-	},
 	[845] = {
 		name = "The Battery Bandolier"
 		name_internal = "The Battery Bandolier"
@@ -4235,18 +4227,6 @@
 		model = "models/player/items/all_class/ring_Scout.mdl"
 		image = "backpack/player/items/all_class/all_class_ring"
 	},
-	[5606] = {
-		name = "Barely-Melted Capacitor"
-		name_internal = "Damaged Capacitor"
-		model = "None"
-		image = "backpack/crafting/capacitor"
-	},
-	[5616] = {
-		name = "Voodoo-Cursed Soul"
-		name_internal = "Voodoo-Cursed Soul (Armory)"
-		model = "None"
-		image = "backpack/player/items/engineer/engineer_zombie"
-	},
 	[5617] = {
 		name = "Voodoo-Cursed Scout Soul"
 		name_internal = "Zombie Scout"
@@ -4309,12 +4289,6 @@
 		model = "models/player/items/sniper/sniper_zombie.mdl"
 		image = "backpack/player/items/sniper/sniper_zombie"
 		classes = [TF_CLASS_SNIPER]
-	},
-	[8938] = {
-		name = "Glitched Circuit Board"
-		name_internal = "Glitched Circuit Board"
-		model = "None"
-		image = "backpack/crafting/glitched_circuit_board"
 	},
 	[30001] = {
 		name = "Modest Metal Pile of Scrap"
@@ -14297,16 +14271,6 @@
 	[2] = {
 		name = "Flying Bits"
 		system = "burningplayer_flyingbits"
-		type = UnusualType.Cosmetic
-	},
-	[3] = {
-		name = "Nemesis Burst"
-		system = "particle_nemesis_burst_blue"
-		type = UnusualType.Cosmetic
-	},
-	[4] = {
-		name = "Community Sparkle"
-		system = "community_sparkle"
 		type = UnusualType.Cosmetic
 	},
 	[5] = {

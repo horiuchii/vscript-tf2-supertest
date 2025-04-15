@@ -32,6 +32,10 @@ def parse_cosmetic_data(next = 0):
         if item['defindex'] == 122 or item['defindex'] == 123 or item['defindex'] == 124:
             continue
 
+        #ignore modelless items
+        if item['model_player'] == None:
+            continue
+
         #start the item def with the defindex
         output_str += f"\t[{item['defindex']}] = {{\n"
         
@@ -141,9 +145,13 @@ def parse_unusual_data(next = 0):
     response.encoding = 'utf-8'
     data = response.json()
     for item in data['result']['attribute_controlled_attached_particles']:
-        if item['system'].startswith("killstreak") or item['system'].startswith("weapon") or item['id'] == 1:
+        if item['system'].startswith("killstreak") or item['system'].startswith("weapon"):
             continue
         
+        #skip unusuals that dont work
+        if item['id'] == 1 or item['id'] == 3 or item['id'] == 4:
+            continue
+
         #skip the blue particle as its always offset by one from the red (besides Aces High)
         if item['system'].endswith("teamcolor_blue"):
             continue

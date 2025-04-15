@@ -131,7 +131,7 @@ class Cookies
                         {
                             case "string": value_buffer = value_buffer.tostring(); break;
                             case "float": value_buffer = value_buffer.tofloat(); break;
-                            case "bool": value_buffer = !!value_buffer; break;
+                            case "bool":
                             case "integer": value_buffer = value_buffer.tointeger(); break;
                         }
                         SetNamespace(namespace, player, key_buffer, value_buffer, false);

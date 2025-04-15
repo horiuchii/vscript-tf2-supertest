@@ -70,7 +70,7 @@ DefineMenu(class extends Menu{
                 {
                     for(local i = 0; i < 4; i++)
                     {
-                        SetPropIntArray(player, "m_nStreaks", index*5, i);
+                        SetPropIntArray(player, "m_Shared.m_nStreaks", index*5, i);
                     }
                     player.SendChat(CHAT_PREFIX + "Set the killstreak on your weapons to " + index*5 + ".");
                 }
@@ -80,7 +80,7 @@ DefineMenu(class extends Menu{
 
                 function OnMenuOpened(player)
                 {
-                    index = player.GetVar("invuln", index);
+                    index = player.GetVar("invuln").tointeger();
                 }
 
                 function GenerateDesc(player)
@@ -99,7 +99,7 @@ DefineMenu(class extends Menu{
 
                 function OnMenuOpened(player)
                 {
-                    index = player.GetVar("inf_cash", index);
+                    index = player.GetVar("inf_cash").tointeger();
                 }
 
                 function GenerateDesc(player)
@@ -118,7 +118,7 @@ DefineMenu(class extends Menu{
 
                 function OnMenuOpened(player)
                 {
-                    index = player.GetVar("inf_clip", index);
+                    index = player.GetVar("inf_clip").tointeger();
                 }
 
                 function GenerateDesc(player)
@@ -137,7 +137,7 @@ DefineMenu(class extends Menu{
 
                 function OnMenuOpened(player)
                 {
-                    index = player.GetVar("inf_ammo", index);
+                    index = player.GetVar("inf_ammo").tointeger();
                 }
 
                 function GenerateDesc(player)

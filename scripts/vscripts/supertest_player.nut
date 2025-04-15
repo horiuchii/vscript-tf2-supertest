@@ -81,6 +81,13 @@ OnGameEvent("player_death", 1, function(params)
         return;
 
     player.SetVar("last_life_death", true);
+
+    if(Cookies.Get(player, "instant_respawn"))
+    {
+        RunWithDelay(-1, function(){
+            player.ForceRespawn();
+        })
+    }
 })
 
 OnGameEvent("player_activate", 0, function(params)
@@ -129,6 +136,7 @@ OnGameEvent("post_inventory_application", 0, function(params)
         if(!safeget(params, "dont_reequip", false))
         {
             player.EquipDesiredWeapons();
+            player.EquipDesiredCosmetics();
         }
         player.SetHealth(player.GetMaxHealth())
         //delete any dropped weapons near us
@@ -161,9 +169,6 @@ OnGameEvent("post_inventory_application", 0, function(params)
 
     SetVar("taunt_tick_listener", null);
 
-    SetVar("show_conds", false);
-    SetVar("show_keys", false);
-
     SetVar("inf_cash", true);
     SetVar("inf_ammo", false);
     SetVar("inf_clip", false);
@@ -175,6 +180,9 @@ OnGameEvent("post_inventory_application", 0, function(params)
 
     if(!"weapon_wearables" in GetScriptScope())
         SetVar("weapon_wearables", [])
+
+    if(!"override_wearables" in GetScriptScope())
+        SetVar("override_wearables", [])
 
     SetVar("last_life_death", false);
     SetVar("last_saved_pos", null);
@@ -237,12 +245,12 @@ AddListener("tick_frame", 0, function()
         }
     }
 
-    if(GetVar("show_conds"))
+    if(Cookies.Get(this, "show_conds"))
     {
         DrawConditions();
     }
 
-    if(GetVar("show_keys"))
+    if(Cookies.Get(this, "show_keys"))
     {
         DrawKeys();
     }

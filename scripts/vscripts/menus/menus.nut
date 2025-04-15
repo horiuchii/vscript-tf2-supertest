@@ -67,6 +67,7 @@ IncludeScript(projectDir+"menus/menu_botrange.nut", this);
 IncludeScript(projectDir+"menus/menu_cvars.nut", this);
 IncludeScript(projectDir+"menus/menu_playermods.nut", this);
 IncludeScript(projectDir+"menus/menu_cosmetics.nut", this);
+IncludeScript(projectDir+"menus/menu_playersettings.nut", this);
 
 OnGameEvent("player_say", 101, function(params)
 {
@@ -162,7 +163,7 @@ OnGameEvent("player_say", 101, function(params)
     if(!menu)
         return;
 
-    SetScriptOverlayMaterial(CONTRACKER_HUD + "empty");
+    SetScriptOverlayMaterial(CONTRACKER_HUD + "supertest_hud_" + GetMenuOpacity());
 
     // Close Menu
     if(WasButtonJustPressed(IN_ATTACK3))
@@ -199,7 +200,7 @@ OnGameEvent("player_say", 101, function(params)
             {
                 if(GetVar("dai_ticks") % DAI_PERIOD_TICKS[i] == 0)
                 {
-                    ShiftMenuInput(GetVar("dai_direction"), false);
+                    ShiftMenuInput(GetVar("dai_direction"), !!Cookies.Get(this, "menu_dai_loop"));
                     break;
                 }
             }

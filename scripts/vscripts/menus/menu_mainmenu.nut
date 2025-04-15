@@ -55,6 +55,19 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
+        titles = ["Player Settings"];
+
+        function GenerateDesc(player)
+        {
+            return "Modify aspects about your Super Test experience.\n(HUD, Menus, Instant Respawn)";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("player_settings")
+        }
+    },
+    class extends MenuItem{
         titles = ["Taunts"];
 
         function GenerateDesc(player)
