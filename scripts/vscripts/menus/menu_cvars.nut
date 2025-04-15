@@ -130,6 +130,7 @@ foreach(cvar in CVarList)
 
 DefineMenu(class extends Menu{
     id = "server_cvar"
+    menu_name = "cvars"
     items = []
 
     function constructor()

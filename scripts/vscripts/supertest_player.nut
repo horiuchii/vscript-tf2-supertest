@@ -6,7 +6,7 @@
     StartDisabled = 0,
     TeamNum = 0
 });
-GlobalRespawnroom.SetSolid(SOLID_NONE)
+GlobalRespawnroom.SetSolid(SOLID_NONE);
 ::env_hudhint_menu <- SpawnEntityFromTable("env_hudhint", {message = "%+attack3% DOUBLE TAP OR CHAT /menu TO OPEN MENU"});
 
 OnGameEvent("player_spawn", 0, function(params)
@@ -43,6 +43,14 @@ OnGameEvent("player_spawn", 1, function(params)
         return;
 
     EntFireByHandle(GlobalRespawnroom, "StartTouch", null, 0.1, player, player);
+
+    //this is so we collide with triggers like the mirror triggers
+    player.AddSolidFlags(FSOLID_TRIGGER);
+    RunWithDelay(-1, function()
+    {
+        player.RemoveSolidFlags(FSOLID_TRIGGER);
+    })
+
 
     if(Time() - player.GetVar("last_show_menu_hint") < MENU_HINT_COOLDOWN_TIME)
     {
@@ -98,6 +106,14 @@ OnGameEvent("player_team", 0, function(params)
         player.SetScriptOverlayMaterial(null);
         player.SetVar("menu", null);
     }
+    else if(player.IsAlive())
+    {
+        RunWithDelay(-1, function(){
+            player.SetVar("last_life_death", false);
+            player.ForceRespawn()
+        })
+
+    }
 })
 
 OnGameEvent("post_inventory_application", 0, function(params)
@@ -130,15 +146,18 @@ OnGameEvent("post_inventory_application", 0, function(params)
 {
     SetVar("menu", null);
     SetVar("stored_menu", null);
+
     SetVar("current_menuitem_desc", null);
-    SetVar("last_press_menu_button", 0);
+    SetVar("current_menu_dir", null);
+
     SetVar("dai_ticks", 0);
     SetVar("dai_direction", null);
     SetVar("side_dai_ticks", 0);
     SetVar("side_dai_direction", null);
-    SetVar("last_saved_cloak", 0);
 
+    SetVar("last_saved_cloak", 0);
     SetVar("last_show_menu_hint", 0);
+    SetVar("last_press_menu_button", 0);
 
     SetVar("taunt_tick_listener", null);
 
@@ -154,8 +173,8 @@ OnGameEvent("post_inventory_application", 0, function(params)
 
     SetVar("priority_weapon_switch_slot", null);
 
-    if(!"wearables" in GetScriptScope())
-        SetVar("wearables", [])
+    if(!"weapon_wearables" in GetScriptScope())
+        SetVar("weapon_wearables", [])
 
     SetVar("last_life_death", false);
     SetVar("last_saved_pos", null);

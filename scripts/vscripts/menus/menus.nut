@@ -3,6 +3,7 @@
 class Menu
 {
     id = "";
+    menu_name = "UNSET_MENU_NAME";
     items = null;
     parent_menu = null;
     selected_index = 0;
@@ -22,9 +23,9 @@ class Menu
 
 class MenuItem
 {
-    assigned_menu = null;
     titles = null;
     index = 0;
+    hidden = false;
 
     function OnMenuOpened(player){}
 
@@ -65,6 +66,7 @@ IncludeScript(projectDir+"menus/menu_taunts.nut", this);
 IncludeScript(projectDir+"menus/menu_botrange.nut", this);
 IncludeScript(projectDir+"menus/menu_cvars.nut", this);
 IncludeScript(projectDir+"menus/menu_playermods.nut", this);
+IncludeScript(projectDir+"menus/menu_cosmetics.nut", this);
 
 OnGameEvent("player_say", 101, function(params)
 {
@@ -97,7 +99,9 @@ OnGameEvent("player_say", 101, function(params)
     EntFireByHandle(env_hudhint_menu, "HideHudHint", "", 0, this, this);
     SetVar("last_saved_cloak", GetSpyCloakMeter());
     SetVar("current_menuitem_desc", null);
+    SetVar("current_menu_dir", null);
     menu.OnMenuOpened(this);
+    ClearText();
     foreach(menuitem in menu.items)
     {
         menuitem.OnMenuOpened(this);
@@ -111,6 +115,7 @@ OnGameEvent("player_say", 101, function(params)
     SetVar("menu", menu);
     PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_expand.wav"});
     SetVar("current_menuitem_desc", null);
+    SetVar("current_menu_dir", null);
     menu.OnMenuOpened(this);
     foreach(menuitem in menu.items)
     {
@@ -126,7 +131,12 @@ OnGameEvent("player_say", 101, function(params)
         return;
     }
     SetVar("current_menuitem_desc", null);
-    SetVar("menu", GetVar("menu").parent_menu);
+    SetVar("current_menu_dir", null);
+    local menu = SetVar("menu", GetVar("menu").parent_menu);
+    foreach(menuitem in menu.items)
+    {
+        menuitem.OnMenuOpened(this);
+    }
     PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_collapse.wav"});
 }
 
@@ -134,8 +144,8 @@ OnGameEvent("player_say", 101, function(params)
 {
     AddFlag(FL_ATCONTROLS);
     AddCustomAttribute("no_attack", 1, -1);
-    SetPropInt(this, "m_afButtonForced", 0)
-    AddCond(TF_COND_GRAPPLED_TO_PLAYER) // block taunts
+    SetPropInt(this, "m_afButtonForced", 0);
+    AddCond(TF_COND_GRAPPLED_TO_PLAYER); // block taunts
     SetSpyCloakMeter(0.01);
     if(InCond(TF_COND_TAUNTING))
         RemoveCond(TF_COND_TAUNTING);
@@ -152,7 +162,7 @@ OnGameEvent("player_say", 101, function(params)
     if(!menu)
         return;
 
-    SetScriptOverlayMaterial(CONTRACKER_HUD + menu.id);
+    SetScriptOverlayMaterial(CONTRACKER_HUD + "empty");
 
     // Close Menu
     if(WasButtonJustPressed(IN_ATTACK3))
@@ -180,9 +190,20 @@ OnGameEvent("player_say", 101, function(params)
         SetVar("dai_direction", null);
     }
 
-    if(GetVar("dai_direction") && GetVar("dai_ticks") > 0 && GetVar("dai_ticks") % DAI_PERIOD_TICKS == 0)
+    //we do additional checks here because scrolling big menus sucks
+    if(GetVar("dai_direction") && GetVar("dai_ticks") > 0)
     {
-        ShiftMenuInput(GetVar("dai_direction"));
+        foreach(i, dai_delay in DAI_TICKS)
+        {
+            if(GetVar("dai_ticks") > dai_delay)
+            {
+                if(GetVar("dai_ticks") % DAI_PERIOD_TICKS[i] == 0)
+                {
+                    ShiftMenuInput(GetVar("dai_direction"), false);
+                    break;
+                }
+            }
+        }
     }
 
     // Modify Menu Item
@@ -226,17 +247,44 @@ OnGameEvent("player_say", 101, function(params)
     DisplayMenu();
 }
 
-::CTFPlayer.ShiftMenuInput <- function(offset)
+::CTFPlayer.ShiftMenuInput <- function(offset, allow_oob = true)
 {
     local menu = GetVar("menu");
 
     local length = menu.items.len() - 1;
     local new_loc = menu.selected_index + offset;
+    local oob = false;
 
     if(new_loc < 0)
+    {
+        oob = true;
         new_loc = length;
+    }
     else if(new_loc > length)
+    {
+        oob = true;
         new_loc = 0;
+    }
+
+    //skip over hidden menu items
+    while(menu.items[new_loc].hidden)
+    {
+        new_loc += offset;
+
+        if(new_loc < 0)
+        {
+            oob = true;
+            new_loc = length;
+        }
+        else if(new_loc > length)
+        {
+            oob = true;
+            new_loc = 0;
+        }
+    }
+
+    if(!allow_oob && oob)
+        return;
 
     menu.selected_index = new_loc;
 
@@ -292,6 +340,9 @@ OnGameEvent("player_say", 101, function(params)
         {
             local item = menu.items[index];
 
+            if(item.hidden)
+                continue;
+
             if(item.titles.len() > 1)
                 message += "◀  " + item.titles[item.index] + "  ▶\n";
             else
@@ -316,4 +367,20 @@ OnGameEvent("player_say", 101, function(params)
         case 3: desc_text_y = 0.425; break;
     }
     SendGameText(-1, desc_text_y, 1, "255 255 255", desc);
+
+    local menu_dir_name = GetVar("current_menu_dir");
+
+    if(!menu_dir_name)
+    {
+        menu_dir_name = "";
+        local menu_loop = menu;
+        while(menu_loop)
+        {
+            menu_dir_name = "/" + menu_loop.menu_name + menu_dir_name;
+            menu_loop = menu_loop.parent_menu;
+        }
+        menu_dir_name = SetVar("current_menu_dir", "." + menu_dir_name);
+    }
+
+    SendGameText(-1, 0.075, 2, "500 64 16", menu_dir_name);
 }

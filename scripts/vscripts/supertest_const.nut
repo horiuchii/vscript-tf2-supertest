@@ -223,10 +223,12 @@ enum UnusualType
     Taunt
 }
 
-::DAI_INITIAL_TICKS <- 12; // how many ticks until DAI starts
-::DAI_PERIOD_TICKS <- 8; // how many ticks inbetween DAI inputs
-::SIDE_DAI_INITIAL_TICKS <- 10; // how many ticks until DAI starts
-::SIDE_DAI_PERIOD_TICKS <- 10; // how many ticks inbetween DAI inputs
+::DAI_INITIAL_TICKS <- 12 //how many ticks until we start dai
+::DAI_TICKS <- [550 220 110 55 0] //how many ticks need to have passed until we start moving the menu faster
+::DAI_PERIOD_TICKS <- [1 2 3 4 8] //how many ticks it takes to move the input
+
+::SIDE_DAI_INITIAL_TICKS <- 10; // how many ticks until side DAI starts
+::SIDE_DAI_PERIOD_TICKS <- 10; // how many ticks inbetween side DAI inputs
 
 ::FLAG_WARPAINT_AND_UNUSUAL <- 1
 ::FLAG_ACCEPTS_ENERGYORB <- 2

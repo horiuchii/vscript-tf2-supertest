@@ -1,5 +1,6 @@
 DefineMenu(class extends Menu{
     id = "main_menu"
+    menu_name = "main"
     items = [
     class extends MenuItem{
         titles = ["Loadout Overrides"];
@@ -28,11 +29,24 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
+        titles = ["Cosmetic Prefab Overrides"];
+
+        function GenerateDesc(player)
+        {
+            return "Modify your cosmetic prefab overrides, which\ncosmetics should be equipped as a specific class.";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("cosmetics")
+        }
+    },
+    class extends MenuItem{
         titles = ["Player Modifiers"];
 
         function GenerateDesc(player)
         {
-            return "Modify aspects about yourself.\n(Conditions, Spells, Health & Ammo)";
+            return "Modify aspects about your player.\n(Conditions, Spells, Health & Ammo)";
         }
 
         function OnSelected(player)

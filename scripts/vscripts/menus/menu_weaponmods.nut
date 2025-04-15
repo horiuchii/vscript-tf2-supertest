@@ -16,6 +16,7 @@ Cookies.AddCookie("killstreak_particle", KS_EFFECT_FIRE_HORNS);
 
 DefineMenu(class extends Menu{
     id = "weapon_mod"
+    menu_name = "wep_mod"
     function constructor(){
         items = [
         class extends MenuItem{

@@ -2,8491 +2,13890 @@
 ::COSMETICS <- {
 	[47] = {
 		name = "Demoman's Fro"
+		name_internal = "Demoman's Fro"
+		model = "models/player/items/demo/demo_afro.mdl"
+		image = "backpack/player/items/demo/demo_afro"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[48] = {
 		name = "Mining Light"
+		name_internal = "Mining Light"
+		model = "models/player/items/engineer/mining_hat.mdl"
+		image = "backpack/player/items/engineer/mining_hat"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[49] = {
 		name = "Football Helmet"
+		name_internal = "Football Helmet"
+		model = "models/player/items/heavy/football_helmet.mdl"
+		image = "backpack/player/items/heavy/football_helmet"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[50] = {
 		name = "Prussian Pickelhaube"
+		name_internal = "Prussian Pickelhaube"
+		model = "models/player/items/medic/medic_helmet.mdl"
+		image = "backpack/player/items/medic/medic_helmet"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[51] = {
 		name = "Pyro's Beanie"
+		name_internal = "Pyro's Beanie"
+		model = "models/player/items/pyro/pyro_hat.mdl"
+		image = "backpack/player/items/pyro/pyro_hat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[52] = {
 		name = "Batter's Helmet"
+		name_internal = "Batter's Helmet"
+		model = "models/player/items/scout/batter_helmet.mdl"
+		image = "backpack/player/items/scout/batter_helmet"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Hat and Headphones" "No Hat and No Headphones" "No Hat"]
 	},
 	[53] = {
 		name = "Trophy Belt"
+		name_internal = "Trophy Belt"
+		model = "models/player/items/sniper/tooth_hat.mdl"
+		image = "backpack/player/items/sniper/tooth_hat"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[54] = {
 		name = "Soldier's Stash"
+		name_internal = "Soldier's Stash"
+		model = "models/player/items/soldier/soldier_hat.mdl"
+		image = "backpack/player/items/soldier/soldier_hat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[55] = {
 		name = "Fancy Fedora"
+		name_internal = "Fancy Fedora"
+		model = "models/player/items/spy/spy_hat.mdl"
+		image = "backpack/player/items/spy/spy_hat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[94] = {
 		name = "Texas Ten Gallon"
+		name_internal = "Texas Ten Gallon"
+		model = "models/player/items/engineer/engineer_cowboy_hat.mdl"
+		image = "backpack/player/items/engineer/engineer_cowboy_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[95] = {
 		name = "Engineer's Cap"
+		name_internal = "Engineer's Cap"
+		model = "models/player/items/engineer/engineer_train_hat.mdl"
+		image = "backpack/player/items/engineer/engineer_train_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[96] = {
 		name = "Officer's Ushanka"
+		name_internal = "Officer's Ushanka"
+		model = "models/player/items/heavy/heavy_ushanka.mdl"
+		image = "backpack/player/items/heavy/heavy_ushanka"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[97] = {
 		name = "Tough Guy's Toque"
+		name_internal = "Tough Guy's Toque"
+		model = "models/player/items/heavy/heavy_stocking_cap.mdl"
+		image = "backpack/player/items/heavy/heavy_stocking_cap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[98] = {
 		name = "Stainless Pot"
+		name_internal = "Stainless Pot"
+		model = "models/player/items/soldier/soldier_pot.mdl"
+		image = "backpack/player/items/soldier/soldier_pot"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[99] = {
 		name = "Tyrant's Helm"
+		name_internal = "Tyrant's Helm"
+		model = "models/player/items/soldier/soldier_viking.mdl"
+		image = "backpack/player/items/soldier/soldier_viking"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[100] = {
 		name = "Glengarry Bonnet"
+		name_internal = "Glengarry Bonnet"
+		model = "models/player/items/demo/demo_scott.mdl"
+		image = "backpack/player/items/demo/demo_scott"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[101] = {
 		name = "Vintage Tyrolean"
+		name_internal = "Vintage Tyrolean"
+		model = "models/player/items/medic/medic_tyrolean.mdl"
+		image = "backpack/player/items/medic/medic_tyrolean"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[102] = {
 		name = "Respectless Rubber Glove"
+		name_internal = "Respectless Rubber Glove"
+		model = "models/player/items/pyro/pyro_chicken.mdl"
+		image = "backpack/player/items/pyro/pyro_chicken"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[103] = {
 		name = "Camera Beard"
+		name_internal = "Camera Beard"
+		model = "models/player/items/spy/spy_camera_beard.mdl"
+		image = "backpack/player/items/spy/spy_camera_beard"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[104] = {
 		name = "Otolaryngologist's Mirror"
+		name_internal = "Otolaryngologist's Mirror"
+		model = "models/player/items/medic/medic_mirror.mdl"
+		image = "backpack/player/items/medic/medic_mirror"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[105] = {
 		name = "Brigade Helm"
+		name_internal = "Brigade Helm"
+		model = "models/player/items/pyro/fireman_helmet.mdl"
+		image = "backpack/player/items/pyro/fireman_helmet"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[106] = {
 		name = "Bonk Helm"
+		name_internal = "Bonk Helm"
+		model = "models/player/items/scout/bonk_helmet.mdl"
+		image = "backpack/player/items/scout/bonk_helmet"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[107] = {
 		name = "Ye Olde Baker Boy"
+		name_internal = "Ye Olde Baker Boy"
+		model = "models/player/items/scout/newsboy_cap.mdl"
+		image = "backpack/player/items/scout/newsboy_cap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[108] = {
 		name = "Backbiter's Billycock"
+		name_internal = "Backbiter's Billycock"
+		model = "models/player/items/spy/derby_hat.mdl"
+		image = "backpack/player/items/spy/derby_hat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[109] = {
 		name = "Professional's Panama"
+		name_internal = "Professional's Panama"
+		model = "models/player/items/sniper/straw_hat.mdl"
+		image = "backpack/player/items/sniper/straw_hat"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[110] = {
 		name = "Master's Yellow Belt"
+		name_internal = "Master's Yellow Belt"
+		model = "models/player/items/sniper/jarate_headband.mdl"
+		image = "backpack/player/items/sniper/jarate_headband"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[111] = {
 		name = "Baseball Bill's Sports Shine"
+		name_internal = "Baseball Bill's Sports Shine"
+		model = "models/player/items/scout/scout_nohat.mdl"
+		image = "backpack/player/items/scout/scout_nohat"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[115] = {
 		name = "Mildly Disturbing Halloween Mask"
+		name_internal = "Mildly Disturbing Halloween Mask"
+		model = "models/player/items/Scout/Scout_halloween.mdl"
+		image = "backpack/player/items/all_class/all_halloween"
 	},
 	[116] = {
 		name = "Ghastlierest Gibus"
+		name_internal = "Ghastly Gibus"
+		model = "models/player/items/all_class/all_domination_b_Scout.mdl"
+		image = "backpack/player/items/all_class/all_domination_b_demo"
 		paint = true
 		styles = ["Ghastlier" "Ghastly" "Ghastlierest" "Ghostly"]
 	},
 	[117] = {
 		name = "Ritzy Rick's Hair Fixative"
+		name_internal = "Ritzy Rick's Hair Fixative"
+		model = "models/player/items/sniper/sniper_nohat.mdl"
+		image = "backpack/player/items/sniper/sniper_nohat"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[118] = {
 		name = "Texas Slim's Dome Shine"
+		name_internal = "Texas Slim's Dome Shine"
+		model = "models/player/items/engineer/engineer_nohat.mdl"
+		image = "backpack/player/items/engineer/engineer_nohat"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[120] = {
 		name = "Scotsman's Stove Pipe"
+		name_internal = "Scotsman's Stove Pipe"
+		model = "models/player/items/demo/top_hat.mdl"
+		image = "backpack/player/items/demo/top_hat"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Tasteful and Refined" "Garish and Overbearing"]
 	},
 	[121] = {
 		name = "Gentle Manne's Service Medal"
+		name_internal = "Web Easteregg Medal"
+		model = ""
+		image = "backpack/player/items/soldier/medal"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[125] = {
 		name = "Cheater's Lament"
+		name_internal = "Honest Halo"
+		model = "models/player/items/all_class/all_halo.mdl"
+		image = "backpack/player/items/all_class/all_halo"
 		styles = ["No Hat" "Hat"]
 	},
 	[126] = {
 		name = "Bill's Hat"
+		name_internal = "L4D Hat"
+		model = "models/player/items/Scout/Scout_bill.mdl"
+		image = "backpack/player/items/demo/demo_bill"
 		paint = true
-	},
-	[133] = {
-		name = "The Gunboats"
-		classes = [TF_CLASS_SOLDIER]
 	},
 	[134] = {
 		name = "J.Axer's Dapper Topper"
+		name_internal = "Propaganda Contest First Place"
+		model = "models/player/items/Scout/hat_first.mdl"
+		image = "backpack/player/items/demo/hat_first"
 	},
 	[135] = {
 		name = "Towering Pillar of Hats"
+		name_internal = "Towering Pillar of Hats"
+		model = "models/player/items/Scout/hat_first_nr.mdl"
+		image = "backpack/player/items/demo/hat_first_nr"
 	},
 	[136] = {
 		name = "Amber's Rad As All Hell Hat"
+		name_internal = "Propaganda Contest Second Place"
+		model = "models/player/items/Scout/hat_second.mdl"
+		image = "backpack/player/items/demo/hat_second"
 	},
 	[137] = {
 		name = "Noble Amassment of Hats"
+		name_internal = "Noble Amassment of Hats"
+		model = "models/player/items/Scout/hat_second_nr.mdl"
+		image = "backpack/player/items/demo/hat_second_nr"
 	},
 	[138] = {
 		name = "Uncle Sam"
+		name_internal = "Propaganda Contest Third Place"
+		model = "models/player/items/Scout/hat_third.mdl"
+		image = "backpack/player/items/demo/hat_third"
 	},
 	[139] = {
 		name = "Modest Pile of Hat"
+		name_internal = "Modest Pile of Hat"
+		model = "models/player/items/Scout/hat_third_nr.mdl"
+		image = "backpack/player/items/demo/hat_third_nr"
 	},
 	[143] = {
 		name = "Earbuds"
+		name_internal = "OSX Item"
+		model = "models/player/items/Scout/Scout_earbuds.mdl"
+		image = "backpack/player/items/all_class/earbuds"
 	},
 	[144] = {
 		name = "Physician's Procedure Mask"
+		name_internal = "Medic Mask"
+		model = "models/workshop/player/items/medic/medic_mask/medic_mask.mdl"
+		image = "backpack/workshop/player/items/medic/medic_mask/medic_mask"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[145] = {
 		name = "The Hound Dog"
+		name_internal = "Heavy Hair"
+		model = "models/player/items/heavy/hounddog.mdl"
+		image = "backpack/player/items/heavy/hounddog"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[146] = {
 		name = "Hustler's Hallmark"
+		name_internal = "Demoman Hallmark"
+		model = "models/player/items/demo/hallmark.mdl"
+		image = "backpack/player/items/demo/hallmark"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[147] = {
 		name = "Magistrate's Mullet"
+		name_internal = "Spy Noble Hair"
+		model = "models/player/items/spy/noblehair.mdl"
+		image = "backpack/player/items/spy/noblehair"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[148] = {
 		name = "Hotrod"
+		name_internal = "Engineer Welding Mask"
+		model = "models/player/items/engineer/weldingmask.mdl"
+		image = "backpack/player/items/engineer/weldingmask"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[150] = {
 		name = "Troublemaker's Tossle Cap"
+		name_internal = "Scout Beanie"
+		model = "models/player/items/scout/beanie.mdl"
+		image = "backpack/player/items/scout/beanie"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["New School" "Old School" "Older School" "Oldest School"]
 	},
 	[151] = {
 		name = "Triboniophorus Tyrannus"
+		name_internal = "Pyro Brain Sucker"
+		model = "models/player/items/pyro/pyro_brainsucker.mdl"
+		image = "backpack/player/items/pyro/pyro_brainsucker"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[152] = {
 		name = "Killer's Kabuto"
+		name_internal = "Soldier Samurai Hat"
+		model = "models/player/items/soldier/soldier_samurai.mdl"
+		image = "backpack/player/items/soldier/soldier_samurai"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[158] = {
 		name = "Shooter's Sola Topi"
+		name_internal = "Sniper Pith Helmet"
+		model = "models/player/items/sniper/pith_helmet.mdl"
+		image = "backpack/player/items/sniper/pith_helmet"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[162] = {
 		name = "Max's Severed Head"
+		name_internal = "TTG Max Hat"
+		model = "models/player/items/Scout/Scout_ttg_max.mdl"
+		image = "backpack/player/items/medic/medic_ttg_max"
 		paint = true
 	},
 	[164] = {
 		name = "Grizzled Veteran"
+		name_internal = "Employee Badge A"
+		model = "models/player/items/all_class/id_badge.mdl"
+		image = "backpack/player/items/all_class/id_badge_gold"
 	},
 	[165] = {
 		name = "Soldier of Fortune"
+		name_internal = "Employee Badge B"
+		model = "models/player/items/all_class/id_badge.mdl"
+		image = "backpack/player/items/all_class/id_badge_silver"
 	},
 	[166] = {
 		name = "Mercenary"
+		name_internal = "Employee Badge C"
+		model = "models/player/items/all_class/id_badge.mdl"
+		image = "backpack/player/items/all_class/id_badge_bronze"
 	},
 	[170] = {
 		name = "Primeval Warrior"
+		name_internal = "Employee Badge Plat"
+		model = "models/player/items/all_class/id_badge.mdl"
+		image = "backpack/player/items/all_class/id_badge_platinum"
 	},
 	[174] = {
 		name = "Whoopee Cap"
+		name_internal = "Scout Whoopee Cap"
+		model = "models/player/items/scout/scout_whoopee.mdl"
+		image = "backpack/player/items/scout/scout_whoopee"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[175] = {
 		name = "Whiskered Gentleman"
+		name_internal = "Pyro Monocle"
+		model = "models/player/items/pyro/pyro_monocle.mdl"
+		image = "backpack/player/items/pyro/pyro_monocle"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[177] = {
 		name = "Ze Goggles"
+		name_internal = "Medic Goggles"
+		model = "models/player/items/medic/medic_goggles.mdl"
+		image = "backpack/player/items/medic/medic_goggles"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[178] = {
 		name = "Safe'n'Sound"
+		name_internal = "Engineer Earmuffs"
+		model = "models/player/items/engineer/engy_earphones.mdl"
+		image = "backpack/player/items/engineer/engy_earphones"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[179] = {
 		name = "Tippler's Tricorne"
+		name_internal = "Demoman Tricorne"
+		model = "models/player/items/demo/demo_tricorne.mdl"
+		image = "backpack/player/items/demo/demo_tricorne"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[180] = {
 		name = "Frenchman's Beret"
+		name_internal = "Spy Beret"
+		model = "models/player/items/spy/spy_beret.mdl"
+		image = "backpack/player/items/spy/spy_beret"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[181] = {
 		name = "Bloke's Bucket Hat"
+		name_internal = "Sniper Fishing Hat"
+		model = "models/player/items/sniper/sniper_fishinghat.mdl"
+		image = "backpack/player/items/sniper/sniper_fishinghat"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[182] = {
 		name = "Vintage Merryweather"
+		name_internal = "Pyro Helm"
+		model = "models/player/items/pyro/pyro_pyrolean.mdl"
+		image = "backpack/player/items/pyro/pyro_pyrolean"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[183] = {
 		name = "Sergeant's Drill Hat"
+		name_internal = "Soldier Drill Hat"
+		model = "models/player/items/soldier/soldier_sargehat.mdl"
+		image = "backpack/player/items/soldier/soldier_sargehat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[184] = {
 		name = "Gentleman's Gatsby"
+		name_internal = "Medic Gatsby"
+		model = "models/player/items/medic/medic_gatsby.mdl"
+		image = "backpack/player/items/medic/medic_gatsby"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[185] = {
 		name = "The Heavy Duty Rag"
+		name_internal = "Heavy Do-rag"
+		model = "models/player/items/heavy/heavy_bandana.mdl"
+		image = "backpack/player/items/heavy/heavy_bandana"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[189] = {
 		name = "Alien Swarm Parasite"
+		name_internal = "Parasite Hat"
+		model = "models/player/items/all_class/parasite_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/parasite_hat"
 		paint = true
 	},
 	[213] = {
 		name = "The Attendant"
+		name_internal = "The Attendant"
+		model = "models/player/items/pyro/attendant.mdl"
+		image = "backpack/player/items/pyro/attendant"
 		classes = [TF_CLASS_PYRO]
 	},
 	[216] = {
 		name = "Rimmed Raincatcher"
+		name_internal = "Rimmed Raincatcher"
+		model = "models/player/items/demo/drinking_hat.mdl"
+		image = "backpack/player/items/demo/drinking_hat"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[219] = {
 		name = "The Milkman"
+		name_internal = "The Milkman"
+		model = "models/player/items/scout/milkhat.mdl"
+		image = "backpack/player/items/scout/milkhat"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[223] = {
 		name = "Familiar Fez"
+		name_internal = "The Familiar Fez"
+		model = "models/player/items/spy/fez.mdl"
+		image = "backpack/player/items/spy/fez"
 		classes = [TF_CLASS_SPY]
 	},
 	[227] = {
 		name = "Grenadier's Softcap"
+		name_internal = "The Grenadier's Softcap"
+		model = "models/player/items/soldier/grenadier_softcap.mdl"
+		image = "backpack/player/items/soldier/grenadier_softcap"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[229] = {
 		name = "Ol' Snaggletooth"
-		classes = [TF_CLASS_SNIPER]
-	},
-	[231] = {
-		name = "Darwin's Danger Shield"
+		name_internal = "Ol' Snaggletooth"
+		model = "models/player/items/sniper/snaggletooth.mdl"
+		image = "backpack/player/items/sniper/snaggletooth"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[240] = {
 		name = "Lumbricus Lid"
+		name_internal = "Worms Gear"
+		model = "models/player/items/soldier/worms_gear.mdl"
+		image = "backpack/player/items/soldier/worms_gear"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[242] = {
 		name = "Bronze Dueling Badge"
+		name_internal = "Duel Medal Bronze"
+		model = "models/player/items/all_class/dueling_medal.mdl"
+		image = "backpack/player/items/all_class/dueling_medal_bronze"
 	},
 	[243] = {
 		name = "Silver Dueling Badge"
+		name_internal = "Duel Medal Silver"
+		model = "models/player/items/all_class/dueling_medal.mdl"
+		image = "backpack/player/items/all_class/dueling_medal_silver"
 	},
 	[244] = {
 		name = "Gold Dueling Badge"
+		name_internal = "Duel Medal Gold"
+		model = "models/player/items/all_class/dueling_medal.mdl"
+		image = "backpack/player/items/all_class/dueling_medal_gold"
 	},
 	[245] = {
 		name = "Platinum Dueling Badge"
+		name_internal = "Duel Medal Plat"
+		model = "models/player/items/all_class/dueling_medal.mdl"
+		image = "backpack/player/items/all_class/dueling_medal_platinum"
 	},
 	[246] = {
 		name = "Pugilist's Protector"
+		name_internal = "Pugilist's Protector"
+		model = "models/player/items/heavy/pugilist_protector.mdl"
+		image = "backpack/player/items/heavy/pugilist_protector"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[247] = {
 		name = "Old Guadalajara"
+		name_internal = "Old Guadalajara"
+		model = "models/player/items/pyro/fiesta_sombrero.mdl"
+		image = "backpack/player/items/pyro/fiesta_sombrero"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[248] = {
 		name = "Napper's Respite"
+		name_internal = "Napper's Respite"
+		model = "models/player/items/pyro/pyro_beanie.mdl"
+		image = "backpack/player/items/pyro/pyro_beanie"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[249] = {
 		name = "Bombing Run"
+		name_internal = "Bombing Run"
+		model = "models/player/items/scout/pilot_protector.mdl"
+		image = "backpack/player/items/scout/pilot_protector"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[250] = {
 		name = "Chieftain's Challenge"
+		name_internal = "Chieftain's Challenge"
+		model = "models/player/items/soldier/chief_rocketeer.mdl"
+		image = "backpack/player/items/soldier/chief_rocketeer"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[251] = {
 		name = "Stout Shako"
+		name_internal = "Stout Shako"
+		model = "models/player/items/soldier/soldier_shako.mdl"
+		image = "backpack/player/items/soldier/soldier_shako"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[252] = {
 		name = "Dr's Dapper Topper"
+		name_internal = "Dr's Dapper Topper"
+		model = "models/workshop/player/items/all_class/dappertopper/dappertopper_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dappertopper/dappertopper"
 		paint = true
 	},
 	[253] = {
 		name = "Handyman's Handle"
+		name_internal = "Handyman's Handle"
+		model = "models/player/items/pyro/pyro_plunger.mdl"
+		image = "backpack/player/items/pyro/pyro_plunger"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[254] = {
 		name = "Hard Counter"
+		name_internal = "Hard Counter"
+		model = "models/player/items/heavy/heavy_umbrella.mdl"
+		image = "backpack/player/items/heavy/heavy_umbrella"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[255] = {
 		name = "Sober Stuntman"
+		name_internal = "Sober Stuntman"
+		model = "models/player/items/demo/stunt_helmet.mdl"
+		image = "backpack/player/items/demo/stunt_helmet"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[259] = {
 		name = "Carouser's Capotain"
+		name_internal = "Carouser's Capotain"
+		model = "models/workshop/player/items/demo/inquisitor/inquisitor.mdl"
+		image = "backpack/workshop/player/items/demo/inquisitor/inquisitor"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[260] = {
 		name = "Wiki Cap"
+		name_internal = "Wiki Cap"
+		model = "models/player/items/all_class/wikicap_Scout.mdl"
+		image = "backpack/player/items/all_class/wikicap"
 		paint = true
 	},
 	[261] = {
 		name = "Mann Co. Cap"
+		name_internal = "Mann Co. Cap"
+		model = "models/player/items/Scout/Scout_cap.mdl"
+		image = "backpack/player/items/all_class/all_manncap"
 		paint = true
 	},
 	[262] = {
 		name = "Polycount Pin"
+		name_internal = "Polycount Pin"
+		model = "models/player/items/all_class/polypack_badge.mdl"
+		image = "backpack/player/items/all_class/polypack_badge"
 	},
 	[263] = {
 		name = "Ellis' Cap"
+		name_internal = "Ellis Hat"
+		model = "models/player/items/Scout/Scout_ellis.mdl"
+		image = "backpack/player/items/all_class/all_ellis"
 		paint = true
 	},
 	[268] = {
 		name = "Scout Mask"
+		name_internal = "Halloween Mask - Scout"
+		model = "models/player/items/all_class/halloween_bag_scout_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_scout"
 	},
 	[269] = {
 		name = "Sniper Mask"
+		name_internal = "Halloween Mask - Sniper"
+		model = "models/player/items/all_class/halloween_bag_sniper_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_sniper"
 	},
 	[270] = {
 		name = "Soldier Mask"
+		name_internal = "Halloween Mask - Soldier"
+		model = "models/player/items/all_class/halloween_bag_soldier_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_soldier"
 	},
 	[271] = {
 		name = "Demoman Mask"
+		name_internal = "Halloween Mask - Demoman"
+		model = "models/player/items/all_class/halloween_bag_demo_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_demo"
 	},
 	[272] = {
 		name = "Medic Mask"
+		name_internal = "Halloween Mask - Medic"
+		model = "models/player/items/all_class/halloween_bag_medic_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_medic"
 	},
 	[273] = {
 		name = "Heavy Mask"
+		name_internal = "Halloween Mask - Heavy"
+		model = "models/player/items/all_class/halloween_bag_heavy_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_heavy"
 	},
 	[274] = {
 		name = "Spy Mask"
+		name_internal = "Halloween Mask - Spy"
+		model = "models/player/items/all_class/halloween_bag_spy_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_spy"
 	},
 	[275] = {
 		name = "Engineer Mask"
+		name_internal = "Halloween Mask - Engineer"
+		model = "models/player/items/all_class/halloween_bag_engineer_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_engineer"
 	},
 	[276] = {
 		name = "Pyro Mask"
+		name_internal = "Halloween Mask - Pyro"
+		model = "models/player/items/all_class/halloween_bag_pyro_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_pyro"
 	},
 	[277] = {
 		name = "Saxton Hale Mask"
+		name_internal = "Halloween Mask - Saxton Hale"
+		model = "models/player/items/all_class/halloween_bag_saxton_Scout.mdl"
+		image = "backpack/player/items/all_class/halloween_bag_saxton"
 	},
 	[278] = {
 		name = "Horseless Headless Horsemann's Head"
+		name_internal = "Horseless Headless Horseman's Head"
+		model = "models/player/items/all_class/pumpkin_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/pumkin_hat"
 	},
 	[279] = {
 		name = "Ghastlier Gibus"
+		name_internal = "Ghastly Gibus 2010"
+		model = "models/player/items/all_class/all_domination_2009_Scout.mdl"
+		image = "backpack/player/items/all_class/all_domination_2009"
 		paint = true
 		styles = ["Ghastlier" "Ghastly" "Ghostly"]
 	},
 	[287] = {
 		name = "Spine-Chilling Skull"
+		name_internal = "Spine-Chilling Skull"
+		model = "models/player/items/all_class/skull_Scout.mdl"
+		image = "backpack/player/items/all_class/skull"
 		paint = true
 	},
 	[289] = {
 		name = "Voodoo Juju"
+		name_internal = "Voodoo Juju"
+		model = "models/player/items/all_class/voodoojuju_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/voodoojuju_hat"
 		paint = true
 	},
 	[290] = {
 		name = "Cadaver's Cranium"
+		name_internal = "Cadaver's Cranium"
+		model = "models/player/items/heavy/cadavers_cranium.mdl"
+		image = "backpack/player/items/heavy/cadavers_cranium"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[291] = {
 		name = "Horrific Headsplitter"
+		name_internal = "Horrific Headsplitter"
+		model = "models/player/items/all_class/headsplitter_Scout.mdl"
+		image = "backpack/player/items/all_class/headsplitter"
 		paint = true
 	},
 	[292] = {
 		name = "Dealer's Visor"
+		name_internal = "Poker Visor"
+		model = "models/player/items/heavy/ttg_visor.mdl"
+		image = "backpack/player/items/heavy/ttg_visor"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[295] = {
 		name = "Dangeresque, Too?"
+		name_internal = "TTG Glasses"
+		model = "models/player/items/demo/ttg_glasses.mdl"
+		image = "backpack/player/items/demo/ttg_glasses"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[296] = {
 		name = "License to Maim"
+		name_internal = "TTG Badge"
+		model = "models/player/items/all_class/ttg_badge.mdl"
+		image = "backpack/player/items/all_class/ttg_badge"
 	},
 	[299] = {
 		name = "Companion Cube Pin"
+		name_internal = "Portal 2 Pin"
+		model = "models/player/items/all_class/p2_pin.mdl"
+		image = "backpack/player/items/all_class/p2_pin"
 	},
 	[302] = {
 		name = "Frontline Field Recorder"
+		name_internal = "Camera Helm"
+		model = "models/player/items/all_class/replay_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/replay_hat"
 	},
 	[303] = {
 		name = "Berliner's Bucket Helm"
+		name_internal = "Berliner's Bucket Helm"
+		model = "models/player/items/medic/berliners_bucket_helm.mdl"
+		image = "backpack/player/items/medic/berliners_bucket_helm"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[306] = {
 		name = "Scotch Bonnet"
+		name_internal = "Scotch Bonnet"
+		model = "models/player/items/demo/demo_scotchbonnet.mdl"
+		image = "backpack/player/items/demo/demo_scotchbonnet"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[309] = {
 		name = "The Big Chief"
+		name_internal = "Big Chief"
+		model = "models/player/items/heavy/heavy_big_chief.mdl"
+		image = "backpack/player/items/heavy/heavy_big_chief"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[313] = {
 		name = "Magnificent Mongolian"
+		name_internal = "Magnificent Mongolian"
+		model = "models/player/items/heavy/heavy_magnificent_mongolian.mdl"
+		image = "backpack/player/items/heavy/heavy_magnificent_mongolian"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[314] = {
 		name = "Larrikin Robin"
+		name_internal = "Larrikin Robin"
+		model = "models/player/items/sniper/larrikin_robin.mdl"
+		image = "backpack/player/items/sniper/larrikin_robin"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[315] = {
 		name = "Blighted Beak"
+		name_internal = "Blighted Beak"
+		model = "models/player/items/medic/medic_blighted_beak.mdl"
+		image = "backpack/player/items/medic/blighted_beak"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Yersinia Pestis" "Vibrio Cholerae"]
 	},
 	[316] = {
 		name = "Pyromancer's Mask"
+		name_internal = "Pyromancer's Mask"
+		model = "models/player/items/pyro/pyro_pyromancers_mask.mdl"
+		image = "backpack/player/items/pyro/pyro_pyromancers_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Original" "Full Color Paint" "Stylish Paint"]
 	},
 	[318] = {
 		name = "Prancer's Pride"
+		name_internal = "Prancer's Pride"
+		model = "models/player/items/pyro/prancers_pride.mdl"
+		image = "backpack/player/items/pyro/prancers_pride"
 		classes = [TF_CLASS_PYRO]
 	},
 	[319] = {
 		name = "Détective Noir"
+		name_internal = "Detective Noir"
+		model = "models/player/items/spy/spy_detective_noir.mdl"
+		image = "backpack/player/items/spy/spy_detective_noir"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[321] = {
 		name = "Madame Dixie"
+		name_internal = "Madame Dixie"
+		model = "models/player/items/pyro/pyro_madame_dixie.mdl"
+		image = "backpack/player/items/pyro/pyro_madame_dixie"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[322] = {
 		name = "Buckaroo's Hat"
+		name_internal = "Buckaroos Hat"
+		model = "models/player/items/engineer/engineer_buckaroos_hat.mdl"
+		image = "backpack/player/items/engineer/engineer_buckaroos_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[323] = {
 		name = "German Gonzila"
+		name_internal = "German Gonzila"
+		model = "models/player/items/medic/medic_german_gonzila.mdl"
+		image = "backpack/player/items/medic/medic_german_gonzila"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[324] = {
 		name = "Flipped Trilby"
+		name_internal = "Flipped Trilby"
+		model = "models/player/items/scout/scout_flipped_trilby.mdl"
+		image = "backpack/player/items/scout/scout_flipped_trilby"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[330] = {
 		name = "Coupe D'isaster"
+		name_internal = "Coupe D'isaster"
+		model = "models/player/items/heavy/coupe_disaster.mdl"
+		image = "backpack/player/items/heavy/coupe_disaster"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[332] = {
 		name = "Bounty Hat"
+		name_internal = "Treasure Hat 1"
+		model = "models/player/items/all_class/treasure_hat_01_Scout.mdl"
+		image = "backpack/player/items/all_class/treasure_hat_01"
 	},
 	[333] = {
 		name = "Treasure Hat"
+		name_internal = "Treasure Hat 2"
+		model = "models/player/items/all_class/treasure_hat_02_Scout.mdl"
+		image = "backpack/player/items/all_class/treasure_hat_02"
 		styles = ["Treasure Hat" "Bounty Hat"]
 	},
 	[334] = {
 		name = "Hat of Undeniable Wealth and Respect"
+		name_internal = "Treasure Hat 3"
+		model = "models/player/items/Scout/treasure_hat_oct.mdl"
+		image = "backpack/player/items/all_class/treasure_hat_oct"
 		paint = true
 		styles = ["H.O.U.W.A.R." "Treasure Hat" "Bounty Hat"]
 	},
 	[335] = {
 		name = "Foster's Facade"
+		name_internal = "KF Pyro Mask"
+		model = "models/player/items/pyro/pyro_tripwire_mask.mdl"
+		image = "backpack/player/items/pyro/pyro_tripwire_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[336] = {
 		name = "Stockbroker's Scarf"
+		name_internal = "KF Pyro Tie"
+		model = "models/player/items/pyro/pyro_tripwire_tie.mdl"
+		image = "backpack/player/items/pyro/pyro_tripwire_tie"
 		classes = [TF_CLASS_PYRO]
 	},
 	[337] = {
 		name = "Le Party Phantom"
+		name_internal = "Le Party Phantom"
+		model = "models/player/items/spy/spy_party_phantom.mdl"
+		image = "backpack/player/items/spy/spy_party_phantom"
 		classes = [TF_CLASS_SPY]
 	},
 	[338] = {
 		name = "Industrial Festivizer"
+		name_internal = "Industrial Festivizer"
+		model = "models/player/items/engineer/engineer_colored_lights.mdl"
+		image = "backpack/player/items/engineer/engineer_colored_lights"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[339] = {
 		name = "Exquisite Rack"
+		name_internal = "Exquisite Rack"
+		model = "models/player/items/soldier/soldier_holiday_antlers.mdl"
+		image = "backpack/player/items/soldier/soldier_holiday_antlers"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[340] = {
 		name = "Defiant Spartan"
+		name_internal = "Defiant Spartan"
+		model = "models/player/items/soldier/soldier_spartan.mdl"
+		image = "backpack/player/items/soldier/soldier_spartan"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[341] = {
 		name = "A Rather Festive Tree"
+		name_internal = "A Rather Festive Tree"
+		model = "models/player/items/all_class/oh_xmas_tree_Scout.mdl"
+		image = "backpack/player/items/all_class/oh_xmas_tree"
 	},
 	[342] = {
 		name = "Prince Tavish's Crown"
+		name_internal = "Prince Tavish's Crown"
+		model = "models/player/items/demo/crown.mdl"
+		image = "backpack/player/items/demo/crown"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[343] = {
 		name = "Professor Speks"
+		name_internal = "Friendly Item"
+		model = "models/player/items/Scout/professor_speks.mdl"
+		image = "backpack/player/items/all_class/professor_speks"
 	},
 	[344] = {
 		name = "Crocleather Slouch"
+		name_internal = "Crocleather Slouch"
+		model = "models/player/items/sniper/sniper_crocleather_slouch.mdl"
+		image = "backpack/player/items/sniper/sniper_crocleather_slouch"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[345] = {
 		name = "The Athletic Supporter"
+		name_internal = "MNC Hat"
+		model = "models/player/items/Scout/Scout_mnc.mdl"
+		image = "backpack/player/items/all_class/mnc_hat"
 	},
 	[346] = {
 		name = "The Superfan"
+		name_internal = "MNC Mascot Hat"
+		model = "models/player/items/scout/mnc_mascot_hat.mdl"
+		image = "backpack/player/items/scout/mnc_mascot_hat"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[347] = {
 		name = "The Essential Accessories"
+		name_internal = "MNC Mascot Outfit"
+		model = "models/player/items/scout/mnc_mascot_outfit.mdl"
+		image = "backpack/player/items/scout/mnc_mascot_outfit"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[358] = {
 		name = "The Dread Knot"
+		name_internal = "Heavy Topknot"
+		model = "models/workshop_partner/player/items/heavy/heavy_shogun_topknot/heavy_shogun_topknot.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/heavy_shogun_topknot/heavy_shogun_topknot"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[359] = {
 		name = "The Samur-Eye"
+		name_internal = "Demo Kabuto"
+		model = "models/workshop_partner/player/items/demo/demo_shogun_kabuto/demo_shogun_kabuto.mdl"
+		image = "backpack/workshop_partner/player/items/demo/demo_shogun_kabuto/demo_shogun_kabuto"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[360] = {
 		name = "Hero's Hachimaki"
+		name_internal = "Hero's Hachimaki"
+		model = "models/player/items/soldier/homefront_blindfold.mdl"
+		image = "backpack/player/items/soldier/homefront_blindfold"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[361] = {
 		name = "The Noh Mercy"
+		name_internal = "Spy Oni Mask"
+		model = "models/workshop_partner/player/items/spy/shogun_ninjamask/shogun_ninjamask.mdl"
+		image = "backpack/workshop_partner/player/items/spy/shogun_ninjamask/shogun_ninjamask"
 		classes = [TF_CLASS_SPY]
 	},
 	[363] = {
 		name = "The Geisha Boy"
+		name_internal = "Medic Geisha Hair"
+		model = "models/workshop_partner/player/items/medic/shogun_geishahair/shogun_geishahair.mdl"
+		image = "backpack/workshop_partner/player/items/medic/shogun_geishahair/shogun_geishahair"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[377] = {
 		name = "Hottie's Hoodie"
+		name_internal = "Hottie's Hoodie"
+		model = "models/player/items/pyro/hotties_hoodie.mdl"
+		image = "backpack/player/items/pyro/hotties_hoodie"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[378] = {
 		name = "The Team Captain"
+		name_internal = "The Team Captain"
+		model = "models/player/items/Scout/Scout_officer.mdl"
+		image = "backpack/player/items/soldier/soldier_officer"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_MEDIC TF_CLASS_HEAVY]
 	},
 	[379] = {
 		name = "Western Wear"
+		name_internal = "Western Wear"
+		model = "models/player/items/engineer/engineer_top_hat.mdl"
+		image = "backpack/player/items/engineer/engineer_top_hat"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[380] = {
 		name = "Large Luchadore"
+		name_internal = "Large Luchadore"
+		model = "models/player/items/heavy/wrestling_mask.mdl"
+		image = "backpack/player/items/heavy/wrestling_mask"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["El Macho" "El Amor Ardiente" "El Picante Grande"]
 	},
 	[381] = {
 		name = "Medic's Mountain Cap"
+		name_internal = "Medic's Mountain Cap"
+		model = "models/workshop/player/items/medic/fieldcap/fieldcap.mdl"
+		image = "backpack/workshop/player/items/medic/fieldcap/fieldcap"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[382] = {
 		name = "Big Country"
+		name_internal = "Big Country"
+		model = "models/player/items/engineer/mullet_hat.mdl"
+		image = "backpack/player/items/crafting/mullet_hat_icon"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Nelson" "Brooks"]
 	},
 	[383] = {
 		name = "Grimm Hatte"
+		name_internal = "Grimm Hatte"
+		model = "models/workshop/player/items/medic/grimm_hatte/grimm_hatte.mdl"
+		image = "backpack/workshop/player/items/medic/grimm_hatte/grimm_hatte"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[384] = {
 		name = "Professor's Peculiarity"
+		name_internal = "Professor's Peculiarity"
+		model = "models/player/items/engineer/professor_hair.mdl"
+		image = "backpack/player/items/crafting/professor_hair_icon"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Manic" "Tamed"]
 	},
 	[386] = {
 		name = "Teddy Roosebelt"
+		name_internal = "Teddy Roosebelt"
+		model = "models/player/items/engineer/teddy_roosebelt.mdl"
+		image = "backpack/player/items/engineer/teddy_roosebelt"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[387] = {
 		name = "Sight for Sore Eyes"
+		name_internal = "Sight for Sore Eyes"
+		model = "models/player/items/pyro/sore_eyes.mdl"
+		image = "backpack/player/items/pyro/sore_eyes"
 		classes = [TF_CLASS_PYRO]
 	},
 	[388] = {
 		name = "Private Eye"
+		name_internal = "Private Eye"
+		model = "models/player/items/spy/spy_private_eye.mdl"
+		image = "backpack/player/items/spy/spy_private_eye"
 		classes = [TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_SPY]
 	},
 	[389] = {
 		name = "Googly Gazer"
+		name_internal = "Googly Gazer"
+		model = "models/player/items/engineer/mad_eye.mdl"
+		image = "backpack/player/items/engineer/mad_eye"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Mad Science" "Machine in the Man"]
 	},
 	[390] = {
 		name = "Reggaelator"
+		name_internal = "Reggaelator"
+		model = "models/player/items/demo/demo_dreads.mdl"
+		image = "backpack/player/items/demo/demo_dreads"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Original" "Burst" "Bones" "Designer"]
 	},
 	[391] = {
 		name = "Honcho's Headgear"
+		name_internal = "Honcho's Headgear"
+		model = "models/player/items/soldier/honchos_headgear.mdl"
+		image = "backpack/player/items/soldier/honchos_headgear"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[392] = {
 		name = "Pocket Medic"
+		name_internal = "Pocket Medic"
+		model = "models/player/items/soldier/fwk_soldier_pocketmedic.mdl"
+		image = "backpack/player/items/heavy/pocket_medic"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_HEAVY]
 	},
 	[393] = {
 		name = "Villain's Veil"
+		name_internal = "Villain's Veil"
+		model = "models/player/items/sniper/kerch.mdl"
+		image = "backpack/player/items/sniper/kerch"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Hired Gun" "Smooth Assassin" "Trained Killer"]
 	},
 	[394] = {
 		name = "Connoisseur's Cap"
+		name_internal = "Connoisseur's Cap"
+		model = "models/player/items/pyro/pyro_chef_hat.mdl"
+		image = "backpack/player/items/pyro/pyro_chef_hat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[395] = {
 		name = "Furious Fukaamigasa"
+		name_internal = "Furious Fukaamigasa"
+		model = "models/player/items/soldier/asian_merc.mdl"
+		image = "backpack/player/items/soldier/asian_merc"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[397] = {
 		name = "Charmer's Chapeau"
+		name_internal = "Charmer's Chapeau"
+		model = "models/player/items/spy/spy_charmers_chapeau.mdl"
+		image = "backpack/player/items/spy/spy_charmers_chapeau"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[398] = {
 		name = "Doctor's Sack"
+		name_internal = "Doctor's Sack"
+		model = "models/player/items/medic/icepack.mdl"
+		image = "backpack/player/items/medic/icepack"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[399] = {
 		name = "Ol' Geezer"
+		name_internal = "Ol' Geezer"
+		model = "models/player/items/engineer/prospector_hat.mdl"
+		image = "backpack/player/items/engineer/prospector_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[400] = {
 		name = "Desert Marauder"
+		name_internal = "Desert Marauder"
+		model = "models/player/items/sniper/desert_marauder.mdl"
+		image = "backpack/player/items/sniper/desert_marauder"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[403] = {
 		name = "Sultan's Ceremonial"
-		classes = [TF_CLASS_DEMOMAN]
-	},
-	[405] = {
-		name = "Ali Baba's Wee Booties"
+		name_internal = "Sultan's Ceremonial"
+		model = "models/player/items/demo/demo_sultan_hat.mdl"
+		image = "backpack/player/items/demo/demo_sultan_hat"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[408] = {
 		name = "Humanitarian's Hachimaki"
+		name_internal = "Humanitarian's Hachimaki"
+		model = "models/player/items/Scout/japan_hachimaki.mdl"
+		image = "backpack/player/items/all_class/japan_hachimaki"
 	},
 	[409] = {
 		name = "Benefactor's Kanmuri"
+		name_internal = "Benefactor's Kanmuri"
+		model = "models/player/items/Scout/japan_hat.mdl"
+		image = "backpack/player/items/all_class/japan_hat"
 	},
 	[410] = {
 		name = "Magnanimous Monarch"
+		name_internal = "Mangnanimous Monarch"
+		model = "models/player/items/Scout/japan_hat_monarch.mdl"
+		image = "backpack/player/items/all_class/japan_hat_monarch"
 	},
 	[417] = {
 		name = "Jumper's Jeepcap"
+		name_internal = "Jumper's Jeepcap"
+		model = "models/player/items/soldier/soldier_jeepcap.mdl"
+		image = "backpack/player/items/soldier/soldier_jeepcap"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[420] = {
 		name = "Aperture Labs Hard Hat"
+		name_internal = "Potato Hat"
+		model = "models/player/items/Scout/hardhat.mdl"
+		image = "backpack/player/items/all_class/hardhat"
 		paint = true
 		styles = ["[classified]" "Aperture Logo"]
 	},
 	[422] = {
 		name = "Resurrection Associate Pin"
+		name_internal = "Resurrection Associate Pin"
+		model = "models/player/items/all_class/p2_pin.mdl"
+		image = "backpack/player/items/all_class/p2_pin"
 	},
 	[427] = {
 		name = "The Capo's Capper"
+		name_internal = "Capone's Capper"
+		model = "models/player/items/heavy/capones_capper.mdl"
+		image = "backpack/player/items/heavy/capones_capper"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[432] = {
 		name = "SpaceChem Pin"
+		name_internal = "SpaceChem Pin"
+		model = "models/player/items/all_class/spacechem_pin.mdl"
+		image = "backpack/player/items/all_class/spacechem_pin"
 	},
 	[434] = {
 		name = "Brain Bucket"
+		name_internal = "Bucket Hat"
+		model = "models/player/items/soldier/bucket.mdl"
+		image = "backpack/player/items/soldier/bucket"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[435] = {
 		name = "The Dead Cone"
+		name_internal = "Traffic Cone"
+		model = "models/player/items/pyro/traffic_cone.mdl"
+		image = "backpack/player/items/pyro/traffic_cone"
 		classes = [TF_CLASS_PYRO]
 	},
 	[436] = {
 		name = "The Hetman's Headpiece"
+		name_internal = "Polish War Babushka"
+		model = "models/player/items/engineer/mbsf_engineer.mdl"
+		image = "backpack/player/items/engineer/mbsf_engineer"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[437] = {
 		name = "The Janissary Ketche"
+		name_internal = "Janissary Hat"
+		model = "models/player/items/spy/mbsf_spy.mdl"
+		image = "backpack/player/items/spy/mbsf_spy"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[439] = {
 		name = "Lord Cockswain's Pith Helmet"
+		name_internal = "Lord Cockswain's Pith Helmet"
+		model = "models/player/items/soldier/drg_pith_hat.mdl"
+		image = "backpack/player/items/soldier/drg_pith_hat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[440] = {
 		name = "Lord Cockswain's Novelty Mutton Chops and Pipe"
+		name_internal = "Lord Cockswain's Novelty Mutton Chops and Pipe"
+		model = "models/player/items/soldier/drg_hair_beard.mdl"
+		image = "backpack/player/items/crafting/drg_hair_beard_icon"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Helmet" "No Helmet"]
 	},
 	[443] = {
 		name = "Dr. Grordbort's Crest"
-	},
-	[444] = {
-		name = "The Mantreads"
-		classes = [TF_CLASS_SOLDIER]
+		name_internal = "Dr. Grordbort's Crest"
+		model = "models/player/items/all_class/drg_badge.mdl"
+		image = "backpack/player/items/all_class/drg_badge"
 	},
 	[445] = {
 		name = "Armored Authority"
+		name_internal = "Armored Authority"
+		model = "models/player/items/soldier/armored_authority.mdl"
+		image = "backpack/player/items/soldier/armored_authority"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[446] = {
 		name = "Fancy Dress Uniform"
+		name_internal = "Fancy Dress Uniform"
+		model = "models/player/items/soldier/fdu.mdl"
+		image = "backpack/player/items/soldier/fdu"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[451] = {
 		name = "Bonk Boy"
+		name_internal = "Bonk Boy"
+		model = "models/workshop/player/items/scout/bonk_mask/bonk_mask.mdl"
+		image = "backpack/workshop/player/items/scout/bonk_mask/bonk_mask"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Aerodynamic Classic" "Tuned In"]
 	},
 	[453] = {
 		name = "The Hero's Tail"
+		name_internal = "Hero's Tail"
+		model = "models/player/items/scout/scout_hair.mdl"
+		image = "backpack/player/items/crafting/scout_hair_icon"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Pigmentation Lost" "Pigmentation Gained"]
 	},
 	[454] = {
 		name = "Sign of the Wolf's School"
+		name_internal = "Sign of the Wolf's School"
+		model = "models/player/items/scout/scout_medallion.mdl"
+		image = "backpack/player/items/scout/scout_medallion"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[459] = {
 		name = "Cosa Nostra Cap"
+		name_internal = "Cosa Nostra Cap"
+		model = "models/player/items/spy/spy_gang_cap.mdl"
+		image = "backpack/player/items/spy/spy_gang_cap"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[462] = {
 		name = "The Made Man"
+		name_internal = "The Made Man"
+		model = "models/player/items/spy/spy_rose.mdl"
+		image = "backpack/player/items/spy/spy_rose"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[465] = {
 		name = "The Conjurer's Cowl"
+		name_internal = "Conjurer's Cowl"
+		model = "models/player/items/demo/demo_hood.mdl"
+		image = "backpack/player/items/demo/demo_hood"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[467] = {
 		name = "The Planeswalker Helm"
+		name_internal = "Medic MtG Hat"
+		model = "models/player/items/medic/medic_mtg.mdl"
+		image = "backpack/player/items/medic/medic_mtg"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[468] = {
 		name = "The Planeswalker Goggles"
+		name_internal = "Scout MtG Hat"
+		model = "models/player/items/scout/scout_mtg.mdl"
+		image = "backpack/player/items/scout/scout_mtg"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[470] = {
 		name = "The Lo-Fi Longwave"
+		name_internal = "Lo-Fi Longwave"
+		model = "models/player/items/Scout/hardhat_tower.mdl"
+		image = "backpack/player/items/demo/hardhat_tower"
 		paint = true
 	},
 	[471] = {
 		name = "The Proof of Purchase"
+		name_internal = "Loyalty Reward"
+		model = "models/player/items/Scout/veteran_hat.mdl"
+		image = "backpack/player/items/all_class/veteran_hat"
 	},
 	[473] = {
 		name = "The Spiral Sallet"
+		name_internal = "Spiral Sallet"
+		model = "models/player/items/Scout/Scout_spiral.mdl"
+		image = "backpack/player/items/soldier/soldier_spiral"
 	},
 	[478] = {
 		name = "Copper's Hard Top"
+		name_internal = "Copper's Hard Top"
+		model = "models/player/items/heavy/cop_helmet.mdl"
+		image = "backpack/player/items/heavy/cop_helmet"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["Peacekeeper" "Lawless"]
 	},
 	[479] = {
 		name = "Security Shades"
+		name_internal = "Security Shades"
+		model = "models/player/items/heavy/cop_glasses.mdl"
+		image = "backpack/player/items/heavy/cop_glasses"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[480] = {
 		name = "Tam O' Shanter"
+		name_internal = "Tam O'Shanter"
+		model = "models/player/items/demo/tamoshanter.mdl"
+		image = "backpack/player/items/demo/tamoshanter"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[481] = {
 		name = "Stately Steel Toe"
+		name_internal = "Stately Steel Toe"
+		model = "models/player/items/pyro/boot_hat.mdl"
+		image = "backpack/player/items/pyro/boot_hat"
 		classes = [TF_CLASS_PYRO]
 	},
 	[483] = {
 		name = "Rogue's Col Roule"
+		name_internal = "Rogue's Col Roule"
+		model = "models/player/items/spy/tneck.mdl"
+		image = "backpack/player/items/crafting/tneck_backpack_icon"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[484] = {
 		name = "Prairie Heel Biters"
+		name_internal = "Prairie Heel Biters"
+		model = "models/player/items/engineer/spurs.mdl"
+		image = "backpack/player/items/crafting/spurs_backpack_icon"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[485] = {
 		name = "The Big Steel Jaw of Summer Fun"
+		name_internal = "Big Steel Jaw of Summer Fun"
+		model = "models/player/items/heavy/big_jaw.mdl"
+		image = "backpack/player/items/heavy/big_jaw"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[486] = {
 		name = "Summer Shades"
+		name_internal = "Summer Shades"
+		model = "models/player/items/Scout/summer_shades.mdl"
+		image = "backpack/player/items/all_class/summer_shades"
 		paint = true
 	},
 	[490] = {
 		name = "Flip-Flops"
+		name_internal = "Scout Flip-Flops"
+		model = "models/player/items/scout/flipflops.mdl"
+		image = "backpack/player/items/scout/flipflops"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[491] = {
 		name = "Lucky No. 42"
+		name_internal = "Lucky No. 42"
+		model = "models/player/items/scout/summer_pack.mdl"
+		image = "backpack/player/items/scout/summer_pack"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[492] = {
 		name = "Summer Hat"
+		name_internal = "Summer Hat"
+		model = "models/player/items/Scout/summer_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/summer_hat_demo"
 		paint = true
 		styles = ["A Day at the Beach" "Carefree Summer Nap"]
 	},
 	[514] = {
 		name = "The Mask of the Shaman"
+		name_internal = "Mask of the Shaman"
+		model = "models/player/items/demo/dust_mask.mdl"
+		image = "backpack/player/items/demo/dust_mask"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[515] = {
 		name = "The Pilotka"
+		name_internal = "Pilotka"
+		model = "models/player/items/heavy/ro_pilotka.mdl"
+		image = "backpack/player/items/heavy/ro_pilotka"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[516] = {
 		name = "The Stahlhelm"
+		name_internal = "Stahlhelm"
+		model = "models/player/items/soldier/ro_helmet.mdl"
+		image = "backpack/player/items/soldier/ro_helmet"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[517] = {
 		name = "The Dragonborn Helmet"
+		name_internal = "Dragonborn Helmet"
+		model = "models/workshop_partner/player/items/heavy/skyrim_helmet/skyrim_helmet.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/skyrim_helmet/skyrim_helmet"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[518] = {
 		name = "The Anger"
+		name_internal = "The Anger"
+		model = "models/workshop_partner/player/items/sniper/c_bet_brinkhood/c_bet_brinkhood.mdl"
+		image = "backpack/workshop_partner/player/items/sniper/c_bet_brinkhood/c_bet_brinkhood"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[519] = {
 		name = "Pip-Boy"
+		name_internal = "Pip-Boy"
+		model = "models/workshop_partner/player/items/engineer/bet_pb/bet_pb.mdl"
+		image = "backpack/workshop_partner/player/items/engineer/bet_pb/bet_pb"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[520] = {
 		name = "The Wingstick"
+		name_internal = "Wingstick"
+		model = "models/workshop_partner/player/items/engineer/bet_wingstick/bet_wingstick.mdl"
+		image = "backpack/workshop_partner/player/items/engineer/bet_wingstick/bet_wingstick"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[521] = {
 		name = "The Nanobalaclava"
+		name_internal = "Belltower Spec Ops"
+		model = "models/workshop_partner/player/items/spy/dex_belltower/dex_belltower.mdl"
+		image = "backpack/workshop_partner/player/items/spy/dex_belltower/dex_belltower"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[522] = {
 		name = "The Deus Specs"
+		name_internal = "The Deus Specs"
+		model = "models/workshop_partner/player/items/all_class/dex_glasses/dex_glasses_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/dex_glasses/dex_glasses"
 	},
 	[523] = {
 		name = "The Company Man"
+		name_internal = "The Sarif Cap"
+		model = "models/workshop_partner/player/items/Scout/dex_hat_Scout/dex_hat_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/dex_hat/dex_hat"
 	},
 	[524] = {
 		name = "The Purity Fist"
+		name_internal = "The Purity Fist"
+		model = "models/workshop_partner/player/items/heavy/dex_sarifarm/dex_sarifarm.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/dex_sarifarm/dex_sarifarm"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[533] = {
 		name = "Clockwerk's Helm"
+		name_internal = "Clockwerk's Helm"
+		model = "models/player/items/engineer/clockwerk_hat.mdl"
+		image = "backpack/player/items/engineer/clockwerk_hat"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[534] = {
 		name = "Sniper's Snipin' Glass"
+		name_internal = "Sniper's Snipin' Glass"
+		model = "models/player/items/sniper/dotasniper_hat.mdl"
+		image = "backpack/player/items/sniper/dotasniper_hat"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[535] = {
 		name = "Storm Spirit's Jolly Hat"
+		name_internal = "Storm Spirit's Jolly Hat"
+		model = "models/player/items/heavy/stormspirit_hat.mdl"
+		image = "backpack/player/items/heavy/stormspirit_hat"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[537] = {
 		name = "Party Hat"
+		name_internal = "TF Birthday Hat 2011"
+		model = "models/player/items/all_class/bdayhat_Scout.mdl"
+		image = "backpack/player/items/all_class/bdayhat_heavy"
 		paint = true
 	},
 	[538] = {
 		name = "The Killer Exclusive"
+		name_internal = "Killer Exclusive"
+		model = "models/player/items/all_class/pcg_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/pcg_hat_engineer"
 		paint = true
 	},
 	[539] = {
 		name = "The El Jefe"
+		name_internal = "The El Jefe"
+		model = "models/player/items/scout/rebel_cap.mdl"
+		image = "backpack/player/items/scout/rebel_cap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[540] = {
 		name = "The Ball-Kicking Boots"
+		name_internal = "Ball-Kicking Boots"
+		model = "models/workshop_partner/player/items/scout/fm2012_cleats/fm2012_cleats.mdl"
+		image = "backpack/workshop_partner/player/items/scout/fm2012_cleats/fm2012_cleats"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[541] = {
 		name = "The Merc's Pride Scarf"
+		name_internal = "Merc's Pride Scarf"
+		model = "models/workshop_partner/player/items/Scout/scarf_soccer/scarf_soccer.mdl"
+		image = "backpack/workshop_partner/player/items/demo/scarf_soccer/scarf_soccer"
 	},
 	[543] = {
 		name = "The Hair of the Dog"
+		name_internal = "Hair of the Dog"
+		model = "models/player/items/demo/hwn_demo_hat.mdl"
+		image = "backpack/player/items/demo/hwn_demo_hat"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[544] = {
 		name = "The Scottish Snarl"
+		name_internal = "Scottish Snarl"
+		model = "models/player/items/demo/hwn_demo_misc1.mdl"
+		image = "backpack/player/items/demo/hwn_demo_misc1"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[545] = {
 		name = "The Pickled Paws"
+		name_internal = "Pickled Paws"
+		model = "models/player/items/demo/hwn_demo_misc2.mdl"
+		image = "backpack/player/items/demo/hwn_demo_misc2"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[546] = {
 		name = "The Wrap Battler"
+		name_internal = "Wrap Battler"
+		model = "models/player/items/scout/hwn_scout_hat.mdl"
+		image = "backpack/player/items/scout/hwn_scout_hat"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[547] = {
 		name = "B-ankh!"
+		name_internal = "B-ankh!"
+		model = "models/player/items/scout/hwn_scout_misc1.mdl"
+		image = "backpack/player/items/scout/hwn_scout_misc1"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[548] = {
 		name = "The Futankhamun"
+		name_internal = "Futankhamun"
+		model = "models/player/items/scout/hwn_scout_misc2.mdl"
+		image = "backpack/player/items/scout/hwn_scout_misc2"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[549] = {
 		name = "The Blazing Bull"
+		name_internal = "Blazing Bull"
+		model = "models/player/items/pyro/hwn_pyro_hat.mdl"
+		image = "backpack/player/items/pyro/hwn_pyro_hat"
 		classes = [TF_CLASS_PYRO]
 	},
 	[550] = {
 		name = "The Fallen Angel"
+		name_internal = "Fallen Angel"
+		model = "models/player/items/pyro/hwn_pyro_misc1.mdl"
+		image = "backpack/player/items/pyro/hwn_pyro_misc1"
 		classes = [TF_CLASS_PYRO]
 	},
 	[551] = {
 		name = "Tail from the Crypt"
+		name_internal = "Tail From the Crypt"
+		model = "models/player/items/pyro/hwn_pyro_misc2.mdl"
+		image = "backpack/player/items/pyro/hwn_pyro_misc2"
 		classes = [TF_CLASS_PYRO]
 	},
 	[552] = {
 		name = "The Einstein"
+		name_internal = "Einstein"
+		model = "models/player/items/medic/hwn_medic_hat.mdl"
+		image = "backpack/player/items/medic/hwn_medic_hat"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[553] = {
 		name = "Dr. Gogglestache"
+		name_internal = "Dr. Gogglestache"
+		model = "models/player/items/medic/hwn_medic_misc1.mdl"
+		image = "backpack/player/items/medic/hwn_medic_misc1"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[554] = {
 		name = "The Emerald Jarate"
+		name_internal = "Emerald Jarate"
+		model = "models/player/items/medic/hwn_medic_misc2.mdl"
+		image = "backpack/player/items/medic/hwn_medic_misc2"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[555] = {
 		name = "The Idiot Box"
+		name_internal = "Idiot Box"
+		model = "models/player/items/soldier/hwn_soldier_hat.mdl"
+		image = "backpack/player/items/soldier/hwn_soldier_hat"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[556] = {
 		name = "The Steel Pipes"
+		name_internal = "Steel Pipes"
+		model = "models/player/items/soldier/hwn_soldier_misc1.mdl"
+		image = "backpack/player/items/soldier/hwn_soldier_misc1"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[557] = {
 		name = "The Shoestring Budget"
+		name_internal = "Shoestring Budget"
+		model = "models/player/items/soldier/hwn_soldier_misc2.mdl"
+		image = "backpack/player/items/soldier/hwn_soldier_misc2"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[558] = {
 		name = "The Under Cover"
+		name_internal = "Under Cover"
+		model = "models/player/items/spy/hwn_spy_hat.mdl"
+		image = "backpack/player/items/spy/hwn_spy_hat"
 		classes = [TF_CLASS_SPY]
 	},
 	[559] = {
 		name = "Griffin's Gog"
+		name_internal = "Griffin's Gog"
+		model = "models/player/items/spy/hwn_spy_misc1.mdl"
+		image = "backpack/player/items/spy/hwn_spy_misc1"
 		classes = [TF_CLASS_SPY]
 	},
 	[560] = {
 		name = "The Intangible Ascot"
+		name_internal = "Intangible Ascot"
+		model = "models/player/items/spy/hwn_spy_misc2.mdl"
+		image = "backpack/player/items/spy/hwn_spy_misc2"
 		classes = [TF_CLASS_SPY]
 	},
 	[561] = {
 		name = "The Can Opener"
+		name_internal = "Can Opener"
+		model = "models/player/items/heavy/hwn_heavy_hat.mdl"
+		image = "backpack/player/items/heavy/hwn_heavy_hat"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[562] = {
 		name = "The Soviet Stitch-Up"
+		name_internal = "Soviet Stitch-Up"
+		model = "models/player/items/heavy/hwn_heavy_misc1.mdl"
+		image = "backpack/player/items/heavy/hwn_heavy_misc1"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[563] = {
 		name = "The Steel-Toed Stompers"
+		name_internal = "Steel-Toed Stompers"
+		model = "models/player/items/heavy/hwn_heavy_misc2.mdl"
+		image = "backpack/player/items/heavy/hwn_heavy_misc2"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[564] = {
 		name = "The Holy Hunter"
+		name_internal = "Holy Hunter"
+		model = "models/player/items/sniper/hwn_sniper_hat.mdl"
+		image = "backpack/player/items/sniper/hwn_sniper_hat"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[565] = {
 		name = "Silver Bullets"
+		name_internal = "Silver Bullets"
+		model = "models/player/items/sniper/hwn_sniper_misc1.mdl"
+		image = "backpack/player/items/sniper/hwn_sniper_misc1"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[566] = {
 		name = "Garlic Flank Stake"
+		name_internal = "Garlic Flank Stake"
+		model = "models/player/items/sniper/hwn_sniper_misc2.mdl"
+		image = "backpack/player/items/sniper/hwn_sniper_misc2"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[567] = {
 		name = "The Buzz Killer"
+		name_internal = "Buzz Killer"
+		model = "models/player/items/engineer/hwn_engineer_hat.mdl"
+		image = "backpack/player/items/engineer/hwn_engineer_hat"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[568] = {
 		name = "The Frontier Flyboy"
+		name_internal = "Frontier Flyboy"
+		model = "models/player/items/engineer/hwn_engineer_misc1.mdl"
+		image = "backpack/player/items/engineer/hwn_engineer_misc1"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[569] = {
 		name = "The Legend of Bugfoot"
+		name_internal = "Legend of Bugfoot"
+		model = "models/player/items/engineer/hwn_engineer_misc2.mdl"
+		image = "backpack/player/items/engineer/hwn_engineer_misc2"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[570] = {
 		name = "The Last Breath"
+		name_internal = "The Last Breath"
+		model = "models/workshop/player/items/pyro/pyro_halloween_gasmask/pyro_halloween_gasmask.mdl"
+		image = "backpack/workshop/player/items/pyro/pyro_halloween_gasmask/pyro_halloween_gasmask"
 		classes = [TF_CLASS_PYRO]
 	},
 	[571] = {
 		name = "Apparition's Aspect"
+		name_internal = "Apparition's Aspect"
+		model = "models/workshop/player/items/pyro/ghost_aspect/ghost_aspect.mdl"
+		image = "backpack/workshop/player/items/pyro/ghost_aspect/ghost_aspect"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[575] = {
 		name = "The Infernal Impaler"
+		name_internal = "The Infernal Impaler"
+		model = "models/workshop/player/items/soldier/infernal_impaler/infernal_impaler.mdl"
+		image = "backpack/workshop/player/items/soldier/infernal_impaler/infernal_impaler"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[576] = {
 		name = "The Spine-Chilling Skull 2011"
+		name_internal = "Spine-Chilling Skull 2011"
+		model = "models/player/items/Scout/skull_horns_b.mdl"
+		image = "backpack/player/items/all_class/skull_horns_b"
 		paint = true
 		styles = ["Spine-Tingling" "Spine-Cooling" "Spine-Twisting"]
 	},
 	[578] = {
 		name = "The Spine-Tingling Skull"
+		name_internal = "Spine-Chilling Skull 2011 Style 1"
+		model = "models/player/items/Scout/skull_horns_b.mdl"
+		image = "backpack/player/items/all_class/skull_horns_b"
 		paint = true
 	},
 	[579] = {
 		name = "The Spine-Cooling Skull"
+		name_internal = "Spine-Chilling Skull 2011 Style 2"
+		model = "models/player/items/Scout/skull_horns_b2.mdl"
+		image = "backpack/player/items/all_class/skull_horns_b2"
 		paint = true
 	},
 	[580] = {
 		name = "The Spine-Twisting Skull"
+		name_internal = "Spine-Chilling Skull 2011 Style 3"
+		model = "models/player/items/Scout/skull_horns_b3.mdl"
+		image = "backpack/player/items/all_class/skull_horns_b3"
 		paint = true
 	},
 	[581] = {
 		name = "The MONOCULUS!"
+		name_internal = "MONOCULUS!"
+		model = "models/player/items/all_class/haunted_eyeball_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/haunted_eyeball_hat"
 	},
 	[582] = {
 		name = "The Seal Mask"
+		name_internal = "Seal Mask"
+		model = "models/player/items/all_class/seal_mask_Scout.mdl"
+		image = "backpack/player/items/all_class/seal_mask_demo"
 	},
 	[583] = {
 		name = "The Bombinomicon"
+		name_internal = "Bombinomicon"
+		model = "models/player/items/all_class/bombonomicon.mdl"
+		image = "backpack/player/items/all_class/bombonomicon"
 	},
 	[584] = {
 		name = "Ghastly Gibus"
+		name_internal = "Ghastly Gibus 2011"
+		model = "models/player/items/all_class/all_domination_Scout.mdl"
+		image = "backpack/player/items/all_class/all_domination"
 		paint = true
 		styles = ["Ghastly" "Ghostly"]
 	},
 	[585] = {
 		name = "The Cold War Luchador"
+		name_internal = "Cold War Luchador"
+		model = "models/player/items/heavy/sr3_heavy_mask.mdl"
+		image = "backpack/player/items/heavy/sr3_heavy_mask"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[586] = {
 		name = "The Mark of the Saint"
+		name_internal = "Mark of the Saint"
+		model = "models/player/items/all_class/sr3_badge.mdl"
+		image = "backpack/player/items/all_class/sr3_badge"
 	},
 	[590] = {
 		name = "The Brainiac Hairpiece"
+		name_internal = "The Brainiac Hairpiece"
+		model = "models/player/items/engineer/drg_brainiac_hair.mdl"
+		image = "backpack/player/items/engineer/drg_brainiac_hair"
 		classes = [TF_CLASS_ENGINEER]
 		styles = ["With Helmet" "Without Helmet"]
 	},
 	[591] = {
 		name = "The Brainiac Goggles"
+		name_internal = "The Brainiac Goggles"
+		model = "models/player/items/engineer/drg_brainiac_goggles.mdl"
+		image = "backpack/player/items/engineer/drg_brainiac_goggles"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[592] = {
 		name = "Dr. Grordbort's Copper Crest"
+		name_internal = "Dr. Grordbort's Copper Crest"
+		model = "models/player/items/all_class/drg_badge.mdl"
+		image = "backpack/player/items/all_class/drg_badge_copper"
 	},
 	[596] = {
 		name = "The Moonman Backpack"
+		name_internal = "The Moonman Backpack"
+		model = "models/player/items/pyro/drg_pyro_fuelTank.mdl"
+		image = "backpack/player/items/pyro/drg_pyro_fueltank"
 		classes = [TF_CLASS_PYRO]
 	},
 	[597] = {
 		name = "The Bubble Pipe"
+		name_internal = "The Bubble Pipe"
+		model = "models/player/items/pyro/drg_pyro_bubbleHelmet.mdl"
+		image = "backpack/player/items/pyro/drg_pyro_bubblehelmet"
 		classes = [TF_CLASS_PYRO]
 	},
 	[598] = {
 		name = "The Manniversary Paper Hat"
+		name_internal = "Manniversary Paper Hat"
+		model = "models/player/items/Scout/paper_hat.mdl"
+		image = "backpack/player/items/all_class/paper_hat"
 	},
 	[600] = {
 		name = "Your Worst Nightmare"
+		name_internal = "Your Worst Nightmare"
+		model = "models/workshop/player/items/sniper/fwk_sniper_bandanahair/fwk_sniper_bandanahair.mdl"
+		image = "backpack/workshop/player/items/sniper/fwk_sniper_bandanahair/fwk_sniper_bandanahair"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[601] = {
 		name = "The One-Man Army"
+		name_internal = "The One-Man Army"
+		model = "models/workshop/player/items/heavy/fwk_heavy_bandanahair/fwk_heavy_bandanahair.mdl"
+		image = "backpack/workshop/player/items/heavy/fwk_heavy_bandanahair/fwk_heavy_bandanahair"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[602] = {
 		name = "The Counterfeit Billycock"
+		name_internal = "The Counterfeit Billycock"
+		model = "models/player/items/spy/fwk_spy_disguisedhat.mdl"
+		image = "backpack/player/items/spy/fwk_spy_disguisedhat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[603] = {
 		name = "The Outdoorsman"
+		name_internal = "The Outdoorsman"
+		model = "models/player/items/heavy/fwk_heavy_lumber.mdl"
+		image = "backpack/player/items/heavy/fwk_heavy_lumber"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[604] = {
 		name = "The Tavish DeGroot Experience"
+		name_internal = "The Tavish DeGroot Experience"
+		model = "models/player/items/demo/fwk_demo_sashhat.mdl"
+		image = "backpack/player/items/demo/fwk_demo_sashhat"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[605] = {
 		name = "The Pencil Pusher"
+		name_internal = "The Pencil Pusher"
+		model = "models/player/items/engineer/heavy_thinker.mdl"
+		image = "backpack/player/items/all_class/heavy_thinker"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[606] = {
 		name = "The Builder's Blueprints"
+		name_internal = "The Builder's Blueprints"
+		model = "models/player/items/engineer/fwk_engineer_blueprints.mdl"
+		image = "backpack/player/items/engineer/fwk_engineer_blueprints"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[607] = {
 		name = "The Buccaneer's Bicorne"
+		name_internal = "The Buccaneer's Bicorne"
+		model = "models/player/items/demo/mighty_pirate.mdl"
+		image = "backpack/player/items/demo/mightypirate"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
-	[608] = {
-		name = "The Bootlegger"
-		classes = [TF_CLASS_DEMOMAN]
-	},
 	[610] = {
 		name = "A Whiff of the Old Brimstone"
+		name_internal = "A Whiff of the Old Brimstone"
+		model = "models/player/items/demo/demo_bombs.mdl"
+		image = "backpack/player/items/demo/bombs"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[611] = {
 		name = "The Salty Dog"
+		name_internal = "The Salty Dog"
+		model = "models/workshop/player/items/all_class/fwk_seacaptain/fwk_seacaptain_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fwk_seacaptain/fwk_seacaptain"
 		paint = true
 		styles = ["Salty" "Smoky"]
 	},
 	[612] = {
 		name = "The Little Buddy"
+		name_internal = "The Little Buddy"
+		model = "models/player/items/pyro/fwk_pyro_sailor.mdl"
+		image = "backpack/player/items/pyro/fwk_pyro_sailor"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[613] = {
 		name = "The Gym Rat"
+		name_internal = "The Gym Rat"
+		model = "models/player/items/heavy/fwk_heavy_gym.mdl"
+		image = "backpack/player/items/heavy/fwk_heavy_gym"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[614] = {
 		name = "The Hot Dogger"
+		name_internal = "The Hot Dogger"
+		model = "models/workshop/player/items/all_class/fwk_hotdog/fwk_hotdog_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fwk_hotdog/fwk_hotdog"
 		paint = true
 	},
 	[615] = {
 		name = "The Birdcage"
+		name_internal = "The Birdcage"
+		model = "models/player/items/pyro/fwk_pyro_birdcage.mdl"
+		image = "backpack/player/items/pyro/fwk_pyro_birdcage"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[616] = {
 		name = "The Surgeon's Stahlhelm"
+		name_internal = "The Surgeon's Stahlhelm"
+		model = "models/player/items/medic/fwk_medic_stahlhelm.mdl"
+		image = "backpack/player/items/medic/fwk_medic_stahlhelm"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[617] = {
 		name = "The Backwards Ballcap"
+		name_internal = "The Backwards Ballcap"
+		model = "models/player/items/scout/fwk_scout_cap.mdl"
+		image = "backpack/player/items/scout/fwk_scout_cap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["I Can't Hear You" "Headphones Disengaged"]
 	},
 	[618] = {
 		name = "The Crocodile Smile"
+		name_internal = "The Crocodile Smile"
+		model = "models/player/items/sniper/fwk_sniper_necklace.mdl"
+		image = "backpack/player/items/sniper/fwk_sniper_necklace"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[619] = {
 		name = "Flair!"
+		name_internal = "Flair!"
+		model = "models/player/items/all_class/flair_Scout.mdl"
+		image = "backpack/player/items/all_class/flair_buttons"
 	},
 	[620] = {
 		name = "Couvre Corner"
+		name_internal = "Couvre Corner"
+		model = "models/player/items/medic/fwk_medic_pocketsquare.mdl"
+		image = "backpack/player/items/medic/fwk_medic_pocketsquare"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[621] = {
 		name = "The Surgeon's Stethoscope"
+		name_internal = "The Surgeon's Stethoscope"
+		model = "models/player/items/medic/fwk_medic_stethoscope.mdl"
+		image = "backpack/player/items/medic/fwk_medic_stethoscope"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[622] = {
 		name = "L'Inspecteur"
+		name_internal = "L'Inspecteur"
+		model = "models/player/items/spy/fwk_spy_inspector.mdl"
+		image = "backpack/player/items/spy/fwk_spy_inspector"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[623] = {
 		name = "Photo Badge"
+		name_internal = "Photo Badge"
+		model = "models/player/items/all_class/photo_badge.mdl"
+		image = "backpack/player/items/all_class/photo_badge"
 	},
 	[625] = {
 		name = "Clan Pride"
+		name_internal = "Clan Pride"
+		model = "models/player/items/all_class/stampable_medal.mdl"
+		image = "backpack/player/items/all_class/stampable_medal"
 	},
 	[626] = {
 		name = "The Swagman's Swatter"
+		name_internal = "The Swagman's Swatter"
+		model = "models/player/items/sniper/fwk_sniper_corkhat.mdl"
+		image = "backpack/player/items/sniper/fwk_sniper_corkhat"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[627] = {
 		name = "The Flamboyant Flamenco"
+		name_internal = "The Flamboyant Flamenco"
+		model = "models/player/items/pyro/fwk_pyro_flamenco.mdl"
+		image = "backpack/player/items/pyro/fwk_pyro_flamenco"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[628] = {
 		name = "The Virtual Reality Headset"
+		name_internal = "The Virtual Reality Headset"
+		model = "models/player/items/engineer/fwk_engineer_cranial.mdl"
+		image = "backpack/player/items/engineer/fwk_engineer_cranial"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[629] = {
 		name = "The Spectre's Spectacles"
+		name_internal = "The Spectre's Spectacles"
+		model = "models/player/items/spy/fwk_spy_specs.mdl"
+		image = "backpack/player/items/spy/fwk_spy_specs"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[630] = {
 		name = "The Stereoscopic Shades"
+		name_internal = "The Stereoscopic Shades"
+		model = "models/player/items/scout/fwk_scout_3d.mdl"
+		image = "backpack/player/items/scout/fwk_scout_3d"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[631] = {
 		name = "The Hat With No Name"
+		name_internal = "The Hat With No Name"
+		model = "models/workshop/player/items/all_class/fwk_cowboyhat/fwk_cowboyhat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fwk_cowboyhat/fwk_cowboyhat"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[632] = {
 		name = "The Cremator's Conscience"
+		name_internal = "The Cremator's Conscience"
+		model = "models/player/items/pyro/fwk_pyro_conscience.mdl"
+		image = "backpack/player/items/pyro/fwk_pyro_conscience"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[633] = {
 		name = "The Hermes"
+		name_internal = "The Hermes"
+		model = "models/player/items/scout/fwk_scout_provision.mdl"
+		image = "backpack/player/items/scout/fwk_scout_provision"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[634] = {
 		name = "The Point and Shoot"
+		name_internal = "Point and Shoot"
+		model = "models/player/items/all_class/trn_wiz_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/trn_wiz_hat_demo"
 	},
 	[635] = {
 		name = "The War Head"
+		name_internal = "War Head"
+		model = "models/player/items/heavy/trn_heavy_knight.mdl"
+		image = "backpack/player/items/heavy/trn_heavy_knight"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[636] = {
 		name = "Dr. Grordbort's Silver Crest"
+		name_internal = "Dr. Grordbort's Silver Crest"
+		model = "models/player/items/all_class/drg_badge.mdl"
+		image = "backpack/player/items/all_class/drg_badge_silver"
 	},
 	[637] = {
 		name = "The Dashin' Hashshashin"
+		name_internal = "The Dashin' Hashshashin"
+		model = "models/player/items/spy/acr_assassins_cowl.mdl"
+		image = "backpack/player/items/spy/acr_assassins_cowl"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[639] = {
 		name = "Dr. Whoa"
+		name_internal = "Bowtie"
+		model = "models/player/items/Scout/bowtie.mdl"
+		image = "backpack/player/items/medic/bowtie"
 		classes = [TF_CLASS_MEDIC TF_CLASS_SPY]
 		paint = true
 	},
 	[640] = {
 		name = "The Top Notch"
+		name_internal = "The Top Notch"
+		model = "models/player/items/all_class/notch_head_Scout.mdl"
+		image = "backpack/player/items/all_class/notch_head_demo"
 	},
 	[641] = {
 		name = "The Ornament Armament"
+		name_internal = "The Ornament Armament"
+		model = "models/player/items/soldier/xms_soldier_ornaments.mdl"
+		image = "backpack/player/items/soldier/xms_soldier_ornaments"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
-	[642] = {
-		name = "The Cozy Camper"
-		classes = [TF_CLASS_SNIPER]
-	},
 	[643] = {
 		name = "The Sandvich Safe"
+		name_internal = "The Sandvich Safe"
+		model = "models/player/items/heavy/xms_heavy_sandvichsafe.mdl"
+		image = "backpack/player/items/heavy/xms_heavy_sandvichsafe"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[644] = {
 		name = "The Head Warmer"
+		name_internal = "The Head Warmer"
+		model = "models/player/items/pyro/xms_pyro_parka.mdl"
+		image = "backpack/player/items/pyro/xms_pyro_parka"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[645] = {
 		name = "The Outback Intellectual"
+		name_internal = "The Outback Intellectual"
+		model = "models/player/items/sniper/xms_sniper_sweater_vest.mdl"
+		image = "backpack/player/items/sniper/xms_sniper_sweater_vest"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[646] = {
 		name = "The Itsy Bitsy Spyer"
+		name_internal = "The Itsy Bitsy Spyer"
+		model = "models/player/items/sniper/sniper_voodoospy.mdl"
+		image = "backpack/player/items/engineer/xms_engineer_voodoospy"
 		classes = [TF_CLASS_SNIPER TF_CLASS_ENGINEER]
 	},
 	[647] = {
 		name = "The All-Father"
+		name_internal = "The All-Father"
+		model = "models/workshop/player/items/all_class/xms_beard/xms_beard_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms_beard/xms_beard"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Classic" "Thunderstruck"]
 	},
 	[650] = {
 		name = "The Kringle Collection"
+		name_internal = "The Kringle Collection"
+		model = "models/player/items/soldier/xms_snowcoat.mdl"
+		image = "backpack/player/items/soldier/xms_snowcoat"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[651] = {
 		name = "The Jingle Belt"
+		name_internal = "The Jingle Belt"
+		model = "models/player/items/pyro/xms_pyro_bells.mdl"
+		image = "backpack/player/items/pyro/xms_pyro_bells"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[652] = {
 		name = "The Big Elfin Deal"
+		name_internal = "The Big Elfin Deal"
+		model = "models/workshop/player/items/scout/xms_scout_elf_hat/xms_scout_elf_hat.mdl"
+		image = "backpack/workshop/player/items/scout/xms_scout_elf_hat/xms_scout_elf_hat"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["North Pole" "South Pole"]
 	},
 	[653] = {
 		name = "The Bootie Time"
+		name_internal = "The Bootie Time"
+		model = "models/workshop/player/items/scout/xms_scout_elf_sneakers/xms_scout_elf_sneakers.mdl"
+		image = "backpack/workshop/player/items/scout/xms_scout_elf_sneakers/xms_scout_elf_sneakers"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["North Pole" "South Pole"]
 	},
 	[655] = {
 		name = "The Spirit of Giving"
+		name_internal = "Spirit Of Giving"
+		model = "models/player/items/all_class/xms_allclass_giftbadge.mdl"
+		image = "backpack/player/items/all_class/xms_allclass_giftbadge"
 	},
 	[657] = {
 		name = "The Nine-Pipe Problem"
+		name_internal = "The Nine-Pipe Problem"
+		model = "models/player/items/medic/medic_smokingpipe.mdl"
+		image = "backpack/player/items/medic/medic_smokingpipe"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Afternoon" "Evening"]
 	},
 	[666] = {
 		name = "The B.M.O.C."
+		name_internal = "The B.M.O.C."
+		model = "models/player/items/all_class/xms_santa_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/xms_santa_hat_demo"
 		paint = true
 	},
 	[667] = {
 		name = "The Holiday Headcase"
+		name_internal = "The Holiday Headcase"
+		model = "models/player/items/all_class/xms_gift_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/xms_gift_hat_demo"
 	},
 	[668] = {
 		name = "The Full Head of Steam"
+		name_internal = "The Full Head of Steam"
+		model = "models/player/items/all_class/xms_steamwhistle_Scout.mdl"
+		image = "backpack/player/items/all_class/xms_steamwhistle_spy"
 	},
 	[670] = {
 		name = "The Stocking Stuffer"
+		name_internal = "The Stocking Stuffer"
+		model = "models/player/items/engineer/xms_engineer_stocking.mdl"
+		image = "backpack/player/items/engineer/xms_engineer_stocking"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[671] = {
 		name = "The Brown Bomber"
+		name_internal = "The Brown Bomber"
+		model = "models/player/items/all_class/xms_furcap_Scout.mdl"
+		image = "backpack/player/items/all_class/xms_furcap_demo"
 		paint = true
 		styles = ["Hunter" "Hipster"]
 	},
 	[675] = {
 		name = "The Ebenezer"
+		name_internal = "The Ebenezer"
+		model = "models/player/items/all_class/xms_winter_joy_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/xms_winter_joy_hat_demo"
 		paint = true
 	},
 	[701] = {
 		name = "The Lucky Shot"
+		name_internal = "The Lucky Shot"
+		model = "models/player/items/soldier/luckyShot.mdl"
+		image = "backpack/player/items/soldier/luckyshot"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[702] = {
 		name = "The Warsworn Helmet"
+		name_internal = "The Warsworn Helmet"
+		model = "models/player/items/all_class/all_reckoning_eagonn_Scout.mdl"
+		image = "backpack/player/items/all_class/all_reckoning_eagonn_spy"
 		paint = true
 	},
 	[703] = {
 		name = "The Bolgan"
+		name_internal = "The Bolgan"
+		model = "models/player/items/all_class/all_reckoning_bolgan_demo.mdl"
+		image = "backpack/player/items/all_class/all_reckoning_bolgan_demo"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[704] = {
 		name = "The Bolgan Family Crest"
+		name_internal = "The Bolgan Family Crest"
+		model = "models/player/items/all_class/all_reckoning_badge.mdl"
+		image = "backpack/player/items/all_class/all_reckoning_badge"
 	},
 	[707] = {
 		name = "The Boston Boom-Bringer"
+		name_internal = "The Boston Boom-Bringer"
+		model = "models/player/items/scout/boombox.mdl"
+		image = "backpack/player/items/scout/boombox"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[708] = {
 		name = "Aladdin's Private Reserve"
+		name_internal = "Aladdin's Private Reserve"
+		model = "models/player/items/demo/djinn_lamp.mdl"
+		image = "backpack/player/items/demo/djinn_lamp"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[709] = {
 		name = "The Snapped Pupil"
+		name_internal = "The Snapped Pupil"
+		model = "models/player/items/demo/eyePhoto.mdl"
+		image = "backpack/player/items/demo/eyePhoto"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[711] = {
 		name = "The Dueler"
+		name_internal = "Daily Duel Winner Reward Hat"
+		model = "models/player/items/all_class/dueler_Scout.mdl"
+		image = "backpack/player/items/all_class/dueler_demo"
 		paint = true
 	},
 	[712] = {
 		name = "The Gifting Man from Gifting Land"
+		name_internal = "Daily Gift Giver Reward Hat"
+		model = "models/player/items/all_class/generous_Scout.mdl"
+		image = "backpack/player/items/all_class/generous_demo"
 		paint = true
 	},
 	[713] = {
 		name = "The Philateler"
+		name_internal = "Daily Map Stamp Reward Hat"
+		model = "models/player/items/all_class/stamper_Scout.mdl"
+		image = "backpack/player/items/all_class/stamper_demo"
 		paint = true
 	},
 	[717] = {
 		name = "The Map Maker's Medallion"
+		name_internal = "The Map Maker's Medallion"
+		model = "models/player/items/all_class/mapper_medal.mdl"
+		image = "backpack/player/items/all_class/mapper_medal"
 		paint = true
 	},
 	[718] = {
 		name = "The Merc Medal"
+		name_internal = "The Merc Medal"
+		model = "models/player/items/all_class/jag_badge.mdl"
+		image = "backpack/player/items/all_class/jag_badge"
 	},
 	[719] = {
 		name = "The Battle Bob"
+		name_internal = "The Battle Bob"
+		model = "models/player/items/soldier/jag_bob_haircut.mdl"
+		image = "backpack/player/items/soldier/jag_bob_haircut"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Without Helmet" "With Helmet"]
 	},
 	[720] = {
 		name = "The Bushman's Boonie"
+		name_internal = "The Bushman's Boonie"
+		model = "models/player/items/sniper/jag_shadow.mdl"
+		image = "backpack/player/items/sniper/jag_shadow"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[721] = {
 		name = "The Conquistador"
+		name_internal = "The Conquistador"
+		model = "models/player/items/soldier/morion.mdl"
+		image = "backpack/player/items/soldier/morion"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[722] = {
 		name = "The Fast Learner"
+		name_internal = "The Fast Learner"
+		model = "models/player/items/scout/scout_prep_shirt.mdl"
+		image = "backpack/player/items/scout/scout_prep_shirt"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Summer" "Winter"]
 	},
 	[726] = {
 		name = "Operation Steel Trap Badge"
+		name_internal = "Tour of Duty Badge Advanced 1"
+		model = "models/player/items/mvm_loot/all_class/mvm_badge.mdl"
+		image = "backpack/player/items/mvm_loot/all_class/mvm_badge"
 	},
 	[731] = {
 		name = "The Captain's Cocktails"
+		name_internal = "The Captain's Cocktails"
+		model = "models/player/items/soldier/ds_can_grenades.mdl"
+		image = "backpack/player/items/soldier/ds_can_grenades"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[732] = {
 		name = "The Helmet Without a Home"
+		name_internal = "The Helmet Without a Home"
+		model = "models/player/items/soldier/ds_football_helmet.mdl"
+		image = "backpack/player/items/soldier/ds_football_helmet"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[733] = {
 		name = "The RoBro 3000"
+		name_internal = "Pet Robro"
+		model = "models/player/items/all_class/pet_robro.mdl"
+		image = "backpack/player/items/all_class/pet_robro"
 		paint = true
 	},
 	[734] = {
 		name = "The Teufort Tooth Kicker"
+		name_internal = "The Teufort Tooth Kicker"
+		model = "models/player/items/all_class/cowboyboots_Scout.mdl"
+		image = "backpack/player/items/all_class/cowboyboots_soldier"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[738] = {
 		name = "The Balloonicorn"
+		name_internal = "Pet Balloonicorn"
+		model = "models/player/items/all_class/pet_balloonicorn.mdl"
+		image = "backpack/player/items/all_class/pet_balloonicorn"
 		paint = true
 	},
 	[743] = {
-		name = "Pyrovision Goggles"
+		name = "Autogrant Pyrovision Goggles"		name_internal = "Autogrant Pyrovision Goggles"
+		model = "models/player/items/all_class/pyrovision_goggles_scout.mdl"
+		image = "backpack/player/items/all_class/pyrovision_goggles_heavy"
 	},
 	[744] = {
 		name = "Pyrovision Goggles"
+		name_internal = "Pyrovision Goggles"
+		model = "models/player/items/all_class/pyrovision_goggles_scout.mdl"
+		image = "backpack/player/items/all_class/pyrovision_goggles_heavy"
 	},
 	[745] = {
 		name = "The Infernal Orchestrina"
+		name_internal = "The Infernal Orchestrina"
+		model = "models/player/items/Scout/mtp_backpack.mdl"
+		image = "backpack/player/items/pyro/mtp_backpack"
 		classes = [TF_CLASS_PYRO]
 	},
 	[746] = {
 		name = "The Burning Bongos"
+		name_internal = "The Burning Bongos"
+		model = "models/player/items/Scout/mtp_bongos.mdl"
+		image = "backpack/player/items/pyro/mtp_bongos"
 		classes = [TF_CLASS_PYRO]
 	},
 	[753] = {
 		name = "The Waxy Wayfinder"
+		name_internal = "The Waxy Wayfinder"
+		model = "models/player/items/pyro/pyro_candle.mdl"
+		image = "backpack/player/items/pyro/pyro_candle"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[754] = {
 		name = "The Scrap Pack"
+		name_internal = "The Scrap Pack"
+		model = "models/player/items/Scout/shootmanyrobots_Scout.mdl"
+		image = "backpack/player/items/pyro/shootmanyrobots_pyro"
 		classes = [TF_CLASS_MEDIC TF_CLASS_PYRO]
 		paint = true
 	},
 	[755] = {
 		name = "The Texas Half-Pants"
+		name_internal = "The Texas Half-Pants"
+		model = "models/player/items/engineer/engineer_chaps.mdl"
+		image = "backpack/player/items/engineer/engineer_chaps"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Tan" "Midnight"]
 	},
 	[756] = {
 		name = "The Bolt Action Blitzer"
+		name_internal = "The Bolt Action Blitzer"
+		model = "models/player/items/all_class/crimecraft_helmet_Scout.mdl"
+		image = "backpack/player/items/all_class/crimecraft_helmet_demo"
 		paint = true
 	},
 	[757] = {
 		name = "The Toss-Proof Towel"
+		name_internal = "The Toss-Proof Towel"
+		model = "models/player/items/heavy/heavy_boxingtowel.mdl"
+		image = "backpack/player/items/heavy/heavy_boxingtowel"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[759] = {
 		name = "The Fruit Shoot"
+		name_internal = "The Fruit Shoot"
+		model = "models/player/items/sniper/sniper_applearrow.mdl"
+		image = "backpack/player/items/sniper/sniper_applearrow"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Deadly" "Dangerous" "Tasty"]
 	},
 	[760] = {
 		name = "The Front Runner"
+		name_internal = "The Front Runner"
+		model = "models/player/items/scout/scout_headband.mdl"
+		image = "backpack/player/items/scout/scout_headband"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Stylin'" "Indifferent"]
 	},
 	[761] = {
 		name = "The Triclops"
+		name_internal = "The Triclops"
+		model = "models/player/items/pyro/smnc_pyro.mdl"
+		image = "backpack/player/items/pyro/smnc_pyro"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Roasting" "Blazing"]
 	},
 	[762] = {
 		name = "The Flamingo Kid"
+		name_internal = "The Flamingo Kid"
+		model = "models/player/items/sniper/smnc_sniper.mdl"
+		image = "backpack/player/items/sniper/smnc_sniper"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[763] = {
 		name = "The Sneaky Spats of Sneaking"
+		name_internal = "The Sneaky Spats of Sneaking"
+		model = "models/player/items/spy/spy_spats.mdl"
+		image = "backpack/player/items/spy/spy_spats"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[764] = {
 		name = "The Cross-Comm Crash Helmet"
+		name_internal = "The Cross-Comm Crash Helmet"
+		model = "models/player/items/soldier/grfs_soldier.mdl"
+		image = "backpack/player/items/soldier/grfs_soldier"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[765] = {
 		name = "The Cross-Comm Express"
+		name_internal = "The Cross-Comm Express"
+		model = "models/player/items/scout/grfs_scout.mdl"
+		image = "backpack/player/items/scout/grfs_scout"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[766] = {
 		name = "The Doublecross-Comm"
+		name_internal = "The Doublecross-Comm"
+		model = "models/player/items/Scout/grfs_Scout.mdl"
+		image = "backpack/player/items/sniper/grfs_sniper"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SPY]
 		paint = true
 	},
 	[767] = {
 		name = "The Atomic Accolade"
+		name_internal = "The Atomic Accolade"
+		model = "models/player/items/all_class/qc_badge.mdl"
+		image = "backpack/player/items/all_class/qc_badge"
 		paint = true
 	},
 	[768] = {
 		name = "The Professor's Pineapple"
+		name_internal = "The Professor's Pineapple"
+		model = "models/player/items/all_class/qc_flask_Scout.mdl"
+		image = "backpack/player/items/all_class/qc_flask_demo"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
 	[769] = {
 		name = "The Quadwrangler"
+		name_internal = "The Quadwrangler"
+		model = "models/player/items/medic/qc_glove.mdl"
+		image = "backpack/player/items/medic/qc_glove"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[770] = {
 		name = "The Surgeon's Side Satchel"
+		name_internal = "The Surgeon's Side Satchel"
+		model = "models/player/items/medic/medic_clipboard.mdl"
+		image = "backpack/player/items/medic/medic_clipboard"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[771] = {
 		name = "The Liquor Locker"
+		name_internal = "The Liquor Locker"
+		model = "models/player/items/demo/demo_chest_back.mdl"
+		image = "backpack/player/items/demo/demo_chest_back"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Classic" "Front" "Right Hip" "Left Hip"]
 	},
 	[774] = {
 		name = "The Gentle Munitionne of Leisure"
+		name_internal = "The Gentle Munitionne of Leisure"
+		model = "models/player/items/all_class/sd_rocket_Scout.mdl"
+		image = "backpack/player/items/all_class/sd_rocket_spy"
 	},
 	[776] = {
 		name = "The Bird-Man of Aberdeen"
+		name_internal = "The Bird-Man of Aberdeen"
+		model = "models/player/items/demo/demo_parrot.mdl"
+		image = "backpack/player/items/demo/demo_parrot"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Essential" "Distinguished" "Imbued"]
 	},
 	[777] = {
 		name = "The Apparatchik's Apparel"
+		name_internal = "The Apparatchik's Apparel"
+		model = "models/player/items/heavy/heavy_shirt.mdl"
+		image = "backpack/player/items/heavy/heavy_shirt"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["Outdoorsmen" "Blood Bin" "Investor" "J.R. Gyle"]
 	},
 	[778] = {
 		name = "The Gentleman's Ushanka"
+		name_internal = "The Gentleman's Ushanka"
+		model = "models/player/items/medic/medic_ushanka.mdl"
+		image = "backpack/player/items/medic/medic_ushanka"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[779] = {
 		name = "Liquidator's Lid"
+		name_internal = "Liquidator's Lid"
+		model = "models/player/items/sniper/pro_hat.mdl"
+		image = "backpack/player/items/sniper/pro_hat"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[780] = {
 		name = "The Fed-Fightin' Fedora"
+		name_internal = "The Fed-Fightin' Fedora"
+		model = "models/player/items/scout/pep_hat.mdl"
+		image = "backpack/player/items/scout/pep_hat"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[781] = {
 		name = "Dillinger's Duffel"
+		name_internal = "Dillinger's Duffel"
+		model = "models/player/items/scout/pep_bag.mdl"
+		image = "backpack/player/items/scout/pep_bag"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[782] = {
 		name = "The Business Casual"
+		name_internal = "The Business Casual"
+		model = "models/player/items/spy/spy_openjacket.mdl"
+		image = "backpack/player/items/spy/spy_openjacket"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[783] = {
 		name = "The HazMat Headcase"
+		name_internal = "The HazMat Headcase"
+		model = "models/workshop/player/items/all_class/pyro_hazmat/pyro_hazmat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/pyro_hazmat/pyro_hazmat"
 		classes = [TF_CLASS_SNIPER TF_CLASS_PYRO]
 		paint = true
 		styles = ["Safety First" "Reinforced" "Streamlined" "A Serious Absence of Fear"]
 	},
 	[784] = {
 		name = "The Idea Tube"
+		name_internal = "The Idea Tube"
+		model = "models/player/items/engineer/engineer_blueprints_back.mdl"
+		image = "backpack/player/items/engineer/engineer_blueprints_back"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[785] = {
 		name = "Robot Chicken Hat"
+		name_internal = "Robot Chicken Hat"
+		model = "models/workshop_partner/player/items/all_class/as_robot_chicken/as_robot_chicken_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/as_robot_chicken/as_robot_chicken_demo"
 		paint = true
 		styles = ["Normal" "Beakless"]
 	},
 	[786] = {
 		name = "The Grenadier Helm"
+		name_internal = "The Grenadier Helm"
+		model = "models/workshop_partner/player/items/demo/hero_academy_demo/hero_academy_demo.mdl"
+		image = "backpack/workshop_partner/player/items/demo/hero_academy_demo/hero_academy_demo"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[787] = {
 		name = "The Tribal Bones"
+		name_internal = "The Tribal Bones"
+		model = "models/workshop_partner/player/items/pyro/hero_academy_pyro/hero_academy_pyro.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/hero_academy_pyro/hero_academy_pyro"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[788] = {
 		name = "The Void Monk Hair"
+		name_internal = "The Void Monk Hair"
+		model = "models/workshop_partner/player/items/scout/hero_academy_scout/hero_academy_scout.mdl"
+		image = "backpack/workshop_partner/player/items/scout/hero_academy_scout/hero_academy_scout"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[789] = {
 		name = "The Ninja Cowl"
+		name_internal = "The Ninja Cowl"
+		model = "models/workshop_partner/player/items/spy/hero_academy_spy/hero_academy_spy.mdl"
+		image = "backpack/workshop_partner/player/items/spy/hero_academy_spy/hero_academy_spy"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[814] = {
 		name = "The Triad Trinket"
+		name_internal = "The Triad Trinket"
+		model = "models/workshop_partner/player/items/all_class/sd_shirt/sd_shirt_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_shirt/sd_shirt_sniper"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_HEAVY TF_CLASS_SPY TF_CLASS_ENGINEER]
 		styles = ["Bare" "Bear"]
 	},
 	[815] = {
 		name = "The Champ Stamp"
+		name_internal = "The Champ Stamp"
+		model = "models/workshop_partner/player/items/all_class/sd_tattoos/sd_tattoos_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_tattoos/sd_tattoos_scout"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[816] = {
 		name = "The Marxman"
+		name_internal = "The Marxman"
+		model = "models/workshop_partner/player/items/all_class/sd_glasses/sd_glasses_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_glasses/sd_glasses"
 		paint = true
 		styles = ["No Cigar" "Yes, Cigar"]
 	},
 	[817] = {
 		name = "The Human Cannonball"
+		name_internal = "The Human Cannonball"
+		model = "models/workshop_partner/player/items/all_class/sd_helm/sd_helm_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_helm/sd_helm_demo"
 		styles = ["Crash" "Burn" "Override"]
 	},
 	[818] = {
 		name = "Awesomenauts Badge"
+		name_internal = "Awesomenauts Badge"
+		model = "models/player/items/all_class/awes_badge.mdl"
+		image = "backpack/player/items/all_class/awes_badge"
 	},
 	[819] = {
 		name = "The Lone Star"
+		name_internal = "The Lone Star"
+		model = "models/player/items/sniper/awes_hat.mdl"
+		image = "backpack/player/items/sniper/awes_hat"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[820] = {
 		name = "The Russian Rocketeer"
+		name_internal = "The Russian Rocketeer"
+		model = "models/player/items/pyro/awes_jetpack.mdl"
+		image = "backpack/player/items/pyro/awes_jetpack"
 		classes = [TF_CLASS_PYRO]
 	},
 	[821] = {
 		name = "The Soviet Gentleman"
+		name_internal = "The Soviet Gentleman"
+		model = "models/workshop/player/items/heavy/mustachehat/mustachehat.mdl"
+		image = "backpack/workshop/player/items/heavy/mustachehat/mustachehat"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Normal" "Camo"]
 	},
 	[823] = {
 		name = "The Pocket Purrer"
+		name_internal = "The Pocket Purrer"
+		model = "models/player/items/engineer/engineer_pocketcat.mdl"
+		image = "backpack/player/items/engineer/engineer_pocketcat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[824] = {
 		name = "The Koala Compact"
+		name_internal = "The Koala Compact"
+		model = "models/player/items/sniper/sniper_pocketkoala.mdl"
+		image = "backpack/player/items/sniper/sniper_pocketkoala"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Twins" "Poor and Irish"]
 	},
 	[825] = {
 		name = "Hat of Cards"
+		name_internal = "Hat of Cards"
+		model = "models/player/items/spy/spy_cardhat.mdl"
+		image = "backpack/player/items/spy/spy_cardhat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[826] = {
 		name = "Medi-Mask"
+		name_internal = "Medi-Mask"
+		model = "models/workshop/player/items/medic/medic_gasmask/medic_gasmask.mdl"
+		image = "backpack/workshop/player/items/medic/medic_gasmask/medic_gasmask"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[827] = {
 		name = "The Track Terrorizer"
+		name_internal = "The Track Terrorizer"
+		model = "models/player/items/scout/scout_trackjacket.mdl"
+		image = "backpack/player/items/scout/scout_trackjacket"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[828] = {
 		name = "Archimedes"
+		name_internal = "Archimedes"
+		model = "models/player/items/medic/archimedes.mdl"
+		image = "backpack/player/items/medic/archimedes"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[829] = {
 		name = "The War Pig"
+		name_internal = "The War Pig"
+		model = "models/workshop/player/items/soldier/soldier_warpig/soldier_warpig.mdl"
+		image = "backpack/workshop/player/items/soldier/soldier_warpig/soldier_warpig"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Uninhibited" "Conspicuous"]
 	},
 	[830] = {
 		name = "The Bearded Bombardier"
+		name_internal = "The Bearded Bombardier"
+		model = "models/workshop/player/items/demo/demo_beardpipe/demo_beardpipe.mdl"
+		image = "backpack/workshop/player/items/demo/demo_beardpipe/demo_beardpipe"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Whatever" "Formal"]
 	},
 	[835] = {
 		name = "The Triad Trinket"
+		name_internal = "Promo Triad Trinket"
+		model = "models/workshop_partner/player/items/all_class/sd_shirt/sd_shirt_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_shirt/sd_shirt_sniper"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_HEAVY TF_CLASS_SPY TF_CLASS_ENGINEER]
 		styles = ["Bare" "Bear"]
 	},
 	[836] = {
 		name = "The Champ Stamp"
+		name_internal = "Promo Champ Stamp"
+		model = "models/workshop_partner/player/items/all_class/sd_tattoos/sd_tattoos_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_tattoos/sd_tattoos_scout"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[837] = {
 		name = "The Marxman"
+		name_internal = "Promo Marxman"
+		model = "models/workshop_partner/player/items/all_class/sd_glasses/sd_glasses_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_glasses/sd_glasses"
 		paint = true
 		styles = ["No Cigar" "Yes, Cigar"]
 	},
 	[838] = {
 		name = "The Human Cannonball"
+		name_internal = "Promo Human Cannonball"
+		model = "models/workshop_partner/player/items/all_class/sd_helm/sd_helm_scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/sd_helm/sd_helm_demo"
 		styles = ["Crash" "Burn" "Override"]
 	},
 	[840] = {
 		name = "The U-clank-a"
+		name_internal = "The U-clank-a"
+		model = "models/player/items/mvm_loot/heavy/robo_ushanka.mdl"
+		image = "backpack/player/items/mvm_loot/heavy/robo_ushanka"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[841] = {
 		name = "The Stealth Steeler"
+		name_internal = "The Stealth Steeler"
+		model = "models/player/items/mvm_loot/spy/robo_fedora.mdl"
+		image = "backpack/player/items/mvm_loot/spy/robo_fedora"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[842] = {
 		name = "The Pyrobotics Pack"
+		name_internal = "The Pyrobotics Pack"
+		model = "models/player/items/mvm_loot/pyro/pyrobo_backpack.mdl"
+		image = "backpack/player/items/mvm_loot/pyro/pyrobo_backpack"
 		classes = [TF_CLASS_PYRO]
 	},
 	[843] = {
 		name = "The Medic Mech-Bag"
+		name_internal = "The Medic Mech-bag"
+		model = "models/player/items/mvm_loot/medic/robo_backpack.mdl"
+		image = "backpack/player/items/mvm_loot/medic/robo_backpack"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[844] = {
 		name = "The Tin Pot"
+		name_internal = "The Tin Pot"
+		model = "None"
+		image = "backpack/player/items/mvm_loot/soldier/robot_helmet"
 		classes = [TF_CLASS_SOLDIER]
 		styles = ["Battered" "Standard Issue"]
 	},
 	[845] = {
 		name = "The Battery Bandolier"
+		name_internal = "The Battery Bandolier"
+		model = "models/player/items/mvm_loot/demo/battery_grenade.mdl"
+		image = "backpack/player/items/mvm_loot/demo/battery_grenade"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[846] = {
 		name = "The Robot Running Man"
+		name_internal = "The Robot Running Man"
+		model = "models/player/items/mvm_loot/scout/robo_cap.mdl"
+		image = "backpack/player/items/mvm_loot/scout/robo_cap"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[847] = {
 		name = "The Bolted Bushman"
+		name_internal = "The Bolted Bushman"
+		model = "models/player/items/mvm_loot/sniper/robo_sniper_hat.mdl"
+		image = "backpack/player/items/mvm_loot/sniper/robo_sniper_hat"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[848] = {
 		name = "The Tin-1000"
+		name_internal = "The Tin-1000"
+		model = "models/player/items/mvm_loot/engineer/robo_engy_hat.mdl"
+		image = "backpack/player/items/mvm_loot/engineer/robo_engy_hat"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[852] = {
 		name = "Soldier's Stogie"
+		name_internal = "The Soldier's Stogie"
+		model = "models/player/items/soldier/cigar.mdl"
+		image = "backpack/player/items/soldier/cigar"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[853] = {
 		name = "The Crafty Hair"
+		name_internal = "The Crafty Hair"
+		model = "models/player/items/all_class/xcom_flattop_Scout.mdl"
+		image = "backpack/player/items/all_class/xcom_flattop_engineer"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SOLDIER TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Yellow" "Brown"]
 	},
 	[854] = {
 		name = "Area 451"
+		name_internal = "Area 451"
+		model = "models/player/items/pyro/xcom_sectoid_mask.mdl"
+		image = "backpack/player/items/pyro/xcom_sectoid_mask"
 		classes = [TF_CLASS_PYRO]
 	},
 	[855] = {
 		name = "The Vigilant Pin"
+		name_internal = "The Vigilant Pin"
+		model = "models/player/items/all_class/xcom_badge.mdl"
+		image = "backpack/player/items/all_class/xcom_badge"
 	},
 	[856] = {
 		name = "The Pyrotechnic Tote"
+		name_internal = "The Pyrotechnic Tote"
+		model = "models/player/items/pyro/pyro_fireworksbag.mdl"
+		image = "backpack/player/items/pyro/pyro_fireworksbag"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[857] = {
 		name = "Flunkyware"
+		name_internal = "Flunkyware"
+		model = "models/workshop_partner/player/items/scout/scout_henchboy/scout_henchboy_belt.mdl"
+		image = "backpack/workshop_partner/player/items/scout/scout_henchboy/scout_henchboy_belt"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[858] = {
 		name = "The Hanger-On Hood"
+		name_internal = "The Hanger-On Hood"
+		model = "models/workshop_partner/player/items/scout/scout_henchboy/scout_henchboy_hat.mdl"
+		image = "backpack/workshop_partner/player/items/scout/scout_henchboy/scout_henchboy_hat"
 		classes = [TF_CLASS_SCOUT]
 		styles = ["Without Headphones" "With Headphones"]
 	},
 	[859] = {
 		name = "The Flight of the Monarch"
+		name_internal = "The Flight of the Monarch"
+		model = "models/workshop_partner/player/items/scout/scout_henchboy/scout_henchboy_wings.mdl"
+		image = "backpack/workshop_partner/player/items/scout/scout_henchboy/scout_henchboy_wings"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[864] = {
 		name = "The Friends Forever Companion Square Badge"
+		name_internal = "The Friends Forever Companion Square Badge"
+		model = "models/player/items/all_class/3a_cube.mdl"
+		image = "backpack/player/items/all_class/3a_cube"
 	},
 	[865] = {
 		name = "The Triple A Badge"
+		name_internal = "The Triple A Badge"
+		model = "models/player/items/all_class/3a_badge.mdl"
+		image = "backpack/player/items/all_class/3a_badge"
 	},
 	[866] = {
 		name = "The Heavy Artillery Officer's Cap"
+		name_internal = "The Heavy Artillery Officer's Cap"
+		model = "models/player/items/heavy/coh_heavyhat.mdl"
+		image = "backpack/player/items/heavy/coh_heavyhat"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[867] = {
 		name = "The Combat Medic's Crusher Cap"
+		name_internal = "The Combat Medic's Crusher Cap"
+		model = "models/player/items/medic/coh_medichat.mdl"
+		image = "backpack/player/items/medic/coh_medichat"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[868] = {
 		name = "The Heroic Companion Badge"
+		name_internal = "The Heroic Companion Badge"
+		model = "models/player/items/all_class/coh_badge_sovjet.mdl"
+		image = "backpack/player/items/all_class/coh_badge_sovjet"
 		styles = ["Russian" "German"]
 	},
 	[869] = {
 		name = "The Rump-o'-Lantern"
+		name_internal = "The Rump-o'-Lantern"
+		model = "models/player/items/all_class/pumpkin_lantern_Scout.mdl"
+		image = "backpack/player/items/all_class/pumpkin_lantern_engineer"
 		paint = true
 	},
 	[870] = {
 		name = "Operation Oil Spill Badge"
+		name_internal = "Tour of Duty Badge Intermediate 1"
+		model = "models/player/items/mvm_loot/all_class/mvm_badge_rust.mdl"
+		image = "backpack/player/items/mvm_loot/all_class/mvm_badge_rust"
 	},
 	[871] = {
 		name = "Operation Gear Grinder Badge"
+		name_internal = "Tour of Duty Badge Expert 1"
+		model = "models/player/items/mvm_loot/all_class/mvm_badge_diamond.mdl"
+		image = "backpack/player/items/mvm_loot/all_class/mvm_badge_diamond"
 	},
 	[872] = {
 		name = "The Lacking Moral Fiber Mask"
+		name_internal = "The Lacking Moral Fiber Mask"
+		model = "models/workshop_partner/player/items/spy/spy_dishonored/spy_dishonored.mdl"
+		image = "backpack/workshop_partner/player/items/spy/spy_dishonored/spy_dishonored"
 		classes = [TF_CLASS_SPY]
 	},
 	[873] = {
 		name = "The Whale Bone Charm"
+		name_internal = "The Whale Bone Charm"
+		model = "models/workshop_partner/player/items/all_class/dishonored_badge/dishonored_badge.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/dishonored_badge/dishonored_badge"
 	},
 	[874] = {
 		name = "The King of Scotland Cape"
+		name_internal = "The King of Scotland Cape"
+		model = "models/workshop_partner/player/items/demo/tw_kingcape/tw_kingcape.mdl"
+		image = "backpack/workshop_partner/player/items/demo/tw_kingcape/tw_kingcape"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[875] = {
 		name = "The Menpo"
+		name_internal = "The Menpo"
+		model = "models/workshop_partner/player/items/Scout/tw_shogun/tw_shogun_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/demo/tw_shogun/tw_shogun_demo"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Yuurei" "Obake" "Youkai" "Azukiarai"]
 	},
 	[876] = {
 		name = "The K-9 Mane"
+		name_internal = "The K-9 Mane"
+		model = "models/workshop_partner/player/items/demo/tw_doghat/tw_doghat_demo.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/tw_doghat/tw_doghat_heavy"
 		classes = [TF_CLASS_DEMOMAN TF_CLASS_HEAVY]
 		paint = true
 	},
 	[877] = {
 		name = "The Stovepipe Sniper Shako"
+		name_internal = "The Stovepipe Sniper Shako"
+		model = "models/workshop_partner/player/items/sniper/tw_shako/tw_shako.mdl"
+		image = "backpack/workshop_partner/player/items/sniper/tw_shako/tw_shako"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[878] = {
 		name = "The Foppish Physician"
+		name_internal = "The Foppish Physician"
+		model = "models/workshop_partner/player/items/medic/tw_coat/tw_coat_medic_necktie.mdl"
+		image = "backpack/workshop_partner/player/items/medic/tw_coat/tw_coat_medic_necktie"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Tie" "Epaulettes"]
 	},
 	[879] = {
 		name = "The Distinguished Rogue"
+		name_internal = "The Distinguished Rogue"
+		model = "models/workshop_partner/player/items/spy/tw_coat/tw_coat_spy_necktie.mdl"
+		image = "backpack/workshop_partner/player/items/spy/tw_coat/tw_coat_spy"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Tie" "Epaulettes"]
 	},
 	[917] = {
 		name = "Sir Hootsalot"
+		name_internal = "Sir Hootsalot"
+		model = "models/player/items/sniper/sniper_owl.mdl"
+		image = "backpack/player/items/sniper/sniper_owl"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Wilderness" "Snowy"]
 	},
 	[918] = {
 		name = "Master Mind"
+		name_internal = "The Master Mind"
+		model = "models/player/items/engineer/engineer_brain.mdl"
+		image = "backpack/player/items/engineer/engineer_brain"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[919] = {
 		name = "The Scarecrow"
+		name_internal = "The Scarecrow"
+		model = "models/workshop/player/items/spy/spy_scarecrowface/spy_scarecrowface.mdl"
+		image = "backpack/workshop/player/items/spy/spy_scarecrowface/spy_scarecrowface"
 		classes = [TF_CLASS_SPY]
 	},
 	[920] = {
 		name = "The Crone's Dome"
+		name_internal = "The Crone's Dome"
+		model = "models/workshop/player/items/all_class/witchhat/witchhat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/witchhat/witchhat"
 		paint = true
 	},
 	[921] = {
 		name = "The Executioner"
+		name_internal = "The Executioner"
+		model = "models/player/items/all_class/executionerhood_Scout.mdl"
+		image = "backpack/player/items/all_class/executionerhood_medic"
 		paint = true
 	},
 	[922] = {
 		name = "The Bonedolier"
+		name_internal = "The Bonedolier"
+		model = "models/player/items/all_class/Scout_grenade_skulls.mdl"
+		image = "backpack/player/items/all_class/demo_grenade_skulls"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
 	[923] = {
 		name = "The Plutonidome"
+		name_internal = "The Plutonidome"
+		model = "models/player/items/pyro/pyro_brainhead.mdl"
+		image = "backpack/player/items/pyro/pyro_brainhead"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Functioning" "Broken"]
 	},
 	[924] = {
 		name = "The Spooky Shoes"
+		name_internal = "The Spooky Shoes"
+		model = "models/workshop/player/items/scout/scout_halloweenshoes/scout_halloweenshoes.mdl"
+		image = "backpack/workshop/player/items/scout/scout_halloweenshoes/scout_halloweenshoes"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[925] = {
 		name = "The Spooky Sleeves"
+		name_internal = "The Spooky Sleeves"
+		model = "models/workshop/player/items/all_class/halloweenjacket/halloweenjacket_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/halloweenjacket/halloweenjacket"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_DEMOMAN TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[926] = {
 		name = "The Zipperface"
+		name_internal = "The Zipperface"
+		model = "models/player/items/soldier/soldier_zipperhead.mdl"
+		image = "backpack/player/items/soldier/soldier_zipperhead"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[927] = {
 		name = "The Boo Balloon"
+		name_internal = "The Boo Balloon"
+		model = "models/player/items/all_class/hwn_pet_balloon.mdl"
+		image = "backpack/player/items/all_class/hwn_pet_balloon"
 		paint = true
 		styles = ["Haunting" "Please Help" "Hey Guys, What's Going On?" "Bone Party"]
 	},
 	[929] = {
 		name = "The Unknown Monkeynaut"
+		name_internal = "The Unknown Monkeynaut"
+		model = "models/player/items/all_class/hwn_ghost_pj.mdl"
+		image = "backpack/player/items/all_class/hwn_ghost_pj"
 	},
 	[930] = {
 		name = "The Grand Duchess Tutu"
+		name_internal = "The Grand Duchess Tutu"
+		model = "models/player/items/heavy/heavy_fairy_tutu.mdl"
+		image = "backpack/player/items/heavy/heavy_fairy_tutu"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[931] = {
 		name = "The Grand Duchess Fairy Wings"
+		name_internal = "The Grand Duchess Fairy Wings"
+		model = "models/player/items/heavy/heavy_fairy_wings.mdl"
+		image = "backpack/player/items/heavy/heavy_fairy_wings"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[932] = {
 		name = "The Grand Duchess Tiara"
+		name_internal = "The Grand Duchess Tiara"
+		model = "models/player/items/heavy/heavy_fairy_tiara.mdl"
+		image = "backpack/player/items/heavy/heavy_fairy_tiara"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[934] = {
 		name = "The Dead Little Buddy"
+		name_internal = "The Dead Little Buddy"
+		model = "models/player/items/all_class/hwn_pet_ghost.mdl"
+		image = "backpack/player/items/all_class/hwn_pet_ghost"
 	},
 	[935] = {
 		name = "The Voodoo JuJu (Slight Return)"
+		name_internal = "The Voodoo Juju (Slight Return)"
+		model = "models/player/items/demo/demo_bonehat.mdl"
+		image = "backpack/player/items/demo/demo_bonehat"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[936] = {
 		name = "The Exorcizor"
+		name_internal = "The Exorcizor"
+		model = "models/workshop/player/items/all_class/hwn_spy_priest/hwn_spy_priest_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn_spy_priest/hwn_spy_priest"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_MEDIC TF_CLASS_PYRO TF_CLASS_SPY]
 		paint = true
 	},
 	[937] = {
 		name = "The Wraith Wrap"
+		name_internal = "The Wraith Wrap"
+		model = "models/player/items/pyro/hwn_pyro_spookyhood.mdl"
+		image = "backpack/player/items/pyro/hwn_pyro_spookyhood"
 		classes = [TF_CLASS_PYRO]
 	},
 	[938] = {
 		name = "The Coffin Kit"
+		name_internal = "The Coffin Kit"
+		model = "models/player/items/pyro/hwn_pyro_coffinpack.mdl"
+		image = "backpack/player/items/pyro/hwn_pyro_coffinpack"
 		classes = [TF_CLASS_PYRO]
 	},
 	[940] = {
 		name = "Ghostly Gibus"
+		name_internal = "Ghostly Gibus"
+		model = "models/player/items/all_class/ghostly_gibus_Scout.mdl"
+		image = "backpack/player/items/all_class/ghostly_gibus_demo"
 		paint = true
 	},
 	[941] = {
 		name = "The Skull Island Topper"
+		name_internal = "The Skull Island Topper"
+		model = "models/player/items/all_class/merasmus_skull_Scout.mdl"
+		image = "backpack/player/items/all_class/merasmus_skull"
 	},
 	[942] = {
 		name = "The Cockfighter"
+		name_internal = "The Cockfighter"
+		model = "models/player/items/all_class/all_scrib_m_Scout.mdl"
+		image = "backpack/player/items/all_class/all_scrib_m_demo"
 		paint = true
 		styles = ["Max" "Lilly"]
 	},
 	[943] = {
 		name = "The Hitt Mann Badge"
+		name_internal = "The Hitt Mann Badge"
+		model = "models/workshop_partner/player/items/all_class/hm_badge/hm_badge.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/hm_badge/hm_badge"
 	},
 	[944] = {
 		name = "That '70s Chapeau"
+		name_internal = "That '70s Chapeau"
+		model = "models/workshop_partner/player/items/all_class/hm_disguisehat/hm_disguisehat_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/hm_disguisehat/hm_disguisehat_demo"
 		paint = true
 	},
 	[945] = {
 		name = "The Chief Constable"
+		name_internal = "The Chief Constable"
+		model = "models/workshop_partner/player/items/soldier/hm_cap/hm_cap.mdl"
+		image = "backpack/workshop_partner/player/items/soldier/hm_cap/hm_cap"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[946] = {
 		name = "The Siberian Sophisticate"
+		name_internal = "The Siberian Sophisticate"
+		model = "models/workshop_partner/player/items/heavy/hm_shirt/hm_shirt.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/hm_shirt/hm_shirt"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[948] = {
 		name = "The Deadliest Duckling"
+		name_internal = "The Deadliest Duckling"
+		model = "models/workshop_partner/player/items/all_class/hm_duck/hm_duck_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/hm_duck/hm_duck_demo"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Capone" "Luciano"]
 	},
 	[949] = {
 		name = "The DethKapp"
+		name_internal = "The DethKapp"
+		model = "models/workshop_partner/player/items/pyro/pyro_rocks/pyro_rocks_hat_hair.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/pyro_rocks/pyro_rocks_hat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Grim" "Stark Raving Mad" "Stern" "Slightly Off"]
 	},
 	[950] = {
 		name = "Nose Candy"
+		name_internal = "Nose Candy"
+		model = "models/workshop_partner/player/items/pyro/pyro_rocks/pyro_rocks_mask.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/pyro_rocks/pyro_rocks_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Horrific" "Happy"]
 	},
 	[951] = {
 		name = "Rail Spikes"
+		name_internal = "Rail Spikes"
+		model = "models/workshop_partner/player/items/pyro/pyro_rocks/pyro_rocks_spikes.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/pyro_rocks/pyro_rocks_spikes"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[952] = {
 		name = "Brock's Locks"
+		name_internal = "Brock's Locks"
+		model = "models/workshop_partner/player/items/heavy/heavy_hockeyhair/heavy_hockeyhair.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/heavy_hockeyhair/heavy_hockeyhair"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[953] = {
 		name = "The Saxxy Clapper Badge"
+		name_internal = "The Saxxy Clapper Badge"
+		model = "models/player/items/all_class/all_clacker_badge.mdl"
+		image = "backpack/player/items/all_class/all_clacker_badge"
 	},
 	[955] = {
 		name = "The Tuxxy"
+		name_internal = "The Tuxxy"
+		model = "models/player/items/all_class/tuxxy_Scout.mdl"
+		image = "backpack/player/items/all_class/tuxxy_demo"
 	},
 	[956] = {
 		name = "Faerie Solitaire Pin"
+		name_internal = "Faerie Solitaire Pin"
+		model = "models/player/items/all_class/all_fs_badge.mdl"
+		image = "backpack/player/items/all_class/all_fs_badge"
 	},
 	[975] = {
 		name = "Operation Mecha Engine Badge"
+		name_internal = "Tour of Duty Badge Advanced 2"
+		model = "models/player/items/mvm_loot/all_class/mvm_badge_engy.mdl"
+		image = "backpack/player/items/mvm_loot/all_class/mvm_badge_engy"
 	},
 	[976] = {
 		name = "The Winter Wonderland Wrap"
+		name_internal = "The Winter Wonderland Wrap"
+		model = "models/player/items/pyro/winter_pyro_mask.mdl"
+		image = "backpack/player/items/pyro/winter_pyro_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["With Stripes" "Without Stripes"]
 	},
 	[977] = {
 		name = "The Cut Throat Concierge"
+		name_internal = "The Cut-Throat Concierge"
+		model = "models/player/items/spy/spy_winterjacket.mdl"
+		image = "backpack/player/items/spy/spy_winterjacket"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[978] = {
 		name = "Der Wintermantel"
+		name_internal = "Der Wintermantel"
+		model = "models/workshop/player/items/medic/medic_wintercoat_s01/medic_wintercoat_s01.mdl"
+		image = "backpack/workshop/player/items/medic/medic_wintercoat_s01/medic_wintercoat_s01"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Gramma's Sweater Showing" "Gramma's Sweater Hidden"]
 	},
 	[979] = {
 		name = "The Cool Breeze"
+		name_internal = "The Cool Breeze"
+		model = "models/workshop/player/items/demo/demo_kilt/demo_kilt.mdl"
+		image = "backpack/workshop/player/items/demo/demo_kilt/demo_kilt"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[980] = {
 		name = "Soldier's Slope Scopers"
+		name_internal = "Soldier's Slope Scopers"
+		model = "models/player/items/soldier/soldier_skihat.mdl"
+		image = "backpack/player/items/soldier/soldier_skihat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Amateur" "Pro"]
 	},
 	[981] = {
 		name = "The Cold Killer"
+		name_internal = "The Cold Killer"
+		model = "models/workshop/player/items/sniper/winter_sniper_hood/winter_sniper_hood.mdl"
+		image = "backpack/workshop/player/items/sniper/winter_sniper_hood/winter_sniper_hood"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[982] = {
 		name = "Doc's Holiday"
+		name_internal = "Doc's Holiday"
+		model = "models/workshop/player/items/medic/hawaiian_shirt/hawaiian_shirt.mdl"
+		image = "backpack/workshop/player/items/medic/hawaiian_shirt/hawaiian_shirt"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Fever" "Flu" "Virus"]
 	},
 	[983] = {
 		name = "The Digit Divulger"
+		name_internal = "The Digit Divulger"
+		model = "models/workshop/player/items/scout/scout_gloves_leather_open/scout_gloves_leather_open.mdl"
+		image = "backpack/workshop/player/items/scout/scout_gloves_leather_open/scout_gloves_leather_open"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Leather Open" "Suede Open" "Leather Closed" "Suede Closed"]
 	},
 	[984] = {
 		name = "Tough Stuff Muffs"
+		name_internal = "Tough Stuff Muffs"
+		model = "models/workshop/player/items/all_class/all_earmuffs_style1/all_earmuffs_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/all_earmuffs_style1/all_earmuffs_style1"
 		paint = true
 		styles = ["Montreal Style" "Boston Style" "Montreal Style (No Earmuffs)" "Boston Style (No Earmuffs)"]
 	},
 	[985] = {
 		name = "Heavy's Hockey Hair"
+		name_internal = "Heavy's Hockey Hair"
+		model = "models/workshop/player/items/heavy/skullet/skullet.mdl"
+		image = "backpack/workshop/player/items/heavy/skullet/skullet"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[986] = {
 		name = "The Mutton Mann"
+		name_internal = "The Mutton Mann"
+		model = "models/workshop/player/items/all_class/winter_sideburns/winter_sideburns_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/winter_sideburns/winter_sideburns"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[987] = {
 		name = "The Merc's Muffler"
+		name_internal = "The Merc's Muffler"
+		model = "models/player/items/all_class/all_winter_scarf_Scout.mdl"
+		image = "backpack/player/items/all_class/all_winter_scarf_engy"
 		paint = true
 	},
 	[988] = {
 		name = "The Barnstormer"
+		name_internal = "The Barnstormer"
+		model = "models/player/items/engineer/engineer_barnstormer_s01.mdl"
+		image = "backpack/player/items/engineer/engineer_barnstormer_s01"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Bugscreen Up" "Bugscreen Down"]
 	},
 	[989] = {
 		name = "The Carl"
+		name_internal = "The Carl"
+		model = "models/workshop_partner/player/items/heavy/heavy_carl_hair/heavy_carl_hair.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/heavy_carl_hair/heavy_carl_hair"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[990] = {
 		name = "Aqua Flops"
+		name_internal = "Aqua Flops"
+		model = "models/workshop_partner/player/items/heavy/heavy_carl_flops/heavy_carl_flops.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/heavy_carl_flops/heavy_carl_flops"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[991] = {
 		name = "The Hunger Force"
+		name_internal = "The Hunger Force"
+		model = "models/workshop_partner/player/items/heavy/heavy_carl_medallion_shirt/heavy_carl_medallion_shirt.mdl"
+		image = "backpack/workshop_partner/player/items/heavy/heavy_carl_medallion_shirt/heavy_carl_medallion_shirt"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[992] = {
 		name = "Smissmas Wreath"
+		name_internal = "Smissmas Wreath"
+		model = "models/player/items/all_class/all_wreath_badge.mdl"
+		image = "backpack/player/items/all_class/all_wreath_badge"
 	},
 	[993] = {
 		name = "Antlers"
+		name_internal = "Antlers"
+		model = "models/player/items/all_class/xms_antlers_Scout.mdl"
+		image = "backpack/player/items/all_class/xms_antlers_demo"
 		styles = ["Hat" "No Hat"]
 	},
 	[994] = {
 		name = "Mann Co. Online Cap"
+		name_internal = "Mann Co. Online Cap"
+		model = "models/player/items/Scout/Scout_cap_online.mdl"
+		image = "backpack/player/items/all_class/mannco_online"
 		paint = true
 	},
 	[995] = {
 		name = "The Reindoonicorn"
+		name_internal = "Pet Reindoonicorn"
+		model = "models/player/items/all_class/pet_reinballoonicorn.mdl"
+		image = "backpack/player/items/all_class/pet_reinballoonicorn"
 	},
 	[1008] = {
 		name = "The Prize Plushy"
+		name_internal = "The Prize Plushy"
+		model = "models/workshop_partner/player/items/engineer/cave_bear/cave_bear.mdl"
+		image = "backpack/workshop_partner/player/items/engineer/cave_bear/cave_bear"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[1009] = {
 		name = "The Grizzled Growth"
+		name_internal = "The Grizzled Growth"
+		model = "models/workshop_partner/player/items/engineer/cave_beard/cave_beard.mdl"
+		image = "backpack/workshop_partner/player/items/engineer/cave_beard/cave_beard"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[1010] = {
 		name = "The Last Straw"
+		name_internal = "The Last Straw"
+		model = "models/workshop_partner/player/items/engineer/cave_hat/cave_hat.mdl"
+		image = "backpack/workshop_partner/player/items/engineer/cave_hat/cave_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[1011] = {
 		name = "Tux"
+		name_internal = "Tux"
+		model = "models/player/items/all_class/all_penguin.mdl"
+		image = "backpack/player/items/all_class/all_penguin"
 		styles = ["Normal" "Demoman" "Pyro"]
 	},
 	[1012] = {
 		name = "The Wilson Weave"
+		name_internal = "The Wilson Weave"
+		model = "models/player/items/all_class/starve_Scout.mdl"
+		image = "backpack/player/items/all_class/starve_demo"
 		classes = [TF_CLASS_SCOUT TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["No Hat" "No Hat and No Headphones"]
 	},
 	[1014] = {
 		name = "The Brütal Bouffant"
+		name_internal = "The Brutal Bouffant"
+		model = "models/workshop_partner/player/items/all_class/brutal_hair/brutal_hair_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/brutal_hair/brutal_hair_demo"
 		paint = true
 		styles = ["No Hat" "No Hat and No Headphones"]
 	},
 	[1016] = {
 		name = "Buck Turner All-Stars"
+		name_internal = "Buck Turner All-Stars"
+		model = "models/player/items/Scout/bit_trippers_Scout.mdl"
+		image = "backpack/player/items/demo/bit_trippers_demo"
 		classes = [TF_CLASS_SCOUT TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[1017] = {
 		name = "Vox Diabolus"
+		name_internal = "Vox Diabolus"
+		model = "models/player/items/engineer/bio_voxhood.mdl"
+		image = "backpack/player/items/engineer/bio_voxhood"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[1018] = {
 		name = "The Pounding Father"
+		name_internal = "The Pounding Father"
+		model = "models/player/items/heavy/bio_heavy_wig.mdl"
+		image = "backpack/player/items/heavy/bio_heavy_wig"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[1019] = {
 		name = "Blind Justice"
+		name_internal = "Blind Justice"
+		model = "models/player/items/demo/bio_demo_patch.mdl"
+		image = "backpack/player/items/demo/bio_demo_patch"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[1020] = {
 		name = "The Person in the Iron Mask"
+		name_internal = "The Person in the Iron Mask"
+		model = "models/player/items/pyro/bio_fireman.mdl"
+		image = "backpack/player/items/pyro/bio_fireman"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[1021] = {
 		name = "The Doe-Boy"
+		name_internal = "The Doe-Boy"
+		model = "models/player/items/soldier/bio_soldier_founders_cover.mdl"
+		image = "backpack/player/items/soldier/bio_soldier_founders"
 		classes = [TF_CLASS_SOLDIER]
 		styles = ["Peek-a-boo..." "I see you!"]
 	},
 	[1022] = {
 		name = "The Sydney Straw Boat"
+		name_internal = "The Sydney Straw Boat"
+		model = "models/player/items/sniper/bio_sniper_boater.mdl"
+		image = "backpack/player/items/sniper/bio_sniper_boater"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[1023] = {
 		name = "The Steel Songbird"
+		name_internal = "The Steel Songbird"
+		model = "models/player/items/sniper/bio_sniper_songbird.mdl"
+		image = "backpack/player/items/sniper/bio_sniper_songbird"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[1024] = {
 		name = "Croft's Crest"
+		name_internal = "Croft's Crest"
+		model = "models/player/items/all_class/tomb_badge.mdl"
+		image = "backpack/player/items/all_class/tomb_badge"
 	},
 	[1025] = {
 		name = "The Fortune Hunter"
+		name_internal = "The Fortune Hunter"
+		model = "models/player/items/all_class/tomb_pick_Scout.mdl"
+		image = "backpack/player/items/all_class/tomb_pick_demo"
 		paint = true
 	},
 	[1026] = {
 		name = "The Tomb Wrapper"
+		name_internal = "The Tomb Wrapper"
+		model = "models/player/items/scout/tomb_tourniquet.mdl"
+		image = "backpack/player/items/scout/tomb_tourniquet"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[1028] = {
 		name = "The Samson Skewer"
+		name_internal = "The Samson Skewer"
+		model = "models/player/items/heavy/pn2_knife_lunchbox.mdl"
+		image = "backpack/player/items/heavy/pn2_knife_lunchbox"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["Menacing" "Threatening"]
 	},
 	[1029] = {
 		name = "The Bloodhound"
+		name_internal = "The Bloodhound"
+		model = "models/player/items/Scout/pn2_samhat_Scout.mdl"
+		image = "backpack/player/items/spy/pn2_samhat_spy"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SPY]
 	},
 	[1030] = {
 		name = "The Dapper Disguise"
+		name_internal = "The Dapper Disguise"
+		model = "models/player/items/spy/pn2_mask.mdl"
+		image = "backpack/player/items/spy/pn2_mask"
 		classes = [TF_CLASS_SPY]
 	},
 	[1031] = {
 		name = "The Necronomicrown"
+		name_internal = "The Necronomicrown"
+		model = "models/player/items/pyro/pn2_evilash.mdl"
+		image = "backpack/player/items/pyro/pn2_evilash"
 		classes = [TF_CLASS_PYRO]
 	},
 	[1032] = {
 		name = "The Long Fall Loafers"
+		name_internal = "The Long Fall Loafers"
+		model = "models/player/items/scout/pn2_longfall.mdl"
+		image = "backpack/player/items/scout/pn2_longfall"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[1033] = {
 		name = "The TF2VRH"
+		name_internal = "The TF2VRH"
+		model = "models/player/items/all_class/all_class_oculus_Scout.mdl"
+		image = "backpack/player/items/all_class/all_class_oculus_demo"
 		styles = ["Off" "On"]
 	},
 	[1034] = {
 		name = "The Conspiracy Cap"
+		name_internal = "The Conspiracy Cap"
+		model = "models/player/items/all_class/all_class_reddit_Scout_hat.mdl"
+		image = "backpack/player/items/all_class/all_class_reddit_demo"
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[1035] = {
 		name = "The Public Accessor"
+		name_internal = "The Public Accessor"
+		model = "models/player/items/all_class/all_class_reddit_alt_Scout_hat.mdl"
+		image = "backpack/player/items/all_class/all_class_reddit_alt_demo"
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[1038] = {
 		name = "The Breather Bag"
+		name_internal = "The Breather Bag"
+		model = "models/workshop_partner/player/items/pyro/as_pyro_cleansuit/as_pyro_cleansuit.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/as_pyro_cleansuit/as_pyro_cleansuit"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[1039] = {
 		name = "The Weather Master"
+		name_internal = "The Weather Master"
+		model = "models/workshop_partner/player/items/medic/as_medic_cloud_hat/as_medic_cloud_hat.mdl"
+		image = "backpack/workshop_partner/player/items/medic/as_medic_cloud_hat/as_medic_cloud_hat"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[1040] = {
 		name = "The Bacteria Blocker"
+		name_internal = "The Bacteria Blocker"
+		model = "models/workshop_partner/player/items/scout/as_scout_cleansuit_hood/as_scout_cleansuit_hood.mdl"
+		image = "backpack/workshop_partner/player/items/scout/as_scout_cleansuit_hood/as_scout_cleansuit_hood"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["With Headphones" "Without Headphones"]
 	},
 	[1057] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Scout"
+		model = "models/bots/gameplay_cosmetic/light_scout_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_SCOUT]
 		styles = ["style0" "style1"]
 	},
 	[1058] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Pyro"
+		model = "models/bots/gameplay_cosmetic/light_pyro_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_PYRO]
 		styles = ["style0" "style1"]
 	},
 	[1059] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Medic"
+		model = "models/bots/gameplay_cosmetic/light_medic_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_MEDIC]
 		styles = ["style0" "style1"]
 	},
 	[1060] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Heavy"
+		model = "models/bots/gameplay_cosmetic/light_heavy_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["style0" "style1"]
 	},
 	[1061] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Demoman"
+		model = "models/bots/gameplay_cosmetic/light_demo_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_DEMOMAN]
 		styles = ["style0" "style1"]
 	},
 	[1062] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Sniper"
+		model = "models/bots/gameplay_cosmetic/light_sniper_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_SNIPER]
 		styles = ["style0" "style1"]
 	},
 	[1063] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Soldier"
+		model = "models/bots/gameplay_cosmetic/light_soldier_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_SOLDIER]
 		styles = ["style0" "style1"]
 	},
 	[1064] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Spy"
+		model = "models/bots/gameplay_cosmetic/light_spy_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_SPY]
 		styles = ["style0" "style1"]
 	},
 	[1065] = {
-		name = "TF_GateBot_Light"
+		name = "GateBot Light"		name_internal = "MvM GateBot Light Engineer"
+		model = "models/bots/gameplay_cosmetic/light_engineer_on.mdl"
+		image = "backpack"
 		classes = [TF_CLASS_ENGINEER]
 		styles = ["style0" "style1"]
 	},
 	[1066] = {
 		name = "Operation Two Cities Badge"
+		name_internal = "Tour of Duty Badge Advanced 3"
+		model = "models/player/items/mvm_loot/all_class/mvm_badge_shield.mdl"
+		image = "backpack/player/items/mvm_loot/all_class/mvm_badge_shield"
 	},
 	[1072] = {
 		name = "The Portable Smissmas Spirit Dispenser"
+		name_internal = "The Portable Smissmas Spirit Dispenser"
+		model = "models/player/items/pyro/xms_backpack_snowglobe.mdl"
+		image = "backpack/player/items/pyro/xms_backpack_snowglobe"
 		classes = [TF_CLASS_PYRO]
 	},
 	[1073] = {
 		name = "The War on Smissmas Battle Hood"
+		name_internal = "The War on Smissmas Battle Hood"
+		model = "models/player/items/soldier/soldier_hood.mdl"
+		image = "backpack/player/items/soldier/soldier_hood"
 		classes = [TF_CLASS_SOLDIER]
 		styles = ["No Helmet" "Helmet"]
 	},
 	[1074] = {
 		name = "The War on Smissmas Battle Socks"
+		name_internal = "The War on Smissmas Battle Socks"
+		model = "models/player/items/soldier/xms_nade_socks.mdl"
+		image = "backpack/player/items/soldier/xms_nade_socks"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[1075] = {
 		name = "The Sack Fulla Smissmas"
+		name_internal = "The Sack Fulla Smissmas"
+		model = "models/player/items/scout/xms_santa_sack.mdl"
+		image = "backpack/player/items/scout/xms_santa_sack"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[1076] = {
 		name = "The Smissmas Caribou"
+		name_internal = "The Smissmas Caribou"
+		model = "models/player/items/sniper/xms_braindeer.mdl"
+		image = "backpack/player/items/sniper/xms_braindeer"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[1077] = {
 		name = "Randolph the Blood-Nosed Caribou"
+		name_internal = "Randolph the Blood-Nosed Caribou"
+		model = "models/player/items/sniper/xms_braindeer.mdl"
+		image = "backpack/player/items/sniper/xms_braindeer_rare"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[1087] = {
 		name = "Der Maschinensoldaten-Helm"
+		name_internal = "Der Maschinensoldaten-Helm"
+		model = "models/player/items/heavy/heavy_wolf_helm.mdl"
+		image = "backpack/player/items/heavy/heavy_wolf_helm"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1088] = {
 		name = "Die Regime-Panzerung"
+		name_internal = "Die Regime-Panzerung"
+		model = "models/player/items/heavy/heavy_wolf_chest.mdl"
+		image = "backpack/player/items/heavy/heavy_wolf_chest"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1089] = {
 		name = "Mister Bubbles"
+		name_internal = "Mister Bubbles"
+		model = "models/workshop/player/items/engineer/bi_big_daddy_doll/bi_big_daddy_doll.mdl"
+		image = "backpack/workshop/player/items/engineer/bi_big_daddy_doll/bi_big_daddy_doll"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[1090] = {
 		name = "The Big Daddy"
+		name_internal = "The Big Daddy"
+		model = "models/workshop/player/items/soldier/bi_washington_mask/bi_washington_mask.mdl"
+		image = "backpack/workshop/player/items/soldier/bi_washington_mask/bi_washington_mask"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[1091] = {
 		name = "The First American"
+		name_internal = "The First American"
+		model = "models/workshop/player/items/soldier/bi_franklin_mask/bi_franklin_mask.mdl"
+		image = "backpack/workshop/player/items/soldier/bi_franklin_mask/bi_franklin_mask"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[1093] = {
 		name = "The Gilded Guard"
+		name_internal = "The Gilded Guard"
+		model = "models/workshop_partner/player/items/soldier/thief_soldier_helmet/thief_soldier_helmet.mdl"
+		image = "backpack/workshop_partner/player/items/soldier/thief_soldier_helmet/thief_soldier_helmet"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[1094] = {
 		name = "The Criminal Cloak"
+		name_internal = "The Criminal Cloak"
+		model = "models/workshop_partner/player/items/sniper/thief_sniper_cape/thief_sniper_cape.mdl"
+		image = "backpack/workshop_partner/player/items/sniper/thief_sniper_cape/thief_sniper_cape"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[1095] = {
 		name = "The Dread Hiding Hood"
+		name_internal = "The Dread Hiding Hood"
+		model = "models/workshop_partner/player/items/sniper/thief_sniper_hood/thief_sniper_hood.mdl"
+		image = "backpack/workshop_partner/player/items/sniper/thief_sniper_hood/thief_sniper_hood"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[1096] = {
 		name = "The Baronial Badge"
+		name_internal = "The Baronial Badge"
+		model = "models/workshop_partner/player/items/all_class/thief_badge/thief_badge_demo.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/thief_badge/thief_badge"
 	},
 	[1097] = {
 		name = "The Little Bear"
+		name_internal = "The Little Bear"
+		model = "models/player/items/heavy/heavy_pocket_bot.mdl"
+		image = "backpack/player/items/heavy/heavy_pocket_bot"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1122] = {
 		name = "Towering Pillar of Summer Shades"
+		name_internal = "Towering Pillar of Summer Shades"
+		model = "models/player/items/all_class/summer_deal_Scout.mdl"
+		image = "backpack/player/items/all_class/summer_deal_demo"
 		paint = true
 	},
 	[1124] = {
 		name = "The Nabler"
+		name_internal = "The Nabler"
+		model = "models/workshop/player/items/pyro/threea_nabler/threea_nabler.mdl"
+		image = "backpack/workshop/player/items/pyro/threea_nabler/threea_nabler"
 		classes = [TF_CLASS_PYRO]
 	},
 	[1158] = {
 		name = "The Finder's Fee"
+		name_internal = "The Finder's Fee"
+		model = "models/player/items/all_class/all_bug_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/all_bug_hat_demo"
 	},
 	[1164] = {
 		name = "Civilian Grade JACK Hat"
+		name_internal = "Civilian Grade JACK Hat"
+		model = "models/workshop_partner/player/items/all_class/jackhead/Scout_jackhead.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/jackhead/demo_jackhead"
 	},
 	[1169] = {
 		name = "Military Grade JACK Hat"
+		name_internal = "Military Grade JACK Hat"
+		model = "models/workshop_partner/player/items/all_class/jackhead/Scout_jackhead_digicamo.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/jackhead/demo_jackhead_digicamo"
 	},
 	[1170] = {
 		name = "PASS Time Miniature Half JACK"
+		name_internal = "PASS Time Miniature Half JACK"
+		model = "models/workshop_partner/player/items/all_class/jackbadge/jackbadge.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/jackbadge/jackbadge"
 	},
 	[1171] = {
 		name = "PASS Time Early Participation Pin"
+		name_internal = "PASS Time Early Participation Pin"
+		model = "models/workshop_partner/player/items/all_class/jackbadge/jackbadge_limited.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/jackbadge/jackbadge_limited"
 	},
 	[1173] = {
 		name = "Unusual Cap"
+		name_internal = "Unusual Cap"
+		model = "models/player/items/all_class/up_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/up_hat_demo"
 		paint = true
 	},
 	[1177] = {
 		name = "The Audio File"
+		name_internal = "The Audio File"
+		model = "models/player/items/all_class/soundtrack_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/soundtrack_hat"
 	},
 	[1185] = {
 		name = "The Saxton"
+		name_internal = "Saxton Hat"
+		model = "models/player/items/all_class/saxton_hat_Scout.mdl"
+		image = "backpack/player/items/all_class/saxton_hat"
 	},
 	[1186] = {
 		name = "The Monstrous Memento"
+		name_internal = "Yeti Park Cap"
+		model = "models/player/items/all_class/yeti_park_cap_Scout.mdl"
+		image = "backpack/player/items/all_class/yeti_park_cap"
 	},
 	[1187] = {
 		name = "The Kathman-Hairdo"
+		name_internal = "Yeti_Head"
+		model = "models/player/items/heavy/yeti_head.mdl"
+		image = "backpack/player/items/heavy/yeti_head"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1188] = {
 		name = "The Abominable Snow Pants"
+		name_internal = "Yeti_Legs"
+		model = "models/player/items/heavy/yeti_legs.mdl"
+		image = "backpack/player/items/heavy/yeti_legs"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1189] = {
 		name = "The Himalayan Hair Shirt"
+		name_internal = "Yeti_Arms"
+		model = "models/player/items/heavy/yeti_arms.mdl"
+		image = "backpack/player/items/heavy/yeti_arms"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[1191] = {
 		name = "The Mercenary Park"
+		name_internal = "Mercenary Park Cap"
+		model = "models/player/items/all_class/yeti_park_cap_Scout.mdl"
+		image = "backpack/player/items/all_class/mercenary_park_cap"
 	},
 	[1192] = {
 		name = "The Mannanas Hat"
+		name_internal = "Mannanas Cap"
+		model = "models/player/items/all_class/yeti_park_cap_Scout.mdl"
+		image = "backpack/player/items/all_class/mannanas_cap"
 	},
 	[1193] = {
 		name = "The Never Forget Hat"
+		name_internal = "Never Forget Cap"
+		model = "models/player/items/all_class/yeti_park_cap_Scout.mdl"
+		image = "backpack/player/items/all_class/never_forget_cap"
 	},
 	[1194] = {
 		name = "The Yeti Park Hardhat"
+		name_internal = "Yeti Park Hardhat"
+		model = "models/player/items/Scout/yeti_hardhat.mdl"
+		image = "backpack/player/items/demo/yeti_hardhat"
 	},
 	[1899] = {
 		name = "World Traveler's Hat"
+		name_internal = "World Traveler"
+		model = "models/player/items/all_class/world_traveller_Scout.mdl"
+		image = "backpack/player/items/all_class/world_traveller"
 		paint = true
 	},
 	[5075] = {
 		name = "Something Special For Someone Special"
+		name_internal = "Something Special For Someone Special (Wearable)"
+		model = "models/player/items/all_class/ring_Scout.mdl"
+		image = "backpack/player/items/all_class/all_class_ring"
 	},
 	[5606] = {
 		name = "Barely-Melted Capacitor"
+		name_internal = "Damaged Capacitor"
+		model = "None"
+		image = "backpack/crafting/capacitor"
 	},
 	[5616] = {
 		name = "Voodoo-Cursed Soul"
+		name_internal = "Voodoo-Cursed Soul (Armory)"
+		model = "None"
+		image = "backpack/player/items/engineer/engineer_zombie"
 	},
 	[5617] = {
 		name = "Voodoo-Cursed Scout Soul"
+		name_internal = "Zombie Scout"
+		model = "models/player/items/scout/scout_zombie.mdl"
+		image = "backpack/player/items/scout/scout_zombie"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[5618] = {
 		name = "Voodoo-Cursed Soldier Soul"
+		name_internal = "Zombie Soldier"
+		model = "models/player/items/soldier/soldier_zombie.mdl"
+		image = "backpack/player/items/soldier/soldier_zombie"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[5619] = {
 		name = "Voodoo-Cursed Heavy Soul"
+		name_internal = "Zombie Heavy"
+		model = "models/player/items/heavy/heavy_zombie.mdl"
+		image = "backpack/player/items/heavy/heavy_zombie"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[5620] = {
 		name = "Voodoo-Cursed Demoman Soul"
+		name_internal = "Zombie Demo"
+		model = "models/player/items/demo/demo_zombie.mdl"
+		image = "backpack/player/items/demo/demo_zombie"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[5621] = {
 		name = "Voodoo-Cursed Engineer Soul"
+		name_internal = "Zombie Engineer"
+		model = "models/player/items/engineer/engineer_zombie.mdl"
+		image = "backpack/player/items/engineer/engineer_zombie"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[5622] = {
 		name = "Voodoo-Cursed Medic Soul"
+		name_internal = "Zombie Medic"
+		model = "models/player/items/medic/medic_zombie.mdl"
+		image = "backpack/player/items/medic/medic_zombie"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[5623] = {
 		name = "Voodoo-Cursed Spy Soul"
+		name_internal = "Zombie Spy"
+		model = "models/player/items/spy/spy_zombie.mdl"
+		image = "backpack/player/items/spy/spy_zombie"
 		classes = [TF_CLASS_SPY]
 	},
 	[5624] = {
 		name = "Voodoo-Cursed Pyro Soul"
+		name_internal = "Zombie Pyro"
+		model = "models/player/items/pyro/pyro_zombie.mdl"
+		image = "backpack/player/items/pyro/pyro_zombie"
 		classes = [TF_CLASS_PYRO]
 	},
 	[5625] = {
 		name = "Voodoo-Cursed Sniper Soul"
+		name_internal = "Zombie Sniper"
+		model = "models/player/items/sniper/sniper_zombie.mdl"
+		image = "backpack/player/items/sniper/sniper_zombie"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[8938] = {
 		name = "Glitched Circuit Board"
+		name_internal = "Glitched Circuit Board"
+		model = "None"
+		image = "backpack/crafting/glitched_circuit_board"
 	},
 	[30001] = {
 		name = "Modest Metal Pile of Scrap"
+		name_internal = "Modest Metal Pile of Scrap"
+		model = "models/workshop/player/items/all_class/robo_all_modest_pile/robo_all_modest_pile_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/robo_all_modest_pile/robo_all_modest_pile"
 	},
 	[30002] = {
 		name = "Letch's LED"
+		name_internal = "Letch's LED"
+		model = "models/workshop/player/items/sniper/robo_sniper_liquidator/robo_sniper_liquidator.mdl"
+		image = "backpack/workshop/player/items/sniper/robo_sniper_liquidator/robo_sniper_liquidator"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30003] = {
 		name = "The Galvanized Gibus"
+		name_internal = "The Galvanized Gibus"
+		model = "models/workshop/player/items/all_class/robo_all_gibus/robo_all_gibus_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/robo_all_gibus/robo_all_gibus"
 		paint = true
 	},
 	[30004] = {
 		name = "Soldered Sensei"
+		name_internal = "Soldered Sensei"
+		model = "models/workshop/player/items/sniper/robo_sniper_soldered_sensei/robo_sniper_soldered_sensei.mdl"
+		image = "backpack/workshop/player/items/sniper/robo_sniper_soldered_sensei/robo_sniper_soldered_sensei"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30005] = {
 		name = "Shooter's Tin Topi"
+		name_internal = "Shooter's Tin Topi"
+		model = "models/workshop/player/items/sniper/robo_sniper_solar_topi/robo_sniper_solar_topi.mdl"
+		image = "backpack/workshop/player/items/sniper/robo_sniper_solar_topi/robo_sniper_solar_topi"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30006] = {
 		name = "Noble Nickel Amassment of Hats"
+		name_internal = "Noble Nickel Amassment of Hats"
+		model = "models/workshop/player/items/all_class/robo_all_noble_amassment/robo_all_noble_amassment_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/robo_all_noble_amassment/robo_all_noble_amassment"
 	},
 	[30007] = {
 		name = "Base Metal Billycock"
+		name_internal = "Base Metal Billycock"
+		model = "models/workshop/player/items/spy/robo_spy_backbiter_billycock/robo_spy_backbiter_billycock.mdl"
+		image = "backpack/workshop/player/items/spy/robo_spy_backbiter_billycock/robo_spy_backbiter_billycock"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30008] = {
 		name = "Towering Titanium Pillar of Hats"
+		name_internal = "Towering Titanium Pillar of Hats"
+		model = "models/workshop/player/items/all_class/robo_all_towering_pillar/robo_all_towering_pillar_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/robo_all_towering_pillar/robo_all_towering_pillar"
 	},
 	[30009] = {
 		name = "The Megapixel Beard"
+		name_internal = "The Megapixel Beard"
+		model = "models/workshop/player/items/spy/robo_spy_camera_beard/robo_spy_camera_beard.mdl"
+		image = "backpack/workshop/player/items/spy/robo_spy_camera_beard/robo_spy_camera_beard"
 		classes = [TF_CLASS_SPY]
 	},
 	[30010] = {
 		name = "The HDMI Patch"
+		name_internal = "The HDMI Patch"
+		model = "models/workshop/player/items/demo/robo_demo_pupil/robo_demo_pupil.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_pupil/robo_demo_pupil"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30011] = {
 		name = "The Bolted Bombardier"
+		name_internal = "The Bolted Bombardier"
+		model = "models/workshop/player/items/demo/robo_demo_beard_bombardier/robo_demo_beard_bombardier.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_beard_bombardier/robo_demo_beard_bombardier"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30012] = {
 		name = "The Titanium Towel"
+		name_internal = "The Titanium Towel"
+		model = "models/workshop/player/items/heavy/robo_heavy_boltedscraptowel/robo_heavy_boltedscraptowel.mdl"
+		image = "backpack/workshop/player/items/heavy/robo_heavy_boltedscraptowel/robo_heavy_boltedscraptowel"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30013] = {
 		name = "The Gridiron Guardian"
+		name_internal = "The Gridiron Guardian"
+		model = "models/workshop/player/items/heavy/robo_heavy_football_helmet/robo_heavy_football_helmet.mdl"
+		image = "backpack/workshop/player/items/heavy/robo_heavy_football_helmet/robo_heavy_football_helmet"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30014] = {
 		name = "Tyrantium Helmet"
+		name_internal = "Tyrantium Helmet"
+		model = "models/workshop/player/items/soldier/robo_soldier_tyrantium/robo_soldier_tyrantium.mdl"
+		image = "backpack/workshop/player/items/soldier/robo_soldier_tyrantium/robo_soldier_tyrantium"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30016] = {
 		name = "The FR-0"
+		name_internal = "The FR-0"
+		model = "models/workshop/player/items/demo/robo_demo_fro/robo_demo_fro.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_fro/robo_demo_fro"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30017] = {
 		name = "Steel Shako"
+		name_internal = "Steel Shako"
+		model = "models/workshop/player/items/soldier/robo_soldier_shako/robo_soldier_shako.mdl"
+		image = "backpack/workshop/player/items/soldier/robo_soldier_shako/robo_soldier_shako"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30018] = {
 		name = "The Bot Dogger"
+		name_internal = "The Bot Dogger"
+		model = "models/workshop/player/items/all_class/robo_dogger/robo_dogger_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/robo_dogger/robo_dogger"
 		paint = true
 	},
 	[30019] = {
 		name = "Ye Oiled Baker Boy"
+		name_internal = "Ye Oiled Baker Boy"
+		model = "models/workshop/player/items/scout/robo_scout_baker_boy/robo_scout_baker_boy.mdl"
+		image = "backpack/workshop/player/items/scout/robo_scout_baker_boy/robo_scout_baker_boy"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30020] = {
 		name = "The Scrap Sack"
+		name_internal = "The Scrap Sack"
+		model = "models/workshop/player/items/pyro/robo_pyro_pyrobotic_tote/robo_pyro_pyrobotic_tote.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_pyrobotic_tote/robo_pyro_pyrobotic_tote"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30021] = {
 		name = "The Pure Tin Capotain"
+		name_internal = "The Pure Tin Capotain"
+		model = "models/workshop/player/items/demo/robo_demo_capotain/robo_demo_capotain.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_capotain/robo_demo_capotain"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30022] = {
 		name = "Plumber's Pipe"
+		name_internal = "Plumber's Pipe"
+		model = "models/workshop/player/items/pyro/robo_pyro_prancers_pride/robo_pyro_prancers_pride.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_prancers_pride/robo_pyro_prancers_pride"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30023] = {
 		name = "Teddy Robobelt"
+		name_internal = "Teddy Robobelt"
+		model = "models/workshop/player/items/engineer/robo_engineer_teddy/robo_engineer_teddy.mdl"
+		image = "backpack/workshop/player/items/engineer/robo_engineer_teddy/robo_engineer_teddy"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30024] = {
 		name = "The Cyborg Stunt Helmet"
+		name_internal = "The Cyborg Stunt Helmet"
+		model = "models/workshop/player/items/demo/robo_demo_stuntman/robo_demo_stuntman.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_stuntman/robo_demo_stuntman"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30025] = {
 		name = "The Electric Escorter"
+		name_internal = "The Electric Escorter"
+		model = "models/workshop/player/items/pyro/robo_pyro_electric_escorter/robo_pyro_electric_escorter.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_electric_escorter/robo_pyro_electric_escorter"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30026] = {
 		name = "Full Metal Drill Hat"
+		name_internal = "Full Metal Drill Hat"
+		model = "models/workshop/player/items/soldier/robo_soldier_fullmetaldrillhat/robo_soldier_fullmetaldrillhat.mdl"
+		image = "backpack/workshop/player/items/soldier/robo_soldier_fullmetaldrillhat/robo_soldier_fullmetaldrillhat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30027] = {
 		name = "The Bolt Boy"
+		name_internal = "The Bolt Boy"
+		model = "models/workshop/player/items/scout/robo_scout_bolt_boy/robo_scout_bolt_boy.mdl"
+		image = "backpack/workshop/player/items/scout/robo_scout_bolt_boy/robo_scout_bolt_boy"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["No Hat" "Hat"]
 	},
 	[30028] = {
 		name = "The Metal Slug"
+		name_internal = "The Metal Slug"
+		model = "models/workshop/player/items/pyro/robo_pyro_tribtrojan/robo_pyro_tribtrojan.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_tribtrojan/robo_pyro_tribtrojan"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30029] = {
 		name = "The Broadband Bonnet"
+		name_internal = "The Broadband Bonnet"
+		model = "models/workshop/player/items/demo/robo_demo_glengarry_botnet/robo_demo_glengarry_botnet.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_glengarry_botnet/robo_demo_glengarry_botnet"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30030] = {
 		name = "Bonk Leadwear"
+		name_internal = "Bonk Leadwear"
+		model = "models/workshop/player/items/scout/robo_scout_bonk_helm/robo_scout_bonk_helm.mdl"
+		image = "backpack/workshop/player/items/scout/robo_scout_bonk_helm/robo_scout_bonk_helm"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30031] = {
 		name = "The Plug-In Prospector"
+		name_internal = "The Plug-In Prospector"
+		model = "models/workshop/player/items/engineer/robo_engineer_greaser/robo_engineer_greaser.mdl"
+		image = "backpack/workshop/player/items/engineer/robo_engineer_greaser/robo_engineer_greaser"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30032] = {
 		name = "The Rusty Reaper"
+		name_internal = "The Rusty Reaper"
+		model = "models/workshop/player/items/pyro/robo_pyro_last_watt/robo_pyro_last_watt.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_last_watt/robo_pyro_last_watt"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30033] = {
 		name = "Soldier's Sparkplug"
+		name_internal = "Soldier's Sparkplug"
+		model = "models/workshop/player/items/soldier/robo_soldier_sparkplug/robo_soldier_sparkplug.mdl"
+		image = "backpack/workshop/player/items/soldier/robo_soldier_sparkplug/robo_soldier_sparkplug"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30034] = {
 		name = "The Bolted Bicorne"
+		name_internal = "The Bolted Bicorne"
+		model = "models/workshop/player/items/demo/robo_demo_buccaneer_bicorne/robo_demo_buccaneer_bicorne.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_buccaneer_bicorne/robo_demo_buccaneer_bicorne"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30035] = {
 		name = "The Timeless Topper"
+		name_internal = "The Timeless Topper"
+		model = "models/workshop/player/items/engineer/robo_engineer_rustin/robo_engineer_rustin.mdl"
+		image = "backpack/workshop/player/items/engineer/robo_engineer_rustin/robo_engineer_rustin"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30036] = {
 		name = "The Filamental"
+		name_internal = "The Filamental"
+		model = "models/workshop/player/items/pyro/robo_pyro_figment_filament/robo_pyro_figment_filament.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_figment_filament/robo_pyro_figment_filament"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30037] = {
 		name = "The Strontium Stove Pipe"
+		name_internal = "The Strontium Stove Pipe"
+		model = "models/workshop/player/items/demo/robo_demo_scotsmans_stovepipe/robo_demo_scotsmans_stovepipe.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_scotsmans_stovepipe/robo_demo_scotsmans_stovepipe"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30038] = {
 		name = "Firewall Helmet"
+		name_internal = "Firewall Helmet"
+		model = "models/workshop/player/items/pyro/robo_pyro_firewall_helmet/robo_pyro_firewall_helmet.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_firewall_helmet/robo_pyro_firewall_helmet"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30039] = {
 		name = "Respectless Robo-Glove"
+		name_internal = "Respectless Robo-Glove"
+		model = "models/workshop/player/items/pyro/robo_pyro_respectless_glove/robo_pyro_respectless_glove.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_respectless_glove/robo_pyro_respectless_glove"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30040] = {
 		name = "Pyro's Boron Beanie"
+		name_internal = "Pyro's Boron Beanie"
+		model = "models/workshop/player/items/pyro/robo_pyro_whirly_bird/robo_pyro_whirly_bird.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_whirly_bird/robo_pyro_whirly_bird"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30041] = {
 		name = "Halogen Head Lamp"
+		name_internal = "Halogen Head Lamp"
+		model = "models/workshop/player/items/medic/robo_medic_otolaryngologists_mirror/robo_medic_otolaryngologists_mirror.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_otolaryngologists_mirror/robo_medic_otolaryngologists_mirror"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30042] = {
 		name = "Platinum Pickelhaube"
+		name_internal = "Platinum Pickelhaube"
+		model = "models/workshop/player/items/medic/robo_medic_pickelhaube/robo_medic_pickelhaube.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_pickelhaube/robo_medic_pickelhaube"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30043] = {
 		name = "The Virus Doctor"
+		name_internal = "The Virus Doctor"
+		model = "models/workshop/player/items/medic/robo_medic_grimm_hatte/robo_medic_grimm_hatte.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_grimm_hatte/robo_medic_grimm_hatte"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30044] = {
 		name = "Texas Tin-Gallon"
+		name_internal = "Texas Tin-Gallon"
+		model = "models/workshop/player/items/engineer/robo_engineer_texastingallon/robo_engineer_texastingallon.mdl"
+		image = "backpack/workshop/player/items/engineer/robo_engineer_texastingallon/robo_engineer_texastingallon"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30045] = {
 		name = "Titanium Tyrolean"
+		name_internal = "Titanium Tyrolean"
+		model = "models/workshop/player/items/medic/robo_medic_tyrolean/robo_medic_tyrolean.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_tyrolean/robo_medic_tyrolean"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30046] = {
 		name = "Practitioner's Processing Mask"
+		name_internal = "Practitioner's Processing Mask"
+		model = "models/workshop/player/items/medic/robo_medic_physician_mask/robo_medic_physician_mask.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_physician_mask/robo_medic_physician_mask"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30047] = {
 		name = "Bootleg Base Metal Billycock"
+		name_internal = "Bootleg Base Metal Billycock"
+		model = "models/workshop/player/items/spy/robo_spy_bootleg_billycock/robo_spy_bootleg_billycock.mdl"
+		image = "backpack/workshop/player/items/spy/robo_spy_bootleg_billycock/robo_spy_bootleg_billycock"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30048] = {
 		name = "Mecha-Medes"
+		name_internal = "Mecha-Medes"
+		model = "models/workshop/player/items/medic/robo_medic_archimedes/robo_medic_archimedes.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_archimedes/robo_medic_archimedes"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30049] = {
 		name = "The Tungsten Toque"
+		name_internal = "The Tungsten Toque"
+		model = "models/workshop/player/items/heavy/robo_heavy_tungsten_toque/robo_heavy_tungsten_toque.mdl"
+		image = "backpack/workshop/player/items/heavy/robo_heavy_tungsten_toque/robo_heavy_tungsten_toque"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30050] = {
 		name = "The Steam Pipe"
+		name_internal = "The Steam Pipe"
+		model = "models/workshop/player/items/medic/robo_medic_ninepipe_problem/robo_medic_ninepipe_problem.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_ninepipe_problem/robo_medic_ninepipe_problem"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30051] = {
 		name = "The Data Mining Light"
+		name_internal = "The Data Mining Light"
+		model = "models/workshop/player/items/engineer/robo_engineer_mining_light/robo_engineer_mining_light.mdl"
+		image = "backpack/workshop/player/items/engineer/robo_engineer_mining_light/robo_engineer_mining_light"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30052] = {
 		name = "The Byte'd Beak"
+		name_internal = "The Byte'd Beak"
+		model = "models/workshop/player/items/medic/robo_medic_blighted_beak/robo_medic_blighted_beak.mdl"
+		image = "backpack/workshop/player/items/medic/robo_medic_blighted_beak/robo_medic_blighted_beak"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30053] = {
 		name = "The Googol Glass Eyes"
+		name_internal = "The Googol Glass Eyes"
+		model = "models/workshop/player/items/pyro/robo_pyro_site_for_sore_eyes/robo_pyro_site_for_sore_eyes.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_site_for_sore_eyes/robo_pyro_site_for_sore_eyes"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30054] = {
 		name = "The Bunsen Brave"
+		name_internal = "The Bunsen Brave"
+		model = "models/workshop/player/items/heavy/robo_heavy_chief/robo_heavy_chief.mdl"
+		image = "backpack/workshop/player/items/heavy/robo_heavy_chief/robo_heavy_chief"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30055] = {
 		name = "The Scrumpy Strongbox"
+		name_internal = "The Scrumpy Strongbox"
+		model = "models/workshop/player/items/demo/robo_demo_chest/robo_demo_chest.mdl"
+		image = "backpack/workshop/player/items/demo/robo_demo_chest/robo_demo_chest"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30056] = {
 		name = "The Dual-Core Devil Doll"
+		name_internal = "The Dual-Core Devil Doll"
+		model = "models/workshop/player/items/all_class/robo_all_spybot/robo_all_spybot_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/robo_all_spybot/robo_all_spybot"
 		classes = [TF_CLASS_SNIPER TF_CLASS_ENGINEER]
 	},
 	[30057] = {
 		name = "The Bolted Birdcage"
+		name_internal = "The Bolted Birdcage"
+		model = "models/workshop/player/items/pyro/robo_pyro_birdcage/robo_pyro_birdcage.mdl"
+		image = "backpack/workshop/player/items/pyro/robo_pyro_birdcage/robo_pyro_birdcage"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30058] = {
 		name = "The Crosslinker's Coil"
+		name_internal = "The Crosslinker's Coil"
+		model = "models/workshop/player/items/all_class/gunpointcoilhat/gunpointcoilhat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/gunpointcoilhat/gunpointcoilhat"
 		styles = ["No Hat" "No Hat and No Headphones"]
 	},
 	[30059] = {
 		name = "The Beastly Bonnet"
+		name_internal = "The Beastly Bonnet"
+		model = "models/workshop_partner/player/items/scout/tw2_cheetah_head/tw2_cheetah_head.mdl"
+		image = "backpack/workshop_partner/player/items/scout/tw2_cheetah_head/tw2_cheetah_head"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30060] = {
 		name = "The Cheet Sheet"
+		name_internal = "The Cheet Sheet"
+		model = "models/workshop_partner/player/items/scout/tw2_cheetah_robe/tw2_cheetah_robe.mdl"
+		image = "backpack/workshop_partner/player/items/scout/tw2_cheetah_robe/tw2_cheetah_robe"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30061] = {
 		name = "The Tartantaloons"
+		name_internal = "The Tartantaloons"
+		model = "models/workshop_partner/player/items/demo/tw2_demo_pants/tw2_demo_pants.mdl"
+		image = "backpack/workshop_partner/player/items/demo/tw2_demo_pants/tw2_demo_pants"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30062] = {
 		name = "The Steel Sixpack"
+		name_internal = "The Steel Sixpack"
+		model = "models/workshop_partner/player/items/pyro/tw2_greek_armor/tw2_greek_armor.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/tw2_greek_armor/tw2_greek_armor"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30063] = {
 		name = "The Centurion"
+		name_internal = "The Centurion"
+		model = "models/workshop_partner/player/items/pyro/tw2_greek_helm/tw2_greek_helm.mdl"
+		image = "backpack/workshop_partner/player/items/pyro/tw2_greek_helm/tw2_greek_helm"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30064] = {
 		name = "The Tartan Shade"
+		name_internal = "The Tartan Shade"
+		model = "models/workshop_partner/player/items/demo/tw2_demo_hood/tw2_demo_hood.mdl"
+		image = "backpack/workshop_partner/player/items/demo/tw2_demo_hood/tw2_demo_hood"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30065] = {
 		name = "The Hardy Laurel"
+		name_internal = "The Hardy Laurel"
+		model = "models/workshop_partner/player/items/all_class/tw2_roman_wreath/tw2_roman_wreath_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/tw2_roman_wreath/tw2_roman_wreath"
 	},
 	[30066] = {
 		name = "The Brotherhood of Arms"
+		name_internal = "The Brotherhood of Arms"
+		model = "models/workshop/player/items/all_class/brotherhood_2/brotherhood_2_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/brotherhood_2/brotherhood_2"
 		paint = true
 	},
 	[30067] = {
 		name = "The Well-Rounded Rifleman"
+		name_internal = "The Well-Rounded Rifleman"
+		model = "models/workshop/player/items/all_class/riflemans_rallycap/riflemans_rallycap_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/riflemans_rallycap/riflemans_rallycap"
 		paint = true
 	},
 	[30068] = {
 		name = "The Breakneck Baggies"
+		name_internal = "The Breakneck Baggies"
+		model = "models/workshop/player/items/all_class/jogon/jogon_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/jogon/jogon"
 		paint = true
 	},
 	[30069] = {
 		name = "The Powdered Practitioner"
+		name_internal = "The Powdered Practitioner"
+		model = "models/workshop/player/items/all_class/enlightened_mann/enlightened_mann_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/enlightened_mann/enlightened_mann"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_MEDIC TF_CLASS_SPY]
 		paint = true
 		styles = ["Too Pompous to Describe" "Classical"]
 	},
 	[30070] = {
 		name = "The Pocket Pyro"
+		name_internal = "The Pocket Pyro"
+		model = "models/workshop/player/items/engineer/pocket_protector/pocket_protector.mdl"
+		image = "backpack/workshop/player/items/engineer/pocket_protector/pocket_protector"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30071] = {
 		name = "The Cloud Crasher"
+		name_internal = "The Cloud Crasher"
+		model = "models/workshop/player/items/soldier/cloud_crasher/cloud_crasher.mdl"
+		image = "backpack/workshop/player/items/soldier/cloud_crasher/cloud_crasher"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30072] = {
 		name = "The Pom-Pommed Provocateur"
+		name_internal = "The Pom-Pommed Provocateur"
+		model = "models/workshop/player/items/spy/facestabber/facestabber.mdl"
+		image = "backpack/workshop/player/items/spy/facestabber/facestabber"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30073] = {
 		name = "The Dark Age Defender"
+		name_internal = "The Dark Age Defender"
+		model = "models/workshop/player/items/demo/mail_bomber/mail_bomber.mdl"
+		image = "backpack/workshop/player/items/demo/mail_bomber/mail_bomber"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30074] = {
 		name = "The Tyurtlenek"
+		name_internal = "The Tyurtlenek"
+		model = "models/workshop/player/items/heavy/diehard_dynafil/diehard_dynafil.mdl"
+		image = "backpack/workshop/player/items/heavy/diehard_dynafil/diehard_dynafil"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30075] = {
 		name = "The Mair Mask"
+		name_internal = "The Mair Mask"
+		model = "models/workshop/player/items/pyro/hazeguard/hazeguard.mdl"
+		image = "backpack/workshop/player/items/pyro/hazeguard/hazeguard"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30076] = {
 		name = "The Bigg Mann on Campus"
+		name_internal = "The Bigg Mann on Campus"
+		model = "models/workshop/player/items/scout/jul13_scout_varsity/jul13_scout_varsity.mdl"
+		image = "backpack/workshop/player/items/scout/jul13_scout_varsity/jul13_scout_varsity"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30077] = {
 		name = "The Cool Cat Cardigan"
+		name_internal = "The Cool Cat Cardigan"
+		model = "models/workshop/player/items/scout/jul13_the_cunningmann/jul13_the_cunningmann.mdl"
+		image = "backpack/workshop/player/items/scout/jul13_the_cunningmann/jul13_the_cunningmann"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30078] = {
 		name = "Greased Lightning"
+		name_internal = "Greased Lightning"
+		model = "models/workshop/player/items/scout/jul13_greased_lightning/jul13_greased_lightning.mdl"
+		image = "backpack/workshop/player/items/scout/jul13_greased_lightning/jul13_greased_lightning"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["No Headset" "Headset"]
 	},
 	[30079] = {
 		name = "The Red Army Robin"
+		name_internal = "The Red Army Robin"
+		model = "models/workshop/player/items/heavy/jul13_red_army_robin/jul13_red_army_robin.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_red_army_robin/jul13_red_army_robin"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30080] = {
 		name = "The Heavy-Weight Champ"
+		name_internal = "The Heavy-Weight Champ"
+		model = "models/workshop/player/items/heavy/jul13_heavy_weight_belt/jul13_heavy_weight_belt.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_heavy_weight_belt/jul13_heavy_weight_belt"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30081] = {
 		name = "The Tsarboosh"
+		name_internal = "The Tsarboosh"
+		model = "models/workshop/player/items/heavy/jul13_unfamiliar_tarboosh/jul13_unfamiliar_tarboosh.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_unfamiliar_tarboosh/jul13_unfamiliar_tarboosh"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30082] = {
 		name = "The Glasgow Great Helm"
+		name_internal = "The Glasgow Great Helm"
+		model = "models/workshop/player/items/demo/jul13_pillagers_barrel/jul13_pillagers_barrel.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_pillagers_barrel/jul13_pillagers_barrel"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30083] = {
 		name = "The Caffeine Cooler"
+		name_internal = "The Caffeine Cooler"
+		model = "models/workshop/player/items/scout/jul13_koolboy/jul13_koolboy.mdl"
+		image = "backpack/workshop/player/items/scout/jul13_koolboy/jul13_koolboy"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Sharing is Caring" "Sharing is for Wusses" "Crit-a-Cooler"]
 	},
 	[30084] = {
 		name = "The Half-Pipe Hurdler"
+		name_internal = "The Half-Pipe Hurdler"
+		model = "models/workshop/player/items/scout/jul13_skater_boy/jul13_skater_boy.mdl"
+		image = "backpack/workshop/player/items/scout/jul13_skater_boy/jul13_skater_boy"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30085] = {
 		name = "The Macho Mann"
+		name_internal = "The Macho Mann"
+		model = "models/workshop/player/items/all_class/jul13_macho_mann_glasses/jul13_macho_mann_glasses_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/jul13_macho_mann_glasses/jul13_macho_mann_glasses"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_SPY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30086] = {
 		name = "The Trash Toter"
+		name_internal = "The Trash Toter"
+		model = "models/workshop/player/items/engineer/jul13_scrap_reserve/jul13_scrap_reserve.mdl"
+		image = "backpack/workshop/player/items/engineer/jul13_scrap_reserve/jul13_scrap_reserve"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30087] = {
 		name = "The Dry Gulch Gulp"
+		name_internal = "The Dry Gulch Gulp"
+		model = "models/workshop/player/items/engineer/jul13_thirst_quencher/jul13_thirst_quencher.mdl"
+		image = "backpack/workshop/player/items/engineer/jul13_thirst_quencher/jul13_thirst_quencher"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30089] = {
 		name = "El Muchacho"
+		name_internal = "El Muchacho"
+		model = "models/workshop/player/items/pyro/jul13_el_muchacho/jul13_el_muchacho.mdl"
+		image = "backpack/workshop/player/items/pyro/jul13_el_muchacho/jul13_el_muchacho"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30090] = {
 		name = "The Backpack Broiler"
+		name_internal = "The Backpack Broiler"
+		model = "models/workshop/player/items/pyro/jul13_furious_fryup/jul13_furious_fryup.mdl"
+		image = "backpack/workshop/player/items/pyro/jul13_furious_fryup/jul13_furious_fryup"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30091] = {
 		name = "The Burning Bandana"
+		name_internal = "The Burning Bandana"
+		model = "models/workshop/player/items/pyro/jul13_hot_rag/jul13_hot_rag.mdl"
+		image = "backpack/workshop/player/items/pyro/jul13_hot_rag/jul13_hot_rag"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30092] = {
 		name = "The Soot Suit"
+		name_internal = "The Soot Suit"
+		model = "models/workshop/player/items/pyro/jul13_soot_suit/jul13_soot_suit.mdl"
+		image = "backpack/workshop/player/items/pyro/jul13_soot_suit/jul13_soot_suit"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30093] = {
 		name = "The Hive Minder"
+		name_internal = "The Hive Minder"
+		model = "models/workshop/player/items/pyro/jul13_bee_keeper/jul13_bee_keeper.mdl"
+		image = "backpack/workshop/player/items/pyro/jul13_bee_keeper/jul13_bee_keeper"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30094] = {
 		name = "The Katyusha"
+		name_internal = "The Katyusha"
+		model = "models/workshop/player/items/heavy/jul13_katyusha/jul13_katyusha.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_katyusha/jul13_katyusha"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30095] = {
 		name = "Das Hazmattenhatten"
+		name_internal = "Das Hazmattenhatten"
+		model = "models/workshop/player/items/medic/jul13_positive_pressure_veil/jul13_positive_pressure_veil.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_positive_pressure_veil/jul13_positive_pressure_veil"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30096] = {
 		name = "Das Feelinbeterbager"
+		name_internal = "Das Feelinbeterbager"
+		model = "models/workshop/player/items/medic/jul13_emergency_supplies/jul13_emergency_supplies.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_emergency_supplies/jul13_emergency_supplies"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30097] = {
 		name = "Das Ubersternmann"
+		name_internal = "Das Ubersternmann"
+		model = "models/workshop/player/items/medic/jul13_secret_state_surgeon/jul13_secret_state_surgeon.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_secret_state_surgeon/jul13_secret_state_surgeon"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30098] = {
 		name = "Das Metalmeatencasen"
+		name_internal = "Das Metalmeatencasen"
+		model = "models/workshop/player/items/medic/jul13_heavy_defender/jul13_heavy_defender.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_heavy_defender/jul13_heavy_defender"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30099] = {
 		name = "The Pardner's Pompadour"
+		name_internal = "The Pardner's Pompadour"
+		model = "models/workshop/player/items/engineer/jul13_king_hair/jul13_king_hair.mdl"
+		image = "backpack/workshop/player/items/engineer/jul13_king_hair/jul13_king_hair"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30100] = {
 		name = "The Birdman of Australiacatraz"
+		name_internal = "The Birdman of Australiacatraz"
+		model = "models/workshop/player/items/sniper/jul13_bushmans_blazer/jul13_bushmans_blazer.mdl"
+		image = "backpack/workshop/player/items/sniper/jul13_bushmans_blazer/jul13_bushmans_blazer"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30101] = {
 		name = "The Cobber Chameleon"
+		name_internal = "The Cobber Chameleon"
+		model = "models/workshop/player/items/sniper/jul13_cameleon/jul13_cameleon.mdl"
+		image = "backpack/workshop/player/items/sniper/jul13_cameleon/jul13_cameleon"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30103] = {
 		name = "The Falconer"
+		name_internal = "The Falconer"
+		model = "models/workshop/player/items/sniper/jul13_falconer_punch/jul13_falconer_punch.mdl"
+		image = "backpack/workshop/player/items/sniper/jul13_falconer_punch/jul13_falconer_punch"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30104] = {
 		name = "Graybanns"
+		name_internal = "Graybanns"
+		model = "models/workshop/player/items/all_class/jul13_sweet_shades/jul13_sweet_shades_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/jul13_sweet_shades/jul13_sweet_shades"
 		paint = true
 		styles = ["Style 1" "Style 2" "Style 3"]
 	},
 	[30105] = {
 		name = "The Black Watch"
+		name_internal = "The Black Watch"
+		model = "models/workshop/player/items/demo/jul13_blam_o_shanter/jul13_blam_o_shanter.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_blam_o_shanter/jul13_blam_o_shanter"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30106] = {
 		name = "The Tartan Spartan"
+		name_internal = "The Tartan Spartan"
+		model = "models/workshop/player/items/demo/jul13_trojan_helmet/jul13_trojan_helmet.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_trojan_helmet/jul13_trojan_helmet"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30107] = {
 		name = "The Gaelic Golf Bag"
+		name_internal = "The Gaelic Golf Bag"
+		model = "models/workshop/player/items/demo/jul13_scotsmans_golfbag/jul13_scotsmans_golfbag.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_scotsmans_golfbag/jul13_scotsmans_golfbag"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30108] = {
 		name = "The Borscht Belt"
+		name_internal = "The Borscht Belt"
+		model = "models/workshop/player/items/heavy/jul13_bagdolier/jul13_bagdolier.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_bagdolier/jul13_bagdolier"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30109] = {
 		name = "Das Naggenvatcher"
+		name_internal = "Das Naggenvatcher"
+		model = "models/workshop/player/items/medic/jul13_bro_plate/jul13_bro_plate.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_bro_plate/jul13_bro_plate"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30110] = {
 		name = "The Whiskey Bib"
+		name_internal = "The Whiskey Bib"
+		model = "models/workshop/player/items/demo/jul13_gallant_gael/jul13_gallant_gael.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_gallant_gael/jul13_gallant_gael"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30112] = {
 		name = "The Stormin' Norman"
+		name_internal = "The Stormin' Norman"
+		model = "models/workshop/player/items/demo/jul13_stormn_normn/jul13_stormn_normn.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_stormn_normn/jul13_stormn_normn"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30113] = {
 		name = "The Flared Frontiersman"
+		name_internal = "The Flared Frontiersman"
+		model = "models/workshop/player/items/engineer/jul13_king_pants/jul13_king_pants.mdl"
+		image = "backpack/workshop/player/items/engineer/jul13_king_pants/jul13_king_pants"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30114] = {
 		name = "The Valley Forge"
+		name_internal = "The Valley Forge"
+		model = "models/workshop/player/items/soldier/jul13_the_presidential/jul13_the_presidential.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_the_presidential/jul13_the_presidential"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30115] = {
 		name = "The Compatriot"
+		name_internal = "The Compatriot"
+		model = "models/workshop/player/items/soldier/jul13_soldier_eagle/jul13_soldier_eagle.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_soldier_eagle/jul13_soldier_eagle"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30116] = {
 		name = "The Caribbean Conqueror"
+		name_internal = "The Caribbean Conqueror"
+		model = "models/workshop/player/items/soldier/jul13_the_caribbean_conqueror/jul13_the_caribbean_conqueror.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_the_caribbean_conqueror/jul13_the_caribbean_conqueror"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30117] = {
 		name = "The Colonial Clogs"
+		name_internal = "The Colonial Clogs"
+		model = "models/workshop/player/items/soldier/jul13_colonial_clogs/jul13_colonial_clogs.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_colonial_clogs/jul13_colonial_clogs"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30118] = {
 		name = "The Whirly Warrior"
+		name_internal = "The Whirly Warrior"
+		model = "models/workshop/player/items/soldier/jul13_helicopter_helmet/jul13_helicopter_helmet.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_helicopter_helmet/jul13_helicopter_helmet"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30119] = {
 		name = "The Federal Casemaker"
+		name_internal = "The Federal Casemaker"
+		model = "models/workshop/player/items/all_class/jul13_fedora/jul13_fedora_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/jul13_fedora/jul13_fedora"
 		paint = true
 	},
 	[30120] = {
 		name = "The Rebel Rouser"
+		name_internal = "The Rebel Rouser"
+		model = "models/workshop/player/items/soldier/jul13_ol_jack/jul13_ol_jack.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_ol_jack/jul13_ol_jack"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30121] = {
 		name = "Das Maddendoktor"
+		name_internal = "Das Maddendoktor"
+		model = "models/workshop/player/items/medic/jul13_madmans_mop/jul13_madmans_mop.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_madmans_mop/jul13_madmans_mop"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30122] = {
 		name = "The Bear Necessities"
+		name_internal = "The Bear Necessities"
+		model = "models/workshop/player/items/heavy/jul13_bear_necessitys/jul13_bear_necessitys.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_bear_necessitys/jul13_bear_necessitys"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30123] = {
 		name = "The Harmburg"
+		name_internal = "The Harmburg"
+		model = "models/workshop/player/items/spy/jul13_harmburg/jul13_harmburg.mdl"
+		image = "backpack/workshop/player/items/spy/jul13_harmburg/jul13_harmburg"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30124] = {
 		name = "The Gaelic Garb"
+		name_internal = "The Gaelic Garb"
+		model = "models/workshop/player/items/demo/jul13_gaelic_garb/jul13_gaelic_garb.mdl"
+		image = "backpack/workshop/player/items/demo/jul13_gaelic_garb/jul13_gaelic_garb"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30125] = {
 		name = "The Rogue's Brogues"
+		name_internal = "The Rogue's Brogues"
+		model = "models/workshop/player/items/spy/jul13_rogues_brogues/jul13_rogues_brogues.mdl"
+		image = "backpack/workshop/player/items/spy/jul13_rogues_brogues/jul13_rogues_brogues"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30126] = {
 		name = "The Shogun's Shoulder Guard"
+		name_internal = "The Shogun's Shoulder Guard"
+		model = "models/workshop/player/items/soldier/jul13_shoguns_guard/jul13_shoguns_guard.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_shoguns_guard/jul13_shoguns_guard"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30127] = {
 		name = "Das Gutenkutteharen"
+		name_internal = "Das Gutenkutteharen"
+		model = "models/workshop/player/items/medic/jul13_class_act/jul13_class_act.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_class_act/jul13_class_act"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30128] = {
 		name = "The Belgian Detective"
+		name_internal = "The Belgian Detective"
+		model = "models/workshop/player/items/spy/jul13_double_clue/jul13_double_clue.mdl"
+		image = "backpack/workshop/player/items/spy/jul13_double_clue/jul13_double_clue"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30129] = {
 		name = "The Hornblower"
+		name_internal = "The Hornblower"
+		model = "models/workshop/player/items/soldier/jul13_generals_attire/jul13_generals_attire.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_generals_attire/jul13_generals_attire"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30130] = {
 		name = "Lieutenant Bites"
+		name_internal = "Lieutenant Bites"
+		model = "models/workshop/player/items/soldier/jul13_lt_bites/jul13_lt_bites.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_lt_bites/jul13_lt_bites"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30131] = {
 		name = "The Brawling Buccaneer"
+		name_internal = "The Brawling Buccaneer"
+		model = "models/workshop/player/items/soldier/jul13_gangplank_garment/jul13_gangplank_garment.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_gangplank_garment/jul13_gangplank_garment"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30132] = {
 		name = "The Blood Banker"
+		name_internal = "The Blood Banker"
+		model = "models/workshop/player/items/spy/jul13_blood_banker/jul13_blood_banker.mdl"
+		image = "backpack/workshop/player/items/spy/jul13_blood_banker/jul13_blood_banker"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30133] = {
 		name = "The After Dark"
+		name_internal = "The After Dark"
+		model = "models/workshop/player/items/spy/jul13_classy_royale/jul13_classy_royale.mdl"
+		image = "backpack/workshop/player/items/spy/jul13_classy_royale/jul13_classy_royale"
 		classes = [TF_CLASS_SPY]
 	},
 	[30134] = {
 		name = "The Delinquent's Down Vest"
+		name_internal = "The Delinquent's Down Vest"
+		model = "models/workshop/player/items/scout/jul13_scout_vestjacket/jul13_scout_vestjacket.mdl"
+		image = "backpack/workshop/player/items/scout/jul13_scout_vestjacket/jul13_scout_vestjacket"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30135] = {
 		name = "Wet Works"
+		name_internal = "Wet Works"
+		model = "models/workshop/player/items/sniper/jul13_sniper_souwester/jul13_sniper_souwester.mdl"
+		image = "backpack/workshop/player/items/sniper/jul13_sniper_souwester/jul13_sniper_souwester"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30136] = {
 		name = "Baron von Havenaplane"
+		name_internal = "Baron von Havenaplane"
+		model = "models/workshop/player/items/medic/jul13_montys_menace/jul13_montys_menace.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_montys_menace/jul13_montys_menace"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30137] = {
 		name = "Das Fantzipantzen"
+		name_internal = "Das Fantzipantzen"
+		model = "models/workshop/player/items/medic/jul13_uncivil_servant/jul13_uncivil_servant.mdl"
+		image = "backpack/workshop/player/items/medic/jul13_uncivil_servant/jul13_uncivil_servant"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30138] = {
 		name = "The Bolshevik Biker"
+		name_internal = "The Bolshevik Biker"
+		model = "models/workshop/player/items/heavy/jul13_border_armor/jul13_border_armor.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_border_armor/jul13_border_armor"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30139] = {
 		name = "The Pampered Pyro"
+		name_internal = "The Pampered Pyro"
+		model = "models/workshop/player/items/pyro/jul13_pyro_towel/jul13_pyro_towel.mdl"
+		image = "backpack/workshop/player/items/pyro/jul13_pyro_towel/jul13_pyro_towel"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30140] = {
 		name = "The Virtual Viewfinder"
+		name_internal = "The Virtual Viewfinder"
+		model = "models/workshop/player/items/all_class/jul13_se_headset/jul13_se_headset_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/jul13_se_headset/jul13_se_headset"
 		paint = true
 	},
 	[30141] = {
 		name = "The Gabe Glasses"
+		name_internal = "The Gabe Glasses"
+		model = "models/workshop/player/items/heavy/jul13_honchos_heavy_reader/jul13_honchos_heavy_reader.mdl"
+		image = "backpack/workshop/player/items/heavy/jul13_honchos_heavy_reader/jul13_honchos_heavy_reader"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30142] = {
 		name = "The Founding Father"
+		name_internal = "The Founding Father"
+		model = "models/workshop/player/items/soldier/jul13_dandy_yankee/jul13_dandy_yankee.mdl"
+		image = "backpack/workshop/player/items/soldier/jul13_dandy_yankee/jul13_dandy_yankee"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30143] = {
 		name = "Demobot Armor"
+		name_internal = "tw_demobot_armor"
+		model = "models/workshop/player/items/demo/tw_demobot_armor/tw_demobot_armor.mdl"
+		image = "backpack/workshop/player/items/demo/tw_demobot_armor/tw_demobot_armor"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30144] = {
 		name = "Demobot Helmet"
+		name_internal = "tw_demobot_helmet"
+		model = "models/workshop/player/items/demo/tw_demobot_helmet/tw_demobot_helmet.mdl"
+		image = "backpack/workshop/player/items/demo/tw_demobot_helmet/tw_demobot_helmet"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30145] = {
 		name = "Engineerbot Armor"
+		name_internal = "tw_engineerbot_armor"
+		model = "models/workshop/player/items/engineer/tw_engineerbot_armor/tw_engineerbot_armor.mdl"
+		image = "backpack/workshop/player/items/engineer/tw_engineerbot_armor/tw_engineerbot_armor"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30146] = {
 		name = "Engineerbot Helmet"
+		name_internal = "tw_engineerbot_helmet"
+		model = "models/workshop/player/items/engineer/tw_engineerbot_helmet/tw_engineerbot_helmet.mdl"
+		image = "backpack/workshop/player/items/engineer/tw_engineerbot_helmet/tw_engineerbot_helmet"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30147] = {
 		name = "Heavybot Armor"
+		name_internal = "tw_heavybot_armor"
+		model = "models/workshop/player/items/heavy/tw_heavybot_armor/tw_heavybot_armor.mdl"
+		image = "backpack/workshop/player/items/heavy/tw_heavybot_armor/tw_heavybot_armor"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30148] = {
 		name = "Heavybot Helmet"
+		name_internal = "tw_heavybot_helmet"
+		model = "models/workshop/player/items/heavy/tw_heavybot_helmet/tw_heavybot_helmet.mdl"
+		image = "backpack/workshop/player/items/heavy/tw_heavybot_helmet/tw_heavybot_helmet"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30149] = {
 		name = "Medicbot Chariot"
+		name_internal = "tw_medibot_chariot"
+		model = "models/workshop/player/items/medic/tw_medibot_chariot/tw_medibot_chariot.mdl"
+		image = "backpack/workshop/player/items/medic/tw_medibot_chariot/tw_medibot_chariot"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30150] = {
 		name = "Medicbot Hat"
+		name_internal = "tw_medibot_hat"
+		model = "models/workshop/player/items/medic/tw_medibot_hat/tw_medibot_hat.mdl"
+		image = "backpack/workshop/player/items/medic/tw_medibot_hat/tw_medibot_hat"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30151] = {
 		name = "Pyrobot Armor"
+		name_internal = "tw_pyrobot_armor"
+		model = "models/workshop/player/items/pyro/tw_pyrobot_armor/tw_pyrobot_armor.mdl"
+		image = "backpack/workshop/player/items/pyro/tw_pyrobot_armor/tw_pyrobot_armor"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30152] = {
 		name = "Pyrobot Helmet"
+		name_internal = "tw_pyrobot_helmet"
+		model = "models/workshop/player/items/pyro/tw_pyrobot_helmet/tw_pyrobot_helmet.mdl"
+		image = "backpack/workshop/player/items/pyro/tw_pyrobot_helmet/tw_pyrobot_helmet"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30153] = {
 		name = "Scoutbot Armor"
+		name_internal = "tw_scoutbot_armor"
+		model = "models/workshop/player/items/scout/tw_scoutbot_armor/tw_scoutbot_armor.mdl"
+		image = "backpack/workshop/player/items/scout/tw_scoutbot_armor/tw_scoutbot_armor"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30154] = {
 		name = "Scoutbot Hat"
+		name_internal = "tw_scoutbot_hat"
+		model = "models/workshop/player/items/scout/tw_scoutbot_hat/tw_scoutbot_hat.mdl"
+		image = "backpack/workshop/player/items/scout/tw_scoutbot_hat/tw_scoutbot_hat"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30155] = {
 		name = "Sniperbot Armor"
+		name_internal = "tw_sniperbot_armor"
+		model = "models/workshop/player/items/sniper/tw_sniperbot_armor/tw_sniperbot_armor.mdl"
+		image = "backpack/workshop/player/items/sniper/tw_sniperbot_armor/tw_sniperbot_armor"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30156] = {
 		name = "Sniperbot Helmet"
+		name_internal = "tw_sniperbot_helmet"
+		model = "models/workshop/player/items/sniper/tw_sniperbot_helmet/tw_sniperbot_helmet.mdl"
+		image = "backpack/workshop/player/items/sniper/tw_sniperbot_helmet/tw_sniperbot_helmet"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30157] = {
 		name = "Soldierbot Armor"
+		name_internal = "tw_soldierbot_armor"
+		model = "models/workshop/player/items/soldier/tw_soldierbot_armor/tw_soldierbot_armor.mdl"
+		image = "backpack/workshop/player/items/soldier/tw_soldierbot_armor/tw_soldierbot_armor"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30158] = {
 		name = "Soldierbot Helmet"
+		name_internal = "tw_soldierbot_helmet"
+		model = "models/workshop/player/items/soldier/tw_soldierbot_helmet/tw_soldierbot_helmet.mdl"
+		image = "backpack/workshop/player/items/soldier/tw_soldierbot_helmet/tw_soldierbot_helmet"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30159] = {
 		name = "Spybot Armor"
+		name_internal = "tw_spybot_armor"
+		model = "models/workshop/player/items/spy/tw_spybot_armor/tw_spybot_armor.mdl"
+		image = "backpack/workshop/player/items/spy/tw_spybot_armor/tw_spybot_armor"
 		classes = [TF_CLASS_SPY]
 	},
 	[30160] = {
 		name = "Spybot Hood"
+		name_internal = "tw_spybot_hood"
+		model = "models/workshop/player/items/spy/tw_spybot_hood/tw_spybot_hood.mdl"
+		image = "backpack/workshop/player/items/spy/tw_spybot_hood/tw_spybot_hood"
 		classes = [TF_CLASS_SPY]
 	},
 	[30161] = {
 		name = "Sentrybuster"
+		name_internal = "tw_sentrybuster"
+		model = "models/workshop/player/items/demo/tw_sentrybuster/tw_sentrybuster.mdl"
+		image = "backpack/workshop/player/items/demo/tw_sentrybuster/tw_sentrybuster"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30162] = {
 		name = "The Bone Dome"
+		name_internal = "The Bone Dome"
+		model = "models/workshop/player/items/pyro/fall2013_air_raider/fall2013_air_raider.mdl"
+		image = "backpack/workshop/player/items/pyro/fall2013_air_raider/fall2013_air_raider"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30163] = {
 		name = "The Air Raider"
+		name_internal = "The Air Raider"
+		model = "models/workshop/player/items/pyro/fall2013_fire_bird/fall2013_fire_bird.mdl"
+		image = "backpack/workshop/player/items/pyro/fall2013_fire_bird/fall2013_fire_bird"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30164] = {
 		name = "The Viking Braider"
+		name_internal = "The Viking Braider"
+		model = "models/workshop/player/items/all_class/fall2013_the_braided_pride/fall2013_the_braided_pride_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_the_braided_pride/fall2013_the_braided_pride"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30165] = {
 		name = "The Cuban Bristle Crisis"
+		name_internal = "The Cuban Bristle Crisis"
+		model = "models/workshop/player/items/all_class/fall2013_the_cuban_coverup/fall2013_the_cuban_coverup_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_the_cuban_coverup/fall2013_the_cuban_coverup"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30167] = {
 		name = "The Beep Boy"
+		name_internal = "The Beep Boy"
+		model = "models/workshop/player/items/all_class/fall2013_beep_boy/fall2013_beep_boy_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_beep_boy/fall2013_beep_boy"
 		classes = [TF_CLASS_SCOUT TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30168] = {
 		name = "The Special Eyes"
+		name_internal = "The Special Eyes"
+		model = "models/workshop/player/items/all_class/fall2013_the_special_eyes/fall2013_the_special_eyes_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_the_special_eyes/fall2013_the_special_eyes"
 		classes = [TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Suspicious" "Bored"]
 	},
 	[30169] = {
 		name = "Trickster's Turnout Gear"
+		name_internal = "Trickster's Turnout Gear"
+		model = "models/workshop/player/items/pyro/fall2013_the_insidious_incinerator/fall2013_the_insidious_incinerator.mdl"
+		image = "backpack/workshop/player/items/pyro/fall2013_the_insidious_incinerator/fall2013_the_insidious_incinerator"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30170] = {
 		name = "The Chronomancer"
+		name_internal = "The Chronomancer"
+		model = "models/workshop/player/items/sniper/fall2013_kyoto_rider/fall2013_kyoto_rider.mdl"
+		image = "backpack/workshop/player/items/sniper/fall2013_kyoto_rider/fall2013_kyoto_rider"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30171] = {
 		name = "The Medical Mystery"
+		name_internal = "The Medical Mystery"
+		model = "models/workshop/player/items/medic/fall2013_aichi_investigator/fall2013_aichi_investigator.mdl"
+		image = "backpack/workshop/player/items/medic/fall2013_aichi_investigator/fall2013_aichi_investigator"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30172] = {
 		name = "The Gold Digger"
+		name_internal = "The Gold Digger"
+		model = "models/workshop/player/items/engineer/fall2013_the_gold_digger/fall2013_the_gold_digger.mdl"
+		image = "backpack/workshop/player/items/engineer/fall2013_the_gold_digger/fall2013_the_gold_digger"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30173] = {
 		name = "Brim-Full of Bullets"
+		name_internal = "Brim-Full Of Bullets"
+		model = "models/workshop/player/items/sniper/fall2013_brimfull_of_bullets/fall2013_brimfull_of_bullets.mdl"
+		image = "backpack/workshop/player/items/sniper/fall2013_brimfull_of_bullets/fall2013_brimfull_of_bullets"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Good" "Bad" "Ugly"]
 	},
 	[30175] = {
 		name = "The Cotton Head"
+		name_internal = "The Cotton Head"
+		model = "models/workshop/player/items/all_class/fall2013_the_cotton_head/fall2013_the_cotton_head_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_the_cotton_head/fall2013_the_cotton_head"
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30176] = {
 		name = "Pop-Eyes"
+		name_internal = "Pop-eyes"
+		model = "models/workshop/player/items/pyro/fall2013_popeyes/fall2013_popeyes.mdl"
+		image = "backpack/workshop/player/items/pyro/fall2013_popeyes/fall2013_popeyes"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30177] = {
 		name = "Hong Kong Cone"
+		name_internal = "Hong Kong Cone"
+		model = "models/workshop/player/items/all_class/fall2013_hong_kong_cone/fall2013_hong_kong_cone_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_hong_kong_cone/fall2013_hong_kong_cone"
 		paint = true
 	},
 	[30178] = {
 		name = "Weight Room Warmer"
+		name_internal = "Weight Room Warmer"
+		model = "models/workshop/player/items/all_class/fall2013_weight_room_warmer/fall2013_weight_room_warmer_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_weight_room_warmer/fall2013_weight_room_warmer"
 		classes = [TF_CLASS_SCOUT TF_CLASS_DEMOMAN TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30179] = {
 		name = "The Hurt Locher"
+		name_internal = "The Hurt Locher"
+		model = "models/workshop/player/items/demo/fall2013_eod_suit/fall2013_eod_suit.mdl"
+		image = "backpack/workshop/player/items/demo/fall2013_eod_suit/fall2013_eod_suit"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30180] = {
 		name = "Pirate Bandana"
+		name_internal = "Pirate Bandana"
+		model = "models/workshop/player/items/demo/fall2013_pirate_bandana/fall2013_pirate_bandana.mdl"
+		image = "backpack/workshop/player/items/demo/fall2013_pirate_bandana/fall2013_pirate_bandana"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30181] = {
 		name = "Li'l Snaggletooth"
+		name_internal = "Li'l Snaggletooth"
+		model = "models/workshop/player/items/sniper/fall2013_lil_snaggletooth/fall2013_lil_snaggletooth.mdl"
+		image = "backpack/workshop/player/items/sniper/fall2013_lil_snaggletooth/fall2013_lil_snaggletooth"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30182] = {
 		name = "L'homme Burglerre"
+		name_internal = "L'homme Burglerre"
+		model = "models/workshop/player/items/spy/fall2013_superthief/fall2013_superthief.mdl"
+		image = "backpack/workshop/player/items/spy/fall2013_superthief/fall2013_superthief"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30183] = {
 		name = "Escapist"
+		name_internal = "Escapist"
+		model = "models/workshop/player/items/spy/fall2013_escapist/fall2013_escapist.mdl"
+		image = "backpack/workshop/player/items/spy/fall2013_escapist/fall2013_escapist"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30185] = {
 		name = "The Flapjack"
+		name_internal = "The Flapjack"
+		model = "models/workshop/player/items/scout/fall2013_neo_tokyo_runner/fall2013_neo_tokyo_runner.mdl"
+		image = "backpack/workshop/player/items/scout/fall2013_neo_tokyo_runner/fall2013_neo_tokyo_runner"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30186] = {
 		name = "A Brush with Death"
+		name_internal = "A Brush with Death"
+		model = "models/workshop/player/items/medic/fall2013_medic_wc_beard/fall2013_medic_wc_beard.mdl"
+		image = "backpack/workshop/player/items/medic/fall2013_medic_wc_beard/fall2013_medic_wc_beard"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30187] = {
 		name = "The Slick Cut"
+		name_internal = "The Slick Cut"
+		model = "models/workshop/player/items/medic/fall2013_medic_wc_hair/fall2013_medic_wc_hair.mdl"
+		image = "backpack/workshop/player/items/medic/fall2013_medic_wc_hair/fall2013_medic_wc_hair"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30189] = {
 		name = "The Frenchman's Formals"
+		name_internal = "The Frenchman's Formals"
+		model = "models/workshop/player/items/all_class/fall2013_fancycoat/fall2013_fancycoat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall2013_fancycoat/fall2013_fancycoat"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SPY]
 		paint = true
 		styles = ["Dashing" "Dastardly"]
 	},
 	[30190] = {
 		name = "The Ward"
+		name_internal = "The Ward"
+		model = "models/workshop/player/items/medic/fall2013_medic_wc_coat/fall2013_medic_wc_coat.mdl"
+		image = "backpack/workshop/player/items/medic/fall2013_medic_wc_coat/fall2013_medic_wc_coat"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30191] = {
 		name = "The Beast from Below"
+		name_internal = "The Beast From Below"
+		model = "models/workshop/player/items/pyro/hw2013_beast_from_below/hw2013_beast_from_below.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_beast_from_below/hw2013_beast_from_below"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30192] = {
 		name = "Hard-Headed Hardware"
+		name_internal = "Hard-Headed Hardware"
+		model = "models/workshop/player/items/pyro/hw2013_hardheaded_hardware/hw2013_hardheaded_hardware.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_hardheaded_hardware/hw2013_hardheaded_hardware"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30193] = {
 		name = "Cap'n Calamari"
+		name_internal = "Cap'n Calamari"
+		model = "models/workshop/player/items/demo/hw2013_octo_face/hw2013_octo_face.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_octo_face/hw2013_octo_face"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30194] = {
 		name = "The Spectralnaut"
+		name_internal = "The Spectralnaut"
+		model = "models/workshop/player/items/pyro/hw2013_space_oddity/hw2013_space_oddity.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_space_oddity/hw2013_space_oddity"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30195] = {
 		name = "Ethereal Hood"
+		name_internal = "Ethereal Hood"
+		model = "models/workshop/player/items/all_class/hw2013_ethereal_hood/hw2013_ethereal_hood_demo.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_ethereal_hood/hw2013_ethereal_hood"
 		classes = [TF_CLASS_DEMOMAN TF_CLASS_SPY]
 		paint = true
 	},
 	[30196] = {
 		name = "The Maniac's Manacles"
+		name_internal = "The Maniac's Manacles"
+		model = "models/workshop/player/items/pyro/hw2013_maniacs_manacles/hw2013_maniacs_manacles.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_maniacs_manacles/hw2013_maniacs_manacles"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30197] = {
 		name = "The Second Opinion"
+		name_internal = "The Second Opinion"
+		model = "models/workshop/player/items/medic/hw2013_second_opinion/hw2013_second_opinion.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_second_opinion/hw2013_second_opinion"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30198] = {
 		name = "The Pocket Horsemann"
+		name_internal = "The Pocket Horsemann"
+		model = "models/workshop/player/items/all_class/hw2013_allclass_horseman/hw2013_allclass_horseman_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_allclass_horseman/hw2013_allclass_horseman"
 		paint = true
 	},
 	[30199] = {
 		name = "The Last Bite"
+		name_internal = "The Last Bite"
+		model = "models/workshop/player/items/heavy/hw2013_last_bite/hw2013_last_bite.mdl"
+		image = "backpack/workshop/player/items/heavy/hw2013_last_bite/hw2013_last_bite"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30200] = {
 		name = "The Baphomet Trotters"
+		name_internal = "The Baphomet Trotters"
+		model = "models/workshop/player/items/all_class/hw2013_scout_demo_faunlegs/hw2013_scout_demo_faunlegs_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_scout_demo_faunlegs/hw2013_scout_demo_faunlegs"
 		classes = [TF_CLASS_SCOUT TF_CLASS_DEMOMAN]
 	},
 	[30203] = {
 		name = "Burny's Boney Bonnet"
+		name_internal = "Burny's Boney Bonnet"
+		model = "models/workshop/player/items/pyro/hw2013_dragon_hood/hw2013_dragon_hood.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_dragon_hood/hw2013_dragon_hood"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30204] = {
 		name = "The Crispy Golden Locks"
+		name_internal = "The Crispy Golden Locks"
+		model = "models/workshop/player/items/pyro/hw2013_golden_crisp_locks/hw2013_golden_crisp_locks.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_golden_crisp_locks/hw2013_golden_crisp_locks"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30205] = {
 		name = "The Scorched Skirt"
+		name_internal = "The Scorched Skirt"
+		model = "models/workshop/player/items/pyro/hw2013_scorched_skirt/hw2013_scorched_skirt.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_scorched_skirt/hw2013_scorched_skirt"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30206] = {
 		name = "The Accursed Apparition"
+		name_internal = "The Accursed Apparition"
+		model = "models/workshop/player/items/all_class/hw2013_wandering_soul/hw2013_wandering_soul_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_wandering_soul/hw2013_wandering_soul"
 	},
 	[30207] = {
 		name = "The Hound's Hood"
+		name_internal = "The Hound's Hood"
+		model = "models/workshop/player/items/scout/hw2013_horrifying_hound_hood/hw2013_horrifying_hound_hood.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_horrifying_hound_hood/hw2013_horrifying_hound_hood"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30208] = {
 		name = "The Terrier Trousers"
+		name_internal = "The Terrier Trousers"
+		model = "models/workshop/player/items/scout/hw2013_terrifying_terrier_trousers/hw2013_terrifying_terrier_trousers.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_terrifying_terrier_trousers/hw2013_terrifying_terrier_trousers"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30211] = {
 		name = "The Horrific Head of Hare"
+		name_internal = "The Horrific Head of Hare"
+		model = "models/workshop/player/items/scout/hw2013_bunny_mann/hw2013_bunny_mann.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_bunny_mann/hw2013_bunny_mann"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30212] = {
 		name = "The Snaggletoothed Stetson"
+		name_internal = "The Snaggletoothed Stetson"
+		model = "models/workshop/player/items/all_class/hw2013_leather_face/hw2013_leather_face_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_leather_face/hw2013_leather_face"
 		classes = [TF_CLASS_SNIPER TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30213] = {
 		name = "Up Pyroscopes"
+		name_internal = "Up Pyroscopes"
+		model = "models/workshop/player/items/pyro/hw2013_per_eye_scopes/hw2013_per_eye_scopes.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_per_eye_scopes/hw2013_per_eye_scopes"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30214] = {
 		name = "The One-Way Ticket"
+		name_internal = "The One-Way Ticket"
+		model = "models/workshop/player/items/all_class/hw2013_stiff_buddy/hw2013_stiff_buddy_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_stiff_buddy/hw2013_stiff_buddy"
 		paint = true
 	},
 	[30215] = {
 		name = "The Birdie Bonnet"
+		name_internal = "The Birdie Bonnet"
+		model = "models/workshop/player/items/all_class/hw2013_tricky_chicken/hw2013_tricky_chicken_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_tricky_chicken/hw2013_tricky_chicken"
 		paint = true
 	},
 	[30216] = {
 		name = "The External Organ"
+		name_internal = "The External Organ"
+		model = "models/workshop/player/items/pyro/hw2013_dark_orchestra/hw2013_dark_orchestra.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_dark_orchestra/hw2013_dark_orchestra"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30217] = {
 		name = "Ivan the Inedible"
+		name_internal = "Ivan The Inedible"
+		model = "models/workshop/player/items/heavy/hw2013_ivan_the_inedible/hw2013_ivan_the_inedible.mdl"
+		image = "backpack/workshop/player/items/heavy/hw2013_ivan_the_inedible/hw2013_ivan_the_inedible"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30218] = {
 		name = "The Rugged Respirator"
+		name_internal = "The Rugged Respirator"
+		model = "models/workshop/player/items/pyro/hw2013_rugged_respirator/hw2013_rugged_respirator.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_rugged_respirator/hw2013_rugged_respirator"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30219] = {
 		name = "The Squid's Lid"
+		name_internal = "The Squid's Lid"
+		model = "models/workshop/player/items/demo/hw2013_blackguards_bicorn/hw2013_blackguards_bicorn.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_blackguards_bicorn/hw2013_blackguards_bicorn"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30220] = {
 		name = "The Hollowhead"
+		name_internal = "The Hollowhead"
+		model = "models/workshop/player/items/pyro/hw2013_hollowhead/hw2013_hollowhead.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_hollowhead/hw2013_hollowhead"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30221] = {
 		name = "Grub Grenades"
+		name_internal = "Grub Grenades"
+		model = "models/workshop/player/items/soldier/hw2013_combat_maggots/hw2013_combat_maggots.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_combat_maggots/hw2013_combat_maggots"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30222] = {
 		name = "The Gothic Guise"
+		name_internal = "The Gothic Guise"
+		model = "models/workshop/player/items/pyro/hw2013_gothic_guise/hw2013_gothic_guise.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_gothic_guise/hw2013_gothic_guise"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30223] = {
 		name = "The Grease Monkey"
+		name_internal = "The Grease Monkey"
+		model = "models/workshop/player/items/engineer/hw2013_grease_monkey/hw2013_grease_monkey.mdl"
+		image = "backpack/workshop/player/items/engineer/hw2013_grease_monkey/hw2013_grease_monkey"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30224] = {
 		name = "The Alternative Medicine Mann"
+		name_internal = "The Alternative Medicine Mann"
+		model = "models/workshop/player/items/medic/hw2013_witching_ward/hw2013_witching_ward.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_witching_ward/hw2013_witching_ward"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30225] = {
 		name = "The Cauterizer's Caudal Appendage"
+		name_internal = "The Cauterizer's Caudal Appendage"
+		model = "models/workshop/player/items/pyro/hw2013_dragonbutt/hw2013_dragonbutt.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_dragonbutt/hw2013_dragonbutt"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30226] = {
 		name = "Polly Putrid"
+		name_internal = "Polly Putrid"
+		model = "models/workshop/player/items/demo/hw2013_zombie_parrot/hw2013_zombie_parrot.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_zombie_parrot/hw2013_zombie_parrot"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30227] = {
 		name = "The Faux Manchu"
+		name_internal = "The Faux Manchu"
+		model = "models/workshop/player/items/soldier/hw2013_faux_manchu/hw2013_faux_manchu.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_faux_manchu/hw2013_faux_manchu"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30228] = {
 		name = "The Hidden Dragon"
+		name_internal = "The Hidden Dragon"
+		model = "models/workshop/player/items/soldier/hw2013_hidden_dragon/hw2013_hidden_dragon.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_hidden_dragon/hw2013_hidden_dragon"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30229] = {
 		name = "The Lo-Grav Loafers"
+		name_internal = "The Lo-Grav Loafers"
+		model = "models/workshop/player/items/medic/hw2013_moon_boots/hw2013_moon_boots.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_moon_boots/hw2013_moon_boots"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30230] = {
 		name = "The Surgeon's Space Suit"
+		name_internal = "The Surgeon's Space Suit"
+		model = "models/workshop/player/items/medic/hw2013_spacemans_suit/hw2013_spacemans_suit.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_spacemans_suit/hw2013_spacemans_suit"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30231] = {
 		name = "The Face Plante"
+		name_internal = "The Face Plante"
+		model = "models/workshop/player/items/scout/hw2013_boston_bandy_mask/hw2013_boston_bandy_mask.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_boston_bandy_mask/hw2013_boston_bandy_mask"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30232] = {
 		name = "Das Blutliebhaber"
+		name_internal = "Das Blutliebhaber"
+		model = "models/workshop/player/items/medic/hw2013_das_blutliebhaber/hw2013_das_blutliebhaber.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_das_blutliebhaber/hw2013_das_blutliebhaber"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30233] = {
 		name = "The Trepanabotomizer"
+		name_internal = "The Trepanabotomizer"
+		model = "models/workshop/player/items/medic/hw2013_quacks_cureall/hw2013_quacks_cureall.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_quacks_cureall/hw2013_quacks_cureall"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30234] = {
 		name = "The Sackcloth Spook"
+		name_internal = "The Sackcloth Spook"
+		model = "models/workshop/player/items/all_class/hw2013_burlap_buddy/hw2013_burlap_buddy_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_burlap_buddy/hw2013_burlap_buddy"
 		paint = true
 	},
 	[30235] = {
 		name = "The Mucous Membrain"
+		name_internal = "The Mucous Membrain"
+		model = "models/workshop/player/items/pyro/hw2013_mucus_membrane/hw2013_mucus_membrane.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_mucus_membrane/hw2013_mucus_membrane"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30236] = {
 		name = "Pin Pals"
+		name_internal = "Pin Pals"
+		model = "models/workshop/player/items/all_class/hw2013_volatile_voodoo/hw2013_volatile_voodoo_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_volatile_voodoo/hw2013_volatile_voodoo"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_PYRO]
 		paint = true
 	},
 	[30237] = {
 		name = "Medimedes"
+		name_internal = "Medimedes"
+		model = "models/workshop/player/items/medic/hw2013_medicmedes/hw2013_medicmedes.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_medicmedes/hw2013_medicmedes"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30238] = {
 		name = "The Chicken Kiev"
+		name_internal = "The Chicken Kiev"
+		model = "models/workshop/player/items/heavy/hw2013_heavy_robin/hw2013_heavy_robin.mdl"
+		image = "backpack/workshop/player/items/heavy/hw2013_heavy_robin/hw2013_heavy_robin"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30239] = {
 		name = "The Freedom Feathers"
+		name_internal = "The Freedom Feathers"
+		model = "models/workshop/player/items/soldier/hw2013_feathered_freedom/hw2013_feathered_freedom.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_feathered_freedom/hw2013_feathered_freedom"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30240] = {
 		name = "The Headtaker's Hood"
+		name_internal = "The Headtaker's Hood"
+		model = "models/workshop/player/items/demo/hw2013_demo_executioner_hood/hw2013_demo_executioner_hood.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_demo_executioner_hood/hw2013_demo_executioner_hood"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30241] = {
 		name = "The Transylvania Top"
+		name_internal = "The Transylvania Top"
+		model = "models/workshop/player/items/demo/hw2013_demon_fro/hw2013_demon_fro.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_demon_fro/hw2013_demon_fro"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30242] = {
 		name = "The Candleer"
+		name_internal = "The Candleer"
+		model = "models/workshop/player/items/all_class/hw2013_kindlin_candles/hw2013_kindlin_candles_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_kindlin_candles/hw2013_kindlin_candles"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
 	[30243] = {
 		name = "The Horsemann's Hand-Me-Down"
+		name_internal = "The Horsemann's Hand-Me-Down"
+		model = "models/workshop/player/items/demo/hw2013_demo_cape/hw2013_demo_cape.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_demo_cape/hw2013_demo_cape"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30245] = {
 		name = "Bozo's Bouffant"
+		name_internal = "Bozo's Bouffant"
+		model = "models/workshop/player/items/pyro/hw2013_the_haha_hairdo/hw2013_the_haha_hairdo.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_the_haha_hairdo/hw2013_the_haha_hairdo"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30247] = {
 		name = "Faun Feet"
+		name_internal = "Faun Feet"
+		model = "models/workshop/player/items/scout/hw2013_the_hell_runner/hw2013_the_hell_runner.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_the_hell_runner/hw2013_the_hell_runner"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30248] = {
 		name = "The Halloweiner"
+		name_internal = "The Halloweiner"
+		model = "models/workshop/player/items/scout/hw2013_halloweiner/hw2013_halloweiner.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_halloweiner/hw2013_halloweiner"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30249] = {
 		name = "The Lordly Lapels"
+		name_internal = "The Lordly Lapels"
+		model = "models/workshop/player/items/demo/hw2013_the_ghoulic_extension/hw2013_the_ghoulic_extension.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_the_ghoulic_extension/hw2013_the_ghoulic_extension"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30251] = {
 		name = "The Cadaver's Capper"
+		name_internal = "The Cadaver's Capper"
+		model = "models/workshop/player/items/soldier/hw2013_soldier_jiangshi_hat/hw2013_soldier_jiangshi_hat.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_soldier_jiangshi_hat/hw2013_soldier_jiangshi_hat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30252] = {
 		name = "Guano"
+		name_internal = "Guano"
+		model = "models/workshop/player/items/all_class/hw2013_the_fire_bat_v2/hw2013_the_fire_bat_v2_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_fire_bat_v2/hw2013_the_fire_bat_v2"
 		paint = true
 	},
 	[30253] = {
 		name = "The Sprinting Cephalopod"
+		name_internal = "The Sprinting Cephalopod"
+		model = "models/workshop/player/items/scout/hw2013_running_octopus/hw2013_running_octopus.mdl"
+		image = "backpack/workshop/player/items/scout/hw2013_running_octopus/hw2013_running_octopus"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30254] = {
 		name = "Unidentified Following Object"
+		name_internal = "Unidentified Following Object"
+		model = "models/workshop/player/items/all_class/hw2013_intergalactic_intruder/hw2013_intergalactic_intruder_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_intergalactic_intruder/hw2013_intergalactic_intruder"
 		paint = true
 	},
 	[30255] = {
 		name = "The Beacon from Beyond"
+		name_internal = "The Beacon from Beyond"
+		model = "models/workshop/player/items/all_class/hw2013_the_enlightening_lantern/hw2013_the_enlightening_lantern_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_enlightening_lantern/hw2013_the_enlightening_lantern"
 	},
 	[30256] = {
 		name = "The Hyperbaric Bowler"
+		name_internal = "The Hyperbaric Bowler"
+		model = "models/workshop/player/items/spy/hw2013_brain__bowler/hw2013_brain__bowler.mdl"
+		image = "backpack/workshop/player/items/spy/hw2013_brain__bowler/hw2013_brain__bowler"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30257] = {
 		name = "The Death Support Pack"
+		name_internal = "The Death Support Pack"
+		model = "models/workshop/player/items/pyro/hw2013_tin_can/hw2013_tin_can.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_tin_can/hw2013_tin_can"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30258] = {
 		name = "The Carious Chameleon"
+		name_internal = "The Carious Chameleon"
+		model = "models/workshop/player/items/sniper/hw2013_zombie_chameleon/hw2013_zombie_chameleon.mdl"
+		image = "backpack/workshop/player/items/sniper/hw2013_zombie_chameleon/hw2013_zombie_chameleon"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30259] = {
 		name = "The Monster's Stompers"
+		name_internal = "The Monster's Stompers"
+		model = "models/workshop/player/items/pyro/hw2013_dragon_shoes/hw2013_dragon_shoes.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_dragon_shoes/hw2013_dragon_shoes"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30260] = {
 		name = "The Bountiful Bow"
+		name_internal = "The Bountiful Bow"
+		model = "models/workshop/player/items/spy/hw2013_blood_banker/hw2013_blood_banker.mdl"
+		image = "backpack/workshop/player/items/spy/hw2013_blood_banker/hw2013_blood_banker"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30261] = {
 		name = "The Candyman's Cap"
+		name_internal = "The Candyman's Cap"
+		model = "models/workshop/player/items/spy/hw2013_harmburg/hw2013_harmburg.mdl"
+		image = "backpack/workshop/player/items/spy/hw2013_harmburg/hw2013_harmburg"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30263] = {
 		name = "The Vicar's Vestments"
+		name_internal = "The Vicar's Vestments"
+		model = "models/workshop/player/items/medic/hw2013_medic_undertaker_vest/hw2013_medic_undertaker_vest.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_medic_undertaker_vest/hw2013_medic_undertaker_vest"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30264] = {
 		name = "The Hardium Helm"
+		name_internal = "The Hardium Helm"
+		model = "models/workshop/player/items/soldier/hw2013_rocket_ranger/hw2013_rocket_ranger.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_rocket_ranger/hw2013_rocket_ranger"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30265] = {
 		name = "The Jupiter Jumpers"
+		name_internal = "The Jupiter Jumpers"
+		model = "models/workshop/player/items/soldier/hw2013_jupiter_jumpers/hw2013_jupiter_jumpers.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_jupiter_jumpers/hw2013_jupiter_jumpers"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30266] = {
 		name = "The Space Bracers"
+		name_internal = "The Space Bracers"
+		model = "models/workshop/player/items/soldier/hw2013_galactic_gauntlets/hw2013_galactic_gauntlets.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_galactic_gauntlets/hw2013_galactic_gauntlets"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30267] = {
 		name = "The Handhunter"
+		name_internal = "The Handhunter"
+		model = "models/workshop/player/items/pyro/hw2013_handhunter/hw2013_handhunter.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_handhunter/hw2013_handhunter"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30268] = {
 		name = "The Spellbinder's Bonnet"
+		name_internal = "The Spellbinder's Bonnet"
+		model = "models/workshop/player/items/soldier/hw2013_the_crit_wizard/hw2013_the_crit_wizard.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_the_crit_wizard/hw2013_the_crit_wizard"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30269] = {
 		name = "The Macabre Mask"
+		name_internal = "The Macabre Mask"
+		model = "models/workshop/player/items/pyro/hw2013_the_creeps_cowl/hw2013_the_creeps_cowl.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_the_creeps_cowl/hw2013_the_creeps_cowl"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30270] = {
 		name = "The Shaman's Skull"
+		name_internal = "The Shaman's Skull"
+		model = "models/workshop/player/items/medic/hw2013_shamans_skull/hw2013_shamans_skull.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_shamans_skull/hw2013_shamans_skull"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30273] = {
 		name = "The Vicious Visage"
+		name_internal = "The Vicious Visage"
+		model = "models/workshop/player/items/pyro/hw2013_head_of_the_lake_monster/hw2013_head_of_the_lake_monster.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_head_of_the_lake_monster/hw2013_head_of_the_lake_monster"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30274] = {
 		name = "The Tuque or Treat"
+		name_internal = "The Tuque or Treat"
+		model = "models/workshop/player/items/all_class/hw2013_pumpkin_top/hw2013_pumpkin_top_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_pumpkin_top/hw2013_pumpkin_top"
 		paint = true
 	},
 	[30275] = {
 		name = "The Horned Honcho"
+		name_internal = "The Horned Honcho"
+		model = "models/workshop/player/items/heavy/hw2013_horned_honcho/hw2013_horned_honcho.mdl"
+		image = "backpack/workshop/player/items/heavy/hw2013_horned_honcho/hw2013_horned_honcho"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30276] = {
 		name = "Lieutenant Bites the Dust"
+		name_internal = "Lieutenant Bites the Dust"
+		model = "models/workshop/player/items/soldier/hw2013_zombites/hw2013_zombites.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_zombites/hw2013_zombites"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30277] = {
 		name = "The Grisly Gumbo"
+		name_internal = "The Grisly Gumbo"
+		model = "models/workshop/player/items/pyro/hw2013_gristly_gumbo_pot/hw2013_gristly_gumbo_pot.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_gristly_gumbo_pot/hw2013_gristly_gumbo_pot"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30278] = {
 		name = "The Dark Helm"
+		name_internal = "The Dark Helm"
+		model = "models/workshop/player/items/all_class/hw2013_the_dark_helm/hw2013_the_dark_helm_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_dark_helm/hw2013_the_dark_helm"
 	},
 	[30279] = {
 		name = "Archimedes the Undying"
+		name_internal = "Archimedes the Undying"
+		model = "models/workshop/player/items/medic/hw2013_zombie_archimedes/hw2013_zombie_archimedes.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_zombie_archimedes/hw2013_zombie_archimedes"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30280] = {
 		name = "The Monstrous Mandible"
+		name_internal = "The Monstrous Mandible"
+		model = "models/workshop/player/items/heavy/hw2013_orcish_outburst/hw2013_orcish_outburst.mdl"
+		image = "backpack/workshop/player/items/heavy/hw2013_orcish_outburst/hw2013_orcish_outburst"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30281] = {
 		name = "The Shaolin Sash"
+		name_internal = "The Shaolin Sash"
+		model = "models/workshop/player/items/soldier/hw2013_shaolin_sash/hw2013_shaolin_sash.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_shaolin_sash/hw2013_shaolin_sash"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30282] = {
 		name = "The Mann-Bird of Aberdeen"
+		name_internal = "The Mann-Bird of Aberdeen"
+		model = "models/workshop/player/items/demo/hw2013_manbird_of_aberdeen/hw2013_manbird_of_aberdeen.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_manbird_of_aberdeen/hw2013_manbird_of_aberdeen"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30283] = {
 		name = "The Foul Cowl"
+		name_internal = "The Foul Cowl"
+		model = "models/workshop/player/items/spy/hw2013_foul_cowl/hw2013_foul_cowl.mdl"
+		image = "backpack/workshop/player/items/spy/hw2013_foul_cowl/hw2013_foul_cowl"
 		classes = [TF_CLASS_SPY]
 	},
 	[30284] = {
 		name = "Sir Shootsalot"
+		name_internal = "Sir Shootsalot"
+		model = "models/workshop/player/items/sniper/hw2013_sir_shootsalot/hw2013_sir_shootsalot.mdl"
+		image = "backpack/workshop/player/items/sniper/hw2013_sir_shootsalot/hw2013_sir_shootsalot"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30285] = {
 		name = "The Corpsemopolitan"
+		name_internal = "The Corpsemopolitan"
+		model = "models/workshop/player/items/pyro/hw2013_corpsemopolitan/hw2013_corpsemopolitan.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_corpsemopolitan/hw2013_corpsemopolitan"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30286] = {
 		name = "The Glob"
+		name_internal = "The Glob"
+		model = "models/workshop/player/items/pyro/hw2013_the_glob/hw2013_the_glob.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_the_glob/hw2013_the_glob"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30287] = {
 		name = "The Hallowed Headcase"
+		name_internal = "The Hallowed Headcase"
+		model = "models/workshop/player/items/sniper/hw2013_the_halloween_headcase/hw2013_the_halloween_headcase.mdl"
+		image = "backpack/workshop/player/items/sniper/hw2013_the_halloween_headcase/hw2013_the_halloween_headcase"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30288] = {
 		name = "Carrion Companion"
+		name_internal = "Carrion Companion"
+		model = "models/workshop/player/items/pyro/hw2013_carrion_cohort/hw2013_carrion_cohort.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_carrion_cohort/hw2013_carrion_cohort"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30289] = {
 		name = "Quoth"
+		name_internal = "Quoth"
+		model = "models/workshop/player/items/all_class/hw2013_the_caws_of_death/hw2013_the_caws_of_death_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_caws_of_death/hw2013_the_caws_of_death"
 		paint = true
 	},
 	[30290] = {
 		name = "PY-40 Incinibot"
+		name_internal = "PY-40 Incinibot"
+		model = "models/workshop/player/items/pyro/hw2013_py40_automaton/hw2013_py40_automaton.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_py40_automaton/hw2013_py40_automaton"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30292] = {
 		name = "The Parasight"
+		name_internal = "The Parasight"
+		model = "models/workshop/player/items/demo/hw2013_the_parasight/hw2013_the_parasight.mdl"
+		image = "backpack/workshop/player/items/demo/hw2013_the_parasight/hw2013_the_parasight"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30293] = {
 		name = "Teutonkahmun"
+		name_internal = "Teutonkahmun"
+		model = "models/workshop/player/items/medic/hw2013_teutonkahmun/hw2013_teutonkahmun.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_teutonkahmun/hw2013_teutonkahmun"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30294] = {
 		name = "The Larval Lid"
+		name_internal = "The Larval Lid"
+		model = "models/workshop/player/items/soldier/hw2013_mr_maggot/hw2013_mr_maggot.mdl"
+		image = "backpack/workshop/player/items/soldier/hw2013_mr_maggot/hw2013_mr_maggot"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30295] = {
 		name = "The Manneater"
+		name_internal = "The Manneater"
+		model = "models/workshop/player/items/all_class/hw2013_the_manneater/hw2013_the_manneater_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_manneater/hw2013_the_manneater"
 		paint = true
 	},
 	[30296] = {
 		name = "The Creature from the Heap"
+		name_internal = "The Creature From The Heap"
+		model = "models/workshop/player/items/pyro/hw2013_the_creature_from_the_heap/hw2013_the_creature_from_the_heap.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_the_creature_from_the_heap/hw2013_the_creature_from_the_heap"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30297] = {
 		name = "The Magical Mercenary"
+		name_internal = "The Magical Mercenary"
+		model = "models/workshop/player/items/all_class/hw2013_the_magical_mercenary/hw2013_the_magical_mercenary_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_magical_mercenary/hw2013_the_magical_mercenary"
 		paint = true
 	},
 	[30298] = {
 		name = "The Raven's Visage"
+		name_internal = "The Raven's Visage"
+		model = "models/workshop/player/items/pyro/hw2013_visage_of_the_crow/hw2013_visage_of_the_crow.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_visage_of_the_crow/hw2013_visage_of_the_crow"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30299] = {
 		name = "Ramses' Regalia"
+		name_internal = "Ramses' Regalia"
+		model = "models/workshop/player/items/medic/hw2013_ramses_regalia/hw2013_ramses_regalia.mdl"
+		image = "backpack/workshop/player/items/medic/hw2013_ramses_regalia/hw2013_ramses_regalia"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30300] = {
 		name = "The Haunted Hat"
+		name_internal = "The Haunted Hat"
+		model = "models/workshop/player/items/all_class/hw2013_the_haunted_hat/hw2013_the_haunted_hat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_the_haunted_hat/hw2013_the_haunted_hat"
 		paint = true
 	},
 	[30301] = {
 		name = "Bozo's Brogues"
+		name_internal = "Bozo's Brogues"
+		model = "models/workshop/player/items/spy/hw2013_rogues_brogues/hw2013_rogues_brogues.mdl"
+		image = "backpack/workshop/player/items/spy/hw2013_rogues_brogues/hw2013_rogues_brogues"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30302] = {
 		name = "The Cryptic Keepsake"
+		name_internal = "The Cryptic Keepsake"
+		model = "models/workshop/player/items/all_class/hw2013_all_skull_necklace/hw2013_all_skull_necklace_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hw2013_all_skull_necklace/hw2013_all_skull_necklace"
 		paint = true
 	},
 	[30303] = {
 		name = "The Abhorrent Appendages"
+		name_internal = "The Abhorrent Appendages"
+		model = "models/workshop/player/items/pyro/hw2013_the_abhorrent_appendages/hw2013_the_abhorrent_appendages.mdl"
+		image = "backpack/workshop/player/items/pyro/hw2013_the_abhorrent_appendages/hw2013_the_abhorrent_appendages"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30304] = {
 		name = "The Blizzard Breather"
+		name_internal = "The Blizzard Breather"
+		model = "models/workshop/player/items/pyro/xms2013_pyro_arctic_mask/xms2013_pyro_arctic_mask.mdl"
+		image = "backpack/workshop/player/items/pyro/xms2013_pyro_arctic_mask/xms2013_pyro_arctic_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30305] = {
 		name = "The Sub Zero Suit"
+		name_internal = "The Sub Zero Suit"
+		model = "models/workshop/player/items/all_class/xms2013_arctic_suit/xms2013_arctic_suit_demo.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_arctic_suit/xms2013_arctic_suit"
 		classes = [TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
 	[30306] = {
 		name = "The Dictator"
+		name_internal = "The Dictator"
+		model = "models/workshop/player/items/all_class/xms2013_soviet_stache/xms2013_soviet_stache_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_soviet_stache/xms2013_soviet_stache"
 		paint = true
 	},
 	[30307] = {
 		name = "Neckwear Headwear"
+		name_internal = "Neckwear Headwear"
+		model = "models/workshop/player/items/all_class/xms2013_winter_hat_scarf/xms2013_winter_hat_scarf_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_winter_hat_scarf/xms2013_winter_hat_scarf"
 		paint = true
 	},
 	[30308] = {
 		name = "The Trail-Blazer"
+		name_internal = "The Trail-Blazer"
+		model = "models/workshop/player/items/pyro/xms2013_pyro_sled/xms2013_pyro_sled.mdl"
+		image = "backpack/workshop/player/items/pyro/xms2013_pyro_sled/xms2013_pyro_sled"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30309] = {
 		name = "Dead of Night"
+		name_internal = "Dead of Night"
+		model = "models/workshop/player/items/all_class/xms2013_jacket/xms2013_jacket_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_jacket/xms2013_jacket"
 		paint = true
 		styles = ["Dark - Hide Grenades" "Light - Hide Grenades" "Dark" "Light"]
 	},
 	[30310] = {
 		name = "The Snow Scoper"
+		name_internal = "The Snow Scoper"
+		model = "models/workshop/player/items/sniper/xms2013_sniper_jacket/xms2013_sniper_jacket.mdl"
+		image = "backpack/workshop/player/items/sniper/xms2013_sniper_jacket/xms2013_sniper_jacket"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30311] = {
 		name = "The Nunhood"
+		name_internal = "The Nunhood"
+		model = "models/workshop/player/items/medic/xms2013_medic_hood/xms2013_medic_hood.mdl"
+		image = "backpack/workshop/player/items/medic/xms2013_medic_hood/xms2013_medic_hood"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30312] = {
 		name = "The Angel of Death"
+		name_internal = "The Angel of Death"
+		model = "models/workshop/player/items/medic/xms2013_medic_robe/xms2013_medic_robe.mdl"
+		image = "backpack/workshop/player/items/medic/xms2013_medic_robe/xms2013_medic_robe"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30313] = {
 		name = "The Kiss King"
+		name_internal = "The Kiss King"
+		model = "models/workshop/player/items/all_class/xms2013_kissking/xms2013_kissking_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_kissking/xms2013_kissking"
 		paint = true
 	},
 	[30314] = {
 		name = "The Slo-Poke"
+		name_internal = "The Slo-Poke"
+		model = "models/workshop/player/items/soldier/xms2013_soldier_marshal_hat/xms2013_soldier_marshal_hat.mdl"
+		image = "backpack/workshop/player/items/soldier/xms2013_soldier_marshal_hat/xms2013_soldier_marshal_hat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30315] = {
 		name = "Minnesota Slick"
+		name_internal = "Minnesota Slick"
+		model = "models/workshop/player/items/heavy/xms2013_heavy_slick_hair/xms2013_heavy_slick_hair.mdl"
+		image = "backpack/workshop/player/items/heavy/xms2013_heavy_slick_hair/xms2013_heavy_slick_hair"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30316] = {
 		name = "The Toy Soldier"
+		name_internal = "The Toy Soldier"
+		model = "models/workshop/player/items/all_class/xms2013_sniper_shako/xms2013_sniper_shako_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_sniper_shako/xms2013_sniper_shako"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30317] = {
 		name = "The Five-Month Shadow"
+		name_internal = "The Five-Month Shadow"
+		model = "models/workshop/player/items/sniper/xms2013_sniper_beard/xms2013_sniper_beard.mdl"
+		image = "backpack/workshop/player/items/sniper/xms2013_sniper_beard/xms2013_sniper_beard"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30318] = {
 		name = "The Mann of Reason"
+		name_internal = "The Mann of Reason"
+		model = "models/workshop/player/items/medic/xms2013_medic_knecht_hat/xms2013_medic_knecht_hat.mdl"
+		image = "backpack/workshop/player/items/medic/xms2013_medic_knecht_hat/xms2013_medic_knecht_hat"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30319] = {
 		name = "The Mann of the House"
+		name_internal = "The Mann of the House"
+		model = "models/workshop/player/items/heavy/xms2013_heavy_pants/xms2013_heavy_pants.mdl"
+		image = "backpack/workshop/player/items/heavy/xms2013_heavy_pants/xms2013_heavy_pants"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30320] = {
 		name = "Chucklenuts"
+		name_internal = "Chucklenuts"
+		model = "models/workshop/player/items/scout/xms2013_scout_squirrel/xms2013_scout_squirrel.mdl"
+		image = "backpack/workshop/player/items/scout/xms2013_scout_squirrel/xms2013_scout_squirrel"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30321] = {
 		name = "Tiny Timber"
+		name_internal = "Tiny Timber"
+		model = "models/workshop/player/items/pyro/xms2013_pyro_wood/xms2013_pyro_wood.mdl"
+		image = "backpack/workshop/player/items/pyro/xms2013_pyro_wood/xms2013_pyro_wood"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30322] = {
 		name = "Face Full of Festive"
+		name_internal = "Face Full of Festive"
+		model = "models/workshop/player/items/engineer/xms2013_festive_beard/xms2013_festive_beard.mdl"
+		image = "backpack/workshop/player/items/engineer/xms2013_festive_beard/xms2013_festive_beard"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30323] = {
 		name = "The Ruffled Ruprecht"
+		name_internal = "The Ruffled Ruprecht"
+		model = "models/workshop/player/items/medic/xms2013_ruffled_beard/xms2013_ruffled_beard.mdl"
+		image = "backpack/workshop/player/items/medic/xms2013_ruffled_beard/xms2013_ruffled_beard"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30324] = {
 		name = "The Golden Garment"
+		name_internal = "The Golden Garment"
+		model = "models/workshop/player/items/sniper/xms2013_sniper_golden_garment/xms2013_sniper_golden_garment.mdl"
+		image = "backpack/workshop/player/items/sniper/xms2013_sniper_golden_garment/xms2013_sniper_golden_garment"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30325] = {
 		name = "The Little Drummer Mann"
+		name_internal = "The Little Drummer Mann"
+		model = "models/workshop/player/items/scout/xms2013_scout_drummer_shirt/xms2013_scout_drummer_shirt.mdl"
+		image = "backpack/workshop/player/items/scout/xms2013_scout_drummer_shirt/xms2013_scout_drummer_shirt"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30326] = {
 		name = "The Scout Shako"
+		name_internal = "The Scout Shako"
+		model = "models/workshop/player/items/scout/xms2013_scout_drummer_hat/xms2013_scout_drummer_hat.mdl"
+		image = "backpack/workshop/player/items/scout/xms2013_scout_drummer_hat/xms2013_scout_drummer_hat"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30327] = {
 		name = "The Toy Tailor"
+		name_internal = "The Toy Tailor"
+		model = "models/workshop/player/items/pyro/xms2013_pyro_tailor_hat/xms2013_pyro_tailor_hat.mdl"
+		image = "backpack/workshop/player/items/pyro/xms2013_pyro_tailor_hat/xms2013_pyro_tailor_hat"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30328] = {
 		name = "The Extra Layer"
+		name_internal = "The Extra Layer"
+		model = "models/workshop/player/items/sniper/xms2013_sniper_layer_vest/xms2013_sniper_layer_vest.mdl"
+		image = "backpack/workshop/player/items/sniper/xms2013_sniper_layer_vest/xms2013_sniper_layer_vest"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30329] = {
 		name = "The Polar Pullover"
+		name_internal = "The Polar Pullover"
+		model = "models/workshop/player/items/all_class/xms2013_polar_pullover/xms2013_polar_pullover_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/xms2013_polar_pullover/xms2013_polar_pullover"
 		paint = true
 	},
 	[30330] = {
 		name = "The Dogfighter"
+		name_internal = "The Dogfighter"
+		model = "models/workshop/player/items/engineer/xms2013_dogfighter_jacket/xms2013_dogfighter_jacket.mdl"
+		image = "backpack/workshop/player/items/engineer/xms2013_dogfighter_jacket/xms2013_dogfighter_jacket"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30331] = {
 		name = "Antarctic Parka"
+		name_internal = "Antarctic Parka"
+		model = "models/workshop/player/items/soldier/xms2013_soldier_parka/xms2013_soldier_parka.mdl"
+		image = "backpack/workshop/player/items/soldier/xms2013_soldier_parka/xms2013_soldier_parka"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30332] = {
 		name = "Runner's Warm-Up"
+		name_internal = "Runner's Warm-Up"
+		model = "models/workshop/player/items/scout/xms2013_scout_skicap/xms2013_scout_skicap.mdl"
+		image = "backpack/workshop/player/items/scout/xms2013_scout_skicap/xms2013_scout_skicap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30333] = {
 		name = "Highland High Heels"
+		name_internal = "Highland High Heels"
+		model = "models/workshop/player/items/demo/xms2013_demo_plaid_boots/xms2013_demo_plaid_boots.mdl"
+		image = "backpack/workshop/player/items/demo/xms2013_demo_plaid_boots/xms2013_demo_plaid_boots"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30334] = {
 		name = "Tartan Tyrolean"
+		name_internal = "Tartan Tyrolean"
+		model = "models/workshop/player/items/demo/xms2013_demo_plaid_hat/xms2013_demo_plaid_hat.mdl"
+		image = "backpack/workshop/player/items/demo/xms2013_demo_plaid_hat/xms2013_demo_plaid_hat"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30335] = {
 		name = "Marshall's Mutton Chops"
+		name_internal = "Marshall's Mutton Chops"
+		model = "models/workshop/player/items/soldier/xms2013_soldier_marshal_beard/xms2013_soldier_marshal_beard.mdl"
+		image = "backpack/workshop/player/items/soldier/xms2013_soldier_marshal_beard/xms2013_soldier_marshal_beard"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30336] = {
 		name = "The Trencher's Topper"
+		name_internal = "The Trencher's Topper"
+		model = "models/workshop/player/items/engineer/sbox2014_trenchers_topper/sbox2014_trenchers_topper.mdl"
+		image = "backpack/workshop/player/items/engineer/sbox2014_trenchers_topper/sbox2014_trenchers_topper"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30337] = {
 		name = "The Trencher's Tunic"
+		name_internal = "The Trencher's Tunic"
+		model = "models/workshop/player/items/engineer/sbox2014_trenchers_tunic/sbox2014_trenchers_tunic.mdl"
+		image = "backpack/workshop/player/items/engineer/sbox2014_trenchers_tunic/sbox2014_trenchers_tunic"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30338] = {
 		name = "Ground Control"
+		name_internal = "Ground Control"
+		model = "models/workshop/player/items/soldier/sbox2014_soldier_major/sbox2014_soldier_major.mdl"
+		image = "backpack/workshop/player/items/soldier/sbox2014_soldier_major/sbox2014_soldier_major"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30339] = {
 		name = "The Killer's Kit"
+		name_internal = "The Killer's Kit"
+		model = "models/workshop/player/items/soldier/sbox2014_killers_kit/sbox2014_killers_kit.mdl"
+		image = "backpack/workshop/player/items/soldier/sbox2014_killers_kit/sbox2014_killers_kit"
 		classes = [TF_CLASS_SOLDIER]
 		styles = ["Style 1" "Style 2"]
 	},
 	[30340] = {
 		name = "Stylish DeGroot"
+		name_internal = "Stylish DeGroot"
+		model = "models/workshop/player/items/demo/sbox2014_stylish_degroot/sbox2014_stylish_degroot.mdl"
+		image = "backpack/workshop/player/items/demo/sbox2014_stylish_degroot/sbox2014_stylish_degroot"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30341] = {
 		name = "Ein"
+		name_internal = "Ein"
+		model = "models/workshop/player/items/engineer/sbox2014_einstein/sbox2014_einstein.mdl"
+		image = "backpack/workshop/player/items/engineer/sbox2014_einstein/sbox2014_einstein"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30342] = {
 		name = "The Heavy Lifter"
+		name_internal = "The Heavy Lifter"
+		model = "models/workshop/player/items/heavy/sbox2014_heavy_gunshow/sbox2014_heavy_gunshow.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_heavy_gunshow/sbox2014_heavy_gunshow"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30343] = {
 		name = "Gone Commando"
+		name_internal = "Gone Commando"
+		model = "models/workshop/player/items/heavy/sbox2014_heavy_camopants/sbox2014_heavy_camopants.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_heavy_camopants/sbox2014_heavy_camopants"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30344] = {
 		name = "Bullet Buzz"
+		name_internal = "Bullet Buzz"
+		model = "models/workshop/player/items/heavy/sbox2014_heavy_buzzcut/sbox2014_heavy_buzzcut.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_heavy_buzzcut/sbox2014_heavy_buzzcut"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30345] = {
 		name = "The Leftover Trap"
+		name_internal = "The Leftover Trap"
+		model = "models/workshop/player/items/heavy/sbox2014_leftover_trap/sbox2014_leftover_trap.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_leftover_trap/sbox2014_leftover_trap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30346] = {
 		name = "The Trash Man"
+		name_internal = "The Trash Man"
+		model = "models/workshop/player/items/heavy/sbox2014_trash_man/sbox2014_trash_man.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_trash_man/sbox2014_trash_man"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30347] = {
 		name = "The Scotch Saver"
+		name_internal = "The Scotch Saver"
+		model = "models/workshop/player/items/engineer/sbox2014_scotch_saver/sbox2014_scotch_saver.mdl"
+		image = "backpack/workshop/player/items/engineer/sbox2014_scotch_saver/sbox2014_scotch_saver"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30348] = {
 		name = "Bushi-Dou"
+		name_internal = "Bushi-Dou"
+		model = "models/workshop/player/items/demo/sbox2014_demo_samurai_armour/sbox2014_demo_samurai_armour.mdl"
+		image = "backpack/workshop/player/items/demo/sbox2014_demo_samurai_armour/sbox2014_demo_samurai_armour"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30349] = {
 		name = "The Fashionable Megalomaniac"
+		name_internal = "The Fashionable Megalomaniac"
+		model = "models/workshop/player/items/medic/sbox2014_fashionable_megalomaniac/sbox2014_fashionable_megalomaniac.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_fashionable_megalomaniac/sbox2014_fashionable_megalomaniac"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30350] = {
 		name = "The Dough Puncher"
+		name_internal = "The Dough Puncher"
+		model = "models/workshop/player/items/medic/sbox2014_chefs_coat/sbox2014_chefs_coat.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_chefs_coat/sbox2014_chefs_coat"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30351] = {
 		name = "The Teutonic Toque"
+		name_internal = "The Teutonic Toque"
+		model = "models/workshop/player/items/medic/sbox2014_teutonic_toque/sbox2014_teutonic_toque.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_teutonic_toque/sbox2014_teutonic_toque"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30352] = {
 		name = "The Mustachioed Mann"
+		name_internal = "The Mustachioed Mann"
+		model = "models/workshop/player/items/all_class/sbox2014_mustachioed_mann/sbox2014_mustachioed_mann_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_mustachioed_mann/sbox2014_mustachioed_mann"
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30353] = {
 		name = "The Backstabber's Boomslang"
+		name_internal = "The Backstabber's Boomslang"
+		model = "models/workshop/player/items/spy/sbox2014_spy_snake/sbox2014_spy_snake.mdl"
+		image = "backpack/workshop/player/items/spy/sbox2014_spy_snake/sbox2014_spy_snake"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30354] = {
 		name = "The Rat Stompers"
+		name_internal = "The Rat Stompers"
+		model = "models/workshop/player/items/heavy/sbox2014_rat_stompers/sbox2014_rat_stompers.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_rat_stompers/sbox2014_rat_stompers"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30355] = {
 		name = "Sole Mate"
+		name_internal = "Sole Mate"
+		model = "models/workshop/player/items/pyro/sbox2014_sole_mate/sbox2014_sole_mate.mdl"
+		image = "backpack/workshop/player/items/pyro/sbox2014_sole_mate/sbox2014_sole_mate"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30356] = {
 		name = "The Heat of Winter"
+		name_internal = "The Heat of Winter"
+		model = "models/workshop/player/items/medic/sbxo2014_medic_wintergarb_coat/sbxo2014_medic_wintergarb_coat.mdl"
+		image = "backpack/workshop/player/items/medic/sbxo2014_medic_wintergarb_coat/sbxo2014_medic_wintergarb_coat"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30357] = {
 		name = "The Dark Falkirk Helm"
+		name_internal = "The Dark Falkirk Helm"
+		model = "models/workshop/player/items/all_class/sbox2014_knight_helmet/sbox2014_knight_helmet_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_knight_helmet/sbox2014_knight_helmet"
 		paint = true
 		styles = ["Open" "Closed"]
 	},
 	[30358] = {
 		name = "The Sole Saviors"
+		name_internal = "The Sole Saviors"
+		model = "models/workshop/player/items/all_class/sbox2014_armor_shoes/sbox2014_armor_shoes_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_armor_shoes/sbox2014_armor_shoes"
 		classes = [TF_CLASS_SCOUT TF_CLASS_DEMOMAN]
 	},
 	[30359] = {
 		name = "The Huntsman's Essentials"
+		name_internal = "The Huntsman's Essentials"
+		model = "models/workshop/player/items/sniper/sbox2014_sniper_quiver/sbox2014_sniper_quiver.mdl"
+		image = "backpack/workshop/player/items/sniper/sbox2014_sniper_quiver/sbox2014_sniper_quiver"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30360] = {
 		name = "The Napoleon Complex"
+		name_internal = "The Napoleon Complex"
+		model = "models/workshop/player/items/spy/sbox2014_napolean_complex/sbox2014_napolean_complex.mdl"
+		image = "backpack/workshop/player/items/spy/sbox2014_napolean_complex/sbox2014_napolean_complex"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30361] = {
 		name = "The Colonel's Coat"
+		name_internal = "The Colonel's Coat"
+		model = "models/workshop/player/items/medic/sbox2014_medic_colonel_coat/sbox2014_medic_colonel_coat.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_medic_colonel_coat/sbox2014_medic_colonel_coat"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30362] = {
 		name = "The Law"
+		name_internal = "The Law"
+		model = "models/workshop/player/items/all_class/sbox2014_law/sbox2014_law_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_law/sbox2014_law"
 		paint = true
 	},
 	[30363] = {
 		name = "The Juggernaut Jacket"
+		name_internal = "The Juggernaut Jacket"
+		model = "models/workshop/player/items/demo/sbox2014_juggernaut_jacket/sbox2014_juggernaut_jacket.mdl"
+		image = "backpack/workshop/player/items/demo/sbox2014_juggernaut_jacket/sbox2014_juggernaut_jacket"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30364] = {
 		name = "The Warmth Preserver"
+		name_internal = "The Warmth Preserver"
+		model = "models/workshop/player/items/heavy/sbox2014_warmth_preserver/sbox2014_warmth_preserver.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_warmth_preserver/sbox2014_warmth_preserver"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30365] = {
 		name = "The Smock Surgeon"
+		name_internal = "The Smock Surgeon"
+		model = "models/workshop/player/items/medic/sbox2014_medic_apron/sbox2014_medic_apron.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_medic_apron/sbox2014_medic_apron"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30366] = {
 		name = "The Sangu Sleeves"
+		name_internal = "The Sangu Sleeves"
+		model = "models/workshop/player/items/demo/sbox2014_demo_samurai_sleeves/sbox2014_demo_samurai_sleeves.mdl"
+		image = "backpack/workshop/player/items/demo/sbox2014_demo_samurai_sleeves/sbox2014_demo_samurai_sleeves"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30367] = {
 		name = "The Cute Suit"
+		name_internal = "The Cute Suit"
+		model = "models/workshop/player/items/all_class/sbox2014_zipper_suit/sbox2014_zipper_suit_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_zipper_suit/sbox2014_zipper_suit"
 		classes = [TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[30368] = {
 		name = "The War Goggles"
+		name_internal = "The War Goggles"
+		model = "models/workshop/player/items/heavy/sbox2014_war_goggles/sbox2014_war_goggles.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_war_goggles/sbox2014_war_goggles"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30369] = {
 		name = "The Eliminator's Safeguard"
+		name_internal = "The Eliminators Safeguard"
+		model = "models/workshop/player/items/heavy/sbox2014_war_helmet/sbox2014_war_helmet.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_war_helmet/sbox2014_war_helmet"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Visor Up" "Visor Down"]
 	},
 	[30371] = {
 		name = "The Archer's Groundings"
+		name_internal = "The Archers Groundings"
+		model = "models/workshop/player/items/sniper/sbox2014_archers_groundings/sbox2014_archers_groundings.mdl"
+		image = "backpack/workshop/player/items/sniper/sbox2014_archers_groundings/sbox2014_archers_groundings"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30372] = {
 		name = "Combat Slacks"
+		name_internal = "Combat Slacks"
+		model = "models/workshop/player/items/heavy/sbox2014_war_pants/sbox2014_war_pants.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_war_pants/sbox2014_war_pants"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30373] = {
 		name = "The Toowoomba Tunic"
+		name_internal = "The Toowoomba Tunic"
+		model = "models/workshop/player/items/all_class/sbox2014_toowoomba_tunic/sbox2014_toowoomba_tunic_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_toowoomba_tunic/sbox2014_toowoomba_tunic"
 		classes = [TF_CLASS_SNIPER TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Knight" "Peasant"]
 	},
 	[30374] = {
 		name = "The Sammy Cap"
+		name_internal = "The Sammy Cap"
+		model = "models/workshop/player/items/heavy/sbox2014_sammy_cap/sbox2014_sammy_cap.mdl"
+		image = "backpack/workshop/player/items/heavy/sbox2014_sammy_cap/sbox2014_sammy_cap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30375] = {
 		name = "The Deep Cover Operator"
+		name_internal = "The Deep Cover Operator"
+		model = "models/workshop/player/items/all_class/sbox2014_camo_headband/sbox2014_camo_headband_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sbox2014_camo_headband/sbox2014_camo_headband"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SPY]
 		paint = true
 	},
 	[30376] = {
 		name = "The Ticket Boy"
+		name_internal = "The Ticket Boy"
+		model = "models/workshop/player/items/scout/sbox2014_ticket_boy/sbox2014_ticket_boy.mdl"
+		image = "backpack/workshop/player/items/scout/sbox2014_ticket_boy/sbox2014_ticket_boy"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30377] = {
 		name = "The Antarctic Researcher"
+		name_internal = "The Antarctic Researcher"
+		model = "models/workshop/player/items/engineer/sbox2014_antarctic_researcher/sbox2014_antarctic_researcher.mdl"
+		image = "backpack/workshop/player/items/engineer/sbox2014_antarctic_researcher/sbox2014_antarctic_researcher"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30378] = {
 		name = "Heer's Helmet"
+		name_internal = "Heer's Helmet"
+		model = "models/workshop/player/items/medic/sbox2014_medic_wintergarb_helmet/sbox2014_medic_wintergarb_helmet.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_medic_wintergarb_helmet/sbox2014_medic_wintergarb_helmet"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30379] = {
 		name = "The Gaiter Guards"
+		name_internal = "The Gaiter Guards"
+		model = "models/workshop/player/items/medic/sbox2014_medic_wintergarb_gaiter/sbox2014_medic_wintergarb_gaiter.mdl"
+		image = "backpack/workshop/player/items/medic/sbox2014_medic_wintergarb_gaiter/sbox2014_medic_wintergarb_gaiter"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30388] = {
 		name = "The Classified Coif"
+		name_internal = "The Classified Coif"
+		model = "models/workshop/player/items/soldier/short2014_soldier_fed_coat/short2014_soldier_fed_coat.mdl"
+		image = "backpack/workshop/player/items/soldier/short2014_soldier_fed_coat/short2014_soldier_fed_coat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30389] = {
 		name = "The Rogue's Robe"
+		name_internal = "The Rogue's Robe"
+		model = "models/workshop/player/items/spy/short2014_invisible_ishikawa/short2014_invisible_ishikawa.mdl"
+		image = "backpack/workshop/player/items/spy/short2014_invisible_ishikawa/short2014_invisible_ishikawa"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30390] = {
 		name = "The Spook Specs"
+		name_internal = "The Spook Specs"
+		model = "models/workshop/player/items/soldier/short2014_soldier_fedhair/short2014_soldier_fedhair.mdl"
+		image = "backpack/workshop/player/items/soldier/short2014_soldier_fedhair/short2014_soldier_fedhair"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30391] = {
 		name = "The Sengoku Scorcher"
+		name_internal = "The Sengoku Scorcher"
+		model = "models/workshop/player/items/pyro/short2014_sengoku_scorcher/short2014_sengoku_scorcher.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_sengoku_scorcher/short2014_sengoku_scorcher"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30392] = {
 		name = "The Man in Slacks"
+		name_internal = "The Man in Slacks"
+		model = "models/workshop/player/items/soldier/short2014_man_in_slacks/short2014_man_in_slacks.mdl"
+		image = "backpack/workshop/player/items/soldier/short2014_man_in_slacks/short2014_man_in_slacks"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30393] = {
 		name = "The Razor Cut"
+		name_internal = "The Razor Cut"
+		model = "models/workshop/player/items/demo/short2014_demo_mohawk/short2014_demo_mohawk.mdl"
+		image = "backpack/workshop/player/items/demo/short2014_demo_mohawk/short2014_demo_mohawk"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30394] = {
 		name = "The Frickin' Sweet Ninja Hood"
+		name_internal = "The Frickin' Sweet Ninja Hood"
+		model = "models/workshop/player/items/scout/short2014_scout_ninja_mask/short2014_scout_ninja_mask.mdl"
+		image = "backpack/workshop/player/items/scout/short2014_scout_ninja_mask/short2014_scout_ninja_mask"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30395] = {
 		name = "The Southie Shinobi"
+		name_internal = "The Southie Shinobi"
+		model = "models/workshop/player/items/scout/short2014_minja_vest/short2014_minja_vest.mdl"
+		image = "backpack/workshop/player/items/scout/short2014_minja_vest/short2014_minja_vest"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30396] = {
 		name = "The Red Socks"
+		name_internal = "The Red Socks"
+		model = "models/workshop/player/items/scout/short2014_ninja_boots/short2014_ninja_boots.mdl"
+		image = "backpack/workshop/player/items/scout/short2014_ninja_boots/short2014_ninja_boots"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30397] = {
 		name = "The Bruiser's Bandanna"
+		name_internal = "The Bruiser's Bandanna"
+		model = "models/workshop/player/items/all_class/short2014_all_mercs_mask/short2014_all_mercs_mask_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/short2014_all_mercs_mask/short2014_all_mercs_mask"
 		paint = true
 		styles = ["Original" "Clean" "Skulls"]
 	},
 	[30398] = {
 		name = "The Gas Guzzler"
+		name_internal = "The Gas Guzzler"
+		model = "models/workshop/player/items/pyro/short2014_the_gas_guzzler/short2014_the_gas_guzzler.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_the_gas_guzzler/short2014_the_gas_guzzler"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30399] = {
 		name = "The Smoking Skid Lid"
+		name_internal = "The Smoking Skid Lid"
+		model = "models/workshop/player/items/pyro/short2014_spiked_armourgeddon/short2014_spiked_armourgeddon.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_spiked_armourgeddon/short2014_spiked_armourgeddon"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30400] = {
 		name = "The Lunatic's Leathers"
+		name_internal = "The Lunatic's Leathers"
+		model = "models/workshop/player/items/pyro/short2014_wildfire_wrappers/short2014_wildfire_wrappers.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_wildfire_wrappers/short2014_wildfire_wrappers"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30401] = {
 		name = "Yuri's Revenge"
+		name_internal = "Yuri's Revenge"
+		model = "models/workshop/player/items/heavy/short2014_heavy_goatee/short2014_heavy_goatee.mdl"
+		image = "backpack/workshop/player/items/heavy/short2014_heavy_goatee/short2014_heavy_goatee"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30402] = {
 		name = "The Tools of the Trade"
+		name_internal = "The Tools of the Trade"
+		model = "models/workshop/player/items/engineer/short2014_engie_toolbelt/short2014_engie_toolbelt.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_engie_toolbelt/short2014_engie_toolbelt"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30403] = {
 		name = "The Joe-on-the-Go"
+		name_internal = "The Joe-on-the-Go"
+		model = "models/workshop/player/items/engineer/short2014_poopyj_backpack/short2014_poopyj_backpack.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_poopyj_backpack/short2014_poopyj_backpack"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30404] = {
 		name = "The Aviator Assassin"
+		name_internal = "The Aviator Assassin"
+		model = "models/workshop/player/items/spy/short2014_deadhead/short2014_deadhead.mdl"
+		image = "backpack/workshop/player/items/spy/short2014_deadhead/short2014_deadhead"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30405] = {
 		name = "The Sky Captain"
+		name_internal = "The Sky Captain"
+		model = "models/workshop/player/items/spy/short2014_confidence_trickster/short2014_confidence_trickster.mdl"
+		image = "backpack/workshop/player/items/spy/short2014_confidence_trickster/short2014_confidence_trickster"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30406] = {
 		name = "The Peacenik's Ponytail"
+		name_internal = "The Peacenik's Ponytail"
+		model = "models/workshop/player/items/engineer/short2014_engineer_nerd_hair/short2014_engineer_nerd_hair.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_engineer_nerd_hair/short2014_engineer_nerd_hair"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["No Helmet" "Helmet"]
 	},
 	[30407] = {
 		name = "The Level Three Chin"
+		name_internal = "The Level Three Chin"
+		model = "models/workshop/player/items/engineer/short2014_engineer_nerd_chin/short2014_engineer_nerd_chin.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_engineer_nerd_chin/short2014_engineer_nerd_chin"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30408] = {
 		name = "The Egghead's Overalls"
+		name_internal = "The Egghead's Overalls"
+		model = "models/workshop/player/items/engineer/short2014_engineer_nerd_shirt/short2014_engineer_nerd_shirt.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_engineer_nerd_shirt/short2014_engineer_nerd_shirt"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30409] = {
 		name = "The Lonesome Loafers"
+		name_internal = "The Lonesome Loafers"
+		model = "models/workshop/player/items/engineer/short2014_engineer_nerd_feet/short2014_engineer_nerd_feet.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_engineer_nerd_feet/short2014_engineer_nerd_feet"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30410] = {
 		name = "Ze Übermensch"
+		name_internal = "Ze Ubermensch"
+		model = "models/workshop/player/items/medic/short2014_medic_nietzsche/short2014_medic_nietzsche.mdl"
+		image = "backpack/workshop/player/items/medic/short2014_medic_nietzsche/short2014_medic_nietzsche"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30411] = {
 		name = "The Au Courant Assassin"
+		name_internal = "The Au Courant Assassin"
+		model = "models/workshop/player/items/spy/short2014_spy_ascot_vest/short2014_spy_ascot_vest.mdl"
+		image = "backpack/workshop/player/items/spy/short2014_spy_ascot_vest/short2014_spy_ascot_vest"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30412] = {
 		name = "Endothermic Exowear"
+		name_internal = "The Endothermic Exowear"
+		model = "models/workshop/player/items/engineer/short2014_endothermic_exowear/short2014_endothermic_exowear.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_endothermic_exowear/short2014_endothermic_exowear"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30413] = {
 		name = "The Merc's Mohawk"
+		name_internal = "The Merc's Mohawk"
+		model = "models/workshop/player/items/all_class/short2014_lil_moe/short2014_lil_moe_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/short2014_lil_moe/short2014_lil_moe"
 		paint = true
 	},
 	[30414] = {
 		name = "The Eye-Catcher"
+		name_internal = "The Eye-Catcher"
+		model = "models/workshop/player/items/all_class/short2014_all_eyepatch/short2014_all_eyepatch_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/short2014_all_eyepatch/short2014_all_eyepatch"
 		paint = true
 	},
 	[30415] = {
 		name = "The Medicine Manpurse"
+		name_internal = "The Medicine Manpurse"
+		model = "models/workshop/player/items/medic/short2014_medic_messenger_bag/short2014_medic_messenger_bag.mdl"
+		image = "backpack/workshop/player/items/medic/short2014_medic_messenger_bag/short2014_medic_messenger_bag"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30416] = {
 		name = "Employee of the Mmmph"
+		name_internal = "Employee of the Mmmph"
+		model = "models/workshop/player/items/pyro/short2014_pyro_chickenhat/short2014_pyro_chickenhat.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_pyro_chickenhat/short2014_pyro_chickenhat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30417] = {
 		name = "The Frymaster"
+		name_internal = "The Frymaster"
+		model = "models/workshop/player/items/pyro/short2014_fowl_fryer/short2014_fowl_fryer.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_fowl_fryer/short2014_fowl_fryer"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30418] = {
 		name = "The Combustible Kabuto"
+		name_internal = "The Combustible Kabuto"
+		model = "models/workshop/player/items/pyro/short2014_honnoji_helm/short2014_honnoji_helm.mdl"
+		image = "backpack/workshop/player/items/pyro/short2014_honnoji_helm/short2014_honnoji_helm"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30419] = {
 		name = "The Chronoscarf"
+		name_internal = "The Chronoscarf"
+		model = "models/workshop/player/items/medic/short2014_chronoscarf/short2014_chronoscarf.mdl"
+		image = "backpack/workshop/player/items/medic/short2014_chronoscarf/short2014_chronoscarf"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30420] = {
 		name = "The Danger"
+		name_internal = "The Danger"
+		model = "models/workshop/player/items/engineer/short2014_chemists_pride/short2014_chemists_pride.mdl"
+		image = "backpack/workshop/player/items/engineer/short2014_chemists_pride/short2014_chemists_pride"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30421] = {
 		name = "The Frontier Djustice"
+		name_internal = "The Frontier Djustice"
+		model = "models/workshop/player/items/demo/short2014_badlands_wanderer/short2014_badlands_wanderer.mdl"
+		image = "backpack/workshop/player/items/demo/short2014_badlands_wanderer/short2014_badlands_wanderer"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30422] = {
 		name = "Vive La France"
+		name_internal = "Vive La France"
+		model = "models/workshop/player/items/all_class/short2014_vintage_director/short2014_vintage_director_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/short2014_vintage_director/short2014_vintage_director"
 		paint = true
 	},
 	[30423] = {
 		name = "The Scoper's Smoke"
+		name_internal = "The Scoper's Smoke"
+		model = "models/workshop/player/items/sniper/short2014_scopers_smoke/short2014_scopers_smoke.mdl"
+		image = "backpack/workshop/player/items/sniper/short2014_scopers_smoke/short2014_scopers_smoke"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30424] = {
 		name = "The Triggerman's Tacticals"
+		name_internal = "The Triggerman's Tacticals"
+		model = "models/workshop/player/items/sniper/short2014_sniper_cargo_pants/short2014_sniper_cargo_pants.mdl"
+		image = "backpack/workshop/player/items/sniper/short2014_sniper_cargo_pants/short2014_sniper_cargo_pants"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30425] = {
 		name = "Tipped Lid"
+		name_internal = "Tipped Lid"
+		model = "models/workshop/player/items/all_class/short2014_tip_of_the_hats/short2014_tip_of_the_hats_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/short2014_tip_of_the_hats/short2014_tip_of_the_hats"
 		paint = true
 	},
 	[30426] = {
 		name = "The Paisley Pro"
+		name_internal = "The Paisley Pro"
+		model = "models/player/items/scout/scout_fancy_shirt.mdl"
+		image = "backpack/player/items/scout/scout_fancy_shirt"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30427] = {
 		name = "The Argyle Ace"
+		name_internal = "The Argyle Ace"
+		model = "models/player/items/scout/scout_brogues.mdl"
+		image = "backpack/player/items/scout/scout_brogues"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30428] = {
 		name = "The Pomade Prince"
+		name_internal = "The Pomade Prince"
+		model = "models/player/items/scout/scout_pompadour.mdl"
+		image = "backpack/player/items/scout/scout_pompadour"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30429] = {
 		name = "The Allbrero"
+		name_internal = "The Allbrero"
+		model = "models/player/items/demo/demo_fiesta_sombrero.mdl"
+		image = "backpack/player/items/demo/demo_fiesta_sombrero"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30430] = {
 		name = "Seeing Double"
+		name_internal = "Seeing Double"
+		model = "models/player/items/demo/demo_fiesta_shades.mdl"
+		image = "backpack/player/items/demo/demo_fiesta_shades"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30431] = {
 		name = "Six Pack Abs"
+		name_internal = "Six Pack Abs"
+		model = "models/player/items/demo/demo_fiesta_bottles.mdl"
+		image = "backpack/player/items/demo/demo_fiesta_bottles"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30467] = {
 		name = "The Spycrab"
+		name_internal = "The Spycrab"
+		model = "models/workshop/player/items/spy/spycrab/spycrab.mdl"
+		image = "backpack/workshop/player/items/spy/spycrab/spycrab"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30469] = {
 		name = "Horace"
+		name_internal = "Horace"
+		model = "models/workshop/player/items/all_class/horace/horace_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/horace/horace"
 		paint = true
 	},
 	[30470] = {
 		name = "The Biomech Backpack"
+		name_internal = "The Biomech Backpack"
+		model = "models/workshop_partner/player/items/scout/ai_body/ai_body.mdl"
+		image = "backpack/workshop_partner/player/items/scout/ai_body/ai_body"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30471] = {
 		name = "The Alien Cranium"
+		name_internal = "The Alien Cranium"
+		model = "models/workshop_partner/player/items/scout/ai_head/ai_head.mdl"
+		image = "backpack/workshop_partner/player/items/scout/ai_head/ai_head"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30472] = {
 		name = "The Xeno Suit"
+		name_internal = "The Xeno Suit"
+		model = "models/workshop_partner/player/items/scout/ai_legs/ai_legs.mdl"
+		image = "backpack/workshop_partner/player/items/scout/ai_legs/ai_legs"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30473] = {
 		name = "The MK 50"
+		name_internal = "The MK 50"
+		model = "models/workshop_partner/player/items/all_class/ai_spacehelmet/ai_spacehelmet_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/ai_spacehelmet/ai_spacehelmet"
 	},
 	[30475] = {
 		name = "The Mishap Mercenary"
+		name_internal = "The Mishap Mercenary"
+		model = "models/workshop/player/items/pyro/sept2014_pyro_radioactive_mask/sept2014_pyro_radioactive_mask.mdl"
+		image = "backpack/workshop/player/items/pyro/sept2014_pyro_radioactive_mask/sept2014_pyro_radioactive_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30476] = {
 		name = "The Lady Killer"
+		name_internal = "The Lady Killer"
+		model = "models/workshop/player/items/spy/sept2014_lady_killer/sept2014_lady_killer.mdl"
+		image = "backpack/workshop/player/items/spy/sept2014_lady_killer/sept2014_lady_killer"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30477] = {
 		name = "The Lone Survivor"
+		name_internal = "The Lone Survivor"
+		model = "models/workshop/player/items/soldier/sept2014_lone_survivor/sept2014_lone_survivor.mdl"
+		image = "backpack/workshop/player/items/soldier/sept2014_lone_survivor/sept2014_lone_survivor"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30478] = {
 		name = "Poacher's Safari Jacket"
+		name_internal = "Poacher's Safari Jacket"
+		model = "models/workshop/player/items/sniper/sept2014_poachers_safari_jacket/sept2014_poachers_safari_jacket.mdl"
+		image = "backpack/workshop/player/items/sniper/sept2014_poachers_safari_jacket/sept2014_poachers_safari_jacket"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30479] = {
 		name = "Thirst Blood"
+		name_internal = "Thirst Blood"
+		model = "models/workshop/player/items/scout/sept2014_thirst_blood/sept2014_thirst_blood.mdl"
+		image = "backpack/workshop/player/items/scout/sept2014_thirst_blood/sept2014_thirst_blood"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30480] = {
 		name = "Mann of the Seven Sees"
+		name_internal = "Mann of the Seven Sees"
+		model = "models/workshop/player/items/demo/sept2014_mann_of_the_seven_sees/sept2014_mann_of_the_seven_sees.mdl"
+		image = "backpack/workshop/player/items/demo/sept2014_mann_of_the_seven_sees/sept2014_mann_of_the_seven_sees"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30481] = {
 		name = "Hillbilly Speed Bump"
+		name_internal = "Hillbilly Speed-Bump"
+		model = "models/workshop/player/items/all_class/sept2014_hillbilly_speedbump/sept2014_hillbilly_speedbump_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sept2014_hillbilly_speedbump/sept2014_hillbilly_speedbump"
 		classes = [TF_CLASS_SNIPER TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30482] = {
 		name = "The Unshaved Bear"
+		name_internal = "The Unshaved Bear"
+		model = "models/workshop/player/items/heavy/sept2014_unshaved_bear/sept2014_unshaved_bear.mdl"
+		image = "backpack/workshop/player/items/heavy/sept2014_unshaved_bear/sept2014_unshaved_bear"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30483] = {
 		name = "Pocket Heavy"
+		name_internal = "Pocket Heavy"
+		model = "models/workshop/player/items/medic/sept2014_pocket_heavy/sept2014_pocket_heavy.mdl"
+		image = "backpack/workshop/player/items/medic/sept2014_pocket_heavy/sept2014_pocket_heavy"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30484] = {
 		name = "The Dadliest Catch"
+		name_internal = "The Dadliest Catch"
+		model = "models/workshop_partner/player/items/all_class/nobody_suspects_a_thing/nobody_suspects_a_thing_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/nobody_suspects_a_thing/nobody_suspects_a_thing"
 	},
 	[30486] = {
 		name = "The Herzensbrecher"
+		name_internal = "Herzensbrecher"
+		model = "models/workshop/player/items/medic/sf14_medic_herzensbrecher/sf14_medic_herzensbrecher.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_medic_herzensbrecher/sf14_medic_herzensbrecher"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30487] = {
 		name = "The Hundkopf"
+		name_internal = "Hundekopf"
+		model = "models/workshop/player/items/medic/sf14_medic_hundkopf/sf14_medic_hundkopf.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_medic_hundkopf/sf14_medic_hundkopf"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30488] = {
 		name = "The Kriegsmaschine-9000"
+		name_internal = "Kriegsmaschine-9000"
+		model = "models/workshop/player/items/medic/sf14_medic_kriegsmaschine_9000/sf14_medic_kriegsmaschine_9000.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_medic_kriegsmaschine_9000/sf14_medic_kriegsmaschine_9000"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30489] = {
 		name = "The Vampire Makeover"
+		name_internal = "Transylvanian Toupe"
+		model = "models/workshop/player/items/medic/sf14_vampire_makeover/sf14_vampire_makeover.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_vampire_makeover/sf14_vampire_makeover"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30490] = {
 		name = "The Vampiric Vesture"
+		name_internal = "Vampiric Vesture"
+		model = "models/workshop/player/items/medic/sf14_vampiric_vesture/sf14_vampiric_vesture.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_vampiric_vesture/sf14_vampiric_vesture"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30491] = {
 		name = "The Nugget Noggin"
+		name_internal = "Nugget Noggin"
+		model = "models/workshop/player/items/scout/sf14_nugget_noggin/sf14_nugget_noggin.mdl"
+		image = "backpack/workshop/player/items/scout/sf14_nugget_noggin/sf14_nugget_noggin"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30492] = {
 		name = "The Fowl Fists"
+		name_internal = "Fowl Fists"
+		model = "models/workshop/player/items/scout/sf14_fowl_fists/sf14_fowl_fists.mdl"
+		image = "backpack/workshop/player/items/scout/sf14_fowl_fists/sf14_fowl_fists"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30493] = {
 		name = "The Talon Trotters"
+		name_internal = "Talon Trotters"
+		model = "models/workshop/player/items/scout/sf14_talon_trotters/sf14_talon_trotters.mdl"
+		image = "backpack/workshop/player/items/scout/sf14_talon_trotters/sf14_talon_trotters"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30494] = {
 		name = "The Head Hunter"
+		name_internal = "Head Hunter"
+		model = "models/workshop/player/items/scout/sf14_scout_hunter_head/sf14_scout_hunter_head.mdl"
+		image = "backpack/workshop/player/items/scout/sf14_scout_hunter_head/sf14_scout_hunter_head"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30495] = {
 		name = "The Claws and Infect"
+		name_internal = "Claws And Infect"
+		model = "models/workshop/player/items/scout/sf14_scout_hunter_arm/sf14_scout_hunter_arm.mdl"
+		image = "backpack/workshop/player/items/scout/sf14_scout_hunter_arm/sf14_scout_hunter_arm"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30496] = {
 		name = "The Crazy Legs"
+		name_internal = "Crazy Legs"
+		model = "models/workshop/player/items/scout/sf14_scout_hunter_legs/sf14_scout_hunter_legs.mdl"
+		image = "backpack/workshop/player/items/scout/sf14_scout_hunter_legs/sf14_scout_hunter_legs"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30497] = {
 		name = "The Ghost of Spies Checked Past"
+		name_internal = "Ghost of Spies Checked Past"
+		model = "models/workshop/player/items/all_class/sf14_ghost_of_spies_checked_past/sf14_ghost_of_spies_checked_past_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sf14_ghost_of_spies_checked_past/sf14_ghost_of_spies_checked_past"
 		paint = true
 	},
 	[30498] = {
 		name = "The Hooded Haunter"
+		name_internal = "The Hooded Haunter"
+		model = "models/workshop/player/items/all_class/sf14_hooded_haunter_classes/sf14_hooded_haunter_classes_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sf14_hooded_haunter_classes/sf14_hooded_haunter_classes"
 		paint = true
 	},
 	[30499] = {
 		name = "The Cranial Conspiracy"
+		name_internal = "Conspiratorial Cut"
+		model = "models/workshop/player/items/sniper/sf14_conspiratorial_cut/sf14_conspiratorial_cut.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_conspiratorial_cut/sf14_conspiratorial_cut"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30500] = {
 		name = "The Scaly Scrapers"
+		name_internal = "Skinless Slashers"
+		model = "models/workshop/player/items/sniper/sf14_skinless_slashers/sf14_skinless_slashers.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_skinless_slashers/sf14_skinless_slashers"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30501] = {
 		name = "The Marsupial Man"
+		name_internal = "Marsupial Man"
+		model = "models/workshop/player/items/sniper/sf14_marsupial_man/sf14_marsupial_man.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_marsupial_man/sf14_marsupial_man"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30502] = {
 		name = "The Kanga Kickers"
+		name_internal = "Kanga Kickers"
+		model = "models/workshop/player/items/sniper/sf14_kanga_kickers/sf14_kanga_kickers.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_kanga_kickers/sf14_kanga_kickers"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30503] = {
 		name = "The Roo Rippers"
+		name_internal = "Roo Rippers"
+		model = "models/workshop/player/items/sniper/sf14_roo_rippers/sf14_roo_rippers.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_roo_rippers/sf14_roo_rippers"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30504] = {
 		name = "The Marsupial Muzzle"
+		name_internal = "Marsupial Muzzle"
+		model = "models/workshop/player/items/sniper/sf14_marsupial_muzzle/sf14_marsupial_muzzle.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_marsupial_muzzle/sf14_marsupial_muzzle"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30505] = {
 		name = "Shadowman's Shade"
+		name_internal = "Shadowman's Shade"
+		model = "models/workshop/player/items/spy/sf14_hw2014_spy_voodoo_hat/sf14_hw2014_spy_voodoo_hat.mdl"
+		image = "backpack/workshop/player/items/spy/sf14_hw2014_spy_voodoo_hat/sf14_hw2014_spy_voodoo_hat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30506] = {
 		name = "The Nightmare Hunter"
+		name_internal = "Nightmare Hunter"
+		model = "models/workshop/player/items/spy/sf14_nightmare_fedora/sf14_nightmare_fedora.mdl"
+		image = "backpack/workshop/player/items/spy/sf14_nightmare_fedora/sf14_nightmare_fedora"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30507] = {
 		name = "The Rogue's Rabbit"
+		name_internal = "Rogue's Rabbit"
+		model = "models/workshop/player/items/spy/sf14_the_rogues_rabbit/sf14_the_rogues_rabbit.mdl"
+		image = "backpack/workshop/player/items/spy/sf14_the_rogues_rabbit/sf14_the_rogues_rabbit"
 		classes = [TF_CLASS_SPY]
 	},
 	[30508] = {
 		name = "The Iron Fist"
+		name_internal = "Iron Fist"
+		model = "models/workshop/player/items/engineer/sf14_iron_fist/sf14_iron_fist.mdl"
+		image = "backpack/workshop/player/items/engineer/sf14_iron_fist/sf14_iron_fist"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30509] = {
 		name = "The Beep Man"
+		name_internal = "Beep Man"
+		model = "models/workshop/player/items/engineer/sf14_beep_man/sf14_beep_man.mdl"
+		image = "backpack/workshop/player/items/engineer/sf14_beep_man/sf14_beep_man"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30510] = {
 		name = "The Soul of 'Spensers Past"
+		name_internal = "Soul of 'Spenser's Past"
+		model = "models/workshop/player/items/engineer/sf14__soul_of_spensers_past/sf14__soul_of_spensers_past.mdl"
+		image = "backpack/workshop/player/items/engineer/sf14__soul_of_spensers_past/sf14__soul_of_spensers_past"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30511] = {
 		name = "The Tiny Texan"
+		name_internal = "Tiny Texan"
+		model = "models/workshop/player/items/engineer/sf14_tiny_texan/sf14_tiny_texan.mdl"
+		image = "backpack/workshop/player/items/engineer/sf14_tiny_texan/sf14_tiny_texan"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30512] = {
 		name = "The Facepeeler"
+		name_internal = "Facepeeler"
+		model = "models/workshop/player/items/spy/sf14_spy_facepeeler/sf14_spy_facepeeler.mdl"
+		image = "backpack/workshop/player/items/spy/sf14_spy_facepeeler/sf14_spy_facepeeler"
 		classes = [TF_CLASS_SPY]
 	},
 	[30513] = {
 		name = "Mr. Mundee's Wild Ride"
+		name_internal = "Mr. Mundee's Wild Ride"
+		model = "models/workshop/player/items/sniper/sf14_sniper_ostrich_legs/sf14_sniper_ostrich_legs.mdl"
+		image = "backpack/workshop/player/items/sniper/sf14_sniper_ostrich_legs/sf14_sniper_ostrich_legs"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30514] = {
 		name = "The Templar's Spirit"
+		name_internal = "Templar's Spirit"
+		model = "models/workshop/player/items/medic/sf14_templar_hood/sf14_templar_hood.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_templar_hood/sf14_templar_hood"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30515] = {
 		name = "The Wings of Purity"
+		name_internal = "Wings of Purity"
+		model = "models/workshop/player/items/medic/sf14_purity_wings/sf14_purity_wings.mdl"
+		image = "backpack/workshop/player/items/medic/sf14_purity_wings/sf14_purity_wings"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30516] = {
 		name = "The Forgotten King's Restless Head"
+		name_internal = "Forgotten King's Restless Head"
+		model = "models/workshop/player/items/demo/sf14_deadking_head/sf14_deadking_head.mdl"
+		image = "backpack/workshop/player/items/demo/sf14_deadking_head/sf14_deadking_head"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30517] = {
 		name = "The Forgotten King's Pauldrons"
+		name_internal = "Forgotten King's Pauldrons"
+		model = "models/workshop/player/items/demo/sf14_deadking_pauldrons/sf14_deadking_pauldrons.mdl"
+		image = "backpack/workshop/player/items/demo/sf14_deadking_pauldrons/sf14_deadking_pauldrons"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30518] = {
 		name = "The Eyeborg"
+		name_internal = "Eyeborg"
+		model = "models/workshop/player/items/demo/sf14_demo_cyborg/sf14_demo_cyborg.mdl"
+		image = "backpack/workshop/player/items/demo/sf14_demo_cyborg/sf14_demo_cyborg"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30519] = {
 		name = "The Mannhattan Project"
+		name_internal = "Explosive Mind"
+		model = "models/workshop/player/items/demo/sf14_explosive_mind/sf14_explosive_mind.mdl"
+		image = "backpack/workshop/player/items/demo/sf14_explosive_mind/sf14_explosive_mind"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30520] = {
 		name = "The Ghoul Gibbin' Gear"
+		name_internal = "Ghoul Gibbin' Gear"
+		model = "models/workshop/player/items/soldier/sf14_ghoul_gibbing_gear/sf14_ghoul_gibbing_gear.mdl"
+		image = "backpack/workshop/player/items/soldier/sf14_ghoul_gibbing_gear/sf14_ghoul_gibbing_gear"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30521] = {
 		name = "The Hellhunter's Headpiece"
+		name_internal = "Hellhunter's Headpiece"
+		model = "models/workshop/player/items/soldier/sf14_hellhunters_headpiece/sf14_hellhunters_headpiece.mdl"
+		image = "backpack/workshop/player/items/soldier/sf14_hellhunters_headpiece/sf14_hellhunters_headpiece"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30522] = {
 		name = "The Supernatural Stalker"
+		name_internal = "Supernatural Stalker"
+		model = "models/workshop/player/items/soldier/sf14_the_supernatural_stalker/sf14_the_supernatural_stalker.mdl"
+		image = "backpack/workshop/player/items/soldier/sf14_the_supernatural_stalker/sf14_the_supernatural_stalker"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30523] = {
 		name = "The Garden Bristles"
+		name_internal = "Garden Bristles"
+		model = "models/workshop/player/items/engineer/sf14_hw2014_engi_gnome_beard/sf14_hw2014_engi_gnome_beard.mdl"
+		image = "backpack/workshop/player/items/engineer/sf14_hw2014_engi_gnome_beard/sf14_hw2014_engi_gnome_beard"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30524] = {
 		name = "The Battle Bird"
+		name_internal = "Battle Bird"
+		model = "models/workshop/player/items/soldier/sf14_the_battle_bird/sf14_the_battle_bird.mdl"
+		image = "backpack/workshop/player/items/soldier/sf14_the_battle_bird/sf14_the_battle_bird"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30525] = {
 		name = "The Creature's Grin"
+		name_internal = "Creature's Grin"
+		model = "models/workshop/player/items/pyro/sf14_the_creatures_grin/sf14_the_creatures_grin.mdl"
+		image = "backpack/workshop/player/items/pyro/sf14_the_creatures_grin/sf14_the_creatures_grin"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30526] = {
 		name = "The Arsonist Apparatus"
+		name_internal = "Arsonist Apparatus"
+		model = "models/workshop/player/items/pyro/sf14_hw2014_robot_arm/sf14_hw2014_robot_arm.mdl"
+		image = "backpack/workshop/player/items/pyro/sf14_hw2014_robot_arm/sf14_hw2014_robot_arm"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30527] = {
 		name = "The Moccasin Machinery"
+		name_internal = "Moccasin Machinery"
+		model = "models/workshop/player/items/pyro/sf14_hw2014_robot_legg/sf14_hw2014_robot_legg.mdl"
+		image = "backpack/workshop/player/items/pyro/sf14_hw2014_robot_legg/sf14_hw2014_robot_legg"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30528] = {
 		name = "The Lollichop Licker"
+		name_internal = "Lollichop Licker"
+		model = "models/workshop/player/items/pyro/sf14_lollichop_licker/sf14_lollichop_licker.mdl"
+		image = "backpack/workshop/player/items/pyro/sf14_lollichop_licker/sf14_lollichop_licker"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30529] = {
 		name = "Mr. Juice"
+		name_internal = "Mr. Juice"
+		model = "models/workshop/player/items/pyro/sf14_mr_juice/sf14_mr_juice.mdl"
+		image = "backpack/workshop/player/items/pyro/sf14_mr_juice/sf14_mr_juice"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30530] = {
 		name = "The Vampyro"
+		name_internal = "Vampyro"
+		model = "models/workshop/player/items/pyro/sf14_vampyro/sf14_vampyro.mdl"
+		image = "backpack/workshop/player/items/pyro/sf14_vampyro/sf14_vampyro"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30531] = {
 		name = "The Bone-Cut Belt"
+		name_internal = "Bone-Cut Belt"
+		model = "models/workshop/player/items/heavy/sf14_halloween_bone_cut_belt/sf14_halloween_bone_cut_belt.mdl"
+		image = "backpack/workshop/player/items/heavy/sf14_halloween_bone_cut_belt/sf14_halloween_bone_cut_belt"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30532] = {
 		name = "The Bull Locks"
+		name_internal = "Bull Locks"
+		model = "models/workshop/player/items/heavy/sf14_halloween_bull_locks/sf14_halloween_bull_locks.mdl"
+		image = "backpack/workshop/player/items/heavy/sf14_halloween_bull_locks/sf14_halloween_bull_locks"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30533] = {
 		name = "The Minsk Beef"
+		name_internal = "Minsk Beef"
+		model = "models/workshop/player/items/heavy/sf14_halloween_minsk_beef/sf14_halloween_minsk_beef.mdl"
+		image = "backpack/workshop/player/items/heavy/sf14_halloween_minsk_beef/sf14_halloween_minsk_beef"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30534] = {
 		name = "The Immobile Suit"
+		name_internal = "Immobile Suit"
+		model = "models/workshop/player/items/heavy/sf14_heavy_robo_chest/sf14_heavy_robo_chest.mdl"
+		image = "backpack/workshop/player/items/heavy/sf14_heavy_robo_chest/sf14_heavy_robo_chest"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30536] = {
 		name = "The Li'l Dutchman"
+		name_internal = "Cursed Cruise"
+		model = "models/workshop/player/items/all_class/sf14_cursed_cruise/sf14_cursed_cruise_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sf14_cursed_cruise/sf14_cursed_cruise"
 		paint = true
 	},
 	[30538] = {
 		name = "Wartime Warmth"
+		name_internal = "EOTL_Skier"
+		model = "models/workshop/player/items/pyro/skier/skier.mdl"
+		image = "backpack/workshop/player/items/pyro/skier/skier"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30539] = {
 		name = "Insulated Inventor"
+		name_internal = "EOTL_Insulated_innovator"
+		model = "models/workshop/player/items/engineer/insulated_innovator/insulated_innovator.mdl"
+		image = "backpack/workshop/player/items/engineer/insulated_innovator/insulated_innovator"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30540] = {
 		name = "Brooklyn Booties"
+		name_internal = "EOTL_blinks_breeches"
+		model = "models/workshop/player/items/scout/blinks_breeches/blinks_breeches.mdl"
+		image = "backpack/workshop/player/items/scout/blinks_breeches/blinks_breeches"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30541] = {
 		name = "Double Dynamite"
+		name_internal = "EOTL_demo_dynamite"
+		model = "models/workshop/player/items/demo/demo_dynamite/demo_dynamite.mdl"
+		image = "backpack/workshop/player/items/demo/demo_dynamite/demo_dynamite"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30542] = {
 		name = "Coldsnap Cap"
+		name_internal = "EOTL_Brisk-weather Beanie"
+		model = "models/workshop/player/items/all_class/briskweather_beanie/briskweather_beanie_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/briskweather_beanie/briskweather_beanie"
 		paint = true
 	},
 	[30543] = {
 		name = "Snow Stompers"
+		name_internal = "EOTL_winter_pants"
+		model = "models/workshop/player/items/engineer/eotl_winter_pants/eotl_winter_pants.mdl"
+		image = "backpack/workshop/player/items/engineer/eotl_winter_pants/eotl_winter_pants"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30544] = {
 		name = "North Polar Fleece"
+		name_internal = "EOTL_pyro_sweater"
+		model = "models/workshop/player/items/pyro/pyro_sweater/pyro_sweater.mdl"
+		image = "backpack/workshop/player/items/pyro/pyro_sweater/pyro_sweater"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30545] = {
 		name = "Fur-Lined Fighter"
+		name_internal = "EOTL_Flat_cap"
+		model = "models/workshop/player/items/heavy/eotl_flat_cap/eotl_flat_cap.mdl"
+		image = "backpack/workshop/player/items/heavy/eotl_flat_cap/eotl_flat_cap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30546] = {
 		name = "Boxcar Bomber"
+		name_internal = "EOTL_FURCAP"
+		model = "models/workshop/player/items/all_class/eotl_furcap/eotl_furcap_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/eotl_furcap/eotl_furcap"
 		paint = true
 	},
 	[30547] = {
 		name = "Bomber's Bucket Hat"
+		name_internal = "EOTL_summerhat"
+		model = "models/workshop/player/items/demo/eotl_summerhat/eotl_summerhat.mdl"
+		image = "backpack/workshop/player/items/demo/eotl_summerhat/eotl_summerhat"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30548] = {
 		name = "Screamin' Eagle"
+		name_internal = "EOTL_soldier_garrison"
+		model = "models/workshop/player/items/soldier/soldier_garrison/soldier_garrison.mdl"
+		image = "backpack/workshop/player/items/soldier/soldier_garrison/soldier_garrison"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30549] = {
 		name = "Winter Woodsman"
+		name_internal = "EOTL_hiphunter_hat"
+		model = "models/workshop/player/items/all_class/hiphunter_hat/hiphunter_hat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hiphunter_hat/hiphunter_hat"
 		paint = true
 	},
 	[30550] = {
 		name = "Snow Sleeves"
+		name_internal = "EOTL_hiphunter_jacket"
+		model = "models/workshop/player/items/all_class/hiphunter_jacket/hiphunter_jacket_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hiphunter_jacket/hiphunter_jacket"
 		classes = [TF_CLASS_SNIPER TF_CLASS_DEMOMAN TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30551] = {
 		name = "Flashdance Footies"
+		name_internal = "EOTL_hiphunter_boots"
+		model = "models/workshop/player/items/all_class/hiphunter_boots/hiphunter_boots_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hiphunter_boots/hiphunter_boots"
 		paint = true
 	},
 	[30552] = {
 		name = "Thermal Tracker"
+		name_internal = "EOTL_thermal_sleeves"
+		model = "models/workshop/player/items/scout/thermal_sleeves/thermal_sleeves.mdl"
+		image = "backpack/workshop/player/items/scout/thermal_sleeves/thermal_sleeves"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30553] = {
 		name = "Condor Cap"
+		name_internal = "EOTL_soldierhat"
+		model = "models/workshop/player/items/soldier/eotl_soldierhat/eotl_soldierhat.mdl"
+		image = "backpack/workshop/player/items/soldier/eotl_soldierhat/eotl_soldierhat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30554] = {
 		name = "Mistaken Movember"
+		name_internal = "EOTL_beard"
+		model = "models/workshop/player/items/soldier/beard/beard.mdl"
+		image = "backpack/workshop/player/items/soldier/beard/beard"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30555] = {
 		name = "Double Dog Dare Demo Pants"
+		name_internal = "EOTL_demopants"
+		model = "models/workshop/player/items/demo/eotl_demopants/eotl_demopants.mdl"
+		image = "backpack/workshop/player/items/demo/eotl_demopants/eotl_demopants"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30556] = {
 		name = "Sleeveless in Siberia"
+		name_internal = "EOTL_Ursa Major"
+		model = "models/workshop/player/items/heavy/ursa_major/ursa_major.mdl"
+		image = "backpack/workshop/player/items/heavy/ursa_major/ursa_major"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30557] = {
 		name = "Hunter Heavy"
+		name_internal = "EOTL_sheavyshirt"
+		model = "models/workshop/player/items/heavy/eotl_sheavyshirt/eotl_sheavyshirt.mdl"
+		image = "backpack/workshop/player/items/heavy/eotl_sheavyshirt/eotl_sheavyshirt"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30558] = {
 		name = "Coldfront Curbstompers"
+		name_internal = "EOTL_Coldfront Curbstompers"
+		model = "models/workshop/player/items/soldier/coldfront_curbstompers/coldfront_curbstompers.mdl"
+		image = "backpack/workshop/player/items/soldier/coldfront_curbstompers/coldfront_curbstompers"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30561] = {
 		name = "The Bootenkhamuns"
+		name_internal = "The Bootenkhamuns"
+		model = "models/workshop_partner/player/items/scout/tr_bootenkhamuns/tr_bootenkhamuns.mdl"
+		image = "backpack/workshop_partner/player/items/scout/tr_bootenkhamuns/tr_bootenkhamuns"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30563] = {
 		name = "Jungle Booty"
+		name_internal = "Jungle Booty"
+		model = "models/workshop_partner/player/items/all_class/tr_jungle_booty/tr_jungle_booty_heavy.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/tr_jungle_booty/tr_jungle_booty"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30564] = {
 		name = "Orion's Belt"
+		name_internal = "Orion's Belt"
+		model = "models/workshop_partner/player/items/scout/tr_orions_belt/tr_orions_belt.mdl"
+		image = "backpack/workshop_partner/player/items/scout/tr_orions_belt/tr_orions_belt"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30567] = {
 		name = "The Crown of the Old Kingdom"
+		name_internal = "The Crown of the Old Kingdom"
+		model = "models/workshop_partner/player/items/all_class/tr_crown_of_the_old_kingdom/tr_crown_of_the_old_kingdom_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/tr_crown_of_the_old_kingdom/tr_crown_of_the_old_kingdom"
 		paint = true
 	},
 	[30569] = {
 		name = "The Tomb Readers"
+		name_internal = "The Tomb Readers"
+		model = "models/workshop_partner/player/items/all_class/tomb_readers/tomb_readers_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/tomb_readers/tomb_readers"
 		paint = true
 	},
 	[30571] = {
 		name = "Brimstone"
+		name_internal = "Brimstone"
+		model = "models/workshop/player/items/all_class/brimstone_hat/brimstone_hat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/brimstone_hat/brimstone_hat"
 		styles = ["Hat" "No Hat"]
 	},
 	[30573] = {
 		name = "Mountebank's Masque"
+		name_internal = "dec2014 Marauders Mask"
+		model = "models/workshop/player/items/scout/dec2014_marauders_mask/dec2014_marauders_mask.mdl"
+		image = "backpack/workshop/player/items/scout/dec2014_marauders_mask/dec2014_marauders_mask"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30574] = {
 		name = "Courtier's Collar"
+		name_internal = "dec2014 Truands Tunic"
+		model = "models/workshop/player/items/scout/dec2014_truands_tunic/dec2014_truands_tunic.mdl"
+		image = "backpack/workshop/player/items/scout/dec2014_truands_tunic/dec2014_truands_tunic"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30575] = {
 		name = "Harlequin's Hooves"
+		name_internal = "dec2014 Fools Footwear"
+		model = "models/workshop/player/items/scout/dec2014_fools_footwear/dec2014_fools_footwear.mdl"
+		image = "backpack/workshop/player/items/scout/dec2014_fools_footwear/dec2014_fools_footwear"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30576] = {
 		name = "Co-Pilot"
+		name_internal = "dec2014 CoPilot_2014"
+		model = "models/workshop/player/items/all_class/dec2014_copilot_2014/dec2014_copilot_2014_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec2014_copilot_2014/dec2014_copilot_2014"
 		paint = true
 	},
 	[30578] = {
 		name = "Skullcap"
+		name_internal = "dec2014 Skullcap"
+		model = "models/workshop/player/items/soldier/dec2014_skullcap/dec2014_skullcap.mdl"
+		image = "backpack/workshop/player/items/soldier/dec2014_skullcap/dec2014_skullcap"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30580] = {
 		name = "Pyromancer's Hood"
+		name_internal = "dec2014 2014_pyromancer_hood"
+		model = "models/workshop/player/items/pyro/dec2014_2014_pyromancer_hood/dec2014_2014_pyromancer_hood.mdl"
+		image = "backpack/workshop/player/items/pyro/dec2014_2014_pyromancer_hood/dec2014_2014_pyromancer_hood"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30581] = {
 		name = "Pyromancer's Raiments"
+		name_internal = "dec2014 Pyromancer's Raiments"
+		model = "models/workshop/player/items/pyro/dec2014_pyromancers_raiments/dec2014_pyromancers_raiments.mdl"
+		image = "backpack/workshop/player/items/pyro/dec2014_pyromancers_raiments/dec2014_pyromancers_raiments"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30582] = {
 		name = "Black Knight's Bascinet"
+		name_internal = "dec2014 Black Knights Bascinet"
+		model = "models/workshop/player/items/pyro/dec2014_black_knights_bascinet/dec2014_black_knights_bascinet.mdl"
+		image = "backpack/workshop/player/items/pyro/dec2014_black_knights_bascinet/dec2014_black_knights_bascinet"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30583] = {
 		name = "Torcher's Tabard"
+		name_internal = "dec2014 Torchers Tabard"
+		model = "models/workshop/player/items/pyro/dec2014_torchers_tabard/dec2014_torchers_tabard.mdl"
+		image = "backpack/workshop/player/items/pyro/dec2014_torchers_tabard/dec2014_torchers_tabard"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30584] = {
 		name = "Charred Chainmail"
+		name_internal = "dec2014 Armoured Appendages"
+		model = "models/workshop/player/items/pyro/dec2014_armoured_appendages/dec2014_armoured_appendages.mdl"
+		image = "backpack/workshop/player/items/pyro/dec2014_armoured_appendages/dec2014_armoured_appendages"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30586] = {
 		name = "Valhalla Helm"
+		name_internal = "dec2014 Viking Helmet"
+		model = "models/workshop/player/items/demo/dec2014_viking_helmet/dec2014_viking_helmet.mdl"
+		image = "backpack/workshop/player/items/demo/dec2014_viking_helmet/dec2014_viking_helmet"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30587] = {
 		name = "Storm Stompers"
+		name_internal = "dec2014 Viking Boots"
+		model = "models/workshop/player/items/demo/dec2014_viking_boots/dec2014_viking_boots.mdl"
+		image = "backpack/workshop/player/items/demo/dec2014_viking_boots/dec2014_viking_boots"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30588] = {
 		name = "Siberian Facehugger"
+		name_internal = "dec2014 heavy_parka"
+		model = "models/workshop/player/items/heavy/dec2014_heavy_parka/dec2014_heavy_parka.mdl"
+		image = "backpack/workshop/player/items/heavy/dec2014_heavy_parka/dec2014_heavy_parka"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30589] = {
 		name = "Old Man Frost"
+		name_internal = "dec2014 The Big Papa"
+		model = "models/workshop/player/items/heavy/dec2014_the_big_papa/dec2014_the_big_papa.mdl"
+		image = "backpack/workshop/player/items/heavy/dec2014_the_big_papa/dec2014_the_big_papa"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30590] = {
 		name = "Holstered Heaters"
+		name_internal = "dec2014 engineer_detectiveholster"
+		model = "models/workshop/player/items/engineer/dec2014_engineer_detectiveholster/dec2014_engineer_detectiveholster.mdl"
+		image = "backpack/workshop/player/items/engineer/dec2014_engineer_detectiveholster/dec2014_engineer_detectiveholster"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30591] = {
 		name = "Cop Caller"
+		name_internal = "dec2014 engineer_detectiveradio"
+		model = "models/workshop/player/items/engineer/dec2014_engineer_detectiveradio/dec2014_engineer_detectiveradio.mdl"
+		image = "backpack/workshop/player/items/engineer/dec2014_engineer_detectiveradio/dec2014_engineer_detectiveradio"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30592] = {
 		name = "Conagher's Combover"
+		name_internal = "dec2014 engineer_detectiveglasses"
+		model = "models/workshop/player/items/engineer/dec2014_engineer_detectiveglasses/dec2014_engineer_detectiveglasses.mdl"
+		image = "backpack/workshop/player/items/engineer/dec2014_engineer_detectiveglasses/dec2014_engineer_detectiveglasses"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30593] = {
 		name = "Clubsy The Seal"
+		name_internal = "dec2014 engineer_seal"
+		model = "models/workshop/player/items/engineer/dec2014_engineer_seal/dec2014_engineer_seal.mdl"
+		image = "backpack/workshop/player/items/engineer/dec2014_engineer_seal/dec2014_engineer_seal"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30595] = {
 		name = "Unknown Mann"
+		name_internal = "dec2014 medic_unknown_mann"
+		model = "models/workshop/player/items/medic/dec2014_medic_unknown_mann/dec2014_medic_unknown_mann.mdl"
+		image = "backpack/workshop/player/items/medic/dec2014_medic_unknown_mann/dec2014_medic_unknown_mann"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30596] = {
 		name = "Surgeon's Shako"
+		name_internal = "dec2014 Surgeon's Shako"
+		model = "models/workshop/player/items/medic/dec2014_surgeons_shako/dec2014_surgeons_shako.mdl"
+		image = "backpack/workshop/player/items/medic/dec2014_surgeons_shako/dec2014_surgeons_shako"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30597] = {
 		name = "Bushman's Bristles"
+		name_internal = "dec2014 hunter_beard"
+		model = "models/workshop/player/items/sniper/dec2014_hunter_beard/dec2014_hunter_beard.mdl"
+		image = "backpack/workshop/player/items/sniper/dec2014_hunter_beard/dec2014_hunter_beard"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30598] = {
 		name = "Professional's Ushanka"
+		name_internal = "dec2014 hunter_ushanka"
+		model = "models/workshop/player/items/sniper/dec2014_hunter_ushanka/dec2014_hunter_ushanka.mdl"
+		image = "backpack/workshop/player/items/sniper/dec2014_hunter_ushanka/dec2014_hunter_ushanka"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30599] = {
 		name = "Marksman's Mohair"
+		name_internal = "dec2014 hunter_vest"
+		model = "models/workshop/player/items/sniper/dec2014_hunter_vest/dec2014_hunter_vest.mdl"
+		image = "backpack/workshop/player/items/sniper/dec2014_hunter_vest/dec2014_hunter_vest"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30600] = {
 		name = "Wally Pocket"
+		name_internal = "dec2014 Wally Pocket"
+		model = "models/workshop/player/items/sniper/dec2014_wally_pocket/dec2014_wally_pocket.mdl"
+		image = "backpack/workshop/player/items/sniper/dec2014_wally_pocket/dec2014_wally_pocket"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30601] = {
 		name = "Cold Snap Coat"
+		name_internal = "eotl_winter_coat"
+		model = "models/workshop/player/items/soldier/eotl_winter_coat/eotl_winter_coat.mdl"
+		image = "backpack/workshop/player/items/soldier/eotl_winter_coat/eotl_winter_coat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30602] = {
 		name = "Puffy Provocateur"
+		name_internal = "dec2014 The Puffy Provocateur"
+		model = "models/workshop/player/items/spy/dec2014_the_puffy_provocateur/dec2014_the_puffy_provocateur.mdl"
+		image = "backpack/workshop/player/items/spy/dec2014_the_puffy_provocateur/dec2014_the_puffy_provocateur"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30603] = {
 		name = "Stealthy Scarf"
+		name_internal = "dec2014 Stealthy Scarf"
+		model = "models/workshop/player/items/spy/dec2014_stealthy_scarf/dec2014_stealthy_scarf.mdl"
+		image = "backpack/workshop/player/items/spy/dec2014_stealthy_scarf/dec2014_stealthy_scarf"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30604] = {
 		name = "Scot Bonnet"
+		name_internal = "dec2014 Comforter"
+		model = "models/workshop/player/items/demo/dec2014_comforter/dec2014_comforter.mdl"
+		image = "backpack/workshop/player/items/demo/dec2014_comforter/dec2014_comforter"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30605] = {
 		name = "Thermal Insulation Layer"
+		name_internal = "dec2014 Thermal Insulation Layer"
+		model = "models/workshop/player/items/engineer/dec2014_thermal_insulation_layer/dec2014_thermal_insulation_layer.mdl"
+		image = "backpack/workshop/player/items/engineer/dec2014_thermal_insulation_layer/dec2014_thermal_insulation_layer"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30606] = {
 		name = "Pocket Momma"
+		name_internal = "dec2014 Pocket Momma"
+		model = "models/workshop/player/items/spy/dec2014_pocket_momma/dec2014_pocket_momma.mdl"
+		image = "backpack/workshop/player/items/spy/dec2014_pocket_momma/dec2014_pocket_momma"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30607] = {
 		name = "The Pocket Raiders"
+		name_internal = "The Pocket Raiders"
+		model = "models/workshop_partner/player/items/all_class/pocket_raiders/pocket_raiders_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/pocket_raiders/pocket_raiders"
 		styles = ["Lara" "Carter" "Horus" "Isis"]
 	},
 	[30623] = {
 		name = "The Rotation Sensation"
+		name_internal = "The Rotation Sensation"
+		model = "models/workshop/player/items/all_class/cc_summer2015_the_rotation_sensation/cc_summer2015_the_rotation_sensation_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/cc_summer2015_the_rotation_sensation/cc_summer2015_the_rotation_sensation"
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30625] = {
 		name = "The Physician's Protector"
+		name_internal = "The Physician's Protector"
+		model = "models/workshop/player/items/medic/cc_summer2015_the_physicians_protector/cc_summer2015_the_physicians_protector.mdl"
+		image = "backpack/workshop/player/items/medic/cc_summer2015_the_physicians_protector/cc_summer2015_the_physicians_protector"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30626] = {
 		name = "The Vascular Vestment"
+		name_internal = "The Vascular Vestment"
+		model = "models/workshop/player/items/medic/cc_summer2015_the_vascular_vestment/cc_summer2015_the_vascular_vestment.mdl"
+		image = "backpack/workshop/player/items/medic/cc_summer2015_the_vascular_vestment/cc_summer2015_the_vascular_vestment"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30627] = {
 		name = "Bruce's Bonnet"
+		name_internal = "Bruce's Bonnet"
+		model = "models/workshop/player/items/demo/cc_summer2015_bruces_bonnet/cc_summer2015_bruces_bonnet.mdl"
+		image = "backpack/workshop/player/items/demo/cc_summer2015_bruces_bonnet/cc_summer2015_bruces_bonnet"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30628] = {
 		name = "Outta Sight"
+		name_internal = "Outta' Sight"
+		model = "models/workshop/player/items/demo/cc_summer2015_outta_sight/cc_summer2015_outta_sight.mdl"
+		image = "backpack/workshop/player/items/demo/cc_summer2015_outta_sight/cc_summer2015_outta_sight"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30629] = {
 		name = "Support Spurs"
+		name_internal = "Support Spurs"
+		model = "models/workshop/player/items/all_class/cc_summer2015_support_spurs/cc_summer2015_support_spurs_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/cc_summer2015_support_spurs/cc_summer2015_support_spurs"
 		classes = [TF_CLASS_SNIPER TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30631] = {
 		name = "Lurker's Leathers"
+		name_internal = "Lurker's Leathers"
+		model = "models/workshop/player/items/spy/cc_summer2015_lurkers_leathers/cc_summer2015_lurkers_leathers.mdl"
+		image = "backpack/workshop/player/items/spy/cc_summer2015_lurkers_leathers/cc_summer2015_lurkers_leathers"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Wasteland" "Wall Street"]
 	},
 	[30633] = {
 		name = "Commissar's Coat"
+		name_internal = "Commissar's Coat"
+		model = "models/workshop/player/items/heavy/cc_summer2015_commissars_coat/cc_summer2015_commissars_coat.mdl"
+		image = "backpack/workshop/player/items/heavy/cc_summer2015_commissars_coat/cc_summer2015_commissars_coat"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30634] = {
 		name = "Sheriff's Stetson"
+		name_internal = "Sheriff's Stetson"
+		model = "models/workshop/player/items/engineer/cc_summer2015_sheriffs_stetson/cc_summer2015_sheriffs_stetson.mdl"
+		image = "backpack/workshop/player/items/engineer/cc_summer2015_sheriffs_stetson/cc_summer2015_sheriffs_stetson"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30635] = {
 		name = "Wild West Waistcoat"
+		name_internal = "Wild West Waistcoat"
+		model = "models/workshop/player/items/engineer/cc_summer2015_wild_west_waistcoat/cc_summer2015_wild_west_waistcoat.mdl"
+		image = "backpack/workshop/player/items/engineer/cc_summer2015_wild_west_waistcoat/cc_summer2015_wild_west_waistcoat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30636] = {
 		name = "Fortunate Son"
+		name_internal = "Fortunate Son"
+		model = "models/workshop/player/items/scout/cc_summer2015_fortunate_son/cc_summer2015_fortunate_son.mdl"
+		image = "backpack/workshop/player/items/scout/cc_summer2015_fortunate_son/cc_summer2015_fortunate_son"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30637] = {
 		name = "Flak Jack"
+		name_internal = "Flak Jack"
+		model = "models/workshop/player/items/scout/cc_summer2015_flak_jack/cc_summer2015_flak_jack.mdl"
+		image = "backpack/workshop/player/items/scout/cc_summer2015_flak_jack/cc_summer2015_flak_jack"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30640] = {
 		name = "Captain Cardbeard Cutthroat"
+		name_internal = "Captain Cardbeard Cutthroat"
+		model = "models/workshop/player/items/all_class/cc_summer2015_captain_cardbeard_cutthroat/cc_summer2015_captain_cardbeard_cutthroat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/cc_summer2015_captain_cardbeard_cutthroat/cc_summer2015_captain_cardbeard_cutthroat"
 		paint = true
 	},
 	[30643] = {
 		name = "Potassium Bonnet"
+		name_internal = "Potassium Bonnett"
+		model = "models/workshop/player/items/all_class/cc_summer2015_potassium_bonnett/cc_summer2015_potassium_bonnett_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/cc_summer2015_potassium_bonnett/cc_summer2015_potassium_bonnett"
 		paint = true
 	},
 	[30644] = {
 		name = "White Russian"
+		name_internal = "White Russian"
+		model = "models/workshop/player/items/heavy/cc_summer2015_white_russian/cc_summer2015_white_russian.mdl"
+		image = "backpack/workshop/player/items/heavy/cc_summer2015_white_russian/cc_summer2015_white_russian"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30645] = {
 		name = "El Duderino"
+		name_internal = "El Duderino"
+		model = "models/workshop/player/items/heavy/cc_summer2015_el_duderino/cc_summer2015_el_duderino.mdl"
+		image = "backpack/workshop/player/items/heavy/cc_summer2015_el_duderino/cc_summer2015_el_duderino"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30646] = {
 		name = "Captain Space Mann"
+		name_internal = "Captain Space Mann"
+		model = "models/workshop/player/items/all_class/invasion_captain_space_mann/invasion_captain_space_mann_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/invasion_captain_space_mann/invasion_captain_space_mann"
 	},
 	[30647] = {
 		name = "Phononaut"
+		name_internal = "Phononaut"
+		model = "models/workshop/player/items/all_class/invasion_phononaut/invasion_phononaut_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/invasion_phononaut/invasion_phononaut"
 	},
 	[30648] = {
 		name = "Corona Australis"
+		name_internal = "Corona Australis"
+		model = "models/workshop/player/items/sniper/invasion_corona_australis/invasion_corona_australis.mdl"
+		image = "backpack/workshop/player/items/sniper/invasion_corona_australis/invasion_corona_australis"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30649] = {
 		name = "Final Frontiersman"
+		name_internal = "Final Frontiersman"
+		model = "models/workshop/player/items/sniper/invasion_final_frontiersman/invasion_final_frontiersman.mdl"
+		image = "backpack/workshop/player/items/sniper/invasion_final_frontiersman/invasion_final_frontiersman"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30650] = {
 		name = "Starduster"
+		name_internal = "Starduster"
+		model = "models/workshop/player/items/sniper/invasion_starduster/invasion_starduster.mdl"
+		image = "backpack/workshop/player/items/sniper/invasion_starduster/invasion_starduster"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30651] = {
 		name = "The Graylien"
+		name_internal = "The Graylien"
+		model = "models/workshop/player/items/spy/invasion_the_graylien/invasion_the_graylien.mdl"
+		image = "backpack/workshop/player/items/spy/invasion_the_graylien/invasion_the_graylien"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30652] = {
 		name = "Phobos Filter"
+		name_internal = "Phobos Filter"
+		model = "models/workshop/player/items/pyro/invasion_phobos_filter/invasion_phobos_filter.mdl"
+		image = "backpack/workshop/player/items/pyro/invasion_phobos_filter/invasion_phobos_filter"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30653] = {
 		name = "Sucker Slug"
+		name_internal = "Sucker Slug"
+		model = "models/workshop/player/items/heavy/invasion_sucker_slug/invasion_sucker_slug.mdl"
+		image = "backpack/workshop/player/items/heavy/invasion_sucker_slug/invasion_sucker_slug"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30654] = {
 		name = "Life Support System"
+		name_internal = "Life Support System"
+		model = "models/workshop/player/items/engineer/invasion_life_support_system/invasion_life_support_system.mdl"
+		image = "backpack/workshop/player/items/engineer/invasion_life_support_system/invasion_life_support_system"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30655] = {
 		name = "Rocket Operator"
+		name_internal = "Rocket Operator"
+		model = "models/workshop/player/items/engineer/invasion_rocket_operator/invasion_rocket_operator.mdl"
+		image = "backpack/workshop/player/items/engineer/invasion_rocket_operator/invasion_rocket_operator"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30658] = {
 		name = "Universal Translator"
+		name_internal = "Universal Translator"
+		model = "models/workshop/player/items/all_class/invasion_universal_translator/invasion_universal_translator_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/invasion_universal_translator/invasion_universal_translator"
 		paint = true
 		styles = ["Headphones (only Scout)" "No Headphones (only Scout)"]
 	},
 	[30661] = {
 		name = "Cadet Visor"
+		name_internal = "Cadet Visor"
+		model = "models/workshop/player/items/scout/invasion_cadet_visor/invasion_cadet_visor.mdl"
+		image = "backpack/workshop/player/items/scout/invasion_cadet_visor/invasion_cadet_visor"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30662] = {
 		name = "A Head Full of Hot Air"
+		name_internal = "A Head Full of Hot Air"
+		model = "models/workshop/player/items/pyro/invasion_a_head_full_of_hot_air/invasion_a_head_full_of_hot_air.mdl"
+		image = "backpack/workshop/player/items/pyro/invasion_a_head_full_of_hot_air/invasion_a_head_full_of_hot_air"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30663] = {
 		name = "Jupiter Jetpack"
+		name_internal = "Jupiter Jetpack"
+		model = "models/workshop/player/items/pyro/invasion_jupiter_jetpack/invasion_jupiter_jetpack.mdl"
+		image = "backpack/workshop/player/items/pyro/invasion_jupiter_jetpack/invasion_jupiter_jetpack"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30664] = {
 		name = "The Space Diver"
+		name_internal = "The Space Diver"
+		model = "models/workshop/player/items/pyro/invasion_the_space_diver/invasion_the_space_diver.mdl"
+		image = "backpack/workshop/player/items/pyro/invasion_the_space_diver/invasion_the_space_diver"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30669] = {
 		name = "Space Hamster Hammy"
+		name_internal = "Space Hamster Hammy"
+		model = "models/workshop/player/items/pyro/invasion_space_hamster_hammy/invasion_space_hamster_hammy.mdl"
+		image = "backpack/workshop/player/items/pyro/invasion_space_hamster_hammy/invasion_space_hamster_hammy"
 		paint = true
 	},
 	[30675] = {
 		name = "Roboot"
+		name_internal = "Roboot"
+		model = "models/workshop/player/items/engineer/hwn2015_roboot/hwn2015_roboot.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2015_roboot/hwn2015_roboot"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30676] = {
 		name = "The Face of Mercy"
+		name_internal = "The Face of Mercy"
+		model = "models/workshop/player/items/pyro/hwn2015_face_of_mercy/hwn2015_face_of_mercy.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2015_face_of_mercy/hwn2015_face_of_mercy"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30680] = {
 		name = "El Caballero"
+		name_internal = "El Caballero"
+		model = "models/workshop/player/items/engineer/hwn2015_western_poncho/hwn2015_western_poncho.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2015_western_poncho/hwn2015_western_poncho"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30681] = {
 		name = "El Patron"
+		name_internal = "El Patron"
+		model = "models/workshop/player/items/engineer/hwn2015_western_beard/hwn2015_western_beard.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2015_western_beard/hwn2015_western_beard"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30682] = {
 		name = "Smokey Sombrero"
+		name_internal = "Smokey Sombrero"
+		model = "models/workshop/player/items/engineer/hwn2015_western_hat/hwn2015_western_hat.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2015_western_hat/hwn2015_western_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30684] = {
 		name = "Neptune's Nightmare"
+		name_internal = "Neptune's Nightmare"
+		model = "models/workshop/player/items/pyro/hwn2015_neptunes_nightmare/hwn2015_neptunes_nightmare.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2015_neptunes_nightmare/hwn2015_neptunes_nightmare"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30685] = {
 		name = "Thrilling Tracksuit"
+		name_internal = "Thrilling Tracksuit"
+		model = "models/workshop/player/items/scout/hwn2015_death_racer_jacket/hwn2015_death_racer_jacket.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2015_death_racer_jacket/hwn2015_death_racer_jacket"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30686] = {
 		name = "Death Racer's Helmet"
+		name_internal = "Death Racer's Helmet"
+		model = "models/workshop/player/items/scout/hwn2015_death_racer_helmet/hwn2015_death_racer_helmet.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2015_death_racer_helmet/hwn2015_death_racer_helmet"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30693] = {
 		name = "Grim Tweeter"
+		name_internal = "Grim Tweeter"
+		model = "models/workshop/player/items/all_class/hwn2015_grim_tweeter/hwn2015_grim_tweeter_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2015_grim_tweeter/hwn2015_grim_tweeter"
 		paint = true
 	},
 	[30698] = {
 		name = "Iron Lung"
+		name_internal = "Iron Lung"
+		model = "models/workshop/player/items/engineer/hwn2015_iron_lung/hwn2015_iron_lung.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2015_iron_lung/hwn2015_iron_lung"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30700] = {
 		name = "Duck Billed Hatypus"
+		name_internal = "Duck Billed Hatypus"
+		model = "models/workshop/player/items/all_class/hwn2015_duckyhat/hwn2015_duckyhat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2015_duckyhat/hwn2015_duckyhat"
 		paint = true
 	},
 	[30704] = {
 		name = "Prehistoric Pullover"
+		name_internal = "Prehistoric Pullover"
+		model = "models/workshop/player/items/all_class/hwn2015_dino_hoodie/hwn2015_dino_hoodie_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2015_dino_hoodie/hwn2015_dino_hoodie"
 		paint = true
 	},
 	[30706] = {
 		name = "Catastrophic Companions"
+		name_internal = "Catastrophic Companions"
+		model = "models/workshop/player/items/all_class/hwn2015_catastrophic_companions/hwn2015_catastrophic_companions_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2015_catastrophic_companions/hwn2015_catastrophic_companions"
 		paint = true
 	},
 	[30707] = {
 		name = "Dead'er Alive"
+		name_internal = "Dead'er Alive"
+		model = "models/workshop/player/items/engineer/hwn2015_mechanical_engineer/hwn2015_mechanical_engineer.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2015_mechanical_engineer/hwn2015_mechanical_engineer"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30708] = {
 		name = "The Hellmet"
+		name_internal = "The Hellmet"
+		model = "models/workshop/player/items/soldier/hwn2015_hellmet/hwn2015_hellmet.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2015_hellmet/hwn2015_hellmet"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30716] = {
 		name = "Crusader's Getup"
+		name_internal = "Crusader's Getup"
+		model = "models/workshop/player/items/pyro/hwn2015_firebug_suit/hwn2015_firebug_suit.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2015_firebug_suit/hwn2015_firebug_suit"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30717] = {
 		name = "Arthropod's Aspect"
+		name_internal = "Arthropod's Aspect"
+		model = "models/workshop/player/items/pyro/hwn2015_firebug_mask/hwn2015_firebug_mask.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2015_firebug_mask/hwn2015_firebug_mask"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30718] = {
 		name = "B'aaarrgh-n-Bicorne"
+		name_internal = "B'aaarrgh-n-Bicorne"
+		model = "models/workshop/player/items/scout/hwn2015_bargain_bicorne/hwn2015_bargain_bicorne.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2015_bargain_bicorne/hwn2015_bargain_bicorne"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30719] = {
 		name = "B'aaarrgh-n-Britches"
+		name_internal = "B'aaarrgh-n-Britches"
+		model = "models/workshop/player/items/scout/hwn2015_bargain_britches/hwn2015_bargain_britches.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2015_bargain_britches/hwn2015_bargain_britches"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30720] = {
 		name = "Arkham Cowl"
+		name_internal = "Arkham Cowl"
+		model = "models/workshop/player/items/all_class/bak_arkham_cowl/bak_arkham_cowl_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_arkham_cowl/bak_arkham_cowl"
 	},
 	[30721] = {
 		name = "The Firefly"
+		name_internal = "The Firefly"
+		model = "models/workshop/player/items/pyro/bak_firefly/bak_firefly.mdl"
+		image = "backpack/workshop/player/items/pyro/bak_firefly/bak_firefly"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30722] = {
 		name = "Batter's Bracers"
+		name_internal = "Batter's Bracers"
+		model = "models/workshop/player/items/all_class/bak_batarm/bak_batarm_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_batarm/bak_batarm"
 		paint = true
 	},
 	[30723] = {
 		name = "The Hood of Sorrows"
+		name_internal = "The Hood of Sorrows"
+		model = "models/workshop/player/items/demo/bak_hood_of_sorrows/bak_hood_of_sorrows.mdl"
+		image = "backpack/workshop/player/items/demo/bak_hood_of_sorrows/bak_hood_of_sorrows"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30724] = {
 		name = "Fear Monger"
+		name_internal = "Fear Monger"
+		model = "models/workshop/player/items/pyro/bak_fear_monger/bak_fear_monger.mdl"
+		image = "backpack/workshop/player/items/pyro/bak_fear_monger/bak_fear_monger"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30726] = {
 		name = "Pocket Villains"
+		name_internal = "Pocket Villains"
+		model = "models/workshop/player/items/all_class/bak_pocket_villians/bak_pocket_villians_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_pocket_villians/bak_pocket_villians"
 	},
 	[30727] = {
 		name = "The Caped Crusader"
+		name_internal = "The Caped Crusader"
+		model = "models/workshop/player/items/soldier/bak_caped_crusader/bak_caped_crusader.mdl"
+		image = "backpack/workshop/player/items/soldier/bak_caped_crusader/bak_caped_crusader"
 		classes = [TF_CLASS_SOLDIER]
 		styles = ["Vigilante" "Team Playa"]
 	},
 	[30728] = {
 		name = "Buttler"
+		name_internal = "Buttler"
+		model = "models/workshop/player/items/all_class/bak_buttler/bak_buttler_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_buttler/bak_buttler"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SOLDIER TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_PYRO TF_CLASS_SPY TF_CLASS_ENGINEER]
 	},
 	[30733] = {
 		name = "Teufort Knight"
+		name_internal = "Teufort Knight"
+		model = "models/workshop/player/items/all_class/bak_teufort_knight/bak_teufort_knight_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_teufort_knight/bak_teufort_knight"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_SPY TF_CLASS_ENGINEER]
 	},
 	[30735] = {
 		name = "Sidekick's Side Slick"
+		name_internal = "Sidekick's Side Slick"
+		model = "models/workshop/player/items/scout/bak_sidekicks_side_slick/bak_sidekicks_side_slick.mdl"
+		image = "backpack/workshop/player/items/scout/bak_sidekicks_side_slick/bak_sidekicks_side_slick"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Style 1 No Hat" "Style 1 With Hat" "Style 2 No Hat" "Style 2 With Hat"]
 	},
 	[30736] = {
 		name = "The Bat Backup"
+		name_internal = "The Bat Backup"
+		model = "models/workshop/player/items/scout/bak_bat_backup/bak_bat_backup.mdl"
+		image = "backpack/workshop/player/items/scout/bak_bat_backup/bak_bat_backup"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30737] = {
 		name = "Crook Combatant"
+		name_internal = "Crook Combatant"
+		model = "models/workshop/player/items/scout/bak_crook_combatant/bak_crook_combatant.mdl"
+		image = "backpack/workshop/player/items/scout/bak_crook_combatant/bak_crook_combatant"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30738] = {
 		name = "Batbelt"
+		name_internal = "Batbelt"
+		model = "models/workshop/player/items/all_class/bak_batbelt/bak_batbelt_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_batbelt/bak_batbelt"
 		paint = true
 	},
 	[30739] = {
 		name = "Fear Monger"
+		name_internal = "Promo Fear Monger"
+		model = "models/workshop/player/items/pyro/bak_fear_monger/bak_fear_monger.mdl"
+		image = "backpack/workshop/player/items/pyro/bak_fear_monger/bak_fear_monger"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30740] = {
 		name = "Arkham Cowl"
+		name_internal = "Promo Arkham Cowl"
+		model = "models/workshop/player/items/all_class/bak_arkham_cowl/bak_arkham_cowl_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/bak_arkham_cowl/bak_arkham_cowl"
 	},
 	[30741] = {
 		name = "The Firefly"
+		name_internal = "Promo The Firefly"
+		model = "models/workshop/player/items/pyro/bak_firefly/bak_firefly.mdl"
+		image = "backpack/workshop/player/items/pyro/bak_firefly/bak_firefly"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30742] = {
 		name = "Shin Shredders"
+		name_internal = "Shin Shredders"
+		model = "models/workshop/player/items/demo/dec15_shin_shredders/dec15_shin_shredders.mdl"
+		image = "backpack/workshop/player/items/demo/dec15_shin_shredders/dec15_shin_shredders"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[30743] = {
 		name = "The Patriot Peak"
+		name_internal = "The Patriot Peak"
+		model = "models/workshop/player/items/all_class/dec15_patriot_peak/dec15_patriot_peak_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec15_patriot_peak/dec15_patriot_peak"
 		paint = true
 		styles = ["With Headphones" "Without Headphones"]
 	},
 	[30744] = {
 		name = "The Diplomat"
+		name_internal = "The Diplomat"
+		model = "models/workshop/player/items/soldier/dec15_diplomat/dec15_diplomat.mdl"
+		image = "backpack/workshop/player/items/soldier/dec15_diplomat/dec15_diplomat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30745] = {
 		name = "Siberian Sweater"
+		name_internal = "Siberian Sweater"
+		model = "models/workshop/player/items/heavy/dec15_heavy_sweater/dec15_heavy_sweater.mdl"
+		image = "backpack/workshop/player/items/heavy/dec15_heavy_sweater/dec15_heavy_sweater"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30746] = {
 		name = "A Well Wrapped Hat"
+		name_internal = "A Well Wrapped Hat"
+		model = "models/workshop/player/items/all_class/dec15_a_well_wrapped_hat/dec15_a_well_wrapped_hat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec15_a_well_wrapped_hat/dec15_a_well_wrapped_hat"
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30747] = {
 		name = "The Gift Bringer"
+		name_internal = "The Gift Bringer"
+		model = "models/workshop/player/items/all_class/dec15_gift_bringer/dec15_gift_bringer_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec15_gift_bringer/dec15_gift_bringer"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30748] = {
 		name = "The Chill Chullo"
+		name_internal = "The Chill Chullo"
+		model = "models/workshop/player/items/all_class/dec15_chill_chullo/dec15_chill_chullo_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec15_chill_chullo/dec15_chill_chullo"
 		paint = true
 	},
 	[30749] = {
 		name = "Winter Backup"
+		name_internal = "Winter Backup"
+		model = "models/workshop/player/items/engineer/dec15_winter_backup/dec15_winter_backup.mdl"
+		image = "backpack/workshop/player/items/engineer/dec15_winter_backup/dec15_winter_backup"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30750] = {
 		name = "Medical Monarch"
+		name_internal = "Medical Monarch"
+		model = "models/workshop/player/items/medic/dec15_medic_winter_jacket2_emblem/dec15_medic_winter_jacket2_emblem.mdl"
+		image = "backpack/workshop/player/items/medic/dec15_medic_winter_jacket2_emblem/dec15_medic_winter_jacket2_emblem"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[30751] = {
 		name = "Bonk Batter's Backup"
+		name_internal = "Bonk Batter's Backup"
+		model = "models/workshop/player/items/scout/dec15_scout_baseball_bag/dec15_scout_baseball_bag.mdl"
+		image = "backpack/workshop/player/items/scout/dec15_scout_baseball_bag/dec15_scout_baseball_bag"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30752] = {
 		name = "Chicago Overcoat"
+		name_internal = "Chicago Overcoat"
+		model = "models/workshop/player/items/spy/dec15_chicago_overcoat/dec15_chicago_overcoat.mdl"
+		image = "backpack/workshop/player/items/spy/dec15_chicago_overcoat/dec15_chicago_overcoat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30753] = {
 		name = "A Hat to Kill For"
+		name_internal = "A Hat to Kill For"
+		model = "models/workshop/player/items/spy/dec15_a_hat_to_kill_for/dec15_a_hat_to_kill_for.mdl"
+		image = "backpack/workshop/player/items/spy/dec15_a_hat_to_kill_for/dec15_a_hat_to_kill_for"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30754] = {
 		name = "Hot Heels"
+		name_internal = "Hot Heels"
+		model = "models/workshop/player/items/scout/dec15_hot_heels/dec15_hot_heels.mdl"
+		image = "backpack/workshop/player/items/scout/dec15_hot_heels/dec15_hot_heels"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30755] = {
 		name = "Berlin Brain Bowl"
+		name_internal = "Berlin Brain Bowl"
+		model = "models/workshop/player/items/medic/dec15_berlin_brain_bowl/dec15_berlin_brain_bowl.mdl"
+		image = "backpack/workshop/player/items/medic/dec15_berlin_brain_bowl/dec15_berlin_brain_bowl"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30756] = {
 		name = "Bunnyhopper's Ballistics Vest"
+		name_internal = "Bunnyhopper's Ballistics Vest"
+		model = "models/workshop/player/items/medic/dec15_bunnyhoppers_ballistics_vest/dec15_bunnyhoppers_ballistics_vest.mdl"
+		image = "backpack/workshop/player/items/medic/dec15_bunnyhoppers_ballistics_vest/dec15_bunnyhoppers_ballistics_vest"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30757] = {
 		name = "Prinny Pouch"
+		name_internal = "Prinny Pouch"
+		model = "models/workshop_partner/player/items/all_class/prinny_pouch/prinny_pouch_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/prinny_pouch/prinny_pouch"
 		paint = true
 	},
 	[30759] = {
 		name = "Prinny Hat"
+		name_internal = "Prinny Hat"
+		model = "models/workshop_partner/player/items/all_class/prinny_hat/prinny_hat_Scout.mdl"
+		image = "backpack/workshop_partner/player/items/all_class/prinny_hat/prinny_hat"
 		paint = true
 	},
 	[30767] = {
 		name = "The Airdog"
+		name_internal = "The Airdog"
+		model = "models/workshop/player/items/scout/snowboard_hat/snowboard_hat.mdl"
+		image = "backpack/workshop/player/items/scout/snowboard_hat/snowboard_hat"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30768] = {
 		name = "Bedouin Bandana"
+		name_internal = "Bedouin Bandana"
+		model = "models/workshop/player/items/all_class/angsty_hood/angsty_hood_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/angsty_hood/angsty_hood"
 		paint = true
 	},
 	[30769] = {
 		name = "Herald's Helm"
+		name_internal = "Herald's Helm"
+		model = "models/workshop/player/items/scout/knight_helmet/knight_helmet.mdl"
+		image = "backpack/workshop/player/items/scout/knight_helmet/knight_helmet"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30770] = {
 		name = "Courtly Cuirass"
+		name_internal = "Courtly Cuirass"
+		model = "models/workshop/player/items/scout/medieval_glory_armor/medieval_glory_armor.mdl"
+		image = "backpack/workshop/player/items/scout/medieval_glory_armor/medieval_glory_armor"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30771] = {
 		name = "Squire's Sabatons"
+		name_internal = "Squire's Sabatons"
+		model = "models/workshop/player/items/scout/medieval_glory_boots/medieval_glory_boots.mdl"
+		image = "backpack/workshop/player/items/scout/medieval_glory_boots/medieval_glory_boots"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30773] = {
 		name = "The Surgical Survivalist"
+		name_internal = "The Surgical Survivalist"
+		model = "models/workshop/player/items/medic/cardiologists_camo/cardiologists_camo.mdl"
+		image = "backpack/workshop/player/items/medic/cardiologists_camo/cardiologists_camo"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30775] = {
 		name = "The Dead Head"
+		name_internal = "The Dead Head"
+		model = "models/workshop/player/items/spy/skullmask/skullmask.mdl"
+		image = "backpack/workshop/player/items/spy/skullmask/skullmask"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30777] = {
 		name = "The Lurking Legionnaire"
+		name_internal = "The Lurking Legionnaire"
+		model = "models/workshop/player/items/spy/majors_mark/majors_mark.mdl"
+		image = "backpack/workshop/player/items/spy/majors_mark/majors_mark"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30779] = {
 		name = "The Dayjogger"
+		name_internal = "The Dayjogger"
+		model = "models/workshop/player/items/demo/vampire_shades/vampire_shades.mdl"
+		image = "backpack/workshop/player/items/demo/vampire_shades/vampire_shades"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30780] = {
 		name = "Patriot's Pouches"
+		name_internal = "The Patriot's Pouches"
+		model = "models/workshop/player/items/soldier/shooters_supplies/shooters_supplies.mdl"
+		image = "backpack/workshop/player/items/soldier/shooters_supplies/shooters_supplies"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Normal" "Camo"]
 	},
 	[30785] = {
 		name = "Dad Duds"
+		name_internal = "Dad Duds"
+		model = "models/workshop/player/items/engineer/all_work_and_no_plaid/all_work_and_no_plaid.mdl"
+		image = "backpack/workshop/player/items/engineer/all_work_and_no_plaid/all_work_and_no_plaid"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30786] = {
 		name = "Gauzed Gaze"
+		name_internal = "The Gauzed Gaze"
+		model = "models/workshop/player/items/medic/surgical_stare/surgical_stare.mdl"
+		image = "backpack/workshop/player/items/medic/surgical_stare/surgical_stare"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30788] = {
 		name = "The Demo's Dustcatcher"
+		name_internal = "The Demo's Dustcatcher"
+		model = "models/workshop/player/items/demo/demolitionists_dustcatcher/demolitionists_dustcatcher.mdl"
+		image = "backpack/workshop/player/items/demo/demolitionists_dustcatcher/demolitionists_dustcatcher"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30789] = {
 		name = "Scoped Spartan"
+		name_internal = "The Scoped Spartan"
+		model = "models/workshop/player/items/sniper/headhunters_wrap/headhunters_wrap.mdl"
+		image = "backpack/workshop/player/items/sniper/headhunters_wrap/headhunters_wrap"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30792] = {
 		name = "Colossal Cranium"
+		name_internal = "Colossal Cranium"
+		model = "models/workshop/player/items/medic/hwn2016_colossal_cranium_2/hwn2016_colossal_cranium_2.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2016_colossal_cranium_2/hwn2016_colossal_cranium_2"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30793] = {
 		name = "Aerobatics Demonstrator"
+		name_internal = "Aerobatics Demonstrator"
+		model = "models/workshop/player/items/demo/hwn2016_aerobatics_demonstrator/hwn2016_aerobatics_demonstrator.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2016_aerobatics_demonstrator/hwn2016_aerobatics_demonstrator"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30794] = {
 		name = "Final Frontier Freighter"
+		name_internal = "Final Frontier Freighter"
+		model = "models/workshop/player/items/engineer/hwn2016_final_frontiersman/hwn2016_final_frontiersman.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2016_final_frontiersman/hwn2016_final_frontiersman"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30795] = {
 		name = "Hovering Hotshot"
+		name_internal = "Hovering Hotshot"
+		model = "models/workshop/player/items/pyro/hwn2016_hovering_hotshot/hwn2016_hovering_hotshot.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2016_hovering_hotshot/hwn2016_hovering_hotshot"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30796] = {
 		name = "The Toadstool Topper"
+		name_internal = "The Toadstool Topper"
+		model = "models/workshop/player/items/all_class/hwn2016_toadstool_topper/hwn2016_toadstool_topper_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2016_toadstool_topper/hwn2016_toadstool_topper"
 		paint = true
 	},
 	[30797] = {
 		name = "Showstopper"
+		name_internal = "Showstopper"
+		model = "models/workshop/player/items/spy/hwn2016_showstopper/hwn2016_showstopper.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2016_showstopper/hwn2016_showstopper"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30798] = {
 		name = "Big Topper"
+		name_internal = "Big Topper"
+		model = "models/workshop/player/items/spy/hwn2016_big_topper/hwn2016_big_topper.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2016_big_topper/hwn2016_big_topper"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30799] = {
 		name = "Combustible Cutie"
+		name_internal = "Combustible Cutie"
+		model = "models/workshop/player/items/pyro/hwn2016_combustible_cutie/hwn2016_combustible_cutie.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2016_combustible_cutie/hwn2016_combustible_cutie"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30800] = {
 		name = "The Cranial Carcharodon"
+		name_internal = "The Cranial Carcharodon"
+		model = "models/workshop/player/items/pyro/hwn2016_pyro_shark/hwn2016_pyro_shark.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2016_pyro_shark/hwn2016_pyro_shark"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30801] = {
 		name = "Spooktacles"
+		name_internal = "Spooktacles"
+		model = "models/workshop/player/items/all_class/hwn2016_spooktacles/hwn2016_spooktacles_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2016_spooktacles/hwn2016_spooktacles"
 		paint = true
 	},
 	[30803] = {
 		name = "Heavy Tourism"
+		name_internal = "Heavy Tourism"
+		model = "models/workshop/player/items/heavy/hwn2016_heavy_tourism/hwn2016_heavy_tourism.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2016_heavy_tourism/hwn2016_heavy_tourism"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30804] = {
 		name = "The El Paso Poncho"
+		name_internal = "The El Paso Poncho"
+		model = "models/workshop/player/items/engineer/hwn2016_el_paso_poncho/hwn2016_el_paso_poncho.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2016_el_paso_poncho/hwn2016_el_paso_poncho"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30805] = {
 		name = "The Wide-Brimmed Bandito"
+		name_internal = "The Wide-Brimmed Bandito"
+		model = "models/workshop/player/items/engineer/hwn2016_wide_brimmed_bandito/hwn2016_wide_brimmed_bandito.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2016_wide_brimmed_bandito/hwn2016_wide_brimmed_bandito"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30806] = {
 		name = "The Corpus Christi Cranium"
+		name_internal = "The Corpus Christi Cranium"
+		model = "models/workshop/player/items/engineer/hwn2016_corpus_christi_cranium/hwn2016_corpus_christi_cranium.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2016_corpus_christi_cranium/hwn2016_corpus_christi_cranium"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30807] = {
 		name = "Spirit of the Bombing Past"
+		name_internal = "Spirit of the Bombing Past"
+		model = "models/workshop/player/items/demo/hwn2016_spirit_of_the_bombing_past/hwn2016_spirit_of_the_bombing_past.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2016_spirit_of_the_bombing_past/hwn2016_spirit_of_the_bombing_past"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30808] = {
 		name = "Class Crown"
+		name_internal = "Class Crown"
+		model = "models/workshop/player/items/all_class/hwn2016_class_crown/hwn2016_class_crown_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2016_class_crown/hwn2016_class_crown"
 		paint = true
 	},
 	[30809] = {
 		name = "The Wing Mann"
+		name_internal = "The Wing Mann"
+		model = "models/workshop/player/items/scout/hwn2016_wing_mann/hwn2016_wing_mann.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2016_wing_mann/hwn2016_wing_mann"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30810] = {
 		name = "Nasty Norsemann"
+		name_internal = "Nasty Norsemann"
+		model = "models/workshop/player/items/all_class/hwn2016_nasty_norsemann/hwn2016_nasty_norsemann_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2016_nasty_norsemann/hwn2016_nasty_norsemann"
 		paint = true
 	},
 	[30811] = {
 		name = "Pestering Jester"
+		name_internal = "Pestering Jester"
+		model = "models/workshop/player/items/all_class/hwn2016_pestering_jester/hwn2016_pestering_jester_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2016_pestering_jester/hwn2016_pestering_jester"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SOLDIER TF_CLASS_HEAVY TF_CLASS_PYRO]
 		paint = true
 	},
 	[30812] = {
 		name = "Mo'Horn"
+		name_internal = "Mo'Horn"
+		model = "models/workshop/player/items/heavy/hwn2016_mo_horn/hwn2016_mo_horn.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2016_mo_horn/hwn2016_mo_horn"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30813] = {
 		name = "The Surgeon's Sidearms"
+		name_internal = "The Surgeon's Sidearms"
+		model = "models/workshop/player/items/medic/hwn2016_surgeons_sidearms/hwn2016_surgeons_sidearms.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2016_surgeons_sidearms/hwn2016_surgeons_sidearms"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30814] = {
 		name = "Lil' Bitey"
+		name_internal = "Lil' Bitey"
+		model = "models/workshop/player/items/all_class/hwn2016_lil_bitey/hwn2016_lil_bitey_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2016_lil_bitey/hwn2016_lil_bitey"
 		paint = true
 	},
 	[30815] = {
 		name = "Mad Mask"
+		name_internal = "Mad Mask"
+		model = "models/workshop/player/items/heavy/hwn2016_mad_mask/hwn2016_mad_mask.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2016_mad_mask/hwn2016_mad_mask"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30817] = {
 		name = "Burly Beast"
+		name_internal = "Burly Beast"
+		model = "models/workshop/player/items/medic/hwn2016_burly_beast/hwn2016_burly_beast.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2016_burly_beast/hwn2016_burly_beast"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[30818] = {
 		name = "Socked and Loaded"
+		name_internal = "Socked and Loaded"
+		model = "models/workshop/player/items/all_class/dec16_stocking/dec16_stocking_soldier.mdl"
+		image = "backpack/workshop/player/items/all_class/dec16_stocking/dec16_stocking"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
 	[30819] = {
 		name = "Flammable Favor"
+		name_internal = "Flammable Favor"
+		model = "models/workshop/player/items/pyro/dec16_flammable_favor/dec16_flammable_favor.mdl"
+		image = "backpack/workshop/player/items/pyro/dec16_flammable_favor/dec16_flammable_favor"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30820] = {
 		name = "Snowwing"
+		name_internal = "Snowwing"
+		model = "models/workshop/player/items/scout/dec16_snowwing/dec16_snowwing.mdl"
+		image = "backpack/workshop/player/items/scout/dec16_snowwing/dec16_snowwing"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30821] = {
 		name = "Packable Provisions"
+		name_internal = "Packable Provisions"
+		model = "models/workshop/player/items/engineer/dec16_packable_provisions/dec16_packable_provisions.mdl"
+		image = "backpack/workshop/player/items/engineer/dec16_packable_provisions/dec16_packable_provisions"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30822] = {
 		name = "Handy Canes"
+		name_internal = "Handy Canes"
+		model = "models/workshop/player/items/all_class/dec16_handy_canes/dec16_handy_canes_soldier.mdl"
+		image = "backpack/workshop/player/items/all_class/dec16_handy_canes/dec16_handy_canes"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 	},
 	[30823] = {
 		name = "Bomb Beanie"
+		name_internal = "Bomb Beanie"
+		model = "models/workshop/player/items/demo/dec16_bomb_beanie/dec16_bomb_beanie.mdl"
+		image = "backpack/workshop/player/items/demo/dec16_bomb_beanie/dec16_bomb_beanie"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30824] = {
 		name = "The Electric Twanger"
+		name_internal = "The Electric Twanger"
+		model = "models/workshop/player/items/scout/dec16_electric_twanger/dec16_electric_twanger.mdl"
+		image = "backpack/workshop/player/items/scout/dec16_electric_twanger/dec16_electric_twanger"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30825] = {
 		name = "Santarchimedes"
+		name_internal = "Santarchimedes"
+		model = "models/workshop/player/items/medic/dec16_santarchimedes/dec16_santarchimedes.mdl"
+		image = "backpack/workshop/player/items/medic/dec16_santarchimedes/dec16_santarchimedes"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30826] = {
 		name = "Sweet Smissmas Sweater"
+		name_internal = "Sweet Smissmas Sweater"
+		model = "models/workshop/player/items/pyro/dec16_smissmas_sweater/dec16_smissmas_sweater.mdl"
+		image = "backpack/workshop/player/items/pyro/dec16_smissmas_sweater/dec16_smissmas_sweater"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30827] = {
 		name = "Brain-Warming Wear"
+		name_internal = "Brain-Warming Wear"
+		model = "models/workshop/player/items/spy/dec16_brain_warming_wear/dec16_brain_warming_wear.mdl"
+		image = "backpack/workshop/player/items/spy/dec16_brain_warming_wear/dec16_brain_warming_wear"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30829] = {
 		name = "The Snowmann"
+		name_internal = "The Snowmann"
+		model = "models/workshop/player/items/all_class/dec16_snowmann/dec16_snowmann_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec16_snowmann/dec16_snowmann"
 		paint = true
 	},
 	[30830] = {
 		name = "The Bomber Knight"
+		name_internal = "The Bomber Knight"
+		model = "models/workshop/player/items/demo/dec16_bomber_knight/dec16_bomber_knight.mdl"
+		image = "backpack/workshop/player/items/demo/dec16_bomber_knight/dec16_bomber_knight"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30831] = {
 		name = "Reader's Choice"
+		name_internal = "Reader's Choice"
+		model = "models/workshop/player/items/all_class/dec16_readers_choice/dec16_readers_choice_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec16_readers_choice/dec16_readers_choice"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_HEAVY TF_CLASS_PYRO TF_CLASS_SPY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30833] = {
 		name = "The Woolen Warmer"
+		name_internal = "Woolen Warmer"
+		model = "models/workshop/player/items/all_class/dec16_woolen_warmer/dec16_woolen_warmer_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec16_woolen_warmer/dec16_woolen_warmer"
 		paint = true
 	},
 	[30835] = {
 		name = "Pyro the Flamedeer"
+		name_internal = "Pyro the Flamedeer"
+		model = "models/workshop/player/items/pyro/dec16_pyro_the_flamedeer/dec16_pyro_the_flamedeer.mdl"
+		image = "backpack/workshop/player/items/pyro/dec16_pyro_the_flamedeer/dec16_pyro_the_flamedeer"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30836] = {
 		name = "Elf Esteem"
+		name_internal = "Elf Esteem"
+		model = "models/workshop/player/items/demo/dec16_elf_esteem/dec16_elf_esteem.mdl"
+		image = "backpack/workshop/player/items/demo/dec16_elf_esteem/dec16_elf_esteem"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30838] = {
 		name = "The Head Prize"
+		name_internal = "The Head Prize"
+		model = "models/workshop/player/items/all_class/dec16_head_prize/dec16_head_prize_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec16_head_prize/dec16_head_prize"
 		paint = true
 	},
 	[30846] = {
 		name = "Plumber's Cap"
+		name_internal = "Plumber's Cap"
+		model = "models/workshop/player/items/engineer/spr17_plumbers_cap/spr17_plumbers_cap.mdl"
+		image = "backpack/workshop/player/items/engineer/spr17_plumbers_cap/spr17_plumbers_cap"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30848] = {
 		name = "The Upgrade"
+		name_internal = "The Upgrade"
+		model = "models/workshop/player/items/spy/spr17_the_upgrade/spr17_the_upgrade.mdl"
+		image = "backpack/workshop/player/items/spy/spr17_the_upgrade/spr17_the_upgrade"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30849] = {
 		name = "Pocket Pauling"
+		name_internal = "Pocket Pauling"
+		model = "models/workshop/player/items/scout/spr17_pocket_pauling/spr17_pocket_pauling.mdl"
+		image = "backpack/workshop/player/items/scout/spr17_pocket_pauling/spr17_pocket_pauling"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30853] = {
 		name = "Flakcatcher"
+		name_internal = "Flakcatcher"
+		model = "models/workshop/player/items/soldier/spr17_flakcatcher/spr17_flakcatcher.mdl"
+		image = "backpack/workshop/player/items/soldier/spr17_flakcatcher/spr17_flakcatcher"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30856] = {
 		name = "Down Under Duster"
+		name_internal = "Down Under Duster"
+		model = "models/workshop/player/items/sniper/spr17_down_under_duster/spr17_down_under_duster.mdl"
+		image = "backpack/workshop/player/items/sniper/spr17_down_under_duster/spr17_down_under_duster"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30857] = {
 		name = "Guilden Guardian"
+		name_internal = "Guilden Guardian"
+		model = "models/workshop/player/items/sniper/spr17_guilden_guardian/spr17_guilden_guardian.mdl"
+		image = "backpack/workshop/player/items/sniper/spr17_guilden_guardian/spr17_guilden_guardian"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30858] = {
 		name = "Hawk-Eyed Hunter"
+		name_internal = "Hawk Eyed Hunter"
+		model = "models/workshop/player/items/sniper/spr17_hawk_eyed_hunter/spr17_hawk_eyed_hunter.mdl"
+		image = "backpack/workshop/player/items/sniper/spr17_hawk_eyed_hunter/spr17_hawk_eyed_hunter"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30859] = {
 		name = "Airtight Arsonist"
+		name_internal = "Airtight Arsonist"
+		model = "models/workshop/player/items/pyro/spr17_airtight_arsonist/spr17_airtight_arsonist.mdl"
+		image = "backpack/workshop/player/items/pyro/spr17_airtight_arsonist/spr17_airtight_arsonist"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30862] = {
 		name = "Field Practice"
+		name_internal = "Field Practice"
+		model = "models/workshop/player/items/medic/spr17_field_practice/spr17_field_practice.mdl"
+		image = "backpack/workshop/player/items/medic/spr17_field_practice/spr17_field_practice"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30863] = {
 		name = "Blast Defense"
+		name_internal = "Blast Defense"
+		model = "models/workshop/player/items/demo/spr17_blast_defense/spr17_blast_defense.mdl"
+		image = "backpack/workshop/player/items/demo/spr17_blast_defense/spr17_blast_defense"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30866] = {
 		name = "Warhood"
+		name_internal = "Warhood"
+		model = "models/workshop/player/items/heavy/spr17_warhood/spr17_warhood.mdl"
+		image = "backpack/workshop/player/items/heavy/spr17_warhood/spr17_warhood"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30867] = {
 		name = "The Lightning Lid"
+		name_internal = "The Lightning Lid"
+		model = "models/workshop/player/items/scout/spr17_the_lightning_lid/spr17_the_lightning_lid.mdl"
+		image = "backpack/workshop/player/items/scout/spr17_the_lightning_lid/spr17_the_lightning_lid"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30868] = {
 		name = "Legendary Lid"
+		name_internal = "Legendary Lid"
+		model = "models/workshop/player/items/all_class/spr17_legendary_lid/spr17_legendary_lid_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/spr17_legendary_lid/spr17_legendary_lid"
 		paint = true
 	},
 	[30869] = {
 		name = "Messenger's Mail Bag"
+		name_internal = "Messenger's Mail Bag"
+		model = "models/workshop/player/items/scout/spr17_messengers_mail_bag/spr17_messengers_mail_bag.mdl"
+		image = "backpack/workshop/player/items/scout/spr17_messengers_mail_bag/spr17_messengers_mail_bag"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[30871] = {
 		name = "Flash of Inspiration"
+		name_internal = "Flash of Inspiration"
+		model = "models/workshop/player/items/engineer/spr17_flash_of_inspiration/spr17_flash_of_inspiration.mdl"
+		image = "backpack/workshop/player/items/engineer/spr17_flash_of_inspiration/spr17_flash_of_inspiration"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30872] = {
 		name = "Head Mounted Double Observatory"
+		name_internal = "Head Mounted Double Observatory"
+		model = "models/workshop/player/items/engineer/spr17_double_observatory/spr17_double_observatory.mdl"
+		image = "backpack/workshop/player/items/engineer/spr17_double_observatory/spr17_double_observatory"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30873] = {
 		name = "Airborne Attire"
+		name_internal = "Airborne Attire"
+		model = "models/workshop/player/items/all_class/spr17_wingman/spr17_wingman_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/spr17_wingman/spr17_wingman"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30874] = {
 		name = "Archer's Sterling"
+		name_internal = "Archer's Sterling"
+		model = "models/workshop/player/items/sniper/spr17_archers_sterling/spr17_archers_sterling.mdl"
+		image = "backpack/workshop/player/items/sniper/spr17_archers_sterling/spr17_archers_sterling"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30875] = {
 		name = "Speedster's Spandex"
+		name_internal = "Speedster's Spandex"
+		model = "models/workshop/player/items/scout/spr17_speedsters_spandex/spr17_speedsters_spandex.mdl"
+		image = "backpack/workshop/player/items/scout/spr17_speedsters_spandex/spr17_speedsters_spandex"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30877] = {
 		name = "The Hunter in Darkness"
+		name_internal = "The Hunter in Darkness"
+		model = "models/workshop/player/items/all_class/fall17_jungle_ops/fall17_jungle_ops_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_jungle_ops/fall17_jungle_ops"
 		paint = true
 	},
 	[30878] = {
 		name = "Quizzical Quetzal"
+		name_internal = "Quizzical Quetzal"
+		model = "models/workshop/player/items/all_class/fall17_quizzical_quetzal/fall17_quizzical_quetzal_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_quizzical_quetzal/fall17_quizzical_quetzal"
 		paint = true
 	},
 	[30879] = {
 		name = "The Aztec Warrior"
+		name_internal = "The Aztec Warrior"
+		model = "models/workshop/player/items/all_class/fall17_aztec_warrior/fall17_aztec_warrior_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_aztec_warrior/fall17_aztec_warrior"
 		paint = true
 	},
 	[30880] = {
 		name = "Pocket Saxton"
+		name_internal = "Pocket Saxton"
+		model = "models/workshop/player/items/all_class/fall17_pocket_saxton/fall17_pocket_saxton_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_pocket_saxton/fall17_pocket_saxton"
 		paint = true
 	},
 	[30881] = {
 		name = "The Croaking Hazard"
+		name_internal = "The Croaking Hazard"
+		model = "models/workshop/player/items/all_class/fall17_croaking_hazard/fall17_croaking_hazard_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_croaking_hazard/fall17_croaking_hazard"
 		paint = true
 	},
 	[30882] = {
 		name = "Jungle Wreath"
+		name_internal = "Jungle Wreath"
+		model = "models/workshop/player/items/all_class/fall17_jungle_wreath/fall17_jungle_wreath_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_jungle_wreath/fall17_jungle_wreath"
 		paint = true
 	},
 	[30883] = {
 		name = "The Slithering Scarf"
+		name_internal = "The Slithering Scarf"
+		model = "models/workshop/player/items/all_class/fall17_slithering_scarf/fall17_slithering_scarf_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_slithering_scarf/fall17_slithering_scarf"
 		paint = true
 	},
 	[30884] = {
 		name = "Aloha Apparel"
+		name_internal = "Aloha Apparel"
+		model = "models/workshop/player/items/all_class/fall17_aloha_apparel/fall17_aloha_apparel_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_aloha_apparel/fall17_aloha_apparel"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SPY TF_CLASS_ENGINEER]
 	},
 	[30885] = {
 		name = "The Nuke"
+		name_internal = "The Nuke"
+		model = "models/workshop/player/items/all_class/fall17_nuke/fall17_nuke_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_nuke/fall17_nuke"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30886] = {
 		name = "Bananades"
+		name_internal = "Bananades"
+		model = "models/workshop/player/items/all_class/fall17_bananades/fall17_bananades_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_bananades/fall17_bananades"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 	},
 	[30887] = {
 		name = "The War Eagle"
+		name_internal = "The War Eagle"
+		model = "models/workshop/player/items/all_class/fall17_war_eagle/fall17_war_eagle_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_war_eagle/fall17_war_eagle"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_HEAVY]
 	},
 	[30888] = {
 		name = "Jungle Jersey"
+		name_internal = "Jungle Jersey"
+		model = "models/workshop/player/items/scout/fall17_jungle_jersey/fall17_jungle_jersey.mdl"
+		image = "backpack/workshop/player/items/scout/fall17_jungle_jersey/fall17_jungle_jersey"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30889] = {
 		name = "Transparent Trousers"
+		name_internal = "Transparent Trousers"
+		model = "models/workshop/player/items/scout/fall17_transparent_trousers/fall17_transparent_trousers.mdl"
+		image = "backpack/workshop/player/items/scout/fall17_transparent_trousers/fall17_transparent_trousers"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30890] = {
 		name = "Forest Footwear"
+		name_internal = "Forest Footwear"
+		model = "models/workshop/player/items/scout/fall17_forest_footwear/fall17_forest_footwear.mdl"
+		image = "backpack/workshop/player/items/scout/fall17_forest_footwear/fall17_forest_footwear"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30891] = {
 		name = "The Cammy Jammies"
+		name_internal = "The Cammy Jammies"
+		model = "models/workshop/player/items/sniper/fall17_cammy_jammies/fall17_cammy_jammies.mdl"
+		image = "backpack/workshop/player/items/sniper/fall17_cammy_jammies/fall17_cammy_jammies"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[30892] = {
 		name = "The Conspicuous Camouflage"
+		name_internal = "The Conspicuous Camouflage"
+		model = "models/workshop/player/items/sniper/fall17_conspicuous_camouflage_open/fall17_conspicuous_camouflage_open.mdl"
+		image = "backpack/workshop/player/items/sniper/fall17_conspicuous_camouflage_open/fall17_conspicuous_camouflage_open"
 		classes = [TF_CLASS_SNIPER]
 		styles = ["Unzipped" "Zipped"]
 	},
 	[30893] = {
 		name = "The Classy Capper"
+		name_internal = "The Classy Capper"
+		model = "models/workshop/player/items/sniper/fall17_hunter/fall17_hunter.mdl"
+		image = "backpack/workshop/player/items/sniper/fall17_hunter/fall17_hunter"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30894] = {
 		name = "The Most Dangerous Mane"
+		name_internal = "The Most Dangerous Mane"
+		model = "models/workshop/player/items/sniper/fall17_most_dangerous_mane/fall17_most_dangerous_mane.mdl"
+		image = "backpack/workshop/player/items/sniper/fall17_most_dangerous_mane/fall17_most_dangerous_mane"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30895] = {
 		name = "Rifleman's Regalia"
+		name_internal = "Rifleman's Regalia"
+		model = "models/workshop/player/items/sniper/fall17_riflemans_regalia/fall17_riflemans_regalia.mdl"
+		image = "backpack/workshop/player/items/sniper/fall17_riflemans_regalia/fall17_riflemans_regalia"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30896] = {
 		name = "Attack Packs"
+		name_internal = "Attack Packs"
+		model = "models/workshop/player/items/soldier/fall17_attack_packs/fall17_attack_packs.mdl"
+		image = "backpack/workshop/player/items/soldier/fall17_attack_packs/fall17_attack_packs"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[30897] = {
 		name = "The Shellmet"
+		name_internal = "The Shellmet"
+		model = "models/workshop/player/items/soldier/fall17_bullet_bowl/fall17_bullet_bowl.mdl"
+		image = "backpack/workshop/player/items/soldier/fall17_bullet_bowl/fall17_bullet_bowl"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30898] = {
 		name = "Sharp Chest Pain"
+		name_internal = "Sharp Chest Pain"
+		model = "models/workshop/player/items/soldier/fall17_chest_pain/fall17_chest_pain.mdl"
+		image = "backpack/workshop/player/items/soldier/fall17_chest_pain/fall17_chest_pain"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30899] = {
 		name = "The Crit Cloak"
+		name_internal = "The Crit Cloak"
+		model = "models/workshop/player/items/soldier/fall17_crit_cloak/fall17_crit_cloak.mdl"
+		image = "backpack/workshop/player/items/soldier/fall17_crit_cloak/fall17_crit_cloak"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30900] = {
 		name = "Fireman's Essentials"
+		name_internal = "Fireman's Essentials"
+		model = "models/workshop/player/items/pyro/fall17_firemanns_essentials/fall17_firemanns_essentials.mdl"
+		image = "backpack/workshop/player/items/pyro/fall17_firemanns_essentials/fall17_firemanns_essentials"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30901] = {
 		name = "D-eye-monds"
+		name_internal = "D-eye-monds"
+		model = "models/workshop/player/items/pyro/fall17_deyemonds/fall17_deyemonds.mdl"
+		image = "backpack/workshop/player/items/pyro/fall17_deyemonds/fall17_deyemonds"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30902] = {
 		name = "Deity's Dress"
+		name_internal = "Deity's Dress"
+		model = "models/workshop/player/items/pyro/fall17_deitys_dress/fall17_deitys_dress.mdl"
+		image = "backpack/workshop/player/items/pyro/fall17_deitys_dress/fall17_deitys_dress"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30903] = {
 		name = "Feathered Fiend"
+		name_internal = "Feathered Fiend"
+		model = "models/workshop/player/items/pyro/fall17_feathered_fiend/fall17_feathered_fiend.mdl"
+		image = "backpack/workshop/player/items/pyro/fall17_feathered_fiend/fall17_feathered_fiend"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30904] = {
 		name = "Sacrificial Stone"
+		name_internal = "Sacrificial Stone"
+		model = "models/workshop/player/items/pyro/fall17_sacrificial_stone/fall17_sacrificial_stone.mdl"
+		image = "backpack/workshop/player/items/pyro/fall17_sacrificial_stone/fall17_sacrificial_stone"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30905] = {
 		name = "The Hot Huaraches"
+		name_internal = "The Hot Huaraches"
+		model = "models/workshop/player/items/pyro/fall17_hot_huaraches/fall17_hot_huaraches.mdl"
+		image = "backpack/workshop/player/items/pyro/fall17_hot_huaraches/fall17_hot_huaraches"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30906] = {
 		name = "Vitals Vest"
+		name_internal = "Vitals Vest"
+		model = "models/workshop/player/items/medic/fall17_vitals_vest/fall17_vitals_vest.mdl"
+		image = "backpack/workshop/player/items/medic/fall17_vitals_vest/fall17_vitals_vest"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30907] = {
 		name = "Battle Boonie"
+		name_internal = "Battle Boonie"
+		model = "models/workshop/player/items/medic/fall17_battle_boonie/fall17_battle_boonie.mdl"
+		image = "backpack/workshop/player/items/medic/fall17_battle_boonie/fall17_battle_boonie"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30908] = {
 		name = "Conaghers' Utility Idol"
+		name_internal = "Conaghers' Utility Idol"
+		model = "models/workshop/player/items/engineer/fall17_conaghers_utility_idol/fall17_conaghers_utility_idol.mdl"
+		image = "backpack/workshop/player/items/engineer/fall17_conaghers_utility_idol/fall17_conaghers_utility_idol"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30909] = {
 		name = "Tropical Toad"
+		name_internal = "Tropical Toad"
+		model = "models/workshop/player/items/engineer/fall17_tropical_toad/fall17_tropical_toad.mdl"
+		image = "backpack/workshop/player/items/engineer/fall17_tropical_toad/fall17_tropical_toad"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30910] = {
 		name = "Heavy Harness"
+		name_internal = "Heavy Harness"
+		model = "models/workshop/player/items/heavy/fall17_heavy_harness/fall17_heavy_harness.mdl"
+		image = "backpack/workshop/player/items/heavy/fall17_heavy_harness/fall17_heavy_harness"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30911] = {
 		name = "Fat Man's Field Cap"
+		name_internal = "Fat Man's Field Cap"
+		model = "models/workshop/player/items/heavy/fall17_fat_manns_field_cap/fall17_fat_manns_field_cap.mdl"
+		image = "backpack/workshop/player/items/heavy/fall17_fat_manns_field_cap/fall17_fat_manns_field_cap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30912] = {
 		name = "Commando Elite"
+		name_internal = "Commando Elite"
+		model = "models/workshop/player/items/heavy/fall17_commando_elite/fall17_commando_elite.mdl"
+		image = "backpack/workshop/player/items/heavy/fall17_commando_elite/fall17_commando_elite"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30913] = {
 		name = "Siberian Tigerstripe"
+		name_internal = "Siberian Tigerstripe"
+		model = "models/workshop/player/items/heavy/fall17_siberian_tigerstripe/fall17_siberian_tigerstripe.mdl"
+		image = "backpack/workshop/player/items/heavy/fall17_siberian_tigerstripe/fall17_siberian_tigerstripe"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30914] = {
 		name = "The Aztec Aggressor"
+		name_internal = "The Aztec Aggressor"
+		model = "models/workshop/player/items/heavy/fall17_aztec_aggressor/fall17_aztec_aggressor.mdl"
+		image = "backpack/workshop/player/items/heavy/fall17_aztec_aggressor/fall17_aztec_aggressor"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30915] = {
 		name = "The Pithy Professional"
+		name_internal = "The Pithy Professional"
+		model = "models/workshop/player/items/all_class/fall17_scholar/fall17_scholar_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/fall17_scholar/fall17_scholar"
 		paint = true
 	},
 	[30916] = {
 		name = "Bait and Bite"
+		name_internal = "Bait and Bite"
+		model = "models/workshop/player/items/sniper/fall17_bait_and_bite/fall17_bait_and_bite.mdl"
+		image = "backpack/workshop/player/items/sniper/fall17_bait_and_bite/fall17_bait_and_bite"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30923] = {
 		name = "Sledder's Sidekick"
+		name_internal = "Sledder's Sidekick"
+		model = "models/workshop/player/items/all_class/dec17_sledders_sidekick/dec17_sledders_sidekick_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec17_sledders_sidekick/dec17_sledders_sidekick"
 		paint = true
 	},
 	[30928] = {
 		name = "Balloonihoodie"
+		name_internal = "Balloonihoodie"
+		model = "models/workshop/player/items/all_class/dec17_balloonihoodie/dec17_balloonihoodie_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec17_balloonihoodie/dec17_balloonihoodie"
 		paint = true
 	},
 	[30929] = {
 		name = "Pocket Yeti"
+		name_internal = "Pocket Yeti"
+		model = "models/workshop/player/items/all_class/dec17_pocket_yeti/dec17_pocket_yeti_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec17_pocket_yeti/dec17_pocket_yeti"
 		paint = true
 	},
 	[30930] = {
 		name = "Trucker's Topper"
+		name_internal = "Trucker's Topper"
+		model = "models/workshop/player/items/all_class/dec17_truckers_topper/dec17_truckers_topper_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec17_truckers_topper/dec17_truckers_topper"
 		classes = [TF_CLASS_SCOUT TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30936] = {
 		name = "Burning Beanie"
+		name_internal = "Burning Beanie"
+		model = "models/workshop/player/items/pyro/dec17_burning_beanie/dec17_burning_beanie.mdl"
+		image = "backpack/workshop/player/items/pyro/dec17_burning_beanie/dec17_burning_beanie"
 		classes = [TF_CLASS_PYRO]
 	},
 	[30937] = {
 		name = "The Cat's Pajamas"
+		name_internal = "The Cat's Pajamas"
+		model = "models/workshop/player/items/pyro/dec17_cats_pajamas/dec17_cats_pajamas.mdl"
+		image = "backpack/workshop/player/items/pyro/dec17_cats_pajamas/dec17_cats_pajamas"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30939] = {
 		name = "Coldfront Commander"
+		name_internal = "Coldfront Commander"
+		model = "models/workshop/player/items/medic/dec17_coldfront_commander/dec17_coldfront_commander.mdl"
+		image = "backpack/workshop/player/items/medic/dec17_coldfront_commander/dec17_coldfront_commander"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30940] = {
 		name = "Coldfront Carapace"
+		name_internal = "Coldfront Carapace"
+		model = "models/workshop/player/items/medic/dec17_coldfront_carapace/dec17_coldfront_carapace.mdl"
+		image = "backpack/workshop/player/items/medic/dec17_coldfront_carapace/dec17_coldfront_carapace"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30945] = {
 		name = "Blast Blocker"
+		name_internal = "Blast Blocker"
+		model = "models/workshop/player/items/demo/dec17_blast_blocker/dec17_blast_blocker.mdl"
+		image = "backpack/workshop/player/items/demo/dec17_blast_blocker/dec17_blast_blocker"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30954] = {
 		name = "Hungover Hero"
+		name_internal = "Hungover Hero"
+		model = "models/workshop/player/items/demo/dec17_hungover_hero/dec17_hungover_hero.mdl"
+		image = "backpack/workshop/player/items/demo/dec17_hungover_hero/dec17_hungover_hero"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30955] = {
 		name = "The Handsome Hitman"
+		name_internal = "The Handsome Hitman"
+		model = "models/workshop/player/items/sniper/dec17_handsome_hitman/dec17_handsome_hitman.mdl"
+		image = "backpack/workshop/player/items/sniper/dec17_handsome_hitman/dec17_handsome_hitman"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30958] = {
 		name = "Puffy Polar Cap"
+		name_internal = "Puffy Polar Cap"
+		model = "models/workshop/player/items/sniper/dec17_puffy_polar_cap/dec17_puffy_polar_cap.mdl"
+		image = "backpack/workshop/player/items/sniper/dec17_puffy_polar_cap/dec17_puffy_polar_cap"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30959] = {
 		name = "The Sinner's Shade"
+		name_internal = "The Sinner's Shade"
+		model = "models/workshop/player/items/heavy/dec17_sinners_shade/dec17_sinners_shade.mdl"
+		image = "backpack/workshop/player/items/heavy/dec17_sinners_shade/dec17_sinners_shade"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30960] = {
 		name = "Wild West Whiskers"
+		name_internal = "Wild West Whiskers"
+		model = "models/workshop/player/items/heavy/dec17_wild_west_whiskers/dec17_wild_west_whiskers.mdl"
+		image = "backpack/workshop/player/items/heavy/dec17_wild_west_whiskers/dec17_wild_west_whiskers"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30964] = {
 		name = "Polar Bear"
+		name_internal = "Polar Bear"
+		model = "models/workshop/player/items/heavy/dec17_polar_bear/dec17_polar_bear.mdl"
+		image = "backpack/workshop/player/items/heavy/dec17_polar_bear/dec17_polar_bear"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[30969] = {
 		name = "Brass Bucket"
+		name_internal = "Brass Bucket"
+		model = "models/workshop/player/items/soldier/dec17_brass_bucket/dec17_brass_bucket.mdl"
+		image = "backpack/workshop/player/items/soldier/dec17_brass_bucket/dec17_brass_bucket"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30971] = {
 		name = "Down Tundra Coat"
+		name_internal = "Down Tundra Coat"
+		model = "models/workshop/player/items/sniper/dec17_down_tundra_coat/dec17_down_tundra_coat.mdl"
+		image = "backpack/workshop/player/items/sniper/dec17_down_tundra_coat/dec17_down_tundra_coat"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[30972] = {
 		name = "Pocket Santa"
+		name_internal = "Pocket Santa"
+		model = "models/workshop/player/items/all_class/dec17_pocket_santa/dec17_pocket_santa_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec17_pocket_santa/dec17_pocket_santa"
 		paint = true
 	},
 	[30973] = {
 		name = "Melody of Misery"
+		name_internal = "Melody Of Misery"
+		model = "models/workshop/player/items/demo/dec17_melody_of_misery/dec17_melody_of_misery.mdl"
+		image = "backpack/workshop/player/items/demo/dec17_melody_of_misery/dec17_melody_of_misery"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30974] = {
 		name = "The Caribou Companion"
+		name_internal = "The Caribou Companion"
+		model = "models/workshop/player/items/all_class/dec17_caribou_companion/dec17_caribou_companion_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec17_caribou_companion/dec17_caribou_companion"
 		paint = true
 	},
 	[30975] = {
 		name = "Robin Walkers"
+		name_internal = "Robin Walkers"
+		model = "models/workshop/player/items/all_class/spr18_robin_walkers/spr18_robin_walkers_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/spr18_robin_walkers/spr18_robin_walkers"
 		paint = true
 	},
 	[30976] = {
 		name = "The Tundra Top"
+		name_internal = "The Tundra Top"
+		model = "models/workshop/player/items/all_class/spr18_tundra_top/spr18_tundra_top_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/spr18_tundra_top/spr18_tundra_top"
 		paint = true
 	},
 	[30977] = {
 		name = "Antarctic Eyewear"
+		name_internal = "Antarctic Eyewear"
+		model = "models/workshop/player/items/all_class/spr18_antarctic_eyewear/spr18_antarctic_eyewear_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/spr18_antarctic_eyewear/spr18_antarctic_eyewear"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_DEMOMAN TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30978] = {
 		name = "The Head Hedge"
+		name_internal = "The Head Hedge"
+		model = "models/workshop/player/items/all_class/spr18_head_hedge/spr18_head_hedge_sniper.mdl"
+		image = "backpack/workshop/player/items/all_class/spr18_head_hedge/spr18_head_hedge"
 		classes = [TF_CLASS_SNIPER TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30979] = {
 		name = "The Frag Proof Fragger"
+		name_internal = "The Frag Proof Fragger"
+		model = "models/workshop/player/items/demo/spr18_frag_proof_fragger/spr18_frag_proof_fragger.mdl"
+		image = "backpack/workshop/player/items/demo/spr18_frag_proof_fragger/spr18_frag_proof_fragger"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[30980] = {
 		name = "Tsar Platinum"
+		name_internal = "Tsar Platinum"
+		model = "models/workshop/player/items/heavy/spr18_tsar_platinum/spr18_tsar_platinum.mdl"
+		image = "backpack/workshop/player/items/heavy/spr18_tsar_platinum/spr18_tsar_platinum"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[30981] = {
 		name = "Starboard Crusader"
+		name_internal = "Starboard Crusader"
+		model = "models/workshop/player/items/heavy/spr18_starboard_crusader/spr18_starboard_crusader.mdl"
+		image = "backpack/workshop/player/items/heavy/spr18_starboard_crusader/spr18_starboard_crusader"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Casual" "Professional"]
 	},
 	[30982] = {
 		name = "Scourge of the Sky"
+		name_internal = "Scourge of the Sky"
+		model = "models/workshop/player/items/medic/spr18_scourge_of_the_sky/spr18_scourge_of_the_sky.mdl"
+		image = "backpack/workshop/player/items/medic/spr18_scourge_of_the_sky/spr18_scourge_of_the_sky"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[30983] = {
 		name = "Veteran's Attire"
+		name_internal = "Veterans Attire"
+		model = "models/workshop/player/items/soldier/spr18_veterans_attire/spr18_veterans_attire.mdl"
+		image = "backpack/workshop/player/items/soldier/spr18_veterans_attire/spr18_veterans_attire"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30984] = {
 		name = "Sky High Fly Guy"
+		name_internal = "Sky High Fly Guy"
+		model = "models/workshop/player/items/soldier/spr18_sky_high_fly_guy/spr18_sky_high_fly_guy.mdl"
+		image = "backpack/workshop/player/items/soldier/spr18_sky_high_fly_guy/spr18_sky_high_fly_guy"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30985] = {
 		name = "Private Maggot Muncher"
+		name_internal = "Private Maggot Muncher"
+		model = "models/workshop/player/items/soldier/spr18_private_maggot_muncher/spr18_private_maggot_muncher.mdl"
+		image = "backpack/workshop/player/items/soldier/spr18_private_maggot_muncher/spr18_private_maggot_muncher"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[30986] = {
 		name = "The Hot Case"
+		name_internal = "The Hot Case"
+		model = "models/workshop/player/items/pyro/spr18_hot_case/spr18_hot_case.mdl"
+		image = "backpack/workshop/player/items/pyro/spr18_hot_case/spr18_hot_case"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30987] = {
 		name = "The Burning Question"
+		name_internal = "The Burning Question"
+		model = "models/workshop/player/items/pyro/spr18_burning_question/spr18_burning_question.mdl"
+		image = "backpack/workshop/player/items/pyro/spr18_burning_question/spr18_burning_question"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[30988] = {
 		name = "Aristotle"
+		name_internal = "Aristotle"
+		model = "models/workshop/player/items/spy/spr18_aristotle/spr18_aristotle.mdl"
+		image = "backpack/workshop/player/items/spy/spr18_aristotle/spr18_aristotle"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30989] = {
 		name = "Assassin's Attire"
+		name_internal = "Assassin's Attire"
+		model = "models/workshop/player/items/spy/spr18_assassins_attire/spr18_assassins_attire.mdl"
+		image = "backpack/workshop/player/items/spy/spr18_assassins_attire/spr18_assassins_attire"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[30990] = {
 		name = "Wipe Out Wraps"
+		name_internal = "Wipe Out Wraps"
+		model = "models/workshop/player/items/scout/spr18_wipe_out_wraps/spr18_wipe_out_wraps.mdl"
+		image = "backpack/workshop/player/items/scout/spr18_wipe_out_wraps/spr18_wipe_out_wraps"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30991] = {
 		name = "Blizzard Britches"
+		name_internal = "Blizzard Britches"
+		model = "models/workshop/player/items/scout/spr18_blizzard_britches/spr18_blizzard_britches.mdl"
+		image = "backpack/workshop/player/items/scout/spr18_blizzard_britches/spr18_blizzard_britches"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30992] = {
 		name = "The Cold Case"
+		name_internal = "The Cold Case"
+		model = "models/workshop/player/items/engineer/spr18_cold_case/spr18_cold_case.mdl"
+		image = "backpack/workshop/player/items/engineer/spr18_cold_case/spr18_cold_case"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30993] = {
 		name = "Punk's Pomp"
+		name_internal = "Punk's Pomp"
+		model = "models/workshop/player/items/scout/spr18_punks_pomp/spr18_punks_pomp.mdl"
+		image = "backpack/workshop/player/items/scout/spr18_punks_pomp/spr18_punks_pomp"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[30994] = {
 		name = "A Shell of a Mann"
+		name_internal = "A Shell of a Mann"
+		model = "models/workshop/player/items/engineer/hwn2018_shell_of_a_mann/hwn2018_shell_of_a_mann.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2018_shell_of_a_mann/hwn2018_shell_of_a_mann"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[30995] = {
 		name = "Dell in the Shell"
+		name_internal = "Dell in the Shell"
+		model = "models/workshop/player/items/engineer/hwn2018_dell_in_the_shell/hwn2018_dell_in_the_shell.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2018_dell_in_the_shell/hwn2018_dell_in_the_shell"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[30996] = {
 		name = "Terror-antula"
+		name_internal = "Terror-antula"
+		model = "models/workshop/player/items/all_class/hwn2018_terror_antula/hwn2018_terror_antula_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2018_terror_antula/hwn2018_terror_antula"
 		paint = true
 	},
 	[30997] = {
 		name = "Deadbeats"
+		name_internal = "Deadbeats"
+		model = "models/workshop/player/items/all_class/hwn2018_deadbeats/hwn2018_deadbeats_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2018_deadbeats/hwn2018_deadbeats"
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[30998] = {
 		name = "Lucky Cat Hat"
+		name_internal = "Lucky Cat Hat"
+		model = "models/workshop/player/items/all_class/hwn2018_lucky_cat_hat/hwn2018_lucky_cat_hat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2018_lucky_cat_hat/hwn2018_lucky_cat_hat"
 		paint = true
 	},
 	[30999] = {
 		name = "Olympic Leapers"
+		name_internal = "Olympic Leapers"
+		model = "models/workshop/player/items/scout/hwn2018_olympic_leapers/hwn2018_olympic_leapers.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2018_olympic_leapers/hwn2018_olympic_leapers"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31000] = {
 		name = "Hephaistos' Handcraft"
+		name_internal = "Hephaistos' Handcraft"
+		model = "models/workshop/player/items/scout/hwn2018_hephaistos_handcraft/hwn2018_hephaistos_handcraft.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2018_hephaistos_handcraft/hwn2018_hephaistos_handcraft"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31001] = {
 		name = "Athenian Attire"
+		name_internal = "Athenian Attire"
+		model = "models/workshop/player/items/scout/hwn2018_athenian_attire/hwn2018_athenian_attire.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2018_athenian_attire/hwn2018_athenian_attire"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31002] = {
 		name = "The Tank Top"
+		name_internal = "The Tank Top"
+		model = "models/workshop/player/items/soldier/hwn2018_tank_top/hwn2018_tank_top.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2018_tank_top/hwn2018_tank_top"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31003] = {
 		name = "Vampire Vanquisher"
+		name_internal = "Vampire Vanquisher"
+		model = "models/workshop/player/items/soldier/hwn2018_vampire_vanquisher/hwn2018_vampire_vanquisher.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2018_vampire_vanquisher/hwn2018_vampire_vanquisher"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31004] = {
 		name = "Pyro in Chinatown"
+		name_internal = "Pyro in Chinatown"
+		model = "models/workshop/player/items/pyro/hwn2018_pyro_in_chinatown/hwn2018_pyro_in_chinatown.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2018_pyro_in_chinatown/hwn2018_pyro_in_chinatown"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Full" "Compact"]
 	},
 	[31005] = {
 		name = "Scoper's Scales"
+		name_internal = "Scopers Scales"
+		model = "models/workshop/player/items/sniper/hwn2018_scopers_scales/hwn2018_scopers_scales.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2018_scopers_scales/hwn2018_scopers_scales"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31006] = {
 		name = "Mr. Quackers"
+		name_internal = "Mr. Quackers"
+		model = "models/workshop/player/items/pyro/hwn2018_mr_quackers/hwn2018_mr_quackers.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2018_mr_quackers/hwn2018_mr_quackers"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31007] = {
 		name = "The Arachno-Arsonist"
+		name_internal = "The Arachno-Arsonist"
+		model = "models/workshop/player/items/pyro/hwn2018_arachno_arsonist/hwn2018_arachno_arsonist.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2018_arachno_arsonist/hwn2018_arachno_arsonist"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31008] = {
 		name = "Mann-O-War"
+		name_internal = "Mann-O-War"
+		model = "models/workshop/player/items/heavy/hwn2018_mann_o_war/hwn2018_mann_o_war.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2018_mann_o_war/hwn2018_mann_o_war"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31009] = {
 		name = "Crocodile Mun-Dee"
+		name_internal = "Crocodile Mun-Dee"
+		model = "models/workshop/player/items/sniper/hwn2018_crocodile_mun_dee/hwn2018_crocodile_mun_dee.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2018_crocodile_mun_dee/hwn2018_crocodile_mun_dee"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31010] = {
 		name = "Highway Star"
+		name_internal = "Highway Star"
+		model = "models/workshop/player/items/sniper/hwn2018_highway_star/hwn2018_highway_star.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2018_highway_star/hwn2018_highway_star"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31011] = {
 		name = "Defragmenting Hard Hat 17%"
+		name_internal = "Defragmenting Hard Hat 17%"
+		model = "models/workshop/player/items/engineer/hwn2018_defragmenting_hat/hwn2018_defragmenting_hat.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2018_defragmenting_hat/hwn2018_defragmenting_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31012] = {
 		name = "Aim Assistant"
+		name_internal = "Aim Assistant"
+		model = "models/workshop/player/items/engineer/hwn2018_aimbot_assistant/hwn2018_aimbot_assistant.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2018_aimbot_assistant/hwn2018_aimbot_assistant"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Normal" "Mini"]
 	},
 	[31013] = {
 		name = "Mini-Engy"
+		name_internal = "Mini-Engy"
+		model = "models/workshop/player/items/engineer/hwn2018_mini_engy/hwn2018_mini_engy.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2018_mini_engy/hwn2018_mini_engy"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31014] = {
 		name = "Dressperado"
+		name_internal = "Dressperado"
+		model = "models/workshop/player/items/spy/hwn2018_dressperado/hwn2018_dressperado.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2018_dressperado/hwn2018_dressperado"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31015] = {
 		name = "Bandit's Boots"
+		name_internal = "Bandit's Boots"
+		model = "models/workshop/player/items/spy/hwn2018_bandits_boots/hwn2018_bandits_boots.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2018_bandits_boots/hwn2018_bandits_boots"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31016] = {
 		name = "Murderer's Motif"
+		name_internal = "Murderer's Motif"
+		model = "models/workshop/player/items/spy/hwn2018_murderers_motif/hwn2018_murderers_motif.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2018_murderers_motif/hwn2018_murderers_motif"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31017] = {
 		name = "Gaelic Glutton"
+		name_internal = "Gaelic Glutton"
+		model = "models/workshop/player/items/demo/hwn2018_gaelic_glutton/hwn2018_gaelic_glutton.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2018_gaelic_glutton/hwn2018_gaelic_glutton"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[31018] = {
 		name = "The Polar Pal"
+		name_internal = "The Polar Pal"
+		model = "models/workshop/player/items/all_class/dec18_polar_pal/dec18_polar_pal_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec18_polar_pal/dec18_polar_pal"
 		paint = true
 		styles = ["Polar" "Bamboo Muncher" "Liberty Edition"]
 	},
 	[31019] = {
 		name = "Pocket Admin"
+		name_internal = "Pocket Admin"
+		model = "models/workshop/player/items/all_class/dec18_pocket_admin/dec18_pocket_admin_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec18_pocket_admin/dec18_pocket_admin"
 		paint = true
 	},
 	[31020] = {
 		name = "Bread Heads"
+		name_internal = "Bread Heads"
+		model = "models/workshop/player/items/all_class/dec18_bread_heads/dec18_bread_heads_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec18_bread_heads/dec18_bread_heads"
 	},
 	[31021] = {
 		name = "The Catcher's Companion"
+		name_internal = "The Catcher's Companion"
+		model = "models/workshop/player/items/scout/dec18_catchers_companion/dec18_catchers_companion.mdl"
+		image = "backpack/workshop/player/items/scout/dec18_catchers_companion/dec18_catchers_companion"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Default" "Hat"]
 	},
 	[31022] = {
 		name = "Juvenile's Jumper"
+		name_internal = "Juvenile's Jumper"
+		model = "models/workshop/player/items/scout/dec18_juveniles_jumper/dec18_juveniles_jumper.mdl"
+		image = "backpack/workshop/player/items/scout/dec18_juveniles_jumper/dec18_juveniles_jumper"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Ugly" "Modern" "Plain"]
 	},
 	[31023] = {
 		name = "Millennial Mercenary"
+		name_internal = "Millennial Mercenary"
+		model = "models/workshop/player/items/scout/dec18_millennial_mercenary/dec18_millennial_mercenary.mdl"
+		image = "backpack/workshop/player/items/scout/dec18_millennial_mercenary/dec18_millennial_mercenary"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["2Much2Fort!" "Streaming 2Fort" "2Much2Fort! (paint glasses)" "Playing 2Fort"]
 	},
 	[31024] = {
 		name = "The Crack Pot"
+		name_internal = "The Crack Pot"
+		model = "models/workshop/player/items/soldier/dec18_crack_pot/dec18_crack_pot.mdl"
+		image = "backpack/workshop/player/items/soldier/dec18_crack_pot/dec18_crack_pot"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31025] = {
 		name = "Climbing Commander"
+		name_internal = "Climbing Commander"
+		model = "models/workshop/player/items/soldier/dec18_climbing_commander/dec18_climbing_commander.mdl"
+		image = "backpack/workshop/player/items/soldier/dec18_climbing_commander/dec18_climbing_commander"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31026] = {
 		name = "Pocket Pardner"
+		name_internal = "Pocket Pardner"
+		model = "models/workshop/player/items/pyro/dec18_pocket_pardner/dec18_pocket_pardner.mdl"
+		image = "backpack/workshop/player/items/pyro/dec18_pocket_pardner/dec18_pocket_pardner"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Default" "Mining Light"]
 	},
 	[31027] = {
 		name = "Miser's Muttonchops"
+		name_internal = "Miser's Muttonchops"
+		model = "models/workshop/player/items/medic/dec18_misers_muttonchops/dec18_misers_muttonchops.mdl"
+		image = "backpack/workshop/player/items/medic/dec18_misers_muttonchops/dec18_misers_muttonchops"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31028] = {
 		name = "Snowcapped"
+		name_internal = "Snowcapped"
+		model = "models/workshop/player/items/medic/dec18_snowcapped/dec18_snowcapped.mdl"
+		image = "backpack/workshop/player/items/medic/dec18_snowcapped/dec18_snowcapped"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31029] = {
 		name = "Cool Capuchon"
+		name_internal = "Cool Capuchon"
+		model = "models/workshop/player/items/heavy/dec18_cool_capuchon/dec18_cool_capuchon.mdl"
+		image = "backpack/workshop/player/items/heavy/dec18_cool_capuchon/dec18_cool_capuchon"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Paint Decorations" "Paint Scarf"]
 	},
 	[31030] = {
 		name = "Paka Parka"
+		name_internal = "Paka Parka"
+		model = "models/workshop/player/items/heavy/dec18_paka_parka/dec18_paka_parka.mdl"
+		image = "backpack/workshop/player/items/heavy/dec18_paka_parka/dec18_paka_parka"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31031] = {
 		name = "Wise Whiskers"
+		name_internal = "Wise Whiskers"
+		model = "models/workshop/player/items/engineer/dec18_wise_whiskers/dec18_wise_whiskers.mdl"
+		image = "backpack/workshop/player/items/engineer/dec18_wise_whiskers/dec18_wise_whiskers"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[31032] = {
 		name = "The Puggyback"
+		name_internal = "The Puggyback"
+		model = "models/workshop/player/items/engineer/dec18_puggyback/dec18_puggyback.mdl"
+		image = "backpack/workshop/player/items/engineer/dec18_puggyback/dec18_puggyback"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31033] = {
 		name = "Harry"
+		name_internal = "Harry"
+		model = "models/workshop/player/items/all_class/dec18_harry/dec18_harry_medic.mdl"
+		image = "backpack/workshop/player/items/all_class/dec18_harry/dec18_harry"
 		classes = [TF_CLASS_MEDIC TF_CLASS_SPY]
 		paint = true
 		styles = ["Default" "Sleeping" "Villainous"]
 	},
 	[31034] = {
 		name = "Mighty Mitre"
+		name_internal = "Mighty Mitre"
+		model = "models/workshop/player/items/medic/dec18_mighty_mitre/dec18_mighty_mitre.mdl"
+		image = "backpack/workshop/player/items/medic/dec18_mighty_mitre/dec18_mighty_mitre"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31035] = {
 		name = "The Dumb Bell"
+		name_internal = "The Dumb Bell"
+		model = "models/workshop/player/items/soldier/dec18_dumb_bell/dec18_dumb_bell.mdl"
+		image = "backpack/workshop/player/items/soldier/dec18_dumb_bell/dec18_dumb_bell"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31036] = {
 		name = "Stapler's Specs"
+		name_internal = "Stapler's Specs"
+		model = "models/workshop/player/items/all_class/sum19_staplers_specs/sum19_staplers_specs_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum19_staplers_specs/sum19_staplers_specs"
 		paint = true
 	},
 	[31037] = {
 		name = "Dynamite Abs"
+		name_internal = "Dynamite Abs"
+		model = "models/workshop/player/items/demo/sum19_dynamite_abs/sum19_dynamite_abs.mdl"
+		image = "backpack/workshop/player/items/demo/sum19_dynamite_abs/sum19_dynamite_abs"
 		classes = [TF_CLASS_DEMOMAN]
 		styles = ["Grenades" "No Grenades"]
 	},
 	[31038] = {
 		name = "Backbreaker's Skullcracker"
+		name_internal = "Backbreaker's Skullcracker"
+		model = "models/workshop/player/items/demo/sum19_backbreakers_skullcracker/sum19_backbreakers_skullcracker.mdl"
+		image = "backpack/workshop/player/items/demo/sum19_backbreakers_skullcracker/sum19_backbreakers_skullcracker"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31039] = {
 		name = "Backbreaker's Guards"
+		name_internal = "Backbreaker's Guards"
+		model = "models/workshop/player/items/demo/sum19_backbreakers_guards/sum19_backbreakers_guards.mdl"
+		image = "backpack/workshop/player/items/demo/sum19_backbreakers_guards/sum19_backbreakers_guards"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31040] = {
 		name = "Unforgiven Glory"
+		name_internal = "Unforgiven Glory"
+		model = "models/workshop/player/items/demo/sum19_unforgiven_glory/sum19_unforgiven_glory.mdl"
+		image = "backpack/workshop/player/items/demo/sum19_unforgiven_glory/sum19_unforgiven_glory"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31041] = {
 		name = "Melted Mop"
+		name_internal = "Melted Mop"
+		model = "models/workshop/player/items/pyro/sum19_melted_mop/sum19_melted_mop.mdl"
+		image = "backpack/workshop/player/items/pyro/sum19_melted_mop/sum19_melted_mop"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31042] = {
 		name = "The Bottle Cap"
+		name_internal = "The Bottle Cap"
+		model = "models/workshop/player/items/scout/sum19_bottle_cap/sum19_bottle_cap.mdl"
+		image = "backpack/workshop/player/items/scout/sum19_bottle_cap/sum19_bottle_cap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Bonk" "Crit-a-Cola"]
 	},
 	[31043] = {
 		name = "The Pompous Privateer"
+		name_internal = "The Pompous Privateer"
+		model = "models/workshop/player/items/scout/sum19_pompous_privateer/sum19_pompous_privateer.mdl"
+		image = "backpack/workshop/player/items/scout/sum19_pompous_privateer/sum19_pompous_privateer"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[31044] = {
 		name = "The Peacebreaker"
+		name_internal = "The Peacebreaker"
+		model = "models/workshop/player/items/soldier/sum19_peacebreaker/sum19_peacebreaker.mdl"
+		image = "backpack/workshop/player/items/soldier/sum19_peacebreaker/sum19_peacebreaker"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31045] = {
 		name = "Dancing Doe"
+		name_internal = "Dancing Doe"
+		model = "models/workshop/player/items/soldier/sum19_dancing_doe/sum19_dancing_doe.mdl"
+		image = "backpack/workshop/player/items/soldier/sum19_dancing_doe/sum19_dancing_doe"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31046] = {
 		name = "Texas Toast"
+		name_internal = "Texas Toast"
+		model = "models/workshop/player/items/engineer/sum19_texas_toast/sum19_texas_toast.mdl"
+		image = "backpack/workshop/player/items/engineer/sum19_texas_toast/sum19_texas_toast"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31047] = {
 		name = "The Fiery Phoenix"
+		name_internal = "The Fiery Phoenix"
+		model = "models/workshop/player/items/pyro/sum19_fiery_phoenix/sum19_fiery_phoenix.mdl"
+		image = "backpack/workshop/player/items/pyro/sum19_fiery_phoenix/sum19_fiery_phoenix"
 		classes = [TF_CLASS_PYRO]
 	},
 	[31048] = {
 		name = "Shutterbug"
+		name_internal = "Shutterbug"
+		model = "models/workshop/player/items/spy/sum19_camera_hat/sum19_camera_hat.mdl"
+		image = "backpack/workshop/player/items/spy/sum19_camera_hat/sum19_camera_hat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Paint: Rim" "Paint: Full" "Paint: Lens"]
 	},
 	[31049] = {
 		name = "Brain Interface"
+		name_internal = "Brain Interface"
+		model = "models/workshop/player/items/engineer/sum19_brain_interface/sum19_brain_interface.mdl"
+		image = "backpack/workshop/player/items/engineer/sum19_brain_interface/sum19_brain_interface"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31050] = {
 		name = "Spawn Camper"
+		name_internal = "Spawn Camper"
+		model = "models/workshop/player/items/pyro/sum19_spawn_camper_backpack/sum19_spawn_camper_backpack.mdl"
+		image = "backpack/workshop/player/items/pyro/sum19_spawn_camper_backpack/sum19_spawn_camper_backpack"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31051] = {
 		name = "Wanderer's Wear"
+		name_internal = "Wanderer's Wear"
+		model = "models/workshop/player/items/pyro/sum19_spawn_camper_jacket/sum19_spawn_camper_jacket.mdl"
+		image = "backpack/workshop/player/items/pyro/sum19_spawn_camper_jacket/sum19_spawn_camper_jacket"
 		classes = [TF_CLASS_PYRO]
 	},
 	[31052] = {
 		name = "Mediterranean Mercenary"
+		name_internal = "Mediterranean Mercenary"
+		model = "models/workshop/player/items/heavy/sum19_mediterranean_mercenary/sum19_mediterranean_mercenary.mdl"
+		image = "backpack/workshop/player/items/heavy/sum19_mediterranean_mercenary/sum19_mediterranean_mercenary"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Normal" "Defiant Dey"]
 	},
 	[31053] = {
 		name = "Kapitan's Kaftan"
+		name_internal = "Kapitan's Kaftan"
+		model = "models/workshop/player/items/heavy/sum19_kapitans_kaftan/sum19_kapitans_kaftan.mdl"
+		image = "backpack/workshop/player/items/heavy/sum19_kapitans_kaftan/sum19_kapitans_kaftan"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31054] = {
 		name = "The Bare Necessities"
+		name_internal = "The Bare Necessities"
+		model = "models/workshop/player/items/sniper/sum19_bare_necessities/sum19_bare_necessities.mdl"
+		image = "backpack/workshop/player/items/sniper/sum19_bare_necessities/sum19_bare_necessities"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31055] = {
 		name = "Wagga Wagga Wear"
+		name_internal = "Wagga Wagga Wear"
+		model = "models/workshop/player/items/sniper/sum19_wagga_wagga_wear/sum19_wagga_wagga_wear.mdl"
+		image = "backpack/workshop/player/items/sniper/sum19_wagga_wagga_wear/sum19_wagga_wagga_wear"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31056] = {
 		name = "Speedy Scoundrel"
+		name_internal = "Speedy Scoundrel"
+		model = "models/workshop/player/items/scout/sum19_speedy_scoundrel/sum19_speedy_scoundrel.mdl"
+		image = "backpack/workshop/player/items/scout/sum19_speedy_scoundrel/sum19_speedy_scoundrel"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Marooned" "Landlubber" "Lion of the Seas"]
 	},
 	[31057] = {
 		name = "Bobby Bonnet"
+		name_internal = "Bobby Bonnet"
+		model = "models/workshop/player/items/all_class/sum19_bobby_bonnet/sum19_bobby_bonnet_soldier.mdl"
+		image = "backpack/workshop/player/items/all_class/sum19_bobby_bonnet/sum19_bobby_bonnet"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31058] = {
 		name = "Bat Hat"
+		name_internal = "Bat Hat"
+		model = "models/workshop/player/items/all_class/hwn2019_bat_hat/hwn2019_bat_hat_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_bat_hat/hwn2019_bat_hat"
 		paint = true
 	},
 	[31059] = {
 		name = "Mister Bones"
+		name_internal = "Mister Bones"
+		model = "models/workshop/player/items/all_class/hwn2019_mister_bones/hwn2019_mister_bones_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_mister_bones/hwn2019_mister_bones"
 		paint = true
 	},
 	[31060] = {
 		name = "BINOCULUS!"
+		name_internal = "Binoculus"
+		model = "models/workshop/player/items/all_class/hwn2019_binoculus/hwn2019_binoculus_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_binoculus/hwn2019_binoculus"
 		paint = true
 		styles = ["Paint Eyelid" "Paint Iris"]
 	},
 	[31061] = {
 		name = "Pocket Halloween Boss"
+		name_internal = "Pocket Halloween Boss"
+		model = "models/workshop/player/items/all_class/hwn2019_pocket_merasmus/hwn2019_pocket_merasmus_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_pocket_merasmus/hwn2019_pocket_merasmus"
 		paint = true
 		styles = ["Pocket Merasmus" "Pocket Zepheniah" "Pocket Monoculus" "Pocket Skeleton King"]
 	},
 	[31062] = {
 		name = "Bread Biter"
+		name_internal = "Bread Biter"
+		model = "models/workshop/player/items/all_class/hwn2019_bread_biter/hwn2019_bread_biter_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_bread_biter/hwn2019_bread_biter"
 	},
 	[31063] = {
 		name = "The Horrible Horns"
+		name_internal = "The Horrible Horns"
+		model = "models/workshop/player/items/all_class/hwn2019_horrible_horns/hwn2019_horrible_horns_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_horrible_horns/hwn2019_horrible_horns"
 		paint = true
 		styles = ["No Hat" "Hat"]
 	},
 	[31064] = {
 		name = "The Trick Stabber"
+		name_internal = "The Trick Stabber"
+		model = "models/workshop/player/items/all_class/hwn2019_trick_stabber/hwn2019_trick_stabber_pyro.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2019_trick_stabber/hwn2019_trick_stabber"
 		classes = [TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31065] = {
 		name = "Head of the Dead"
+		name_internal = "Head of the Dead"
+		model = "models/workshop/player/items/pyro/hwn2019_head_of_the_dead/hwn2019_head_of_the_dead.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2019_head_of_the_dead/hwn2019_head_of_the_dead"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Decorated" "Plain"]
 	},
 	[31066] = {
 		name = "Skullbrero"
+		name_internal = "Skullbrero"
+		model = "models/workshop/player/items/pyro/hwn2019_skullbrero/hwn2019_skullbrero.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2019_skullbrero/hwn2019_skullbrero"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31067] = {
 		name = "Candy Cranium"
+		name_internal = "Candy Cranium"
+		model = "models/workshop/player/items/pyro/hwn2019_candycranium/hwn2019_candycranium.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2019_candycranium/hwn2019_candycranium"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31068] = {
 		name = "Pyro Shark"
+		name_internal = "Pyro Shark"
+		model = "models/workshop/player/items/pyro/hwn2019_pyro_shark/hwn2019_pyro_shark.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2019_pyro_shark/hwn2019_pyro_shark"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31069] = {
 		name = "El Zapateador"
+		name_internal = "El Zapateador"
+		model = "models/workshop/player/items/soldier/hwn2019_el_zapateador/hwn2019_el_zapateador.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2019_el_zapateador/hwn2019_el_zapateador"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31070] = {
 		name = "Party Poncho"
+		name_internal = "Party Poncho"
+		model = "models/workshop/player/items/soldier/hwn2019_party_poncho/hwn2019_party_poncho.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2019_party_poncho/hwn2019_party_poncho"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31071] = {
 		name = "Racc Mann"
+		name_internal = "Racc Mann"
+		model = "models/workshop/player/items/soldier/hwn2019_racc_mann/hwn2019_racc_mann.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2019_racc_mann/hwn2019_racc_mann"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31072] = {
 		name = "Voodoo Vizier"
+		name_internal = "Voodoo Vizier"
+		model = "models/workshop/player/items/spy/hwn2019_voodoo_vizier/hwn2019_voodoo_vizier.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2019_voodoo_vizier/hwn2019_voodoo_vizier"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31073] = {
 		name = "Avian Amante"
+		name_internal = "Avian Amante"
+		model = "models/workshop/player/items/spy/hwn2019_avian_amante/hwn2019_avian_amante.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2019_avian_amante/hwn2019_avian_amante"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31074] = {
 		name = "El Mostacho"
+		name_internal = "El Mostacho"
+		model = "models/workshop/player/items/engineer/hwn2019_el_mostacho/hwn2019_el_mostacho.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2019_el_mostacho/hwn2019_el_mostacho"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31075] = {
 		name = "Eingineer"
+		name_internal = "Eingineer"
+		model = "models/workshop/player/items/engineer/hwn2019_eingineer/hwn2019_eingineer.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2019_eingineer/hwn2019_eingineer"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[31076] = {
 		name = "Pyr'o Lantern"
+		name_internal = "Pyr'o Lantern"
+		model = "models/workshop/player/items/pyro/hwn2019_pyro_lantern/hwn2019_pyro_lantern.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2019_pyro_lantern/hwn2019_pyro_lantern"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31077] = {
 		name = "Madmann's Muzzle"
+		name_internal = "Madmann's Muzzle"
+		model = "models/workshop/player/items/medic/hwn2019_madmanns_muzzle/hwn2019_madmanns_muzzle.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2019_madmanns_muzzle/hwn2019_madmanns_muzzle"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31078] = {
 		name = "Derangement Garment"
+		name_internal = "Derangement Garment"
+		model = "models/workshop/player/items/medic/hwn2019_derangement_garment/hwn2019_derangement_garment.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2019_derangement_garment/hwn2019_derangement_garment"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31079] = {
 		name = "Soviet Strongmann"
+		name_internal = "Soviet Strongmann"
+		model = "models/workshop/player/items/heavy/hwn2019_soviet_strongmann_style2/hwn2019_soviet_strongmann_style2.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2019_soviet_strongmann_style2/hwn2019_soviet_strongmann_style2"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["Barbed Wire" "Anchor" "Bare"]
 	},
 	[31080] = {
 		name = "Convict Cap"
+		name_internal = "Convict Cap"
+		model = "models/workshop/player/items/heavy/hwn2019_convict_cap/hwn2019_convict_cap.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2019_convict_cap/hwn2019_convict_cap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Scars" "No Scars"]
 	},
 	[31081] = {
 		name = "Fuel Injector"
+		name_internal = "Fuel Injector"
+		model = "models/workshop/player/items/scout/hwn2019_fuel_injector/hwn2019_fuel_injector.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2019_fuel_injector/hwn2019_fuel_injector"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Side-Valve (No Hat)" "Outta Gas (No Hat)" "Runnin On Fumes (No Hat)" "Side-Valve (Hat)" "Outta Gas (Hat)" "Runnin On Fumes (Hat)"]
 	},
 	[31082] = {
 		name = "Remorseless Raptor"
+		name_internal = "Remorseless Raptor"
+		model = "models/workshop/player/items/scout/hwn2019_remorseless_raptor/hwn2019_remorseless_raptor.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2019_remorseless_raptor/hwn2019_remorseless_raptor"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31083] = {
 		name = "Wild Whip"
+		name_internal = "Wild Whip"
+		model = "models/workshop/player/items/scout/hwn2019_wild_whip/hwn2019_wild_whip.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2019_wild_whip/hwn2019_wild_whip"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31084] = {
 		name = "Elizabeth the Third"
+		name_internal = "Elizabeth the Third"
+		model = "models/workshop/player/items/sniper/hwn2019_elizabeth_the_third/hwn2019_elizabeth_the_third.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2019_elizabeth_the_third/hwn2019_elizabeth_the_third"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31085] = {
 		name = "Bumble Beenie"
+		name_internal = "Bumble Beenie"
+		model = "models/workshop/player/items/all_class/dec19_bumble_beenie/dec19_bumble_beenie_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_bumble_beenie/dec19_bumble_beenie"
 		paint = true
 	},
 	[31086] = {
 		name = "Pebbles the Penguin"
+		name_internal = "Pebbles the Penguin"
+		model = "models/workshop/player/items/all_class/dec19_pebbles_the_penguin/dec19_pebbles_the_penguin_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_pebbles_the_penguin/dec19_pebbles_the_penguin"
 		paint = true
 	},
 	[31087] = {
 		name = "Yule Hog"
+		name_internal = "Yule Hog"
+		model = "models/workshop/player/items/all_class/dec19_yule_hog/dec19_yule_hog_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_yule_hog/dec19_yule_hog"
 		paint = true
 	},
 	[31088] = {
 		name = "Gingerbread Mann"
+		name_internal = "Gingerbread Mann"
+		model = "models/workshop/player/items/all_class/dec19_gingerbread_mann_s1/dec19_gingerbread_mann_s1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_gingerbread_mann_s1/dec19_gingerbread_mann_s1"
 		styles = ["Candied Resemblance" "Sugar Saxton"]
 	},
 	[31089] = {
 		name = "Smissmas Saxton"
+		name_internal = "Smissmas Saxton"
+		model = "models/workshop/player/items/all_class/dec19_smissmas_saxton/dec19_smissmas_saxton_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_smissmas_saxton/dec19_smissmas_saxton"
 		paint = true
 	},
 	[31090] = {
 		name = "Globetrotter"
+		name_internal = "Globetrotter"
+		model = "models/workshop/player/items/all_class/dec19_globetrotter_s1/dec19_globetrotter_s1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_globetrotter_s1/dec19_globetrotter_s1"
 		styles = ["Snow" "Dust"]
 	},
 	[31091] = {
 		name = "Citizen Cane"
+		name_internal = "Citizen Cane"
+		model = "models/workshop/player/items/all_class/dec19_citizen_cane_s1/dec19_citizen_cane_s1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_citizen_cane_s1/dec19_citizen_cane_s1"
 		paint = true
 		styles = ["Glasses" "No Glasses"]
 	},
 	[31092] = {
 		name = "Candy Crown"
+		name_internal = "Candy Crown"
+		model = "models/workshop/player/items/all_class/dec19_candy_crown/dec19_candy_crown_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_candy_crown/dec19_candy_crown"
 		paint = true
 	},
 	[31093] = {
 		name = "Glittering Garland"
+		name_internal = "Glittering Garland"
+		model = "models/workshop/player/items/all_class/dec19_glittering_garland/dec19_glittering_garland_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_glittering_garland/dec19_glittering_garland"
 		paint = true
 	},
 	[31094] = {
 		name = "Winter Wrap Up"
+		name_internal = "Winter Wrap Up"
+		model = "models/workshop/player/items/all_class/dec19_winter_wrap_up/dec19_winter_wrap_up_sniper.mdl"
+		image = "backpack/workshop/player/items/all_class/dec19_winter_wrap_up/dec19_winter_wrap_up"
 		classes = [TF_CLASS_SNIPER TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31095] = {
 		name = "Public Speaker"
+		name_internal = "Public Speaker"
+		model = "models/workshop/player/items/soldier/dec19_public_speaker/dec19_public_speaker.mdl"
+		image = "backpack/workshop/player/items/soldier/dec19_public_speaker/dec19_public_speaker"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31096] = {
 		name = "Discovision"
+		name_internal = "Discovision"
+		model = "models/workshop/player/items/pyro/dec19_discovision/dec19_discovision.mdl"
+		image = "backpack/workshop/player/items/pyro/dec19_discovision/dec19_discovision"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31097] = {
 		name = "Provisions Cap"
+		name_internal = "Provisions Cap"
+		model = "models/workshop/player/items/engineer/dec19_provisions_cap/dec19_provisions_cap.mdl"
+		image = "backpack/workshop/player/items/engineer/dec19_provisions_cap/dec19_provisions_cap"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31098] = {
 		name = "Telefragger Toque"
+		name_internal = "Telefragger Toque"
+		model = "models/workshop/player/items/engineer/dec19_telefragger_toque/dec19_telefragger_toque.mdl"
+		image = "backpack/workshop/player/items/engineer/dec19_telefragger_toque/dec19_telefragger_toque"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31099] = {
 		name = "Pocket-Medes"
+		name_internal = "Pocket-Medes"
+		model = "models/workshop/player/items/medic/dec19_pocketmedes/dec19_pocketmedes.mdl"
+		image = "backpack/workshop/player/items/medic/dec19_pocketmedes/dec19_pocketmedes"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Pocket" "Strap"]
 	},
 	[31100] = {
 		name = "Spiky Viking"
+		name_internal = "Spiky Viking"
+		model = "models/workshop/player/items/demo/dec19_spiky_viking/dec19_spiky_viking.mdl"
+		image = "backpack/workshop/player/items/demo/dec19_spiky_viking/dec19_spiky_viking"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Ye Sticketh Style" "Ye Olde Style"]
 	},
 	[31101] = {
 		name = "The Missing Piece"
+		name_internal = "The Missing Piece"
+		model = "models/workshop/player/items/sniper/dec19_missing_piece/dec19_missing_piece.mdl"
+		image = "backpack/workshop/player/items/sniper/dec19_missing_piece/dec19_missing_piece"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31102] = {
 		name = "The Mislaid Sweater"
+		name_internal = "The Mislaid Sweater"
+		model = "models/workshop/player/items/sniper/dec19_mislaid_sweater/dec19_mislaid_sweater.mdl"
+		image = "backpack/workshop/player/items/sniper/dec19_mislaid_sweater/dec19_mislaid_sweater"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31103] = {
 		name = "Hypno-Eyes"
+		name_internal = "Hypno-eyes"
+		model = "models/workshop/player/items/all_class/sum20_spectre_cles_style2/sum20_spectre_cles_style2_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum20_spectre_cles_style2/sum20_spectre_cles_style2"
 		paint = true
 		styles = ["Spinning" "Shining"]
 	},
 	[31104] = {
 		name = "Breadcrab"
+		name_internal = "Breadcrab"
+		model = "models/workshop/player/items/all_class/sum20_breadcrab/sum20_breadcrab_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum20_breadcrab/sum20_breadcrab"
 	},
 	[31105] = {
 		name = "Loaf Loafers"
+		name_internal = "Loaf Loafers"
+		model = "models/workshop/player/items/all_class/sum20_loaf_loafers_style2/sum20_loaf_loafers_style2_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum20_loaf_loafers_style1/sum20_loaf_loafers_style1"
 		paint = true
 		styles = ["Freshly Teleported" "Freshly Baked"]
 	},
 	[31106] = {
 		name = "The Sophisticated Smoker"
+		name_internal = "Sophisticated Smoker"
+		model = "models/workshop/player/items/all_class/sum20_sophisticated_smoker/sum20_sophisticated_smoker_soldier.mdl"
+		image = "backpack/workshop/player/items/all_class/sum20_sophisticated_smoker/sum20_sophisticated_smoker"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_HEAVY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31107] = {
 		name = "Flamehawk"
+		name_internal = "Flamehawk"
+		model = "models/workshop/player/items/pyro/sum20_flamehawk/sum20_flamehawk.mdl"
+		image = "backpack/workshop/player/items/pyro/sum20_flamehawk/sum20_flamehawk"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31108] = {
 		name = "Fire Fighter"
+		name_internal = "Fire Fighter"
+		model = "models/workshop/player/items/pyro/sum20_fire_fighter_style1/sum20_fire_fighter_style1.mdl"
+		image = "backpack/workshop/player/items/pyro/sum20_fire_fighter_style1/sum20_fire_fighter_style1"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Ultra" "Arcade"]
 	},
 	[31109] = {
 		name = "Crabe de Chapeau"
+		name_internal = "Crabe de Chapeau"
+		model = "models/workshop/player/items/spy/sum20_crabe_de_chapeau/sum20_crabe_de_chapeau.mdl"
+		image = "backpack/workshop/player/items/spy/sum20_crabe_de_chapeau/sum20_crabe_de_chapeau"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31110] = {
 		name = "Bird's Eye Viewer"
+		name_internal = "Bird's Eye Viewer"
+		model = "models/workshop/player/items/spy/sum20_birds_eye_viewer_style2/sum20_birds_eye_viewer_style2.mdl"
+		image = "backpack/workshop/player/items/spy/sum20_birds_eye_viewer_style2/sum20_birds_eye_viewer_style2"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Informant" "Civilian"]
 	},
 	[31111] = {
 		name = "Hawk Warrior"
+		name_internal = "Hawk Warrior"
+		model = "models/workshop/player/items/soldier/sum20_hawk_warrior/sum20_hawk_warrior.mdl"
+		image = "backpack/workshop/player/items/soldier/sum20_hawk_warrior/sum20_hawk_warrior"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31112] = {
 		name = "Bazaar Bauble"
+		name_internal = "Bazaar Bauble"
+		model = "models/workshop/player/items/soldier/sum20_bazaar_bauble/sum20_bazaar_bauble.mdl"
+		image = "backpack/workshop/player/items/soldier/sum20_bazaar_bauble/sum20_bazaar_bauble"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31113] = {
 		name = "Breach and Bomb"
+		name_internal = "Breach and Bomb"
+		model = "models/workshop/player/items/soldier/sum20_breach_and_bomb/sum20_breach_and_bomb.mdl"
+		image = "backpack/workshop/player/items/soldier/sum20_breach_and_bomb/sum20_breach_and_bomb"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31114] = {
 		name = "Head of Defense"
+		name_internal = "Head Of Defense"
+		model = "models/workshop/player/items/engineer/sum20_head_of_defense_style1/sum20_head_of_defense_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/sum20_head_of_defense_style1/sum20_head_of_defense_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Enforcer" "Protector"]
 	},
 	[31115] = {
 		name = "Hazard Headgear"
+		name_internal = "Hazard Headgear"
+		model = "models/workshop/player/items/demo/sum20_hazard_headgear/sum20_hazard_headgear.mdl"
+		image = "backpack/workshop/player/items/demo/sum20_hazard_headgear/sum20_hazard_headgear"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31116] = {
 		name = "Soda Specs"
+		name_internal = "Soda Specs"
+		model = "models/workshop/player/items/scout/sum20_soda_specs_style1/sum20_soda_specs_style1.mdl"
+		image = "backpack/workshop/player/items/scout/sum20_soda_specs_style1/sum20_soda_specs_style1"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Bonk" "Crit-a-Cola"]
 	},
 	[31117] = {
 		name = "California Cap"
+		name_internal = "California Cap"
+		model = "models/workshop/player/items/scout/sum20_california_cap/sum20_california_cap.mdl"
+		image = "backpack/workshop/player/items/scout/sum20_california_cap/sum20_california_cap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31118] = {
 		name = "Poolside Polo"
+		name_internal = "Poolside Polo"
+		model = "models/workshop/player/items/scout/sum20_poolside_polo/sum20_poolside_polo.mdl"
+		image = "backpack/workshop/player/items/scout/sum20_poolside_polo/sum20_poolside_polo"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31119] = {
 		name = "Tools of the Tourist"
+		name_internal = "Tools of the Tourist"
+		model = "models/workshop/player/items/scout/sum20_tools_tourist/sum20_tools_tourist.mdl"
+		image = "backpack/workshop/player/items/scout/sum20_tools_tourist/sum20_tools_tourist"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31120] = {
 		name = "The Jarmaments"
+		name_internal = "The Jarmaments"
+		model = "models/workshop/player/items/sniper/sum20_jarmaments/sum20_jarmaments.mdl"
+		image = "backpack/workshop/player/items/sniper/sum20_jarmaments/sum20_jarmaments"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31121] = {
 		name = "The Flatliner"
+		name_internal = "Flatliner"
+		model = "models/workshop/player/items/medic/sum20_flatliner/sum20_flatliner.mdl"
+		image = "backpack/workshop/player/items/medic/sum20_flatliner/sum20_flatliner"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31122] = {
 		name = "Self-Care"
+		name_internal = "Self-Care"
+		model = "models/workshop/player/items/medic/sum20_self_care/sum20_self_care.mdl"
+		image = "backpack/workshop/player/items/medic/sum20_self_care/sum20_self_care"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31123] = {
 		name = "Momma Kiev"
+		name_internal = "Momma Kiev"
+		model = "models/workshop/player/items/heavy/sum20_momma_kiev_style2/sum20_momma_kiev_style2.mdl"
+		image = "backpack/workshop/player/items/heavy/sum20_momma_kiev_style2/sum20_momma_kiev_style2"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["Comrade" "Casual"]
 	},
 	[31124] = {
 		name = "Smoking Jacket"
+		name_internal = "Smoking Jacket"
+		model = "models/workshop/player/items/spy/sum20_smoking_jacket/sum20_smoking_jacket.mdl"
+		image = "backpack/workshop/player/items/spy/sum20_smoking_jacket/sum20_smoking_jacket"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31125] = {
 		name = "Impish Ears"
+		name_internal = "Impish Ears"
+		model = "models/workshop/player/items/all_class/hwn2020_impish_ears/hwn2020_impish_ears_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_impish_ears/hwn2020_impish_ears"
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[31126] = {
 		name = "Balloonicorpse"
+		name_internal = "Balloonicorpse"
+		model = "models/workshop/player/items/all_class/hwn2020_balloonicorpse/hwn2020_balloonicorpse_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_balloonicorpse/hwn2020_balloonicorpse"
 		paint = true
 	},
 	[31127] = {
 		name = "Gourd Grin"
+		name_internal = "Gourd Grin"
+		model = "models/workshop/player/items/all_class/hwn2020_gourd_grin/hwn2020_gourd_grin_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_gourd_grin/hwn2020_gourd_grin"
 		paint = true
 	},
 	[31128] = {
 		name = "Hollowed Helm"
+		name_internal = "Hollowed Helm"
+		model = "models/workshop/player/items/all_class/hwn2020_hollowed_helm/hwn2020_hollowed_helm_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_hollowed_helm/hwn2020_hollowed_helm"
 		paint = true
 	},
 	[31129] = {
 		name = "A Handsome Handy Thing"
+		name_internal = "A Handsome Handy Thing"
+		model = "models/workshop/player/items/all_class/hwn2020_handy_thing/hwn2020_handy_thing_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_handy_thing/hwn2020_handy_thing"
 		paint = true
 		styles = ["Fresh" "Expired"]
 	},
 	[31130] = {
 		name = "King Cardbeard"
+		name_internal = "King Cardbeard"
+		model = "models/workshop/player/items/all_class/hwn2020_king_cardbeard/hwn2020_king_cardbeard_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_king_cardbeard/hwn2020_king_cardbeard"
 		paint = true
 	},
 	[31131] = {
 		name = "Sir Pumpkinton"
+		name_internal = "Sir Pumpkinton"
+		model = "models/workshop/player/items/all_class/hwn2020_sir_pumpkinton/hwn2020_sir_pumpkinton_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_sir_pumpkinton/hwn2020_sir_pumpkinton"
 		paint = true
 	},
 	[31132] = {
 		name = "Wrap-A-Khamon"
+		name_internal = "Wrap-A-Khamon"
+		model = "models/workshop/player/items/all_class/hwn2020_wrap_a_khamon/hwn2020_wrap_a_khamon_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_wrap_a_khamon/hwn2020_wrap_a_khamon"
 		paint = true
 		styles = ["Showy" "Shy"]
 	},
 	[31133] = {
 		name = "The Boom Boxers"
+		name_internal = "The Boom Boxers"
+		model = "models/workshop/player/items/all_class/hwn2020_boom_boxers/hwn2020_boom_boxers_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_boom_boxers/hwn2020_boom_boxers"
 		classes = [TF_CLASS_SCOUT TF_CLASS_DEMOMAN TF_CLASS_HEAVY TF_CLASS_PYRO TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31134] = {
 		name = "Eye-See-You"
+		name_internal = "Eye-see-you"
+		model = "models/workshop/player/items/all_class/hwn2020_eye_see_you/hwn2020_eye_see_you_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_eye_see_you/hwn2020_eye_see_you"
 		styles = ["Hat" "No Hat"]
 	},
 	[31135] = {
 		name = "Handsome Devil"
+		name_internal = "Handsome Devil"
+		model = "models/workshop/player/items/all_class/hwn2020_handsome_devil/hwn2020_handsome_devil_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_handsome_devil/hwn2020_handsome_devil"
 		paint = true
 		styles = ["No Hat" "Hat"]
 	},
 	[31136] = {
 		name = "Misfortune Fedora"
+		name_internal = "Misfortune Fedora"
+		model = "models/workshop/player/items/all_class/hwn2020_misfortune_fedora/hwn2020_misfortune_fedora_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_misfortune_fedora/hwn2020_misfortune_fedora"
 		paint = true
 	},
 	[31137] = {
 		name = "War Blunder"
+		name_internal = "War Blunder"
+		model = "models/workshop/player/items/soldier/hwn2020_war_blunder/hwn2020_war_blunder.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2020_war_blunder/hwn2020_war_blunder"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31138] = {
 		name = "Grounded Flyboy"
+		name_internal = "Grounded Flyboy"
+		model = "models/workshop/player/items/scout/hwn2020_grounded_flyboy/hwn2020_grounded_flyboy.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2020_grounded_flyboy/hwn2020_grounded_flyboy"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31139] = {
 		name = "Rolfe Copter"
+		name_internal = "Rolfe Copter"
+		model = "models/workshop/player/items/medic/hwn2020_rolfe_copter/hwn2020_rolfe_copter.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2020_rolfe_copter/hwn2020_rolfe_copter"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31140] = {
 		name = "The Pug Mug"
+		name_internal = "The Pug Mug"
+		model = "models/workshop/player/items/engineer/hwn2020_pug_mug/hwn2020_pug_mug.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2020_pug_mug/hwn2020_pug_mug"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Paint: Collar" "Paint: Lense"]
 	},
 	[31141] = {
 		name = "The Treehugger"
+		name_internal = "The Treehugger"
+		model = "models/workshop/player/items/pyro/hwn2020_treehugger/hwn2020_treehugger.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2020_treehugger/hwn2020_treehugger"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31142] = {
 		name = "Mannvich"
+		name_internal = "Mannvich"
+		model = "models/workshop/player/items/heavy/hwn2020_mannvich/hwn2020_mannvich.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2020_mannvich/hwn2020_mannvich"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[31143] = {
 		name = "The Seared Sorcerer"
+		name_internal = "The Seared Sorcerer"
+		model = "models/workshop/player/items/pyro/hwn2020_seared_sorcerer/hwn2020_seared_sorcerer.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2020_seared_sorcerer/hwn2020_seared_sorcerer"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Normal" "Hat and Cape Only"]
 	},
 	[31144] = {
 		name = "The Fire Tooth"
+		name_internal = "The Fire Tooth"
+		model = "models/workshop/player/items/pyro/hwn2020_fire_tooth/hwn2020_fire_tooth.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2020_fire_tooth/hwn2020_fire_tooth"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31145] = {
 		name = "Flavorful Baggies"
+		name_internal = "Flavorful Baggies"
+		model = "models/workshop/player/items/pyro/hwn2020_flavorful_baggies/hwn2020_flavorful_baggies.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2020_flavorful_baggies/hwn2020_flavorful_baggies"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31146] = {
 		name = "Calamitous Cauldron"
+		name_internal = "Calamitous Cauldron"
+		model = "models/workshop/player/items/soldier/hwn2020_calamitous_cauldron/hwn2020_calamitous_cauldron.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2020_calamitous_cauldron/hwn2020_calamitous_cauldron"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Slime" "No Slime"]
 	},
 	[31147] = {
 		name = "Semi-Tame Trapper's Hat"
+		name_internal = "Semi-tame Trapper's Hat"
+		model = "models/workshop/player/items/soldier/hwn2020_trappers_hat/hwn2020_trappers_hat.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2020_trappers_hat/hwn2020_trappers_hat"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Paint: Eyes" "Paint: Coat"]
 	},
 	[31148] = {
 		name = "Wavefinder"
+		name_internal = "Wavefinder"
+		model = "models/workshop/player/items/engineer/hwn2020_wavefinder/hwn2020_wavefinder.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2020_wavefinder/hwn2020_wavefinder"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31149] = {
 		name = "Glow from Below"
+		name_internal = "Glow from Below"
+		model = "models/workshop/player/items/sniper/hwn2020_glow_below/hwn2020_glow_below.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2020_glow_below/hwn2020_glow_below"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Paint: Fins" "Paint: Body"]
 	},
 	[31150] = {
 		name = "Goblineer"
+		name_internal = "Goblineer"
+		model = "models/workshop/player/items/engineer/hwn2020_goblineer/hwn2020_goblineer.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2020_goblineer/hwn2020_goblineer"
 		classes = [TF_CLASS_ENGINEER]
 		styles = ["Normal" "Zombie"]
 	},
 	[31151] = {
 		name = "The Ghoul Box"
+		name_internal = "The Ghoul Box"
+		model = "models/workshop/player/items/engineer/hwn2020_ghoul_box/hwn2020_ghoul_box.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2020_ghoul_box/hwn2020_ghoul_box"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31152] = {
 		name = "All Hallows' Hatte"
+		name_internal = "All Hallows' Hatte"
+		model = "models/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2020_hallows_hatte/hwn2020_hallows_hatte"
 		paint = true
 	},
 	[31163] = {
 		name = "Particulate Protector"
+		name_internal = "Particulate Protector"
+		model = "models/workshop/player/items/all_class/dec20_particulate_protector/dec20_particulate_protector_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_particulate_protector/dec20_particulate_protector"
 		classes = [TF_CLASS_SCOUT TF_CLASS_SNIPER TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_SPY TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[31164] = {
 		name = "Candy Cantlers"
+		name_internal = "Candy Cantlers"
+		model = "models/workshop/player/items/all_class/dec20_candy_cantlers/dec20_candy_cantlers_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_candy_cantlers/dec20_candy_cantlers"
 		paint = true
 		styles = ["Hat" "No Hat"]
 	},
 	[31165] = {
 		name = "Jolly Jingler"
+		name_internal = "Jolly Jingler"
+		model = "models/workshop/player/items/all_class/dec20_jolly_jingler/dec20_jolly_jingler_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_jolly_jingler/dec20_jolly_jingler"
 		paint = true
 	},
 	[31166] = {
 		name = "The Smissmas Sorcerer"
+		name_internal = "The Smissmass Sorcerer"
+		model = "models/workshop/player/items/all_class/dec20_smissmas_sorcerer/dec20_smissmas_sorcerer_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_smissmas_sorcerer/dec20_smissmas_sorcerer"
 		paint = true
 	},
 	[31167] = {
 		name = "Festive Flip-Thwomps"
+		name_internal = "Festive Flip-thwomps"
+		model = "models/workshop/player/items/all_class/dec20_flip_thwomps/dec20_flip_thwomps_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_flip_thwomps/dec20_flip_thwomps"
 		paint = true
 	},
 	[31168] = {
 		name = "Towering Pillar of Beanies"
+		name_internal = "Towering Pillar of Beanies"
+		model = "models/workshop/player/items/all_class/dec20_pillar_of_beanies/dec20_pillar_of_beanies_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_pillar_of_beanies/dec20_pillar_of_beanies"
 		paint = true
 	},
 	[31169] = {
 		name = "Shoestring Santa"
+		name_internal = "Shoestring Santa"
+		model = "models/workshop/player/items/all_class/dec20_shoestring_santa/dec20_shoestring_santa_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_shoestring_santa/dec20_shoestring_santa"
 		paint = true
 	},
 	[31170] = {
 		name = "Professional's Pom-Pom"
+		name_internal = "Professional's Pom Pom"
+		model = "models/workshop/player/items/all_class/dec20_professionals_pom_pom/dec20_professionals_pom_pom_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_professionals_pom_pom/dec20_professionals_pom_pom"
 		paint = true
 	},
 	[31171] = {
 		name = "Reindoonibeanie"
+		name_internal = "Reindoonibeanie"
+		model = "models/workshop/player/items/all_class/dec20_reindoonibeanie/dec20_reindoonibeanie_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_reindoonibeanie/dec20_reindoonibeanie"
 		paint = true
 	},
 	[31172] = {
 		name = "Festive Fascinator"
+		name_internal = "Festive Fascinator"
+		model = "models/workshop/player/items/all_class/dec20_festive_fascinator/dec20_festive_fascinator_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_festive_fascinator/dec20_festive_fascinator"
 		styles = ["Merry" "Happy"]
 	},
 	[31173] = {
 		name = "Towering Pile of Presents"
+		name_internal = "Towering Pile Of Presents"
+		model = "models/workshop/player/items/all_class/dec20_pile_of_presents/dec20_pile_of_presents_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec20_pile_of_presents/dec20_pile_of_presents"
 		paint = true
 	},
 	[31174] = {
 		name = "The Round-A-Bout"
+		name_internal = "The Round-A-Bout"
+		model = "models/workshop/player/items/pyro/dec20_round_a_bout/dec20_round_a_bout.mdl"
+		image = "backpack/workshop/player/items/pyro/dec20_round_a_bout/dec20_round_a_bout"
 		classes = [TF_CLASS_PYRO]
 	},
 	[31175] = {
 		name = "Blitzen Bowl"
+		name_internal = "Blitzen Bowl"
+		model = "models/workshop/player/items/engineer/dec20_blitzen_bowl/dec20_blitzen_bowl.mdl"
+		image = "backpack/workshop/player/items/engineer/dec20_blitzen_bowl/dec20_blitzen_bowl"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31176] = {
 		name = "Elf Care Provider"
+		name_internal = "Elf Care Provider"
+		model = "models/workshop/player/items/medic/dec20_elf_care_provider/dec20_elf_care_provider.mdl"
+		image = "backpack/workshop/player/items/medic/dec20_elf_care_provider/dec20_elf_care_provider"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31177] = {
 		name = "Night Ward"
+		name_internal = "Night Ward"
+		model = "models/workshop/player/items/medic/dec20_night_ward/dec20_night_ward.mdl"
+		image = "backpack/workshop/player/items/medic/dec20_night_ward/dec20_night_ward"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Crosses" "Stripes"]
 	},
 	[31178] = {
 		name = "SandMann's Brush"
+		name_internal = "SandMann's Brush"
+		model = "models/workshop/player/items/heavy/dec20_sandmanns_brush/dec20_sandmanns_brush.mdl"
+		image = "backpack/workshop/player/items/heavy/dec20_sandmanns_brush/dec20_sandmanns_brush"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31179] = {
 		name = "BedBug Protection"
+		name_internal = "BedBug Protection"
+		model = "models/workshop/player/items/heavy/dec20_bedbug_protection/dec20_bedbug_protection.mdl"
+		image = "backpack/workshop/player/items/heavy/dec20_bedbug_protection/dec20_bedbug_protection"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31180] = {
 		name = "Bear Walker"
+		name_internal = "Bear Walker"
+		model = "models/workshop/player/items/heavy/dec20_bear_walker/dec20_bear_walker.mdl"
+		image = "backpack/workshop/player/items/heavy/dec20_bear_walker/dec20_bear_walker"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31181] = {
 		name = "The Killing Tree"
+		name_internal = "The Killing Tree"
+		model = "models/workshop/player/items/sniper/dec20_killing_tree/dec20_killing_tree.mdl"
+		image = "backpack/workshop/player/items/sniper/dec20_killing_tree/dec20_killing_tree"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[31182] = {
 		name = "Helm Helm"
+		name_internal = "Helm Helm"
+		model = "models/workshop/player/items/demo/dec20_helm_helm/dec20_helm_helm.mdl"
+		image = "backpack/workshop/player/items/demo/dec20_helm_helm/dec20_helm_helm"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31183] = {
 		name = "Ballooniphones"
+		name_internal = "Ballooniphones"
+		model = "models/workshop/player/items/all_class/sum21_ballooniphones/sum21_ballooniphones_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum21_ballooniphones/sum21_ballooniphones"
 		paint = true
 	},
 	[31184] = {
 		name = "Manndatory Attire"
+		name_internal = "Manndatory Attire"
+		model = "models/workshop/player/items/all_class/sum21_manndatory_attire_style2/sum21_manndatory_attire_style2_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum21_manndatory_attire_style2/sum21_manndatory_attire_style2"
 		paint = true
 		styles = ["Hobbyist" "Specialist" "Generalist"]
 	},
 	[31185] = {
 		name = "Brim of Fire"
+		name_internal = "Brim of Fire"
+		model = "models/workshop/player/items/pyro/sum21_brim_of_fire/sum21_brim_of_fire.mdl"
+		image = "backpack/workshop/player/items/pyro/sum21_brim_of_fire/sum21_brim_of_fire"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31186] = {
 		name = "Reel Fly Hat"
+		name_internal = "Reel Fly Hat"
+		model = "models/workshop/player/items/pyro/sum21_reel_fly_hat/sum21_reel_fly_hat.mdl"
+		image = "backpack/workshop/player/items/pyro/sum21_reel_fly_hat/sum21_reel_fly_hat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31187] = {
 		name = "Hook, Line, and Cinder"
+		name_internal = "Hook Line and Cinder"
+		model = "models/workshop/player/items/pyro/sum21_hook_line_cinder/sum21_hook_line_cinder.mdl"
+		image = "backpack/workshop/player/items/pyro/sum21_hook_line_cinder/sum21_hook_line_cinder"
 		classes = [TF_CLASS_PYRO]
 	},
 	[31188] = {
 		name = "Water Waders"
+		name_internal = "Water Waders"
+		model = "models/workshop/player/items/pyro/sum21_water_waders/sum21_water_waders.mdl"
+		image = "backpack/workshop/player/items/pyro/sum21_water_waders/sum21_water_waders"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31189] = {
 		name = "The Sightliner"
+		name_internal = "The Sightliner"
+		model = "models/workshop/player/items/engineer/sum21_sightliner/sum21_sightliner.mdl"
+		image = "backpack/workshop/player/items/engineer/sum21_sightliner/sum21_sightliner"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31190] = {
 		name = "Snack Stack"
+		name_internal = "Snack Stack"
+		model = "models/workshop/player/items/heavy/sum21_snack_stack/sum21_snack_stack.mdl"
+		image = "backpack/workshop/player/items/heavy/sum21_snack_stack/sum21_snack_stack"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31191] = {
 		name = "Two Punch Mann"
+		name_internal = "Two Punch Mann"
+		model = "models/workshop/player/items/heavy/sum21_punchmann_style1/sum21_punchmann_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/sum21_punchmann_style1/sum21_punchmann_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["KGB" "GRU"]
 	},
 	[31192] = {
 		name = "Wild Brim Slouch"
+		name_internal = "Wild Brim Slouch"
+		model = "models/workshop/player/items/sniper/sum21_wild_brim_slouch/sum21_wild_brim_slouch.mdl"
+		image = "backpack/workshop/player/items/sniper/sum21_wild_brim_slouch/sum21_wild_brim_slouch"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31193] = {
 		name = "Crocodile Dandy"
+		name_internal = "Crocodile Dandy"
+		model = "models/workshop/player/items/sniper/sum21_crocodile_dandy/sum21_crocodile_dandy.mdl"
+		image = "backpack/workshop/player/items/sniper/sum21_crocodile_dandy/sum21_crocodile_dandy"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31194] = {
 		name = "Crustaceous Cowl"
+		name_internal = "Crustaceous Cowl"
+		model = "models/workshop/player/items/spy/sum21_crustaceous_cowl/sum21_crustaceous_cowl.mdl"
+		image = "backpack/workshop/player/items/spy/sum21_crustaceous_cowl/sum21_crustaceous_cowl"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31195] = {
 		name = "Fast Food"
+		name_internal = "Fast Food"
+		model = "models/workshop/player/items/scout/sum21_fast_food/sum21_fast_food.mdl"
+		image = "backpack/workshop/player/items/scout/sum21_fast_food/sum21_fast_food"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31196] = {
 		name = "Meal Dealer"
+		name_internal = "Meal Dealer"
+		model = "models/workshop/player/items/scout/sum21_meal_dealer/sum21_meal_dealer.mdl"
+		image = "backpack/workshop/player/items/scout/sum21_meal_dealer/sum21_meal_dealer"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31197] = {
 		name = "Fried Batter"
+		name_internal = "Fried Batter"
+		model = "models/workshop/player/items/scout/sum21_fried_batter/sum21_fried_batter.mdl"
+		image = "backpack/workshop/player/items/scout/sum21_fried_batter/sum21_fried_batter"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31198] = {
 		name = "Roaming Roman"
+		name_internal = "Roaming Roman"
+		model = "models/workshop/player/items/soldier/sum21_roaming_roman/sum21_roaming_roman.mdl"
+		image = "backpack/workshop/player/items/soldier/sum21_roaming_roman/sum21_roaming_roman"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31199] = {
 		name = "The Panisher"
+		name_internal = "The Panisher"
+		model = "models/workshop/player/items/soldier/sum21_panisher/sum21_panisher.mdl"
+		image = "backpack/workshop/player/items/soldier/sum21_panisher/sum21_panisher"
 		classes = [TF_CLASS_SOLDIER]
 	},
 	[31200] = {
 		name = "Thousand-Yard Stare"
+		name_internal = "Thousand-Yard Stare"
+		model = "models/workshop/player/items/soldier/sum21_thousand_yard_style2/sum21_thousand_yard_style2.mdl"
+		image = "backpack/workshop/player/items/soldier/sum21_thousand_yard_style1/sum21_thousand_yard_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Awed" "Shocked"]
 	},
 	[31208] = {
 		name = "Creepy Crawlers"
+		name_internal = "Creepy Crawlers"
+		model = "models/workshop/player/items/all_class/hwn2021_creepy_crawlies/hwn2021_creepy_crawlies_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_creepy_crawlies/hwn2021_creepy_crawlies"
 		paint = true
 		styles = ["Redback" "False Widow"]
 	},
 	[31209] = {
 		name = "Spooky Head-Bouncers"
+		name_internal = "Spooky Head-Bouncers"
+		model = "models/workshop/player/items/all_class/hwn2021_spooky_head_bouncers/hwn2021_spooky_head_bouncers_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_spooky_head_bouncers/hwn2021_spooky_head_bouncers"
 		paint = true
 		styles = ["Monoculus" "Pumpkin Pouncers" "Floating Phantoms"]
 	},
 	[31210] = {
 		name = "Towering Patch of Pumpkins"
+		name_internal = "Towering Patch of Pumpkins"
+		model = "models/workshop/player/items/all_class/hwn2021_towering_patch/hwn2021_towering_patch_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_towering_patch/hwn2021_towering_patch"
 		paint = true
 	},
 	[31211] = {
 		name = "Twisted Topper"
+		name_internal = "Twisted Topper"
+		model = "models/workshop/player/items/all_class/hwn2021_twisted_topper/hwn2021_twisted_topper_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_twisted_topper/hwn2021_twisted_topper"
 		paint = true
 		styles = ["Bow Tie" "No Bow Tie"]
 	},
 	[31212] = {
 		name = "Beanie the All-Gnawing"
+		name_internal = "Beanie The All-Gnawing"
+		model = "models/workshop/player/items/all_class/hwn2021_beanie_all_gnawing/hwn2021_beanie_all_gnawing_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_beanie_all_gnawing/hwn2021_beanie_all_gnawing"
 		paint = true
 	},
 	[31213] = {
 		name = "Eyequarium"
+		name_internal = "Eyequarium"
+		model = "models/workshop/player/items/all_class/hwn2021_eyequarium/hwn2021_eyequarium_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_eyequarium/hwn2021_eyequarium"
 		paint = true
 		styles = ["Spring Water (No Hat)" "Soda Pop (No Hat)" "Spring Water" "Soda Pop"]
 	},
 	[31214] = {
 		name = "Second-Head Headwear"
+		name_internal = "Second-head Headwear"
+		model = "models/workshop/player/items/all_class/hwn2021_second_headwear/hwn2021_second_headwear_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_second_headwear/hwn2021_second_headwear"
 		paint = true
 		styles = ["Bowler" "Top Hat"]
 	},
 	[31215] = {
 		name = "Alakablamicon"
+		name_internal = "Alakablamicon"
+		model = "models/workshop/player/items/all_class/hwn2021_alakablamicon/hwn2021_alakablamicon_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_alakablamicon/hwn2021_alakablamicon"
 		paint = true
 	},
 	[31216] = {
 		name = "Hat Outta Hell"
+		name_internal = "Hat Outta Hell"
+		model = "models/workshop/player/items/all_class/hwn2021_hat_outta_hell/hwn2021_hat_outta_hell_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_hat_outta_hell/hwn2021_hat_outta_hell"
 		paint = true
 		styles = ["Damned" "Demon" "Devil"]
 	},
 	[31217] = {
 		name = "Goalkeeper"
+		name_internal = "Goalkeeper"
+		model = "models/workshop/player/items/all_class/hwn2021_goalkeeper/hwn2021_goalkeeper_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_goalkeeper/hwn2021_goalkeeper"
 		paint = true
 		styles = ["Slasher (No Hat)" "Slapshot (No Hat)" "Slasher" "Slapshot"]
 	},
 	[31218] = {
 		name = "The Bone Cone"
+		name_internal = "The Bone Cone"
+		model = "models/workshop/player/items/all_class/hwn2021_bone_cone/hwn2021_bone_cone_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_bone_cone/hwn2021_bone_cone"
 		paint = true
 		styles = ["Bone Chilling" "Skin Aching"]
 	},
 	[31219] = {
 		name = "The Scariest Mask EVER"
+		name_internal = "The Scariest Mask EVER"
+		model = "models/workshop/player/items/all_class/hwn2021_scariest_mask/hwn2021_scariest_mask_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_scariest_mask/hwn2021_scariest_mask"
 		styles = ["No Hat" "Hat"]
 	},
 	[31220] = {
 		name = "Trickster's Treats"
+		name_internal = "Trickster's Treats"
+		model = "models/workshop/player/items/all_class/hwn2021_tricksters_treats/hwn2021_tricksters_treats_soldier.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_tricksters_treats/hwn2021_tricksters_treats"
 		classes = [TF_CLASS_SOLDIER TF_CLASS_DEMOMAN TF_CLASS_PYRO]
 		paint = true
 		styles = ["Naughty" "Nice"]
 	},
 	[31221] = {
 		name = "Wandering Wraith"
+		name_internal = "Wandering Wraith"
+		model = "models/workshop/player/items/pyro/hwn2021_wandering_wraith/hwn2021_wandering_wraith.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2021_wandering_wraith/hwn2021_wandering_wraith"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31222] = {
 		name = "Smiling Somen"
+		name_internal = "Smiling Somen"
+		model = "models/workshop/player/items/pyro/hwn2021_smiling_somen/hwn2021_smiling_somen.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2021_smiling_somen/hwn2021_smiling_somen"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31223] = {
 		name = "The Hook, Line, and Thinker"
+		name_internal = "The Hook, Line, and Thinker"
+		model = "models/workshop/player/items/engineer/hwn2021_hook_line_thinker/hwn2021_hook_line_thinker.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2021_hook_line_thinker/hwn2021_hook_line_thinker"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[31224] = {
 		name = "Optic Nerve"
+		name_internal = "Optic Nerve"
+		model = "models/workshop/player/items/medic/hwn2021_optic_nerve/hwn2021_optic_nerve.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2021_optic_nerve/hwn2021_optic_nerve"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31225] = {
 		name = "Death Stare"
+		name_internal = "Death Stare"
+		model = "models/workshop/player/items/demo/hwn2021_death_stare/hwn2021_death_stare.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2021_death_stare/hwn2021_death_stare"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31226] = {
 		name = "The Corpse Carrier"
+		name_internal = "The Corpse Carrier"
+		model = "models/workshop/player/items/scout/hwn2021_corpse_carrier/hwn2021_corpse_carrier.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2021_corpse_carrier/hwn2021_corpse_carrier"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[31227] = {
 		name = "Gruesome Gourd"
+		name_internal = "Gruesome Gourd"
+		model = "models/workshop/player/items/spy/hwn2021_gruesome_gourd/hwn2021_gruesome_gourd.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2021_gruesome_gourd/hwn2021_gruesome_gourd"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Paint: Flesh" "Paint: Glow"]
 	},
 	[31228] = {
 		name = "Poopy Doe"
+		name_internal = "Poopy Doe"
+		model = "models/workshop/player/items/soldier/hwn2021_poopy_doe/hwn2021_poopy_doe.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2021_poopy_doe/hwn2021_poopy_doe"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31229] = {
 		name = "Batter's Beak"
+		name_internal = "Batter's Beak"
+		model = "models/workshop/player/items/scout/hwn2021_batters_beak/hwn2021_batters_beak.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2021_batters_beak/hwn2021_batters_beak"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31230] = {
 		name = "War Dog"
+		name_internal = "War Dog"
+		model = "models/workshop/player/items/soldier/hwn2021_war_dog/hwn2021_war_dog.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2021_war_dog/hwn2021_war_dog"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["No Helmet" "Helmet"]
 	},
 	[31231] = {
 		name = "The Miami Rooster"
+		name_internal = "The Miami Rooster"
+		model = "models/workshop/player/items/pyro/hwn2021_miami_rooster/hwn2021_miami_rooster.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2021_miami_rooster/hwn2021_miami_rooster"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31232] = {
 		name = "Computron 5000"
+		name_internal = "Computron 5000"
+		model = "models/workshop/player/items/all_class/hwn2021_computron/hwn2021_computron_scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2021_computron/hwn2021_computron"
 		classes = [TF_CLASS_SCOUT TF_CLASS_MEDIC TF_CLASS_HEAVY TF_CLASS_SPY TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31241] = {
 		name = "El Fiestibrero"
+		name_internal = "El Fiestibrero"
+		model = "models/workshop/player/items/all_class/dec21_el_fiestibrero/dec21_el_fiestibrero_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_el_fiestibrero/dec21_el_fiestibrero"
 		paint = true
 	},
 	[31242] = {
 		name = "Gnome Dome"
+		name_internal = "Gnome Dome"
+		model = "models/workshop/player/items/all_class/dec21_gnome_dome/dec21_gnome_dome_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_gnome_dome/dec21_gnome_dome"
 		paint = true
 		styles = ["Smissmas" "Yard" "Classic" "Elf"]
 	},
 	[31243] = {
 		name = "Jolly Jester"
+		name_internal = "Jolly Jester"
+		model = "models/workshop/player/items/all_class/dec21_jolly_jester/dec21_jolly_jester_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_jolly_jester/dec21_jolly_jester"
 		paint = true
 	},
 	[31244] = {
 		name = "Seasonal Spring"
+		name_internal = "Seasonal Spring"
+		model = "models/workshop/player/items/all_class/dec21_seasonal_spring/dec21_seasonal_spring_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_seasonal_spring/dec21_seasonal_spring"
 		paint = true
 	},
 	[31245] = {
 		name = "Oh Deer!"
+		name_internal = "Oh Deer!"
+		model = "models/workshop/player/items/all_class/dec21_oh_deer/dec21_oh_deer_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_oh_deer/dec21_oh_deer"
 		paint = true
 		styles = ["Nose" "Noseless"]
 	},
 	[31246] = {
 		name = "The Giftcrafter"
+		name_internal = "The Giftcrafter"
+		model = "models/workshop/player/items/all_class/dec21_giftcrafter/dec21_giftcrafter_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_giftcrafter/dec21_giftcrafter"
 		paint = true
 	},
 	[31247] = {
 		name = "Merry Cone"
+		name_internal = "Merry Cone"
+		model = "models/workshop/player/items/all_class/dec21_merry_cone/dec21_merry_cone_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_merry_cone/dec21_merry_cone"
 		paint = true
 	},
 	[31248] = {
 		name = "Brain Cane"
+		name_internal = "Brain Cane"
+		model = "models/workshop/player/items/all_class/dec21_brain_cane/dec21_brain_cane_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_brain_cane/dec21_brain_cane"
 		paint = true
 	},
 	[31249] = {
 		name = "Reindoonihorns"
+		name_internal = "Reindoonihorns"
+		model = "models/workshop/player/items/all_class/dec21_reindoonihorns/dec21_reindoonihorns_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_reindoonihorns/dec21_reindoonihorns"
 		paint = true
 	},
 	[31250] = {
 		name = "Cozy Catchers"
+		name_internal = "Cozy Catchers"
+		model = "models/workshop/player/items/all_class/dec21_cozy_catchers/dec21_cozy_catchers_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_cozy_catchers/dec21_cozy_catchers"
 		paint = true
 	},
 	[31251] = {
 		name = "Ominous Offering"
+		name_internal = "Ominous Offering"
+		model = "models/workshop/player/items/all_class/dec21_ominous_offering/dec21_ominous_offering_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_ominous_offering/dec21_ominous_offering"
 		paint = true
 	},
 	[31252] = {
 		name = "Festive Frames"
+		name_internal = "Festive Frames"
+		model = "models/workshop/player/items/all_class/dec21_festive_frames/dec21_festive_frames_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_festive_frames/dec21_festive_frames"
 		paint = true
 		styles = ["Festive (No Hat)" "Festivized (No Hat)" "Festive (Hat)" "Festivized (Hat)"]
 	},
 	[31253] = {
 		name = "Elf Ignition"
+		name_internal = "Elf Ignition"
+		model = "models/workshop/player/items/pyro/dec21_elf_ignition/dec21_elf_ignition.mdl"
+		image = "backpack/workshop/player/items/pyro/dec21_elf_ignition/dec21_elf_ignition"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Untucked" "Tucked"]
 	},
 	[31254] = {
 		name = "Train of Thought"
+		name_internal = "Train Of Thought"
+		model = "models/workshop/player/items/engineer/dec21_train_of_thought/dec21_train_of_thought.mdl"
+		image = "backpack/workshop/player/items/engineer/dec21_train_of_thought/dec21_train_of_thought"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["North Pole" "Southern"]
 	},
 	[31255] = {
 		name = "Mooshanka"
+		name_internal = "Mooshanka"
+		model = "models/workshop/player/items/heavy/dec21_mooshanka/dec21_mooshanka.mdl"
+		image = "backpack/workshop/player/items/heavy/dec21_mooshanka/dec21_mooshanka"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31256] = {
 		name = "Elf Defense"
+		name_internal = "Elf Defence"
+		model = "models/workshop/player/items/soldier/dec21_elf_defence/dec21_elf_defence.mdl"
+		image = "backpack/workshop/player/items/soldier/dec21_elf_defence/dec21_elf_defence"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31257] = {
 		name = "Festive Cover-Up"
+		name_internal = "Festive Cover-Up"
+		model = "models/workshop/player/items/spy/dec21_festive_cover_up/dec21_festive_cover_up.mdl"
+		image = "backpack/workshop/player/items/spy/dec21_festive_cover_up/dec21_festive_cover_up"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31258] = {
 		name = "Seasonal Employee"
+		name_internal = "Seasonal Employee"
+		model = "models/workshop/player/items/scout/dec21_seasonal_employee/dec21_seasonal_employee.mdl"
+		image = "backpack/workshop/player/items/scout/dec21_seasonal_employee/dec21_seasonal_employee"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["North Pole" "South Pole"]
 	},
 	[31259] = {
 		name = "Hat Chocolate"
+		name_internal = "Hat Chocolate"
+		model = "models/workshop/player/items/all_class/dec21_hat_chocolate/dec21_hat_chocolate_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_hat_chocolate/dec21_hat_chocolate"
 		paint = true
 	},
 	[31260] = {
 		name = "Elf-Made Bandanna"
+		name_internal = "Elf-Made Bandanna"
+		model = "models/workshop/player/items/all_class/dec21_elf_made_bandanna/dec21_elf_made_bandanna_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec21_elf_made_bandanna/dec21_elf_made_bandanna"
 		paint = true
 	},
 	[31261] = {
 		name = "The Decorated Veteran"
+		name_internal = "The Decorated Veteran"
+		model = "models/workshop/player/items/all_class/sum22_decorated_veteran/sum22_decorated_veteran_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum22_decorated_veteran/sum22_decorated_veteran"
 		paint = true
 		styles = ["Elite" "Commando" "Civilian"]
 	},
 	[31262] = {
 		name = "Undercover Brolly"
+		name_internal = "Undercover Brolly"
+		model = "models/workshop/player/items/all_class/sum22_undercover_brolly/sum22_undercover_brolly_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum22_undercover_brolly/sum22_undercover_brolly"
 		paint = true
 	},
 	[31263] = {
 		name = "Kazan Karategi"
+		name_internal = "Kazan Karategi"
+		model = "models/workshop/player/items/pyro/sum22_kazan_karategi/sum22_kazan_karategi.mdl"
+		image = "backpack/workshop/player/items/pyro/sum22_kazan_karategi/sum22_kazan_karategi"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31264] = {
 		name = "The Western Wraps"
+		name_internal = "The Western Wraps"
+		model = "models/workshop/player/items/engineer/sum22_western_wraps/sum22_western_wraps.mdl"
+		image = "backpack/workshop/player/items/engineer/sum22_western_wraps/sum22_western_wraps"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31265] = {
 		name = "Soda Cap"
+		name_internal = "Soda Cap"
+		model = "models/workshop/player/items/medic/sum22_soda_cap/sum22_soda_cap.mdl"
+		image = "backpack/workshop/player/items/medic/sum22_soda_cap/sum22_soda_cap"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Moustache" "Clean-Shaven"]
 	},
 	[31266] = {
 		name = "Fizzy Pharmacist"
+		name_internal = "Fizzy Pharmacist"
+		model = "models/workshop/player/items/medic/sum22_fizzy_pharmacist/sum22_fizzy_pharmacist.mdl"
+		image = "backpack/workshop/player/items/medic/sum22_fizzy_pharmacist/sum22_fizzy_pharmacist"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Bubbly" "Flat"]
 	},
 	[31267] = {
 		name = "Squatter's Right"
+		name_internal = "Squatter's Right"
+		model = "models/workshop/player/items/heavy/sum22_squatters_right/sum22_squatters_right.mdl"
+		image = "backpack/workshop/player/items/heavy/sum22_squatters_right/sum22_squatters_right"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Plaid" "Leather"]
 	},
 	[31268] = {
 		name = "Combat Casual"
+		name_internal = "Combat Casual"
+		model = "models/workshop/player/items/heavy/sum22_combat_casual/sum22_combat_casual.mdl"
+		image = "backpack/workshop/player/items/heavy/sum22_combat_casual/sum22_combat_casual"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Plaid" "Leather"]
 	},
 	[31269] = {
 		name = "Rocko"
+		name_internal = "Rocko"
+		model = "models/workshop/player/items/sniper/sum22_rocko/sum22_rocko.mdl"
+		image = "backpack/workshop/player/items/sniper/sum22_rocko/sum22_rocko"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31270] = {
 		name = "Tropical Camo"
+		name_internal = "Tropical Camo"
+		model = "models/workshop/player/items/sniper/sum22_tropical_camo/sum22_tropical_camo.mdl"
+		image = "backpack/workshop/player/items/sniper/sum22_tropical_camo/sum22_tropical_camo"
 		classes = [TF_CLASS_SNIPER]
 		styles = ["Bold" "Bowling"]
 	},
 	[31271] = {
 		name = "Hawaiian Hunter"
+		name_internal = "Hawaiian Hunter"
+		model = "models/workshop/player/items/sniper/sum22_hawaiian_hunter/sum22_hawaiian_hunter.mdl"
+		image = "backpack/workshop/player/items/sniper/sum22_hawaiian_hunter/sum22_hawaiian_hunter"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Bold" "Boring"]
 	},
 	[31272] = {
 		name = "The Lawnmaker"
+		name_internal = "The Lawnmaker"
+		model = "models/workshop/player/items/engineer/sum22_lawnmaker/sum22_lawnmaker.mdl"
+		image = "backpack/workshop/player/items/engineer/sum22_lawnmaker/sum22_lawnmaker"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Hobby" "Job"]
 	},
 	[31273] = {
 		name = "Head Banger"
+		name_internal = "Head Banger"
+		model = "models/workshop/player/items/demo/sum22_head_banger/sum22_head_banger.mdl"
+		image = "backpack/workshop/player/items/demo/sum22_head_banger/sum22_head_banger"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31274] = {
 		name = "The Hawaiian Hangover"
+		name_internal = "The Hawaiian Hangover"
+		model = "models/workshop/player/items/demo/sum22_hawaiian_hangover/sum22_hawaiian_hangover.mdl"
+		image = "backpack/workshop/player/items/demo/sum22_hawaiian_hangover/sum22_hawaiian_hangover"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["No Grenades" "Grenades"]
 	},
 	[31275] = {
 		name = "Barefoot Brawler"
+		name_internal = "Barefoot Brawler"
+		model = "models/workshop/player/items/demo/sum22_barefoot_brawler/sum22_barefoot_brawler.mdl"
+		image = "backpack/workshop/player/items/demo/sum22_barefoot_brawler/sum22_barefoot_brawler"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31276] = {
 		name = "The Chaser"
+		name_internal = "The Chaser"
+		model = "models/workshop/player/items/soldier/sum22_chaser/sum22_chaser.mdl"
+		image = "backpack/workshop/player/items/soldier/sum22_chaser/sum22_chaser"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["No Grenades" "Grenades"]
 	},
 	[31277] = {
 		name = "The Detective"
+		name_internal = "The Detective"
+		model = "models/workshop/player/items/soldier/sum22_detective/sum22_detective.mdl"
+		image = "backpack/workshop/player/items/soldier/sum22_detective/sum22_detective"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Paint Hair" "Paint Hat"]
 	},
 	[31278] = {
 		name = "Tactical Turtleneck"
+		name_internal = "Tactical Turtleneck"
+		model = "models/workshop/player/items/spy/sum22_tactical_turtleneck/sum22_tactical_turtleneck.mdl"
+		image = "backpack/workshop/player/items/spy/sum22_tactical_turtleneck/sum22_tactical_turtleneck"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31279] = {
 		name = "Night Vision Gawkers"
+		name_internal = "Night Vision Gawkers"
+		model = "models/workshop/player/items/spy/sum22_night_vision_gawkers/sum22_night_vision_gawkers.mdl"
+		image = "backpack/workshop/player/items/spy/sum22_night_vision_gawkers/sum22_night_vision_gawkers"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31280] = {
 		name = "Monsieur Grenouille"
+		name_internal = "Monsieur Grenouille"
+		model = "models/workshop/player/items/spy/sum22_monsieur_grenouille/sum22_monsieur_grenouille.mdl"
+		image = "backpack/workshop/player/items/spy/sum22_monsieur_grenouille/sum22_monsieur_grenouille"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Paint Frog" "Paint Hat"]
 	},
 	[31281] = {
 		name = "The Ripped Rider"
+		name_internal = "The Ripped Rider"
+		model = "models/workshop/player/items/scout/sum22_ripped_rider/sum22_ripped_rider.mdl"
+		image = "backpack/workshop/player/items/scout/sum22_ripped_rider/sum22_ripped_rider"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31282] = {
 		name = "The Throttlehead"
+		name_internal = "The Throttlehead"
+		model = "models/workshop/player/items/scout/sum22_throttlehead/sum22_throttlehead.mdl"
+		image = "backpack/workshop/player/items/scout/sum22_throttlehead/sum22_throttlehead"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Glasses" "No Glasses"]
 	},
 	[31283] = {
 		name = "The Team Player"
+		name_internal = "The Team Player"
+		model = "models/workshop/player/items/scout/sum22_team_player/sum22_team_player.mdl"
+		image = "backpack/workshop/player/items/scout/sum22_team_player/sum22_team_player"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31284] = {
 		name = "Boston Brain Bucket"
+		name_internal = "Boston Brain Bucket"
+		model = "models/workshop/player/items/scout/sum22_brain_bucket_style4/sum22_brain_bucket_style4.mdl"
+		image = "backpack/workshop/player/items/scout/sum22_brain_bucket/sum22_brain_bucket"
 		classes = [TF_CLASS_SCOUT]
 		styles = ["Class Logo" "Baseball" "Bonk!" "Chicken" "Blank"]
 	},
 	[31285] = {
 		name = "Pest's Pads"
+		name_internal = "Pest's Pads"
+		model = "models/workshop/player/items/scout/sum22_pests_pads_style4/sum22_pests_pads_style4.mdl"
+		image = "backpack/workshop/player/items/scout/sum22_pests_pads/sum22_pests_pads"
 		classes = [TF_CLASS_SCOUT]
 		styles = ["Class Logo" "Baseball" "Bonk!" "Chicken" "Blank"]
 	},
 	[31293] = {
 		name = "Beaten and Bruised"
+		name_internal = "Beaten and Bruised"
+		model = "models/workshop/player/items/all_class/hwn2022_beaten_bruised/hwn2022_beaten_bruised_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2022_beaten_bruised/hwn2022_beaten_bruised"
 		paint = true
 		styles = ["Too Young To Die" "Hey, Not Too Rough" "Hurt Me Plenty" "Ultra Violence" "Nightmare"]
 	},
 	[31294] = {
 		name = "Starlight Sorcerer"
+		name_internal = "Starlight Sorcerer"
+		model = "models/workshop/player/items/all_class/hwn2022_starlight_sorcerer/hwn2022_starlight_sorcerer_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2022_starlight_sorcerer/hwn2022_starlight_sorcerer"
 		paint = true
 		styles = ["Glasses" "No Glasses"]
 	},
 	[31295] = {
 		name = "The Onimann"
+		name_internal = "The Onimann"
+		model = "models/workshop/player/items/all_class/hwn2022_onimann/hwn2022_onimann_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2022_onimann/hwn2022_onimann"
 		paint = true
 		styles = ["Normal" "Shinobi" "Raging Demon"]
 	},
 	[31296] = {
 		name = "Propaniac"
+		name_internal = "Propaniac"
+		model = "models/workshop/player/items/pyro/hwn2022_propaniac/hwn2022_propaniac.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2022_propaniac/hwn2022_propaniac"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31297] = {
 		name = "Dustbowl Devil"
+		name_internal = "Dustbowl Devil"
+		model = "models/workshop/player/items/engineer/hwn2022_dustbowl_devil/hwn2022_dustbowl_devil.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2022_dustbowl_devil/hwn2022_dustbowl_devil"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31298] = {
 		name = "More Gun Marshal"
+		name_internal = "More Gun Marshal"
+		model = "models/workshop/player/items/engineer/hwn2022_more_gun_marshal/hwn2022_more_gun_marshal.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2022_more_gun_marshal/hwn2022_more_gun_marshal"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Wrangler" "Tangler" "Strangler" "Mangler"]
 	},
 	[31299] = {
 		name = "The Lavish Labwear"
+		name_internal = "The Lavish Labwear"
+		model = "models/workshop/player/items/medic/hwn2022_lavish_labwear/hwn2022_lavish_labwear.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2022_lavish_labwear/hwn2022_lavish_labwear"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31300] = {
 		name = "Victorian Villainy"
+		name_internal = "Victorian Villainy"
+		model = "models/workshop/player/items/medic/hwn2022_victorian_villainy/hwn2022_victorian_villainy.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2022_victorian_villainy/hwn2022_victorian_villainy"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Deranged Doctor" "Phony Physician" "Baleful Barber"]
 	},
 	[31301] = {
 		name = "The Turncoat"
+		name_internal = "The Turncoat"
+		model = "models/workshop/player/items/spy/hwn2022_turncoat/hwn2022_turncoat.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2022_turncoat/hwn2022_turncoat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31302] = {
 		name = "The Imp's Imprint"
+		name_internal = "The Imp's Imprint"
+		model = "models/workshop/player/items/scout/hwn2022_imps_imprint/hwn2022_imps_imprint.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2022_imps_imprint/hwn2022_imps_imprint"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31303] = {
 		name = "The Masked Fiend"
+		name_internal = "The Masked Fiend"
+		model = "models/workshop/player/items/scout/hwn2022_masked_fiend/hwn2022_masked_fiend.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2022_masked_fiend/hwn2022_masked_fiend"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Headphones" "No Headphones"]
 	},
 	[31304] = {
 		name = "Horror Shawl"
+		name_internal = "Horror Shawl"
+		model = "models/workshop/player/items/heavy/hwn2022_horror_shawl/hwn2022_horror_shawl.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2022_horror_shawl/hwn2022_horror_shawl"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Mask" "No Mask"]
 	},
 	[31305] = {
 		name = "Road Rage"
+		name_internal = "Road Rage"
+		model = "models/workshop/player/items/heavy/hwn2022_road_rage/hwn2022_road_rage.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2022_road_rage/hwn2022_road_rage"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31306] = {
 		name = "Road Block"
+		name_internal = "Road Block"
+		model = "models/workshop/player/items/heavy/hwn2022_road_block/hwn2022_road_block.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2022_road_block/hwn2022_road_block"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31307] = {
 		name = "Alcoholic Automaton"
+		name_internal = "Alcoholic Automaton"
+		model = "models/workshop/player/items/demo/hwn2022_alcoholic_automaton/hwn2022_alcoholic_automaton.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2022_alcoholic_automaton/hwn2022_alcoholic_automaton"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Spark" "Steam"]
 	},
 	[31308] = {
 		name = "Nightbane Brim"
+		name_internal = "Nightbane Brim"
+		model = "models/workshop/player/items/demo/hwn2022_nightbane_brim/hwn2022_nightbane_brim.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2022_nightbane_brim/hwn2022_nightbane_brim"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[31309] = {
 		name = "Bombard Brigadier"
+		name_internal = "Bombard Brigadier"
+		model = "models/workshop/player/items/demo/hwn2022_bombard_brigadier/hwn2022_bombard_brigadier.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2022_bombard_brigadier/hwn2022_bombard_brigadier"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Fusilier" "Grenadier"]
 	},
 	[31310] = {
 		name = "Firearm Protector"
+		name_internal = "Firearm Protector"
+		model = "models/workshop/player/items/soldier/hwn2022_firearm_protector/hwn2022_firearm_protector.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2022_firearm_protector/hwn2022_firearm_protector"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31311] = {
 		name = "Safety Stripes"
+		name_internal = "Safety Stripes"
+		model = "models/workshop/player/items/soldier/hwn2022_safety_stripes/hwn2022_safety_stripes.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2022_safety_stripes/hwn2022_safety_stripes"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31312] = {
 		name = "Cranial Cowl"
+		name_internal = "Cranial Cowl"
+		model = "models/workshop/player/items/soldier/hwn2022_cranial_cowl/hwn2022_cranial_cowl.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2022_cranial_cowl/hwn2022_cranial_cowl"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Bones" "Boneless"]
 	},
 	[31313] = {
 		name = "Headhunter's Brim"
+		name_internal = "Headhunter's Brim"
+		model = "models/workshop/player/items/sniper/hwn2022_headhunters_brim/hwn2022_headhunters_brim.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2022_headhunters_brim/hwn2022_headhunters_brim"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31314] = {
 		name = "Hunting Cloak"
+		name_internal = "Hunting Cloak"
+		model = "models/workshop/player/items/sniper/hwn2022_hunting_cloak/hwn2022_hunting_cloak.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2022_hunting_cloak/hwn2022_hunting_cloak"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31315] = {
 		name = "Misha's Maw"
+		name_internal = "Misha's Maw"
+		model = "models/workshop/player/items/heavy/hwn2022_mishas_maw/hwn2022_mishas_maw.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2022_mishas_maw/hwn2022_mishas_maw"
 		classes = [TF_CLASS_HEAVY]
 		styles = ["Siberian" "Polar"]
 	},
 	[31316] = {
 		name = "Cabinet Mann"
+		name_internal = "Cabinet Mann"
+		model = "models/workshop/player/items/engineer/hwn2022_cabinet_mann/hwn2022_cabinet_mann.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2022_cabinet_mann/hwn2022_cabinet_mann"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31317] = {
 		name = "The Fire Breather"
+		name_internal = "The Fire Breather"
+		model = "models/workshop/player/items/pyro/hwn2022_fire_breather/hwn2022_fire_breather.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2022_fire_breather/hwn2022_fire_breather"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31318] = {
 		name = "Magical Mount"
+		name_internal = "Magical Mount"
+		model = "models/workshop/player/items/pyro/hwn2022_magical_mount/hwn2022_magical_mount.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2022_magical_mount/hwn2022_magical_mount"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31319] = {
 		name = "The Pony Express"
+		name_internal = "The Pony Express"
+		model = "models/workshop/player/items/engineer/hwn2022_pony_express/hwn2022_pony_express.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2022_pony_express/hwn2022_pony_express"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31323] = {
 		name = "Trapper's Flap"
+		name_internal = "Trapper's Flap"
+		model = "models/workshop/player/items/all_class/dec22_trappers_flap_style1/dec22_trappers_flap_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec22_trappers_flap_style1/dec22_trappers_flap_style1"
 		paint = true
 		styles = ["Wool Dye For" "To Dye Fur"]
 	},
 	[31324] = {
 		name = "Battle Bear"
+		name_internal = "Battle Bear"
+		model = "models/workshop/player/items/all_class/dec22_battle_bear_style1/dec22_battle_bear_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec22_battle_bear_style1/dec22_battle_bear_style1"
 		paint = true
 		styles = ["Flair" "Bare"]
 	},
 	[31325] = {
 		name = "Colonel Kringle"
+		name_internal = "Colonel Kringle"
+		model = "models/workshop/player/items/all_class/dec22_colonel_kringle/dec22_colonel_kringle_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec22_colonel_kringle/dec22_colonel_kringle"
 		paint = true
 	},
 	[31326] = {
 		name = "Lumbercap"
+		name_internal = "Lumbercap"
+		model = "models/workshop/player/items/all_class/dec22_lumbercap/dec22_lumbercap_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec22_lumbercap/dec22_lumbercap"
 		paint = true
 	},
 	[31327] = {
 		name = "Festive Rack"
+		name_internal = "Festive Rack"
+		model = "models/workshop/player/items/all_class/dec22_festive_rack_style1/dec22_festive_rack_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec22_festive_rack_style1/dec22_festive_rack_style1"
 		paint = true
 		styles = ["Normal" "Paintable Lights"]
 	},
 	[31328] = {
 		name = "Firebrand"
+		name_internal = "Firebrand"
+		model = "models/workshop/player/items/pyro/dec22_firebrand/dec22_firebrand.mdl"
+		image = "backpack/workshop/player/items/pyro/dec22_firebrand/dec22_firebrand"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31329] = {
 		name = "Partizan"
+		name_internal = "Partizan"
+		model = "models/workshop/player/items/pyro/dec22_partizan/dec22_partizan.mdl"
+		image = "backpack/workshop/player/items/pyro/dec22_partizan/dec22_partizan"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31331] = {
 		name = "The Soft Hard Hat"
+		name_internal = "The Soft Hard Hat"
+		model = "models/workshop/player/items/engineer/dec22_soft_hard_hat/dec22_soft_hard_hat.mdl"
+		image = "backpack/workshop/player/items/engineer/dec22_soft_hard_hat/dec22_soft_hard_hat"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31332] = {
 		name = "The Cool Warm Sweater"
+		name_internal = "The Cool Warm Sweater"
+		model = "models/workshop/player/items/engineer/dec22_cool_warm_sweater_style1/dec22_cool_warm_sweater_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/dec22_cool_warm_sweater_style1/dec22_cool_warm_sweater_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Normal" "Under Overalls"]
 	},
 	[31333] = {
 		name = "Arctic Mole"
+		name_internal = "Arctic Mole"
+		model = "models/workshop/player/items/engineer/dec22_arctic_mole_style1/dec22_arctic_mole_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/dec22_arctic_mole_style1/dec22_arctic_mole_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Paint Hat" "Paint Fur" "Paint Eyes"]
 	},
 	[31334] = {
 		name = "Underminer's Overcoat"
+		name_internal = "Underminer's Overcoat"
+		model = "models/workshop/player/items/engineer/dec22_underminers_style1/dec22_underminers_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/dec22_underminers_style1/dec22_underminers_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Paint Sweater" "Paint All" "No Sweater"]
 	},
 	[31335] = {
 		name = "Bulb Bonnet"
+		name_internal = "Bulb Bonnet"
+		model = "models/workshop/player/items/soldier/dec22_bulb_bonnet_style1/dec22_bulb_bonnet_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/dec22_bulb_bonnet_style1/dec22_bulb_bonnet_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Festive" "Blank"]
 	},
 	[31336] = {
 		name = "Cold Blooded Coat"
+		name_internal = "Cold Blooded Coat"
+		model = "models/workshop/player/items/spy/dec22_cold_blooded_coat/dec22_cold_blooded_coat.mdl"
+		image = "backpack/workshop/player/items/spy/dec22_cold_blooded_coat/dec22_cold_blooded_coat"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31337] = {
 		name = "Frostbite Bonnet"
+		name_internal = "Frostbite Bonnet"
+		model = "models/workshop/player/items/spy/dec22_frostbite_bonnet/dec22_frostbite_bonnet.mdl"
+		image = "backpack/workshop/player/items/spy/dec22_frostbite_bonnet/dec22_frostbite_bonnet"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31338] = {
 		name = "Infiltrator's Insulation"
+		name_internal = "Infiltrator's Insulation"
+		model = "models/workshop/player/items/spy/dec22_infiltrators_insulation/dec22_infiltrators_insulation.mdl"
+		image = "backpack/workshop/player/items/spy/dec22_infiltrators_insulation/dec22_infiltrators_insulation"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31339] = {
 		name = "Motley Sleeves"
+		name_internal = "Motley Sleeves"
+		model = "models/workshop/player/items/scout/dec22_motley_sleeves/dec22_motley_sleeves.mdl"
+		image = "backpack/workshop/player/items/scout/dec22_motley_sleeves/dec22_motley_sleeves"
 		classes = [TF_CLASS_SCOUT]
 	},
 	[31340] = {
 		name = "Crosshair Cardigan"
+		name_internal = "Crosshair Cardigan"
+		model = "models/workshop/player/items/sniper/dec22_crosshair_cardigan/dec22_crosshair_cardigan.mdl"
+		image = "backpack/workshop/player/items/sniper/dec22_crosshair_cardigan/dec22_crosshair_cardigan"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31341] = {
 		name = "Plaid Lad"
+		name_internal = "Plaid Lad"
+		model = "models/workshop/player/items/demo/dec22_plaid_lad_style1/dec22_plaid_lad_style1.mdl"
+		image = "backpack/workshop/player/items/demo/dec22_plaid_lad_style1/dec22_plaid_lad_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Bushy" "Burns" "Bland"]
 	},
 	[31342] = {
 		name = "Glasgow Bankroll"
+		name_internal = "Glasgow Bankroll"
+		model = "models/workshop/player/items/demo/dec22_glasgow_bankroll_style1/dec22_glasgow_bankroll_style1.mdl"
+		image = "backpack/workshop/player/items/demo/dec22_glasgow_bankroll_style1/dec22_glasgow_bankroll_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Plaid" "Pinstripes" "Plain"]
 	},
 	[31343] = {
 		name = "The Wooly Pulli"
+		name_internal = "The Wooly Pulli"
+		model = "models/workshop/player/items/medic/dec22_wooly_pulli_style1/dec22_wooly_pulli_style1.mdl"
+		image = "backpack/workshop/player/items/medic/dec22_wooly_pulli_style1/dec22_wooly_pulli_style1"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Festive" "Fashionable" "Formal"]
 	},
 	[31344] = {
 		name = "Oktoberfester"
+		name_internal = "Oktoberfester"
+		model = "models/workshop/player/items/medic/dec22_oktoberfester_style1/dec22_oktoberfester_style1.mdl"
+		image = "backpack/workshop/player/items/medic/dec22_oktoberfester_style1/dec22_oktoberfester_style1"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Paint Hat" "Paint Moustache" "No Moustache"]
 	},
 	[31345] = {
 		name = "Ol' Reliable"
+		name_internal = "Ol' Reliable"
+		model = "models/workshop/player/items/heavy/dec22_ol_reliable_style1/dec22_ol_reliable_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/dec22_ol_reliable_style1/dec22_ol_reliable_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Arctic" "Solid" "Taiga"]
 	},
 	[31346] = {
 		name = "Heavy Heating"
+		name_internal = "Heavy Heating"
+		model = "models/workshop/player/items/heavy/dec22_heavy_heating_style1/dec22_heavy_heating_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/dec22_heavy_heating_style1/dec22_heavy_heating_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Arctic" "Solid" "Taiga"]
 	},
 	[31355] = {
 		name = "Full Metal Helmet"
+		name_internal = "Full Metal Helmet"
+		model = "models/workshop/player/items/all_class/sum23_full_metal_helmet/sum23_full_metal_helmet_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum23_full_metal_helmet/sum23_full_metal_helmet"
 		paint = true
 	},
 	[31356] = {
 		name = "Brothers in Blues"
+		name_internal = "Brothers in Blues"
+		model = "models/workshop/player/items/all_class/sum23_brothers_blues/sum23_brothers_blues_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum23_brothers_blues/sum23_brothers_blues"
 		paint = true
 	},
 	[31357] = {
 		name = "The Flame Warrior"
+		name_internal = "The Flame Warrior"
+		model = "models/workshop/player/items/pyro/sum23_flamewarrior_style1/sum23_flamewarrior_style1.mdl"
+		image = "backpack/workshop/player/items/pyro/sum23_flamewarrior_style1/sum23_flamewarrior_style1"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[31358] = {
 		name = "The Soho Sleuth"
+		name_internal = "The Soho Sleuth"
+		model = "models/workshop/player/items/pyro/sum23_soho_sleuth/sum23_soho_sleuth.mdl"
+		image = "backpack/workshop/player/items/pyro/sum23_soho_sleuth/sum23_soho_sleuth"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31359] = {
 		name = "The Firestalker"
+		name_internal = "The Firestalker"
+		model = "models/workshop/player/items/pyro/sum23_firestalker/sum23_firestalker.mdl"
+		image = "backpack/workshop/player/items/pyro/sum23_firestalker/sum23_firestalker"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31360] = {
 		name = "The Glorious Gambeson"
+		name_internal = "The Glorious Gambeson"
+		model = "models/workshop/player/items/sniper/sum23_glorious_gambeson/sum23_glorious_gambeson.mdl"
+		image = "backpack/workshop/player/items/sniper/sum23_glorious_gambeson/sum23_glorious_gambeson"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31361] = {
 		name = "The Bushman"
+		name_internal = "The Bushman"
+		model = "models/workshop/player/items/sniper/sum23_bushman/sum23_bushman.mdl"
+		image = "backpack/workshop/player/items/sniper/sum23_bushman/sum23_bushman"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[31362] = {
 		name = "Cranium Cover"
+		name_internal = "Cranium Cover"
+		model = "models/workshop/player/items/sniper/sum23_cranium_cover_style1/sum23_cranium_cover_style1.mdl"
+		image = "backpack/workshop/player/items/sniper/sum23_cranium_cover_style1/sum23_cranium_cover_style1"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Visor Down" "Visor Up"]
 	},
 	[31363] = {
 		name = "Preventative Measure"
+		name_internal = "Preventative Measure"
+		model = "models/workshop/player/items/sniper/sum23_preventative_measure/sum23_preventative_measure.mdl"
+		image = "backpack/workshop/player/items/sniper/sum23_preventative_measure/sum23_preventative_measure"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[31364] = {
 		name = "Über-Wear"
+		name_internal = "Uber-Wear"
+		model = "models/workshop/player/items/medic/sum23_uber_wear/sum23_uber_wear.mdl"
+		image = "backpack/workshop/player/items/medic/sum23_uber_wear/sum23_uber_wear"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31365] = {
 		name = "Medical Emergency"
+		name_internal = "Medical Emergency"
+		model = "models/workshop/player/items/medic/sum23_medical_emergency/sum23_medical_emergency.mdl"
+		image = "backpack/workshop/player/items/medic/sum23_medical_emergency/sum23_medical_emergency"
 		classes = [TF_CLASS_MEDIC]
 	},
 	[31366] = {
 		name = "Brimmed Bootlegger"
+		name_internal = "Brimmed Bootlegger"
+		model = "models/workshop/player/items/scout/sum23_brimmed_bootlegger/sum23_brimmed_bootlegger.mdl"
+		image = "backpack/workshop/player/items/scout/sum23_brimmed_bootlegger/sum23_brimmed_bootlegger"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31367] = {
 		name = "Prohibition Opposition"
+		name_internal = "Prohibition Opposition"
+		model = "models/workshop/player/items/scout/sum23_prohibition_opposition/sum23_prohibition_opposition.mdl"
+		image = "backpack/workshop/player/items/scout/sum23_prohibition_opposition/sum23_prohibition_opposition"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31368] = {
 		name = "Brother Mann"
+		name_internal = "Brother Mann"
+		model = "models/workshop/player/items/heavy/sum23_brother_mann_style1/sum23_brother_mann_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/sum23_brother_mann_style1/sum23_brother_mann_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Style 1" "Style 2" "Style 3"]
 	},
 	[31369] = {
 		name = "Heavy Metal"
+		name_internal = "Heavy Metal"
+		model = "models/workshop/player/items/heavy/sum23_heavy_metal/sum23_heavy_metal.mdl"
+		image = "backpack/workshop/player/items/heavy/sum23_heavy_metal/sum23_heavy_metal"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31370] = {
 		name = "Hog Heels"
+		name_internal = "Hog Heels"
+		model = "models/workshop/player/items/heavy/sum23_hog_heels/sum23_hog_heels.mdl"
+		image = "backpack/workshop/player/items/heavy/sum23_hog_heels/sum23_hog_heels"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31371] = {
 		name = "The Blast Bowl"
+		name_internal = "The Blast Bowl"
+		model = "models/workshop/player/items/demo/sum23_blast_bowl_style1/sum23_blast_bowl_style1.mdl"
+		image = "backpack/workshop/player/items/demo/sum23_blast_bowl_style1/sum23_blast_bowl_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Sticky" "Jumper"]
 	},
 	[31372] = {
 		name = "The Shrapnel Shell"
+		name_internal = "The Shrapnel Shell"
+		model = "models/workshop/player/items/demo/sum23_shrapnel_shell_style1/sum23_shrapnel_shell_style1.mdl"
+		image = "backpack/workshop/player/items/demo/sum23_shrapnel_shell_style1/sum23_shrapnel_shell_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Sticky" "Jumper"]
 	},
 	[31373] = {
 		name = "Cargo Constructor"
+		name_internal = "Cargo Constructor"
+		model = "models/workshop/player/items/engineer/sum23_cargo_constructor/sum23_cargo_constructor.mdl"
+		image = "backpack/workshop/player/items/engineer/sum23_cargo_constructor/sum23_cargo_constructor"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31374] = {
 		name = "Hazard Handler"
+		name_internal = "Hazard Handler"
+		model = "models/workshop/player/items/engineer/sum23_hazard_handler_style1/sum23_hazard_handler_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/sum23_hazard_handler_style1/sum23_hazard_handler_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Style 1" "Style 2" "Style 3" "Style 4"]
 	},
 	[31375] = {
 		name = "Cranium Cooler"
+		name_internal = "Cranium Cooler"
+		model = "models/workshop/player/items/engineer/sum23_cranium_cooler/sum23_cranium_cooler.mdl"
+		image = "backpack/workshop/player/items/engineer/sum23_cranium_cooler/sum23_cranium_cooler"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31376] = {
 		name = "Cleaner's Cap"
+		name_internal = "Cleaner's Cap"
+		model = "models/workshop/player/items/spy/sum23_cleaners_cap_style1/sum23_cleaners_cap_style1.mdl"
+		image = "backpack/workshop/player/items/spy/sum23_cleaners_cap_style1/sum23_cleaners_cap_style1"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Paint Hat" "Paint All" "No Shades"]
 	},
 	[31377] = {
 		name = "Le Professionnel"
+		name_internal = "Le Professionnel"
+		model = "models/workshop/player/items/spy/sum23_professionnel_style1/sum23_professionnel_style1.mdl"
+		image = "backpack/workshop/player/items/spy/sum23_professionnel_style1/sum23_professionnel_style1"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Turtleneck" "Singlet"]
 	},
 	[31378] = {
 		name = "Close Quarters Cover"
+		name_internal = "Close Quarters Cover"
+		model = "models/workshop/player/items/soldier/sum23_close_quarters_style1/sum23_close_quarters_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/sum23_close_quarters_style1/sum23_close_quarters_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Caution (Paint Bandana)" "Caution (Paint Hair)" "Alert" "Evasion"]
 	},
 	[31379] = {
 		name = "Stealth Bomber"
+		name_internal = "Stealth Bomber"
+		model = "models/workshop/player/items/soldier/sum23_stealth_bomber_style1/sum23_stealth_bomber_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/sum23_stealth_bomber_style1/sum23_stealth_bomber_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Adaptive Camo" "Woodland Camo"]
 	},
 	[31383] = {
 		name = "Ludicrously Lunatic Lunon Fedora"
+		name_internal = "Ludicrously Lunatic Lunon Fedora"
+		model = "models/workshop/player/items/all_class/hwn2023_lunatic_fedora_neon/hwn2023_lunatic_fedora_neon_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2023_lunatic_fedora_neon/hwn2023_lunatic_fedora_neon"
 		paint = true
 	},
 	[31384] = {
 		name = "Demonic Dome"
+		name_internal = "Demonic Dome"
+		model = "models/workshop/player/items/all_class/hwn2023_demonic_dome/hwn2023_demonic_dome_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2023_demonic_dome/hwn2023_demonic_dome"
 		paint = true
 	},
 	[31385] = {
 		name = "The Mean Captain"
+		name_internal = "The Mean Captain"
+		model = "models/workshop/player/items/all_class/hwn2023_meancaptain/hwn2023_meancaptain_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2023_meancaptain/hwn2023_meancaptain"
 		paint = true
 	},
 	[31386] = {
 		name = "Clown's Cover-Up"
+		name_internal = "Clown's Cover-Up"
+		model = "models/workshop/player/items/all_class/hwn2023_clowns_coverup/hwn2023_clowns_coverup_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2023_clowns_coverup/hwn2023_clowns_coverup"
 		paint = true
 		styles = ["No Hat" "Hat"]
 	},
 	[31387] = {
 		name = "Shortness Of Breath"
+		name_internal = "Shortness Of Breath"
+		model = "models/workshop/player/items/soldier/hwn2023_shortness_breath/hwn2023_shortness_breath.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2023_shortness_breath/hwn2023_shortness_breath"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["No Helmet" "Helmet"]
 	},
 	[31388] = {
 		name = "Warlock's Warcloak"
+		name_internal = "Warlock's Warcloak"
+		model = "models/workshop/player/items/soldier/hwn2023_warlocks_warcloak/hwn2023_warlocks_warcloak.mdl"
+		image = "backpack/workshop/player/items/soldier/hwn2023_warlocks_warcloak/hwn2023_warlocks_warcloak"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31389] = {
 		name = "Dead Heat"
+		name_internal = "Dead Heat"
+		model = "models/workshop/player/items/pyro/hwn2023_dead_heat/hwn2023_dead_heat.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2023_dead_heat/hwn2023_dead_heat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31390] = {
 		name = "Splitting Headache"
+		name_internal = "Splitting Headache"
+		model = "models/workshop/player/items/pyro/hwn2023_splitting_headache/hwn2023_splitting_headache.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2023_splitting_headache/hwn2023_splitting_headache"
 		classes = [TF_CLASS_PYRO]
 	},
 	[31391] = {
 		name = "Thunder Dome"
+		name_internal = "Thunder Dome"
+		model = "models/workshop/player/items/demo/hwn2023_thunder_dome/hwn2023_thunder_dome.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2023_thunder_dome/hwn2023_thunder_dome"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Bombin'" "Chargin'" "Jumpin'"]
 	},
 	[31392] = {
 		name = "Stunt Suit"
+		name_internal = "Stunt Suit"
+		model = "models/workshop/player/items/demo/hwn2023_stunt_suit/hwn2023_stunt_suit.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2023_stunt_suit/hwn2023_stunt_suit"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Airman" "Daredevil" "Roadworker"]
 	},
 	[31393] = {
 		name = "Mad Lad"
+		name_internal = "Mad Lad"
+		model = "models/workshop/player/items/demo/hwn2023_mad_lad/hwn2023_mad_lad.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2023_mad_lad/hwn2023_mad_lad"
 		classes = [TF_CLASS_DEMOMAN]
 		styles = ["Tank Trasher" "Car Crasher"]
 	},
 	[31394] = {
 		name = "Dell Dynamic"
+		name_internal = "Dell Dynamic"
+		model = "models/workshop/player/items/engineer/hwn2023_dell_dynamic/hwn2023_dell_dynamic.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2023_dell_dynamic/hwn2023_dell_dynamic"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31395] = {
 		name = "Constructor's Cover"
+		name_internal = "Constructor's Cover"
+		model = "models/workshop/player/items/engineer/hwn2023_constructors_cover/hwn2023_constructors_cover.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2023_constructors_cover/hwn2023_constructors_cover"
 		classes = [TF_CLASS_ENGINEER]
 	},
 	[31396] = {
 		name = "Classic Criminal"
+		name_internal = "Classic Criminal"
+		model = "models/workshop/player/items/spy/hwn2023_classic_criminal/hwn2023_classic_criminal.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2023_classic_criminal/hwn2023_classic_criminal"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Paint Balaclava" "Paint Mask" "Paint Balaclava - No Hat" "Paint Mask - No Hat" "Only Mask"]
 	},
 	[31397] = {
 		name = "Concealed Convict"
+		name_internal = "Concealed Convict"
+		model = "models/workshop/player/items/spy/hwn2023_concealed_convict/hwn2023_concealed_convict.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2023_concealed_convict/hwn2023_concealed_convict"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Completely Striped" "Not Striped Enough"]
 	},
 	[31398] = {
 		name = "Six-Eyed Specs"
+		name_internal = "Six-Eyed Specs"
+		model = "models/workshop/player/items/spy/hwn2023_six_eyed_specs/hwn2023_six_eyed_specs.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2023_six_eyed_specs/hwn2023_six_eyed_specs"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31399] = {
 		name = "Medical Mummy"
+		name_internal = "Medical Mummy"
+		model = "models/workshop/player/items/medic/hwn2023_medical_mummy/hwn2023_medical_mummy.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2023_medical_mummy/hwn2023_medical_mummy"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Patient" "Ancient"]
 	},
 	[31400] = {
 		name = "The Main Cast"
+		name_internal = "The Main Cast"
+		model = "models/workshop/player/items/medic/hwn2023_main_cast/hwn2023_main_cast.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2023_main_cast/hwn2023_main_cast"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Critical" "Life-Threatening" "Non-Urgent"]
 	},
 	[31401] = {
 		name = "Power Spike"
+		name_internal = "Power Spike"
+		model = "models/workshop/player/items/medic/hwn2023_power_spike/hwn2023_power_spike.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2023_power_spike/hwn2023_power_spike"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Supercharged" "Grounded"]
 	},
 	[31402] = {
 		name = "Bare Bear Bones"
+		name_internal = "Bare Bear Bones"
+		model = "models/workshop/player/items/heavy/hwn2023_bare_bear_bones/hwn2023_bare_bear_bones.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2023_bare_bear_bones/hwn2023_bare_bear_bones"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31403] = {
 		name = "The Make Ogre"
+		name_internal = "The Make Ogre"
+		model = "models/workshop/player/items/heavy/hwn2023_make_ogre/hwn2023_make_ogre.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2023_make_ogre/hwn2023_make_ogre"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[31404] = {
 		name = "Sightseer"
+		name_internal = "Sightseer"
+		model = "models/workshop/player/items/sniper/hwn2023_sightseer/hwn2023_sightseer.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2023_sightseer/hwn2023_sightseer"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Beard" "No Beard"]
 	},
 	[31405] = {
 		name = "Sharpshooter's Shroud"
+		name_internal = "Sharpshooter's Shroud"
+		model = "models/workshop/player/items/sniper/hwn2023_sharpshooters_shroud/hwn2023_sharpshooters_shroud.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2023_sharpshooters_shroud/hwn2023_sharpshooters_shroud"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31406] = {
 		name = "The Last Laugh"
+		name_internal = "The Last Laugh"
+		model = "models/workshop/player/items/scout/hwn2023_last_laugh/hwn2023_last_laugh.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2023_last_laugh/hwn2023_last_laugh"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Jester" "Juggler"]
 	},
 	[31407] = {
 		name = "Jumping Jester"
+		name_internal = "Jumping Jester"
+		model = "models/workshop/player/items/scout/hwn2023_jumping_jester/hwn2023_jumping_jester.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2023_jumping_jester/hwn2023_jumping_jester"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31408] = {
 		name = "Blastphomet"
+		name_internal = "Blastphomet"
+		model = "models/workshop/player/items/demo/hwn2023_blastphomet/hwn2023_blastphomet.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2023_blastphomet/hwn2023_blastphomet"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31409] = {
 		name = "Spyder"
+		name_internal = "Spyder"
+		model = "models/workshop/player/items/spy/hwn2023_spyder/hwn2023_spyder.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2023_spyder/hwn2023_spyder"
 		classes = [TF_CLASS_SPY]
 	},
 	[31410] = {
 		name = "Carry-Van"
+		name_internal = "Carry-Van"
+		model = "models/workshop/player/items/sniper/hwn2023_carry_van/hwn2023_carry_van.mdl"
+		image = "backpack/workshop/player/items/sniper/hwn2023_carry_van/hwn2023_carry_van"
 		classes = [TF_CLASS_SNIPER]
 	},
 	[31411] = {
 		name = "Fiercesome Fluorescence"
+		name_internal = "Fiercesome Fluorescence"
+		model = "models/workshop/player/items/pyro/hwn2023_fiercesome_fluorescence/hwn2023_fiercesome_fluorescence.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2023_fiercesome_fluorescence/hwn2023_fiercesome_fluorescence"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Fearsome" "Friendly"]
 	},
 	[31415] = {
 		name = "Boarder's Beanie"
+		name_internal = "Boarder's Beanie"
+		model = "models/workshop/player/items/all_class/dec23_boarders_beanie/dec23_boarders_beanie_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec23_boarders_beanie/dec23_boarders_beanie"
 		paint = true
 		styles = ["Personal" "Brand" "Classic"]
 	},
 	[31416] = {
 		name = "Cozy Cover-Up"
+		name_internal = "Cozy Cover-Up"
+		model = "models/workshop/player/items/all_class/dec23_cozy_coverup/dec23_cozy_coverup_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec23_cozy_coverup/dec23_cozy_coverup"
 		paint = true
 		styles = ["Covered Up" "Muffed Up" "Wrapped Up" "Covered Up (No Hat)" "Muffed Up (No Hat)" "Wrapped Up (No Hat)"]
 	},
 	[31417] = {
 		name = "The Dapper Dickens"
+		name_internal = "The Dapper Dickens"
+		model = "models/workshop/player/items/all_class/dec23_dapper_dickens/dec23_dapper_dickens_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec23_dapper_dickens/dec23_dapper_dickens"
 		paint = true
 		styles = ["Glasses" "No Glasses"]
 	},
 	[31418] = {
 		name = "Trench Warfarer"
+		name_internal = "Trench Warefarer"
+		model = "models/workshop/player/items/soldier/dec23_trench_warefarer/dec23_trench_warefarer.mdl"
+		image = "backpack/workshop/player/items/soldier/dec23_trench_warefarer/dec23_trench_warefarer"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 	},
 	[31419] = {
 		name = "Wanderer's Wool"
+		name_internal = "Wanderer's Wool"
+		model = "models/workshop/player/items/soldier/dec23_wanderers_wool/dec23_wanderers_wool.mdl"
+		image = "backpack/workshop/player/items/soldier/dec23_wanderers_wool/dec23_wanderers_wool"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Merry..?" "Merry..? - Bloodless" "Backcountry" "Backcountry - Bloodless" "Streets" "Streets - Bloodless"]
 	},
 	[31420] = {
 		name = "The Puffed Practitioner"
+		name_internal = "The Puffed Practitioner"
+		model = "models/workshop/player/items/medic/dec23_puffed_practitioner/dec23_puffed_practitioner.mdl"
+		image = "backpack/workshop/player/items/medic/dec23_puffed_practitioner/dec23_puffed_practitioner"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31421] = {
 		name = "The Frigid Fashion"
+		name_internal = "The Frigid Fashion"
+		model = "models/workshop/player/items/medic/dec23_frigid_fashion/dec23_frigid_fashion.mdl"
+		image = "backpack/workshop/player/items/medic/dec23_frigid_fashion/dec23_frigid_fashion"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[31422] = {
 		name = "Nightcap"
+		name_internal = "Nightcap"
+		model = "models/workshop/player/items/demo/dec23_nightcap/dec23_nightcap.mdl"
+		image = "backpack/workshop/player/items/demo/dec23_nightcap/dec23_nightcap"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Sleepin'" "Snoozin'"]
 	},
 	[31423] = {
 		name = "Lazy Lounger"
+		name_internal = "Lazy Lounger"
+		model = "models/workshop/player/items/demo/dec23_lazy_lounger/dec23_lazy_lounger.mdl"
+		image = "backpack/workshop/player/items/demo/dec23_lazy_lounger/dec23_lazy_lounger"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31424] = {
 		name = "Slumber Slacks"
+		name_internal = "Slumber Slacks"
+		model = "models/workshop/player/items/demo/dec23_slumber_slacks/dec23_slumber_slacks.mdl"
+		image = "backpack/workshop/player/items/demo/dec23_slumber_slacks/dec23_slumber_slacks"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31425] = {
 		name = "Clue Hairdo"
+		name_internal = "Clue Hairdo"
+		model = "models/workshop/player/items/engineer/dec23_clue_hairdo/dec23_clue_hairdo.mdl"
+		image = "backpack/workshop/player/items/engineer/dec23_clue_hairdo/dec23_clue_hairdo"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Case Open" "Case Cracked" "Case Dropped"]
 	},
 	[31426] = {
 		name = "Sleuth Suit"
+		name_internal = "Sleuth Suit"
+		model = "models/workshop/player/items/engineer/dec23_sleuth_suit/dec23_sleuth_suit.mdl"
+		image = "backpack/workshop/player/items/engineer/dec23_sleuth_suit/dec23_sleuth_suit"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Dayshift" "Off Duty" "Overtime" "Graveyard"]
 	},
 	[31427] = {
 		name = "Strasbourg Scholar"
+		name_internal = "Strasbourg Scholar"
+		model = "models/workshop/player/items/spy/dec23_strasbourg_scholar/dec23_strasbourg_scholar.mdl"
+		image = "backpack/workshop/player/items/spy/dec23_strasbourg_scholar/dec23_strasbourg_scholar"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Patterned" "Plain"]
 	},
 	[31428] = {
 		name = "The Covert Covers"
+		name_internal = "The Covert Covers"
+		model = "models/workshop/player/items/spy/dec23_covert_covers/dec23_covert_covers.mdl"
+		image = "backpack/workshop/player/items/spy/dec23_covert_covers/dec23_covert_covers"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31429] = {
 		name = "Scruffed 'n Stitched"
+		name_internal = "Scruffed 'n Stitched"
+		model = "models/workshop/player/items/sniper/dec23_scruffed_stitched/dec23_scruffed_stitched.mdl"
+		image = "backpack/workshop/player/items/sniper/dec23_scruffed_stitched/dec23_scruffed_stitched"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 		styles = ["Paint Beard" "Paint Hat"]
 	},
 	[31430] = {
 		name = "Rugged Rags"
+		name_internal = "Rugged Rags"
+		model = "models/workshop/player/items/sniper/dec23_rugged_rags/dec23_rugged_rags.mdl"
+		image = "backpack/workshop/player/items/sniper/dec23_rugged_rags/dec23_rugged_rags"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31431] = {
 		name = "Masked Loyalty"
+		name_internal = "Masked Loyalty"
+		model = "models/workshop/player/items/pyro/dec23_masked_loyalty/dec23_masked_loyalty.mdl"
+		image = "backpack/workshop/player/items/pyro/dec23_masked_loyalty/dec23_masked_loyalty"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Style 1" "Style 2" "Style 3"]
 	},
 	[31432] = {
 		name = "Impact Impaler"
+		name_internal = "Impact Impaler"
+		model = "models/workshop/player/items/pyro/dec23_impact_impaler/dec23_impact_impaler.mdl"
+		image = "backpack/workshop/player/items/pyro/dec23_impact_impaler/dec23_impact_impaler"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[31433] = {
 		name = "Torcher's Trench Coat"
+		name_internal = "Torcher's Trench Coat"
+		model = "models/workshop/player/items/pyro/dec23_torchers_trench_coat/dec23_torchers_trench_coat.mdl"
+		image = "backpack/workshop/player/items/pyro/dec23_torchers_trench_coat/dec23_torchers_trench_coat"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31434] = {
 		name = "Balkan's Brute"
+		name_internal = "Balkan's Brute"
+		model = "models/workshop/player/items/heavy/dec23_balkans_brute/dec23_balkans_brute.mdl"
+		image = "backpack/workshop/player/items/heavy/dec23_balkans_brute/dec23_balkans_brute"
 		classes = [TF_CLASS_HEAVY]
 	},
 	[31435] = {
 		name = "Bigger Mann on Campus"
+		name_internal = "Bigger Mann on Campus"
+		model = "models/workshop/player/items/heavy/dec23_bigger_mann/dec23_bigger_mann.mdl"
+		image = "backpack/workshop/player/items/heavy/dec23_bigger_mann/dec23_bigger_mann"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31436] = {
 		name = "Isotopic Insulator"
+		name_internal = "Isotopic Insulator"
+		model = "models/workshop/player/items/scout/dec23_isotopic_insulator/dec23_isotopic_insulator.mdl"
+		image = "backpack/workshop/player/items/scout/dec23_isotopic_insulator/dec23_isotopic_insulator"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31437] = {
 		name = "Bonk Beanie"
+		name_internal = "Bonk Beanie"
+		model = "models/workshop/player/items/scout/dec23_bonk_beanie/dec23_bonk_beanie.mdl"
+		image = "backpack/workshop/player/items/scout/dec23_bonk_beanie/dec23_bonk_beanie"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 		styles = ["Radio-Active Protection" "Pro-Active Protection"]
 	},
 	[31442] = {
 		name = "Botler 2000"
+		name_internal = "Botler 2000"
+		model = "models/workshop/player/items/all_class/sum24_botler_2000_style1/sum24_botler_2000_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum24_botler_2000_style1/sum24_botler_2000_style1"
 		paint = true
 		styles = ["Thirsty" "Thirstyless"]
 	},
 	[31443] = {
 		name = "The Brand Loyalist"
+		name_internal = "The Brand Loyalist"
+		model = "models/workshop/player/items/all_class/sum24_brand_loyalist/sum24_brand_loyalist_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/sum24_brand_loyalist/sum24_brand_loyalist"
 	},
 	[31444] = {
 		name = "Desk Engineer"
+		name_internal = "Desk Engineer"
+		model = "models/workshop/player/items/engineer/sum24_desk_engineer_style1/sum24_desk_engineer_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/sum24_desk_engineer_style1/sum24_desk_engineer_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Business Casual" "Desk Jockey" "Interviewee" "First Day"]
 	},
 	[31445] = {
 		name = "Daring Dell"
+		name_internal = "Daring Dell"
+		model = "models/workshop/player/items/engineer/sum24_daring_dell_style1/sum24_daring_dell_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/sum24_daring_dell_style1/sum24_daring_dell_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Streamlined" "Relined" "Outlined" "Helmet"]
 	},
 	[31446] = {
 		name = "The Big Star"
+		name_internal = "The Big Star"
+		model = "models/workshop/player/items/engineer/sum24_big_star/sum24_big_star.mdl"
+		image = "backpack/workshop/player/items/engineer/sum24_big_star/sum24_big_star"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31447] = {
 		name = "Sneaky Blinder"
+		name_internal = "Sneaky Blinder"
+		model = "models/workshop/player/items/spy/sum24_sneaky_blinder/sum24_sneaky_blinder.mdl"
+		image = "backpack/workshop/player/items/spy/sum24_sneaky_blinder/sum24_sneaky_blinder"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31448] = {
 		name = "Tuxedo Royale"
+		name_internal = "Tuxedo Royale"
+		model = "models/workshop/player/items/spy/sum24_tuxedo_royale_style1/sum24_tuxedo_royale_style1.mdl"
+		image = "backpack/workshop/player/items/spy/sum24_tuxedo_royale_style1/sum24_tuxedo_royale_style1"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Shaken" "Stirred"]
 	},
 	[31449] = {
 		name = "Control Patrol"
+		name_internal = "Control Patrol"
+		model = "models/workshop/player/items/soldier/sum24_control_patrol_style1/sum24_control_patrol_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/sum24_control_patrol_style1/sum24_control_patrol_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[31450] = {
 		name = "Pathfinder"
+		name_internal = "Pathfinder"
+		model = "models/workshop/player/items/soldier/sum24_pathfinder_style1/sum24_pathfinder_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/sum24_pathfinder_style1/sum24_pathfinder_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[31451] = {
 		name = "Justice Johns"
+		name_internal = "Justice Johns"
+		model = "models/workshop/player/items/soldier/sum24_justice_johns_style1/sum24_justice_johns_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/sum24_justice_johns_style1/sum24_justice_johns_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[31452] = {
 		name = "Crook's Cap"
+		name_internal = "Crook's Cap"
+		model = "models/workshop/player/items/heavy/sum24_crooks_cap/sum24_crooks_cap.mdl"
+		image = "backpack/workshop/player/items/heavy/sum24_crooks_cap/sum24_crooks_cap"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31453] = {
 		name = "Brute's Braces"
+		name_internal = "Brute's Braces"
+		model = "models/workshop/player/items/heavy/sum24_brutes_braces/sum24_brutes_braces.mdl"
+		image = "backpack/workshop/player/items/heavy/sum24_brutes_braces/sum24_brutes_braces"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31454] = {
 		name = "Free Mann's Fashion"
+		name_internal = "Free Mann's Fashion"
+		model = "models/workshop/player/items/medic/sum24_free_fashion_style1/sum24_free_fashion_style1.mdl"
+		image = "backpack/workshop/player/items/medic/sum24_free_fashion_style1/sum24_free_fashion_style1"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Glasses and Beard" "No Glasses" "No Beard"]
 	},
 	[31455] = {
 		name = "Hazardous Environment Vest"
+		name_internal = "Hazardous Environment Vest"
+		model = "models/workshop/player/items/medic/sum24_hazardous_vest/sum24_hazardous_vest.mdl"
+		image = "backpack/workshop/player/items/medic/sum24_hazardous_vest/sum24_hazardous_vest"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31456] = {
 		name = "The Tropical Brim"
+		name_internal = "The Tropical Brim"
+		model = "models/workshop/player/items/medic/sum24_tropical_brim_style1/sum24_tropical_brim_style1.mdl"
+		image = "backpack/workshop/player/items/medic/sum24_tropical_brim_style1/sum24_tropical_brim_style1"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Shady" "Clear View"]
 	},
 	[31457] = {
 		name = "Watchmann's Wetsuit"
+		name_internal = "Watchmann's Wetsuit"
+		model = "models/workshop/player/items/medic/sum24_watchmanns_style1/sum24_watchmanns_style1.mdl"
+		image = "backpack/workshop/player/items/medic/sum24_watchmanns_style1/sum24_watchmanns_style1"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Whistleblower" "Rescuer" "Swimmer"]
 	},
 	[31458] = {
 		name = "The Aimframe"
+		name_internal = "The Aimframe"
+		model = "models/workshop/player/items/sniper/sum24_aimframe/sum24_aimframe.mdl"
+		image = "backpack/workshop/player/items/sniper/sum24_aimframe/sum24_aimframe"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},
 	[31459] = {
 		name = "Commonwealth Commando"
+		name_internal = "Commonwealth Commando"
+		model = "models/workshop/player/items/scout/sum24_commonwealth/sum24_commonwealth.mdl"
+		image = "backpack/workshop/player/items/scout/sum24_commonwealth/sum24_commonwealth"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31460] = {
 		name = "Tanker's Top"
+		name_internal = "Tanker's Top"
+		model = "models/workshop/player/items/scout/sum24_tankers_top/sum24_tankers_top.mdl"
+		image = "backpack/workshop/player/items/scout/sum24_tankers_top/sum24_tankers_top"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31461] = {
 		name = "The Vaudeville Visor"
+		name_internal = "The Vaudeville Visor"
+		model = "models/workshop/player/items/demo/sum24_vaudeville_visor/sum24_vaudeville_visor.mdl"
+		image = "backpack/workshop/player/items/demo/sum24_vaudeville_visor/sum24_vaudeville_visor"
 		classes = [TF_CLASS_DEMOMAN]
 	},
 	[31462] = {
 		name = "Fire Marshal"
+		name_internal = "Fire Marshal"
+		model = "models/workshop/player/items/pyro/sum24_fire_marshal/sum24_fire_marshal.mdl"
+		image = "backpack/workshop/player/items/pyro/sum24_fire_marshal/sum24_fire_marshal"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31463] = {
 		name = "Invisible Flame"
+		name_internal = "Invisible Flame"
+		model = "models/workshop/player/items/pyro/sum24_invisible_flame_style1/sum24_invisible_flame_style1.mdl"
+		image = "backpack/workshop/player/items/pyro/sum24_invisible_flame_style1/sum24_invisible_flame_style1"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Camo" "No Camo"]
 	},
 	[31464] = {
 		name = "Scorched Earth Stompers"
+		name_internal = "Scorched Earth Stompers"
+		model = "models/workshop/player/items/pyro/sum24_scorched_stompers_style1/sum24_scorched_stompers_style1.mdl"
+		image = "backpack/workshop/player/items/pyro/sum24_scorched_stompers_style1/sum24_scorched_stompers_style1"
 		classes = [TF_CLASS_PYRO]
 		styles = ["Camo" "No Camo"]
 	},
 	[31469] = {
 		name = "Fleet Commander"
+		name_internal = "Fleet Commander"
+		model = "models/workshop/player/items/all_class/hwn2024_fleet_commander_style1/hwn2024_fleet_commander_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2024_fleet_commander_style1/hwn2024_fleet_commander_style1"
 		paint = true
 		styles = ["Commander" "Captain"]
 	},
 	[31470] = {
 		name = "Triboniophorus Gentlemannus"
+		name_internal = "Triboniophorus Gentlemannus"
+		model = "models/workshop/player/items/all_class/hwn2024_triboniophorus/hwn2024_triboniophorus_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2024_triboniophorus/hwn2024_triboniophorus"
 		paint = true
 	},
 	[31471] = {
 		name = "Spider Sights"
+		name_internal = "Spider Sights"
+		model = "models/workshop/player/items/all_class/hwn2024_spider_sights/hwn2024_spider_sights_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2024_spider_sights/hwn2024_spider_sights"
 		paint = true
 	},
 	[31472] = {
 		name = "Duality of Mantle"
+		name_internal = "Duality of Mantle"
+		model = "models/workshop/player/items/all_class/hwn2024_duality_mantle/hwn2024_duality_mantle_medic.mdl"
+		image = "backpack/workshop/player/items/all_class/hwn2024_duality_mantle/hwn2024_duality_mantle"
 		classes = [TF_CLASS_MEDIC TF_CLASS_PYRO]
 	},
 	[31473] = {
 		name = "Shadow Shroud"
+		name_internal = "Shadow Shroud"
+		model = "models/workshop/player/items/spy/hwn2024_shadow_shroud_style1/hwn2024_shadow_shroud_style1.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2024_shadow_shroud_style1/hwn2024_shadow_shroud_style1"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Striker" "Stalker"]
 	},
 	[31474] = {
 		name = "Nightfall Veil"
+		name_internal = "Nightfall Veil"
+		model = "models/workshop/player/items/spy/hwn2024_nightfall_veil/hwn2024_nightfall_veil.mdl"
+		image = "backpack/workshop/player/items/spy/hwn2024_nightfall_veil/hwn2024_nightfall_veil"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31475] = {
 		name = "The Witch Doctor"
+		name_internal = "The Witch Doctor"
+		model = "models/workshop/player/items/medic/hwn2024_witch_doctor/hwn2024_witch_doctor.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2024_witch_doctor/hwn2024_witch_doctor"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31476] = {
 		name = "The Surgeon General"
+		name_internal = "The Surgeon General"
+		model = "models/workshop/player/items/medic/hwn2024_surgeon_general_style1/hwn2024_surgeon_general_style1.mdl"
+		image = "backpack/workshop/player/items/medic/hwn2024_surgeon_general_style1/hwn2024_surgeon_general_style1"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Medical" "Mourning" "Macho" "Military"]
 	},
 	[31477] = {
 		name = "Sear Seer"
+		name_internal = "Sear Seer"
+		model = "models/workshop/player/items/pyro/hwn2024_sear_seer_style1/hwn2024_sear_seer_style1.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2024_sear_seer_style1/hwn2024_sear_seer_style1"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Dawn" "Dawn - No Lenses" "Dusk" "Dusk - No Lenses"]
 	},
 	[31478] = {
 		name = "Chiromancer's Kit"
+		name_internal = "Chiromancer's Kit"
+		model = "models/workshop/player/items/pyro/hwn2024_chiromancers_style1/hwn2024_chiromancers_style1.mdl"
+		image = "backpack/workshop/player/items/pyro/hwn2024_chiromancers_style1/hwn2024_chiromancers_style1"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 		styles = ["Book" "No Book"]
 	},
 	[31479] = {
 		name = "School Nuisance"
+		name_internal = "School Nuisance"
+		model = "models/workshop/player/items/scout/hwn2024_school_nuisance/hwn2024_school_nuisance.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2024_school_nuisance/hwn2024_school_nuisance"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31480] = {
 		name = "The Strikeout"
+		name_internal = "The Strikeout"
+		model = "models/workshop/player/items/scout/hwn2024_strikeout/hwn2024_strikeout.mdl"
+		image = "backpack/workshop/player/items/scout/hwn2024_strikeout/hwn2024_strikeout"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31481] = {
 		name = "Hellish Overlord"
+		name_internal = "Hellish Overlord"
+		model = "models/workshop/player/items/heavy/hwn2024_hellish_overlord/hwn2024_hellish_overlord.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2024_hellish_overlord/hwn2024_hellish_overlord"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 	},
 	[31482] = {
 		name = "Strigoi Stare"
+		name_internal = "Strigoi Stare"
+		model = "models/workshop/player/items/heavy/hwn2024_strigoi_stare_style1/hwn2024_strigoi_stare_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2024_strigoi_stare_style1/hwn2024_strigoi_stare_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Style 1" "Style 2" "Style 3"]
 	},
 	[31483] = {
 		name = "Dusk Duster"
+		name_internal = "Dusk Duster"
+		model = "models/workshop/player/items/heavy/hwn2024_dusk_duster_style1/hwn2024_dusk_duster_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/hwn2024_dusk_duster_style1/hwn2024_dusk_duster_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Sunset" "Twilights"]
 	},
 	[31484] = {
 		name = "Mannhattan Protect"
+		name_internal = "Mannhattan Protect"
+		model = "models/workshop/player/items/engineer/hwn2024_mannhattan_protect/hwn2024_mannhattan_protect.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2024_mannhattan_protect/hwn2024_mannhattan_protect"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31485] = {
 		name = "Nuclear Necessity"
+		name_internal = "Nuclear Necessity"
+		model = "models/workshop/player/items/engineer/hwn2024_nuclear_necessity/hwn2024_nuclear_necessity.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2024_nuclear_necessity/hwn2024_nuclear_necessity"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31486] = {
 		name = "Contaminated Carryall"
+		name_internal = "Contaminated Carryall"
+		model = "models/workshop/player/items/engineer/hwn2024_contaminated_carryall/hwn2024_contaminated_carryall.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2024_contaminated_carryall/hwn2024_contaminated_carryall"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 	},
 	[31487] = {
 		name = "Delldozer"
+		name_internal = "Delldozer"
+		model = "models/workshop/player/items/engineer/hwn2024_delldozer/hwn2024_delldozer.mdl"
+		image = "backpack/workshop/player/items/engineer/hwn2024_delldozer/hwn2024_delldozer"
 		classes = [TF_CLASS_ENGINEER]
 		styles = ["Re-Mastered" "Re-Built" "Re-Engineered"]
 	},
 	[31488] = {
 		name = "Badlands Bandido"
+		name_internal = "Badlands Bandido"
+		model = "models/workshop/player/items/demo/hwn2024_badlands_bandido_style1/hwn2024_badlands_bandido_style1.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2024_badlands_bandido_style1/hwn2024_badlands_bandido_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Bandana" "No Bandana"]
 	},
 	[31489] = {
 		name = "Defaced Detonator"
+		name_internal = "Defaced Detonator"
+		model = "models/workshop/player/items/demo/hwn2024_defaced_style1/hwn2024_defaced_style1.mdl"
+		image = "backpack/workshop/player/items/demo/hwn2024_defaced_style1/hwn2024_defaced_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		styles = ["Right Side" "Left Side"]
 	},
 	[31494] = {
 		name = "Dapper Noel"
+		name_internal = "Dapper Noel"
+		model = "models/workshop/player/items/all_class/dec24_dapper_noel/dec24_dapper_noel_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec24_dapper_noel/dec24_dapper_noel"
 		paint = true
 	},
 	[31495] = {
 		name = "The Necroprancer"
+		name_internal = "The Necroprancer"
+		model = "models/workshop/player/items/all_class/dec24_necroprancer_style1/dec24_necroprancer_style1_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec24_necroprancer_style1/dec24_necroprancer_style1"
 		paint = true
 		styles = ["Nose" "No Nose"]
 	},
 	[31496] = {
 		name = "The Battle Music"
+		name_internal = "The Battle Music"
+		model = "models/workshop/player/items/all_class/dec24_battle_music/dec24_battle_music_Scout.mdl"
+		image = "backpack/workshop/player/items/all_class/dec24_battle_music/dec24_battle_music"
 		paint = true
 		styles = ["No Hat" "Hat and Headphones"]
 	},
 	[31497] = {
 		name = "Hot Spaniel"
+		name_internal = "Hot Spaniel"
+		model = "models/workshop/player/items/pyro/dec24_hot_spaniel/dec24_hot_spaniel.mdl"
+		image = "backpack/workshop/player/items/pyro/dec24_hot_spaniel/dec24_hot_spaniel"
 		classes = [TF_CLASS_PYRO]
 		paint = true
 	},
 	[31498] = {
 		name = "Frostbite Fit"
+		name_internal = "Frostbite Fit"
+		model = "models/workshop/player/items/pyro/dec24_frostbite_fit/dec24_frostbite_fit.mdl"
+		image = "backpack/workshop/player/items/pyro/dec24_frostbite_fit/dec24_frostbite_fit"
 		classes = [TF_CLASS_PYRO]
 	},
 	[31499] = {
 		name = "L'aire Filteure"
+		name_internal = "L'aire Filteure"
+		model = "models/workshop/player/items/spy/dec24_laire_filteure/dec24_laire_filteure.mdl"
+		image = "backpack/workshop/player/items/spy/dec24_laire_filteure/dec24_laire_filteure"
 		classes = [TF_CLASS_SPY]
 		paint = true
 	},
 	[31500] = {
 		name = "Poleur Voyeur"
+		name_internal = "Poleur Voyeur"
+		model = "models/workshop/player/items/spy/dec24_poleur_voyeur_style1/dec24_poleur_voyeur_style1.mdl"
+		image = "backpack/workshop/player/items/spy/dec24_poleur_voyeur_style1/dec24_poleur_voyeur_style1"
 		classes = [TF_CLASS_SPY]
 		paint = true
 		styles = ["Cloak" "Decloak"]
 	},
 	[31501] = {
 		name = "Le Frosteaux"
+		name_internal = "Le Frosteaux"
+		model = "models/workshop/player/items/spy/dec24_le_frosteaux/dec24_le_frosteaux.mdl"
+		image = "backpack/workshop/player/items/spy/dec24_le_frosteaux/dec24_le_frosteaux"
 		classes = [TF_CLASS_SPY]
 	},
 	[31502] = {
 		name = "Scrooge McDoc"
+		name_internal = "Scrooge McDoc"
+		model = "models/workshop/player/items/medic/dec24_scrooge_mcdoc/dec24_scrooge_mcdoc.mdl"
+		image = "backpack/workshop/player/items/medic/dec24_scrooge_mcdoc/dec24_scrooge_mcdoc"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31503] = {
 		name = "The Checkered Past"
+		name_internal = "The Checkered Past"
+		model = "models/workshop/player/items/medic/dec24_checkered_past/dec24_checkered_past.mdl"
+		image = "backpack/workshop/player/items/medic/dec24_checkered_past/dec24_checkered_past"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 	},
 	[31504] = {
 		name = "Consigliere's Coverup"
+		name_internal = "Consigliere's Coverup"
+		model = "models/workshop/player/items/medic/dec24_consiglieres_coverup/dec24_consiglieres_coverup.mdl"
+		image = "backpack/workshop/player/items/medic/dec24_consiglieres_coverup/dec24_consiglieres_coverup"
 		classes = [TF_CLASS_MEDIC]
 		paint = true
 		styles = ["Gloves" "No Gloves"]
 	},
 	[31505] = {
 		name = "The Crimbo Cap"
+		name_internal = "The Crimbo Cap"
+		model = "models/workshop/player/items/scout/dec24_crimbo_cap/dec24_crimbo_cap.mdl"
+		image = "backpack/workshop/player/items/scout/dec24_crimbo_cap/dec24_crimbo_cap"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31506] = {
 		name = "The Triple Jumper"
+		name_internal = "The Triple Jumper"
+		model = "models/workshop/player/items/scout/dec24_triple_jumper/dec24_triple_jumper.mdl"
+		image = "backpack/workshop/player/items/scout/dec24_triple_jumper/dec24_triple_jumper"
 		classes = [TF_CLASS_SCOUT]
 		paint = true
 	},
 	[31507] = {
 		name = "Polar Charger"
+		name_internal = "Polar Charger"
+		model = "models/workshop/player/items/soldier/dec24_polar_charger_style1/dec24_polar_charger_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/dec24_polar_charger_style1/dec24_polar_charger_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Normal" "Camo" "Camo - No Mask" "No Mask"]
 	},
 	[31508] = {
 		name = "Field Fatigues"
+		name_internal = "Field Fatigues"
+		model = "models/workshop/player/items/soldier/dec24_field_fatigues_style1/dec24_field_fatigues_style1.mdl"
+		image = "backpack/workshop/player/items/soldier/dec24_field_fatigues_style1/dec24_field_fatigues_style1"
 		classes = [TF_CLASS_SOLDIER]
 		paint = true
 		styles = ["Normal" "Camo"]
 	},
 	[31509] = {
 		name = "Cossack Camo"
+		name_internal = "Cossack Camo"
+		model = "models/workshop/player/items/heavy/dec24_cossack_camo_style1/dec24_cossack_camo_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/dec24_cossack_camo_style1/dec24_cossack_camo_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Paint Scarf" "Paint Fur"]
 	},
 	[31510] = {
 		name = "Battle Balaclava"
+		name_internal = "Battle Balaclava"
+		model = "models/workshop/player/items/heavy/dec24_battle_balaclava_style1/dec24_battle_balaclava_style1.mdl"
+		image = "backpack/workshop/player/items/heavy/dec24_battle_balaclava_style1/dec24_battle_balaclava_style1"
 		classes = [TF_CLASS_HEAVY]
 		paint = true
 		styles = ["Gloves" "No Gloves"]
 	},
 	[31511] = {
 		name = "The Top Brass"
+		name_internal = "The Top Brass"
+		model = "models/workshop/player/items/demo/dec24_top_brass_style1/dec24_top_brass_style1.mdl"
+		image = "backpack/workshop/player/items/demo/dec24_top_brass_style1/dec24_top_brass_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["Paint Hat" "Paint Stache"]
 	},
 	[31512] = {
 		name = "Commanding Presence"
+		name_internal = "Commanding Presence"
+		model = "models/workshop/player/items/demo/dec24_commanding_style1/dec24_commanding_style1.mdl"
+		image = "backpack/workshop/player/items/demo/dec24_commanding_style1/dec24_commanding_style1"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 		styles = ["War Pig" "Sea Dog"]
 	},
 	[31513] = {
 		name = "Mine Sweepers"
+		name_internal = "Mine Sweepers"
+		model = "models/workshop/player/items/demo/dec24_mine_sweepers/dec24_mine_sweepers.mdl"
+		image = "backpack/workshop/player/items/demo/dec24_mine_sweepers/dec24_mine_sweepers"
 		classes = [TF_CLASS_DEMOMAN]
 		paint = true
 	},
 	[31514] = {
 		name = "Buck's Brim"
+		name_internal = "Buck's Brim"
+		model = "models/workshop/player/items/engineer/dec24_bucks_brim_style1/dec24_bucks_brim_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/dec24_bucks_brim_style1/dec24_bucks_brim_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Good" "Good Alt" "Bad" "Ugly"]
 	},
 	[31515] = {
 		name = "The Westcoat"
+		name_internal = "The Westcoat"
+		model = "models/workshop/player/items/engineer/dec24_westcoat_style1/dec24_westcoat_style1.mdl"
+		image = "backpack/workshop/player/items/engineer/dec24_westcoat_style1/dec24_westcoat_style1"
 		classes = [TF_CLASS_ENGINEER]
 		paint = true
 		styles = ["Good" "Bad" "Ugly"]
 	},
 	[31516] = {
 		name = "Snug Sharpshooter"
+		name_internal = "Snug Sharpshooter"
+		model = "models/workshop/player/items/sniper/dec24_snug_sharpshooter/dec24_snug_sharpshooter.mdl"
+		image = "backpack/workshop/player/items/sniper/dec24_snug_sharpshooter/dec24_snug_sharpshooter"
 		classes = [TF_CLASS_SNIPER]
 		paint = true
 	},

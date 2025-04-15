@@ -1,8 +1,0 @@
-patch
-{
-	include materials\vgui\contracker_hud\base_menu.vmt
-	insert
-	{
-		$detail vgui\contracker_hud\taunts_allclass
-	}
-}

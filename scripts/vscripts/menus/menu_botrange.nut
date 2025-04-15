@@ -40,6 +40,9 @@ OnGameEvent("player_spawn", 0, function(params)
     {
         player.SnapEyeAngles(QAngle(0,-90,0));
 
+        if(player.GetPlayerClass() == TF_CLASS_SPY)
+            player.AddCustomAttribute("cannot disguise", 1.0, -1)
+
         switch(ServerCookies.Get("spawned_bot_type"))
         {
             case "Zombie":
@@ -64,6 +67,7 @@ OnGameEvent("player_spawn", 0, function(params)
 
 DefineMenu(class extends Menu{
     id = "bot_controls"
+    menu_name = "bot_range"
     function constructor(){
         items = [
         class extends MenuItem{

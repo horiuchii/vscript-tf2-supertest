@@ -1,5 +1,6 @@
 DefineMenu(class extends Menu{
     id = "player_mod"
+    menu_name = "player_mod"
     function constructor(){
         items = [
             class extends MenuItem{
@@ -58,7 +59,29 @@ DefineMenu(class extends Menu{
                 }
             },
             class extends MenuItem{
+                titles = ["Set Killstreak: 0" "Set Killstreak: 5" "Set Killstreak: 10" "Set Killstreak: 15" "Set Killstreak: 20"];
+
+                function GenerateDesc(player)
+                {
+                    return "Set your current killstreak count.";
+                }
+
+                function OnSelected(player)
+                {
+                    for(local i = 0; i < 4; i++)
+                    {
+                        SetPropIntArray(player, "m_nStreaks", index*5, i);
+                    }
+                    player.SendChat(CHAT_PREFIX + "Set the killstreak on your weapons to " + index*5 + ".");
+                }
+            },
+            class extends MenuItem{
                 titles = ["Invulnerable: Off" "Invulnerable: On"];
+
+                function OnMenuOpened(player)
+                {
+                    index = player.GetVar("invuln", index);
+                }
 
                 function GenerateDesc(player)
                 {
@@ -74,6 +97,11 @@ DefineMenu(class extends Menu{
             class extends MenuItem{
                 titles = ["Infinite Cash: Off" "Infinite Cash: On"];
 
+                function OnMenuOpened(player)
+                {
+                    index = player.GetVar("inf_cash", index);
+                }
+
                 function GenerateDesc(player)
                 {
                     return "Grants infinite MvM cash.\nCurrent: " + (player.GetVar("inf_cash") ? "On" : "Off");
@@ -87,6 +115,11 @@ DefineMenu(class extends Menu{
             },
             class extends MenuItem{
                 titles = ["Infinite Clip: Off" "Infinite Clip: On"];
+
+                function OnMenuOpened(player)
+                {
+                    index = player.GetVar("inf_clip", index);
+                }
 
                 function GenerateDesc(player)
                 {
@@ -102,6 +135,11 @@ DefineMenu(class extends Menu{
             class extends MenuItem{
                 titles = ["Infinite Reserve Ammo: Off" "Infinite Reserve Ammo: On"];
 
+                function OnMenuOpened(player)
+                {
+                    index = player.GetVar("inf_ammo", index);
+                }
+
                 function GenerateDesc(player)
                 {
                     return "Grants infinite weapon reserve ammo.\nCurrent: " + (player.GetVar("inf_ammo") ? "On" : "Off");
@@ -113,41 +151,13 @@ DefineMenu(class extends Menu{
                     player.SendChat(CHAT_PREFIX + "Infinite reserve ammo is now: " + (player.GetVar("inf_ammo") ? "On" : "Off"));
                 }
             },
-            class extends MenuItem{
-                titles = ["Show Conditions On HUD: Off", "Show Conditions On HUD: On"];
-
-                function GenerateDesc(player)
-                {
-                    return "Whether to show active conditions on the HUD.\nCurrent: " + (player.GetVar("show_conds") ? "On" : "Off");
-                }
-
-                function OnSelected(player)
-                {
-                    player.SetVar("show_conds", index);
-                    player.SendChat(CHAT_PREFIX + "The Show Conds HUD is now: " + (player.GetVar("show_conds") ? "On" : "Off"));
-                }
-            },
-            class extends MenuItem{
-                titles = ["Show Keys On HUD: Off", "Show Keys On HUD: On"];
-
-                function GenerateDesc(player)
-                {
-                    return "Whether to show keys on the HUD.\nCurrent: " + (player.GetVar("show_keys") ? "On" : "Off");
-                }
-
-                function OnSelected(player)
-                {
-                    player.SetVar("show_keys", index);
-                    player.SendChat(CHAT_PREFIX + "The Show Keys HUD is now: " + (player.GetVar("show_keys") ? "On" : "Off"));
-                }
-            },
         ]
     }
 })
 
 function GenerateCondSelectMenus()
 {
-    local menu = class extends Menu{id = "add_cond"; items = []};
+    local menu = class extends Menu{id = "add_cond"; menu_name = "add_cond"; items = []};
     foreach(cond_index, cond_name in TF_COND_NAMES)
     {
         menu.items.append(class extends MenuItem
@@ -169,7 +179,7 @@ function GenerateCondSelectMenus()
         })
     }
     DefineMenu(menu);
-    menu = class extends Menu{id = "remove_cond"; items = []};
+    menu = class extends Menu{id = "remove_cond"; menu_name = "remove_cond"; items = []};
     foreach(cond_index, cond_name in TF_COND_NAMES)
     {
         menu.items.append(class extends MenuItem
@@ -196,7 +206,7 @@ GenerateCondSelectMenus();
 
 function GenerateSpellSelectMenu()
 {
-    local menu = class extends Menu{id = "give_spell"; items = []};
+    local menu = class extends Menu{id = "give_spell"; menu_name = "give_spell"; items = []};
     foreach(i, spell_data in TF_SPELLS)
     {
         menu.items.append(class extends MenuItem

@@ -2,6 +2,7 @@ Cookies.AddCookie("taunt_unusual", 0);
 
 DefineMenu(class extends Menu{
     id = "taunts"
+    menu_name = "taunts"
     items = [
     class extends MenuItem{
         titles = ["Current Class"];
@@ -77,7 +78,7 @@ function GenerateTauntSelectMenus()
     }
 
     //make the allclass taunt menu
-    local menu = class extends Menu{id = "taunts_allclass"; items = []};
+    local menu = class extends Menu{id = "taunts_allclass"; menu_name = "all_class"; items = []};
     local menuitems = [];
     foreach(taunt_data in allclass_taunts)
     {
@@ -106,7 +107,7 @@ function GenerateTauntSelectMenus()
     //generate the class taunt menus
     foreach(class_index, class_name in TF_CLASSES)
     {
-        local menu = class extends Menu{id = "taunts_" + class_name; items = []};
+        local menu = class extends Menu{id = "taunts_" + class_name; menu_name = class_name; items = []};
         local menuitems = [];
         foreach(_taunt_id, _taunt_name in class_taunts[class_index + 1])
         {

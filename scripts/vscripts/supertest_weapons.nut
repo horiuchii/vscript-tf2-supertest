@@ -156,19 +156,19 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 
 ::CTFPlayer.EquipDesiredWeapons <- function()
 {
-    if(!("wearables" in GetScriptScope()))
-        SetVar("wearables", array(0, null))
+    if(!("weapon_wearables" in GetScriptScope()))
+        SetVar("weapon_wearables", array(0, null))
 
     //remove all tf_wearable weapons in our scope
-    for (local i = 0; i < GetVar("wearables").len(); i++)
+    for (local i = 0; i < GetVar("weapon_wearables").len(); i++)
     {
-        if(GetVar("wearables")[i].IsValid())
+        if(GetVar("weapon_wearables")[i].IsValid())
         {
-            GetVar("wearables")[i].ReapplyProvision()
-            GetVar("wearables")[i].Kill()
+            GetVar("weapon_wearables")[i].ReapplyProvision()
+            GetVar("weapon_wearables")[i].Kill()
         }
     }
-    GetVar("wearables").clear()
+    GetVar("weapon_wearables").clear()
 
     local switched_weapon = false;
     for (local weapon_slot_index = WeaponSlot.Primary; weapon_slot_index < WeaponSlot.MAX; weapon_slot_index++)
@@ -343,7 +343,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         if(!(wearable_index in WEARABLE_LOOKUP))
             continue;
 
-        if(WEARABLE_LOOKUP[wearable_index].slot == WEAPONS[weapon_id].slot && GetVar("wearables").find(wearable) == null)
+        if(WEARABLE_LOOKUP[wearable_index].slot == WEAPONS[weapon_id].slot && GetVar("weapon_wearables").find(wearable) == null)
         {
             wearables_to_kill.append(wearable)
         }
@@ -400,7 +400,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 	//recalculates bodygroups on the player
 	SendGlobalGameEvent("post_inventory_application", { userid = GetUserID(), dont_reequip = true })
 
-	GetVar("wearables").append(wearable)
+	GetVar("weapon_wearables").append(wearable)
     // remove existing wearables with the same item def index
     local wearables_to_kill = [];
     for(local wearable = FirstMoveChild(); wearable != null; wearable = wearable.NextMovePeer())

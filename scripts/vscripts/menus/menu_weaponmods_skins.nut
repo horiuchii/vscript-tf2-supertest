@@ -1843,7 +1843,7 @@ enum SkinCollection
 
 function GenerateSelectCollectionMenu()
 {
-    local menu = class extends Menu{id = "weapon_mod_skins"; items = []};
+    local menu = class extends Menu{id = "weapon_mod_skins"; menu_name = "skins"; items = []};
     menu.items.append(class extends MenuItem
     {
         titles = ["Unequip Skin"];
@@ -1887,7 +1887,7 @@ function GenerateSkinSelectCollectionMenu()
     for (local collection_index = 0; collection_index < SkinCollection.MAX; collection_index++)
     {
         local skin_collection = FilterSkins(collection_index)
-        local menu = class extends Menu{id = "weapon_mod_skins_" + ToSnakecase(SkinCollectionName[collection_index]); items = []};
+        local menu = class extends Menu{id = "weapon_mod_skins_" + ToSnakecase(SkinCollectionName[collection_index]); menu_name = ToSnakecase(SkinCollectionName[collection_index]); items = []};
         foreach(skin_table in skin_collection)
         {
             menu.items.append(class extends MenuItem

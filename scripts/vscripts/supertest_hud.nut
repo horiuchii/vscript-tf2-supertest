@@ -9,6 +9,8 @@
     message = " "
 });
 
+SetPropBool(hud_text, "m_bForcePurgeFixedupStrings", true);
+
 ::CTFPlayer.SendGameText <- function(x, y, channel, color, message)
 {
     if(GetButtons() & IN_SCORE)

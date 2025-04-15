@@ -1,6 +1,6 @@
 function GenerateLoadoutMenu()
 {
-    local menu = class extends Menu{id = "loadout"; items = array(9, null)};
+    local menu = class extends Menu{id = "loadout"; menu_name = "loadout"; items = array(9, null)};
     foreach(class_index_, name in TF_CLASSES)
     {
         menu.items[TF_CLASS_REMAP[class_index_ + 1]] = class extends MenuItem
@@ -71,7 +71,7 @@ function GenerateClassSlotSelectMenu()
 {
     foreach(i, name in TF_CLASSES)
     {
-        local menu = class extends Menu{id = "loadout_" + name; items = []};
+        local menu = class extends Menu{id = "loadout_" + name; menu_name = name; items = []};
         foreach(slot_name_index, slot in (name == "spy") ? LOADOUT_SLOT_NAMES_SPY : LOADOUT_SLOT_NAMES)
         {
             menu.items.append(class extends MenuItem
@@ -108,6 +108,7 @@ function GenerateClassWeaponSelectMenu()
         {
             DefineMenu(class extends Menu{
                 id = "loadout_" + name + "_" + slot;
+                menu_name = slot
                 _class_index = class_index + 1;
                 _name = name;
                 _slot = slot;

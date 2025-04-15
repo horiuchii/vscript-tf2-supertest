@@ -16,52 +16,80 @@ def parse_cosmetic_data(next = 0):
     response.encoding = 'utf-8'
     data = response.json()
     for item in data['result']['items']:
-        #only get wearables, ignore cheater items, ignore action items and ignore medals... for now
-        if item['item_class'] == 'tf_wearable' and item['defindex'] != 122 and item['defindex'] != 123 and item['defindex'] != 124 and item['item_type_name'] != "Tournament Medal" and item['item_type_name'] != "Community Medal" and item['item_slot'] != "action":
-            #start the item def with the defindex
-            output_str += f"\t[{item['defindex']}] = {{\n"
-            
-            #set the name of the cosmetic
+        #only get tf_wearables
+        if item['item_class'] != 'tf_wearable':
+            continue
+
+        #ignore action slot items and tf_wearable weapons
+        if item['item_slot'] != "misc":
+            continue
+
+        #ignore medals for now
+        if item['item_type_name'] == "Tournament Medal" or item['item_type_name'] == "Community Medal":
+            continue
+
+        #ignore cheater items
+        if item['defindex'] == 122 or item['defindex'] == 123 or item['defindex'] == 124:
+            continue
+
+        #start the item def with the defindex
+        output_str += f"\t[{item['defindex']}] = {{\n"
+        
+        #we want some names of cosmetics to appear differently
+        name_override = None
+        match item['defindex']:
+            case 743: name_override = "Autogrant Pyrovision Goggles"
+            case 1057 | 1058 | 1059 | 1060 | 1061 | 1062 | 1063 | 1064 | 1065: name_override = "GateBot Light"
+
+        #set the name of the cosmetic
+        if name_override != None:
+            output_str += f"\t\tname = \"{name_override}\""
+        else:
             output_str += "\t\tname = \""
             if item['proper_name']:
                 output_str += "The "
             output_str += f"{item['item_name']}\"\n"
             
-            #set the classes used by this cosmetic
-            if 'used_by_classes' in item:
-                output_str += "\t\tclasses = ["
-                for index, class_name in enumerate(item['used_by_classes']):
-                    if index != 0:
-                        output_str += " "
-                    
-                    match class_name:
-                        case "Scout":output_str += "TF_CLASS_SCOUT"
-                        case "Soldier":output_str += "TF_CLASS_SOLDIER"
-                        case "Pyro":output_str += "TF_CLASS_PYRO"
-                        case "Demoman":output_str += "TF_CLASS_DEMOMAN"
-                        case "Heavy":output_str += "TF_CLASS_HEAVY"
-                        case "Engineer":output_str += "TF_CLASS_ENGINEER"
-                        case "Medic":output_str += "TF_CLASS_MEDIC"
-                        case "Sniper":output_str += "TF_CLASS_SNIPER"
-                        case "Spy":output_str += "TF_CLASS_SPY"
-                output_str += "]\n"
-            
-            #check to see if this is paintable
-            if 'capabilities' in item and 'paintable' in item['capabilities']:
-                output_str += "\t\tpaint = true\n"
-            
-            #set the styles the cosmetic has
-            if 'styles' in item:
-                output_str += "\t\tstyles = ["
-                for index, style in enumerate(item['styles']):
-                    if index != 0:
-                        output_str += " "
+        #get some internal data about the item, just in case
+        output_str += f"\t\tname_internal = \"{item['name']}\"\n"
+        output_str += f"\t\tmodel = \"{item['model_player']}\"\n"
+        output_str += f"\t\timage = \"{item['image_inventory']}\"\n"
 
-                    output_str += f"\"{style['name']}\""
-                output_str += "]\n"
-            
-            #we're done here, close out this item
-            output_str += "\t},\n"
+        #set the classes used by this cosmetic
+        if 'used_by_classes' in item:
+            output_str += "\t\tclasses = ["
+            for index, class_name in enumerate(item['used_by_classes']):
+                if index != 0:
+                    output_str += " "
+                
+                match class_name:
+                    case "Scout":output_str += "TF_CLASS_SCOUT"
+                    case "Soldier":output_str += "TF_CLASS_SOLDIER"
+                    case "Pyro":output_str += "TF_CLASS_PYRO"
+                    case "Demoman":output_str += "TF_CLASS_DEMOMAN"
+                    case "Heavy":output_str += "TF_CLASS_HEAVY"
+                    case "Engineer":output_str += "TF_CLASS_ENGINEER"
+                    case "Medic":output_str += "TF_CLASS_MEDIC"
+                    case "Sniper":output_str += "TF_CLASS_SNIPER"
+                    case "Spy":output_str += "TF_CLASS_SPY"
+            output_str += "]\n"
+        
+        #check to see if this is paintable
+        if 'capabilities' in item and 'paintable' in item['capabilities']:
+            output_str += "\t\tpaint = true\n"
+        
+        #set the styles the cosmetic has
+        if 'styles' in item:
+            output_str += "\t\tstyles = ["
+            for index, style in enumerate(item['styles']):
+                if index != 0:
+                    output_str += " "
+
+                output_str += f"\"{style['name']}\""
+            output_str += "]\n"
+        
+        #we're done here, close out this item
+        output_str += "\t},\n"
     
     if 'next' in data['result']:
         next_index = data['result']['next']
