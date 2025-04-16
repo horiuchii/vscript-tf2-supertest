@@ -14273,9 +14273,9 @@
 		system = "burningplayer_flyingbits"
 		type = UnusualType.Cosmetic
 	},
-	[5] = {
-		name = "Holy Glow"
-		system = "halopoint"
+	[4] = {
+		name = "Community Sparkle"
+		system = "community_sparkle"
 		type = UnusualType.Cosmetic
 	},
 	[6] = {
@@ -15034,7 +15034,7 @@
 	},
 	[175] = {
 		name = "Mirthful Mistletoe"
-		system = "unusual_mis"
+		system = "unusual_mistletoe"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15348,7 +15348,7 @@
 	},
 	[245] = {
 		name = "Startrance"
-		system = "unusual_stardus"
+		system = "unusual_stardust"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15424,7 +15424,7 @@
 	},
 	[261] = {
 		name = "Haunted Forever!"
-		system = "unusual_hauntedforev"
+		system = "unusual_hauntedforever"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15450,7 +15450,7 @@
 	},
 	[267] = {
 		name = "Haunted Wick"
-		system = "unusual_ghostly_f"
+		system = "unusual_ghostly_flame"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15574,7 +15574,7 @@
 	},
 	[295] = {
 		name = "Sapped"
-		system = "unusual_sapp"
+		system = "unusual_sapper"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15596,7 +15596,7 @@
 	},
 	[301] = {
 		name = "Sixth Sense"
-		system = "unusual_sixthsens"
+		system = "unusual_sixthsense"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15665,7 +15665,7 @@
 	},
 	[318] = {
 		name = "North Star"
-		system = "unusual_norths"
+		system = "unusual_northstar"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15697,7 +15697,7 @@
 	},
 	[327] = {
 		name = "Loyalist's Coronet"
-		system = "unusual_corrodedknigh"
+		system = "unusual_corrodedknight"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15776,7 +15776,7 @@
 	},
 	[346] = {
 		name = "Butterfly Season"
-		system = "unusual_butterflyh"
+		system = "unusual_butterflyhead"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -15842,13 +15842,13 @@
 	},
 	[360] = {
 		name = "Searing Stove"
-		system = "unusual_stov"
+		system = "unusual_stove"
 		team = true
 		type = UnusualType.Cosmetic
 	},
 	[362] = {
 		name = "Über Blaze"
-		system = "unusual_electricfi"
+		system = "unusual_electricfire"
 		team = true
 		type = UnusualType.Cosmetic
 	},
@@ -16147,7 +16147,7 @@
 	},
 	[3053] = {
 		name = "Reindoonicorn Rancher"
-		system = "utaunt_balloonicorn_rein"
+		system = "utaunt_balloonicorn_reindeer"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16173,7 +16173,7 @@
 	},
 	[3061] = {
 		name = "Cavalier de Carte"
-		system = "utaun"
+		system = "utaunt_tarotcard"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16239,7 +16239,7 @@
 	},
 	[3075] = {
 		name = "Smissmas Swirls"
-		system = "utaunt_snowswi"
+		system = "utaunt_snowswirl"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16255,7 +16255,7 @@
 	},
 	[3079] = {
 		name = "Sparkly Spruce"
-		system = "utaunt_treespi"
+		system = "utaunt_treespiral"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16277,7 +16277,7 @@
 	},
 	[3085] = {
 		name = "Glamorous Dazzle"
-		system = "utaunt_gli"
+		system = "utaunt_glitter"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16288,7 +16288,7 @@
 	},
 	[3088] = {
 		name = "Marigold Ritual"
-		system = "utaunt_marigoldritu"
+		system = "utaunt_marigoldritual"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16330,7 +16330,7 @@
 	},
 	[3098] = {
 		name = "Rising Ritual"
-		system = "utaunt_risingspri"
+		system = "utaunt_risingsprit"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16403,7 +16403,7 @@
 	},
 	[3115] = {
 		name = "Deepsea Rave"
-		system = "utaunt_unders"
+		system = "utaunt_undersea"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16511,7 +16511,7 @@
 	},
 	[3139] = {
 		name = "Permafrost Essence"
-		system = "utaunt_innerblizz"
+		system = "utaunt_innerblizzard"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16566,7 +16566,7 @@
 	},
 	[3154] = {
 		name = "Fiesta Royale"
-		system = "utaunt_celebrationti"
+		system = "utaunt_celebrationtime"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16577,7 +16577,7 @@
 	},
 	[3157] = {
 		name = "Elemental"
-		system = "utaunt_god_lav"
+		system = "utaunt_god_lava"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16588,7 +16588,7 @@
 	},
 	[3160] = {
 		name = "Teamwork Valorance"
-		system = "utaunt_aestheticlog"
+		system = "utaunt_aestheticlogo"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16609,7 +16609,7 @@
 	},
 	[3165] = {
 		name = "Bountiful Riches"
-		system = "utaunt_treasu"
+		system = "utaunt_treasure"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16620,7 +16620,7 @@
 	},
 	[3168] = {
 		name = "Amatory"
-		system = "utaunt_wiggletub"
+		system = "utaunt_wiggletube"
 		team = true
 		type = UnusualType.Taunt
 	},
@@ -16642,7 +16642,7 @@
 	},
 	[3174] = {
 		name = "Power Pressure"
-		system = "utaunt_powerau"
+		system = "utaunt_poweraura"
 		team = true
 		type = UnusualType.Taunt
 	},

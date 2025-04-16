@@ -133,15 +133,33 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
         }
     }
 
+    local unusual_id = Cookies.Get(this, "taunt_unusual");
+    if(unusual_id)
+    {
+        local unusual_data = UNUSUALS[unusual_id];
+        local system_name = unusual_data.system;
+
+        if(safeget(unusual_data, "team", false))
+        {
+            system_name += ("_teamcolor_" + (GetTeam() == TF_TEAM_RED ? "red" : "blue"))
+        }
+
+        AttachParticle(system_name, PATTACH_ABSORIGIN_FOLLOW);
+    }
+
     SetVar("taunt_tick_listener", AddListener("tick_frame", 1, function(){
         if(!IsValid(active_weapon))
-            RemoveListener(GetVar("taunt_tick_listener"))
+        {
+            RemoveListener(GetVar("taunt_tick_listener"));
+            ClearParticle();
+        }
 
         if(!InCond(TF_COND_TAUNTING))
         {
-            SetPropEntity(this, "m_hActiveWeapon", active_weapon)
-            KillIfValid(weapon)
-            RemoveListener(GetVar("taunt_tick_listener"))
+            SetPropEntity(this, "m_hActiveWeapon", active_weapon);
+            KillIfValid(weapon);
+            ClearParticle();
+            RemoveListener(GetVar("taunt_tick_listener"));
         }
     }))
 }
@@ -282,4 +300,26 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
 	SendGlobalGameEvent("post_inventory_application", { userid = GetUserID(), dont_reequip = true })
 
 	return wearable;
+}
+
+::trigger_particle <- SpawnEntityFromTable("trigger_particle", {
+    spawnflags = 1,
+    IsEnabled = true,
+    StartDisabled = 0,
+    TeamNum = 0
+});
+::CTFPlayer.AttachParticle <- function(particle_name, attachment_type, attachment_name = null)
+{
+    if(!trigger_particle)
+        return;
+
+    SetPropString(trigger_particle, "m_iszParticleName", particle_name);
+    SetPropString(trigger_particle, "m_iszAttachmentName", attachment_name);
+    SetPropInt(trigger_particle, "m_nAttachType", attachment_type);
+
+    EntFireByHandle(trigger_particle, "StartTouch", null, 0.1, this, this);
+}
+::CTFPlayer.ClearParticle <- function()
+{
+    EntFireByHandle(this, "DispatchEffect", "ParticleEffectStop", 0, this, this);
 }

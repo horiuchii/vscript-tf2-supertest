@@ -149,7 +149,7 @@ def parse_unusual_data(next = 0):
             continue
         
         #skip unusuals that dont work
-        if item['id'] == 1 or item['id'] == 3 or item['id'] == 4:
+        if item['id'] == 1 or item['id'] == 3 or item['id'] == 5:
             continue
 
         #skip the blue particle as its always offset by one from the red (besides Aces High)
@@ -164,7 +164,7 @@ def parse_unusual_data(next = 0):
 
         #give us the system
         if item['system'].endswith("teamcolor_red"):
-            output_str += f"\t\tsystem = \"{item['system'].rstrip("teamcolor_red")}\"\n"
+            output_str += f"\t\tsystem = \"{item['system'][:~13]}\"\n"
         else:
             output_str += f"\t\tsystem = \"{item['system']}\"\n"
         

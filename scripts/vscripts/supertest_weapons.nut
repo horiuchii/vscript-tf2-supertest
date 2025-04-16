@@ -446,15 +446,8 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
             weapon_array.append(weapon_table);
         }
     }
-    weapon_array.sort(SortWeapons);
+    weapon_array.sort(function(a,b){return a.item_id <=> b.item_id;});
     return weapon_array;
-}
-
-::SortWeapons <- function(a,b)
-{
-    if(a.item_id > b.item_id) return 1;
-    if(a.item_id < b.item_id) return -1;
-    return 0;
 }
 
 ::GetWeaponIndexFlags <- function(weapon_id)

@@ -174,7 +174,7 @@ function GenerateCosmeticPrefabSelectMenu()
 
             function GenerateDesc(player)
             {
-                return "Make it so that no cosmetic prefabs are equipped for " + UpperFirst(class_name) + ".";
+                return "Make it so that no cosmetic\nprefabs are equipped for " + UpperFirst(class_name) + ".";
             }
 
             function OnSelected(player)
@@ -223,7 +223,7 @@ function GenerateCosmeticPrefabMenu()
 
                 function GenerateDesc(player)
                 {
-                    return "Equip this prefab and spawn with the cosmetics inside it.";
+                    return "Equip this prefab and spawn\nwith the cosmetics inside it.";
                 }
 
                 function OnSelected(player)
@@ -328,7 +328,7 @@ GenerateCosmeticEditMenu();
 
         function GenerateDesc(player)
         {
-            return "Change or Remove the cosmeitc.";
+            return "Change or Remove the cosmeitc." + "\nWhile in this menu, type in chat to perform a search.";
         }
 
         function OnSelected(player)
@@ -377,7 +377,7 @@ GenerateCosmeticEditMenu();
 
         function GenerateDesc(player)
         {
-            return "Change or Remove the unusual.";
+            return "Change or Remove the unusual." + "\nWhile in this menu, type in chat to perform a search.";
         }
 
         function OnSelected(player)
@@ -488,13 +488,6 @@ GenerateCosmeticEditMenu();
     })
 }
 
-::SortCosmetics <- function(a,b)
-{
-    if(a.cosmetic_index > b.cosmetic_index) return 1;
-    if(a.cosmetic_index < b.cosmetic_index) return -1;
-    return 0;
-}
-
 ::CosmeticMenuItems <- {}
 
 foreach(class_id, name in TF_CLASSES)
@@ -523,12 +516,13 @@ foreach(class_id, name in TF_CLASSES)
                     local namespace = "cosmetic_prefab_" + menu.class_name;
                     local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
                     Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
+                    player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " to Slot " + (menu.cosmetic_slot_index + 1) + " for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
                     SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
                 }
             })
         }
     }
-    cosmetic_array.sort(SortCosmetics)
+    cosmetic_array.sort(function(a,b){return a.cosmetic_index <=> b.cosmetic_index;})
 
     cosmetic_array.insert(0, class extends MenuItem
     {
@@ -548,17 +542,11 @@ foreach(class_id, name in TF_CLASSES)
             Cookies.SetNamespace(namespace, player, cookie, -1);
             Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
             Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
+            player.SendChat(CHAT_PREFIX + "Removed the Cosmetic in Slot " + (menu.cosmetic_slot_index + 1) + " for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
             SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
         }
     })
     CosmeticMenuItems[name] <- cosmetic_array;
-}
-
-::SortUnusuals <- function(a,b)
-{
-    if(a.unusual_index > b.unusual_index) return 1;
-    if(a.unusual_index < b.unusual_index) return -1;
-    return 0;
 }
 
 ::CosmeticUnusualMenuItems <- []
@@ -577,7 +565,7 @@ foreach(unusual_id, unusual_data in UNUSUALS)
             {
                 local menu = player.GetVar("menu");
                 //Equip the Pyrovision Goggles to Slot 1's Unusual for Demoman's 3rd Prefab.
-                return "Equip the\n" + titles[0] + "\nto Slot " + (menu.cosmetic_slot_index + 1) + "'s Unusual for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab."
+                return "Equip the\n" + titles[0] + "\nto Slot " + (menu.cosmetic_slot_index + 1) + "'s Unusual for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.";
             }
 
             function OnSelected(player)
@@ -586,13 +574,14 @@ foreach(unusual_id, unusual_data in UNUSUALS)
                 local namespace = "cosmetic_prefab_" + menu.class_name;
                 local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index + "_unusual";
                 Cookies.SetNamespace(namespace, player, cookie, unusual_index);
+                player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " to Slot " + (menu.cosmetic_slot_index + 1) + "'s Unusual for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
                 SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
             }
         })
     }
 }
 
-CosmeticUnusualMenuItems.sort(SortUnusuals)
+CosmeticUnusualMenuItems.sort(function(a,b){return a.unusual_index <=> b.unusual_index;})
 
 CosmeticUnusualMenuItems.insert(0, class extends MenuItem
 {
@@ -610,6 +599,7 @@ CosmeticUnusualMenuItems.insert(0, class extends MenuItem
         local namespace = "cosmetic_prefab_" + menu.class_name;
         local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index + "_unusual";
         Cookies.SetNamespace(namespace, player, cookie, -1);
+        player.SendChat(CHAT_PREFIX + "Removed the Unusual in Slot " + (menu.cosmetic_slot_index + 1) + " for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
         SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
     }
 })
@@ -652,3 +642,40 @@ foreach(class_id, name in TF_CLASSES)
         }
     }
 }
+
+OnGameEvent("player_say", 110, function(params)
+{
+    local player = GetPlayerFromUserID(params.userid);
+
+    local menu = player.GetVar("menu");
+    if(!menu)
+        return;
+
+    if(menu.id.find("_editcosmetic") != null && menu.id.find("_editunusual") != null)
+        return;
+
+    //reload the menu in the case we're doing a search on an already searched on menu
+    local parent_menu = menu.parent_menu;
+    menu = player.SetVar("menu", MENUS[menu.id]());
+    menu.parent_menu = parent_menu;
+
+    local menu_suffix = "_search";
+    if(player.GetVar("current_menu_dir").find(menu_suffix) == null)
+    {
+        player.SetVar("current_menu_dir", player.GetVar("current_menu_dir") + menu_suffix);
+    }
+
+    local new_item_array = [];
+    foreach(i, menuitem in menu.items)
+    {
+        if(i == 0)
+        {
+            new_item_array.append(menuitem);
+            continue;
+        }
+
+        if(menuitem.titles[0].tolower().find(params.text.tolower()) != null)
+            new_item_array.append(menuitem);
+    }
+    menu.items = new_item_array
+})

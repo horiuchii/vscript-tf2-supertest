@@ -39,6 +39,8 @@ OnGameEvent("player_spawn", 1, function(params)
     if(IsPlayerABot(player))
         return;
 
+    player.ClearParticle();
+
     if(player.GetTeam() != TF_TEAM_RED && player.GetTeam() != TF_TEAM_BLUE)
         return;
 
@@ -50,7 +52,6 @@ OnGameEvent("player_spawn", 1, function(params)
     {
         player.RemoveSolidFlags(FSOLID_TRIGGER);
     })
-
 
     if(Time() - player.GetVar("last_show_menu_hint") < MENU_HINT_COOLDOWN_TIME)
     {

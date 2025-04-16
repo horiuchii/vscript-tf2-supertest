@@ -8,12 +8,12 @@
     "scout"
     "sniper"
     "soldier"
-    "demoman"
+    "demo"
     "medic"
     "heavy"
     "pyro"
     "spy"
-    "engineer"
+    "engie"
 ]
 
 ::TF_CLASS_REMAP <- {
@@ -242,6 +242,14 @@ enum UnusualType
 ::DAMAGE_EVENTS_ONLY <- 1;
 ::DAMAGE_YES <- 2;
 ::DAMAGE_AIM <- 3;
+
+::PATTACH_ABSORIGIN <- 0;
+::PATTACH_ABSORIGIN_FOLLOW <- 1;
+::PATTACH_CUSTOMORIGIN <- 2;
+::PATTACH_POINT <- 3;
+::PATTACH_POINT_FOLLOW <- 4;
+::PATTACH_WORLDORIGIN <- 5;
+::PATTACH_ROOTBONE_FOLLOW <- 6;
 
 ::DRAW_KEYS <- [
     "IN_ATTACK"
