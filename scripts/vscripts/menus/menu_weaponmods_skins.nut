@@ -1421,7 +1421,7 @@ enum SkinCollection
         order = 4
         index = 279
     },
-    ["frozen_aurora"] = {
+    ["elfin_enamel"] = {
         display_name = "Elfin Enamel"
         collection = SkinCollection.Winter2020
         type = SkinType.Warpaint

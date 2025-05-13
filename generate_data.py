@@ -23,11 +23,7 @@ def parse_cosmetic_data(next = 0):
         #ignore action slot items and tf_wearable weapons
         if item['item_slot'] != "misc":
             continue
-
-        #ignore medals for now
-        if item['item_type_name'] == "Tournament Medal" or item['item_type_name'] == "Community Medal":
-            continue
-
+        
         #ignore cheater items
         if item['defindex'] == 122 or item['defindex'] == 123 or item['defindex'] == 124:
             continue
@@ -53,11 +49,19 @@ def parse_cosmetic_data(next = 0):
             if item['proper_name']:
                 output_str += "The "
             output_str += f"{item['item_name']}\"\n"
-            
+        
+        #set what category of cosmetic is this
+        output_str += "\t\ttype = "
+        match item['item_type_name']:
+            case "Tournament Medal": output_str += "CosmeticType.TournamentMedal"
+            case "Community Medal": output_str += "CosmeticType.CommunityMedal"
+            case _: output_str += "CosmeticType.Normal"
+        output_str += "\n"
+
         #get some internal data about the item, just in case
-        output_str += f"\t\tname_internal = \"{item['name']}\"\n"
-        output_str += f"\t\tmodel = \"{item['model_player']}\"\n"
-        output_str += f"\t\timage = \"{item['image_inventory']}\"\n"
+        #output_str += f"\t\tname_internal = \"{item['name']}\"\n"
+        #output_str += f"\t\tmodel = \"{item['model_player']}\"\n"
+        #output_str += f"\t\timage = \"{item['image_inventory']}\"\n"
 
         #set the classes used by this cosmetic
         if 'used_by_classes' in item:
@@ -82,15 +86,16 @@ def parse_cosmetic_data(next = 0):
         if 'capabilities' in item and 'paintable' in item['capabilities']:
             output_str += "\t\tpaint = true\n"
         
-        #set the styles the cosmetic has
+        #set the styles the cosmetic has styles and more than one
         if 'styles' in item:
-            output_str += "\t\tstyles = ["
-            for index, style in enumerate(item['styles']):
-                if index != 0:
-                    output_str += " "
+            if len(item['styles']) > 1:
+                output_str += "\t\tstyles = ["
+                for index, style in enumerate(item['styles']):
+                    if index != 0:
+                        output_str += " "
 
-                output_str += f"\"{style['name']}\""
-            output_str += "]\n"
+                    output_str += f"\"{style['name']}\""
+                output_str += "]\n"
         
         #we're done here, close out this item
         output_str += "\t},\n"

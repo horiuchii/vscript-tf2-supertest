@@ -238,6 +238,7 @@ function GenerateCosmeticPrefabMenu()
                 menu.items.append(class extends MenuItem
                 {
                     cosmetic_slot_index = cosmetic_slot_id;
+                    medal_slot = cosmetic_slot_id == (COSMESTICS_IN_PREFAB_COUNT - 1);
                     prefab_index = prefab_id;
                     class_name = name;
                     titles = [""];
@@ -249,22 +250,32 @@ function GenerateCosmeticPrefabMenu()
                         local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index;
                         local hat_id = Cookies.GetNamespace(namespace, player, cookie);
                         local hat_name = "None";
+
                         if(hat_id != -1 && hat_id in COSMETICS)
                         {
                             hat_name = COSMETICS[hat_id].name;
                         }
 
-                        titles[0] = "Cosmetic #" + (cosmetic_slot_index + 1).tostring() + ": " + hat_name;
+                        if(medal_slot)
+                            titles[0] = "Medal: " + hat_name;
+                        else
+                            titles[0] = "Cosmetic #" + (cosmetic_slot_index + 1).tostring() + ": " + hat_name;
                     }
 
                     function GenerateDesc(player)
                     {
-                        return "Modify the cosmetic inside of slot #" + (cosmetic_slot_index + 1);
+                        if(medal_slot)
+                            return "Modify the medal inside it's slot."
+                        else
+                            return "Modify the cosmetic inside of slot #" + (cosmetic_slot_index + 1);
                     }
 
                     function OnSelected(player)
                     {
-                        player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_" + cosmetic_slot_index);
+                        if(medal_slot)
+                            player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_medal");
+                        else
+                            player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_" + cosmetic_slot_index);
                     }
                 })
             }
@@ -298,6 +309,21 @@ function GenerateCosmeticEditMenu()
                 };
                 DefineMenu(menu);
             }
+
+            local menu = class extends Menu
+            {
+                id = "cosmetics_" + name + "_" + prefab_id + "_medal";
+                menu_name = "medal";
+
+                prefab_index = prefab_id;
+                class_name = name;
+
+                function constructor()
+                {
+                    GenerateCosmeticEditMenuItems(this, COSMESTICS_IN_PREFAB_COUNT - 1, prefab_index, class_name)
+                }
+            };
+            DefineMenu(menu);
         }
     }
 }
@@ -323,7 +349,10 @@ GenerateCosmeticEditMenu();
                 hat_name = COSMETICS[hat_id].name;
             }
 
-            titles[0] = "Cosmetic: " + hat_name;
+            if(cosmetic_slot_index == COSMESTICS_IN_PREFAB_COUNT - 1)
+                titles[0] = "Medal: " + hat_name;
+            else
+                titles[0] = "Cosmetic: " + hat_name;
         }
 
         function GenerateDesc(player)
@@ -333,7 +362,7 @@ GenerateCosmeticEditMenu();
 
         function OnSelected(player)
         {
-            player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_" + cosmetic_slot_index + "_editcosmetic");
+            player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_medaltype");
 
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index;
@@ -362,6 +391,12 @@ GenerateCosmeticEditMenu();
 
         function OnMenuOpened(player)
         {
+            if(cosmetic_slot_index == COSMESTICS_IN_PREFAB_COUNT - 1)
+            {
+                hidden = true;
+                return;
+            }
+
             //get the cosmetic name
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_unusual";
@@ -490,41 +525,100 @@ GenerateCosmeticEditMenu();
 
 ::CosmeticMenuItems <- {}
 
-foreach(class_id, name in TF_CLASSES)
+foreach(tf_class_name in TF_CLASSES)
 {
-    local cosmetic_array = [];
-    foreach(cosmetic_id, cosmetic_data in COSMETICS)
+    CosmeticMenuItems[tf_class_name] <- [];
+}
+
+::CommunityMedalMenuItems <- []
+::TournamentMedalMenuItems <- []
+
+local cosmetic_array = [];
+foreach(cosmetic_id, cosmetic_data in COSMETICS)
+{
+    //regular cosmetics go here, into each class' array
+    if(cosmetic_data.type == CosmeticType.Normal)
     {
-        //only add this cosmetic to the menu if its an allclass or if our class is in it
-        if(!("classes" in cosmetic_data) || cosmetic_data.classes.find(class_id + 1) != null)
+        local menu_item = class extends MenuItem
         {
-            cosmetic_array.append(class extends MenuItem
+            cosmetic_index = cosmetic_id;
+            titles = [cosmetic_data.name];
+
+            function GenerateDesc(player)
             {
-                cosmetic_index = cosmetic_id;
-                titles = [cosmetic_data.name];
+                local menu = player.GetVar("menu");
+                //Equip the Pyrovision Goggles to Slot 1 for Demoman's 3rd Prefab.
+                return "Equip the\n" + titles[0] + "\nto Slot " + (menu.cosmetic_slot_index + 1) + " for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab."
+            }
 
-                function GenerateDesc(player)
-                {
-                    local menu = player.GetVar("menu");
-                    //Equip the Pyrovision Goggles to Slot 1 for Demoman's 3rd Prefab.
-                    return "Equip the\n" + titles[0] + "\nto Slot " + (menu.cosmetic_slot_index + 1) + " for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab."
-                }
+            function OnSelected(player)
+            {
+                local menu = player.GetVar("menu");
+                local namespace = "cosmetic_prefab_" + menu.class_name;
+                local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+                Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
+                player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " to Slot " + (menu.cosmetic_slot_index + 1) + " for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
+                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            }
+        }
 
-                function OnSelected(player)
-                {
-                    local menu = player.GetVar("menu");
-                    local namespace = "cosmetic_prefab_" + menu.class_name;
-                    local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
-                    Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
-                    player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " to Slot " + (menu.cosmetic_slot_index + 1) + " for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-                    SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
-                }
-            })
+        if(!("classes" in cosmetic_data))
+        {
+            foreach(tf_class_name in TF_CLASSES)
+            {
+                CosmeticMenuItems[tf_class_name].append(menu_item);
+            }
+        }
+        else
+        {
+            foreach(tf_class_name in cosmetic_data.classes)
+            {
+                CosmeticMenuItems[TF_CLASSES[tf_class_name - 1]].append(menu_item);
+            }
         }
     }
-    cosmetic_array.sort(function(a,b){return a.cosmetic_index <=> b.cosmetic_index;})
+    //touney and community medals
+    else
+    {
+        local menuitem = class extends MenuItem
+        {
+            cosmetic_index = cosmetic_id;
+            titles = [cosmetic_data.name];
 
-    cosmetic_array.insert(0, class extends MenuItem
+            function GenerateDesc(player)
+            {
+                local menu = player.GetVar("menu");
+                //Equip the x into the medal slot for Demoman's 3rd Prefab.
+                return "Equip the\n" + titles[0] + "\ninto the medal slot for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab."
+            }
+
+            function OnSelected(player)
+            {
+                local menu = player.GetVar("menu");
+                local namespace = "cosmetic_prefab_" + menu.class_name;
+                local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+                Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
+                player.SendChat(CHAT_PREFIX + "Equip the\n" + titles[0] + "\ninto the medal slot for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
+                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            }
+        }
+
+        if(cosmetic_data.type == CosmeticType.CommunityMedal)
+            CommunityMedalMenuItems.append(menuitem);
+        else if(cosmetic_data.type == CosmeticType.TournamentMedal)
+            TournamentMedalMenuItems.append(menuitem);
+    }
+}
+//sort it
+foreach(tf_class_name in TF_CLASSES) {
+    CosmeticMenuItems[tf_class_name].sort(function(a,b){return a.cosmetic_index <=> b.cosmetic_index;})
+}
+CommunityMedalMenuItems.sort(function(a,b){return a.cosmetic_index <=> b.cosmetic_index;})
+TournamentMedalMenuItems.sort(function(a,b){return a.cosmetic_index <=> b.cosmetic_index;})
+
+//add the remove option
+foreach(tf_class_name in TF_CLASSES) {
+    CosmeticMenuItems[tf_class_name].insert(0, class extends MenuItem
     {
         titles = ["Remove Cosmetic"];
 
@@ -546,8 +640,51 @@ foreach(class_id, name in TF_CLASSES)
             SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
         }
     })
-    CosmeticMenuItems[name] <- cosmetic_array;
 }
+CommunityMedalMenuItems.insert(0, class extends MenuItem
+{
+    titles = ["Remove Medal"];
+
+    function GenerateDesc(player)
+    {
+        local menu = player.GetVar("menu");
+        return "Remove the medal in it's slot for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.";
+    }
+
+    function OnSelected(player)
+    {
+        local menu = player.GetVar("menu");
+        local namespace = "cosmetic_prefab_" + menu.class_name;
+        local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+        Cookies.SetNamespace(namespace, player, cookie, -1);
+        Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
+        Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
+        player.SendChat(CHAT_PREFIX + "Removed the medal in it's slot for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
+        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+    }
+})
+TournamentMedalMenuItems.insert(0, class extends MenuItem
+{
+    titles = ["Remove Medal"];
+
+    function GenerateDesc(player)
+    {
+        local menu = player.GetVar("menu");
+        return "Remove the medal in it's slot for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.";
+    }
+
+    function OnSelected(player)
+    {
+        local menu = player.GetVar("menu");
+        local namespace = "cosmetic_prefab_" + menu.class_name;
+        local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+        Cookies.SetNamespace(namespace, player, cookie, -1);
+        Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
+        Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
+        player.SendChat(CHAT_PREFIX + "Removed the medal in it's slot for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
+        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+    }
+})
 
 ::CosmeticUnusualMenuItems <- []
 
@@ -640,6 +777,67 @@ foreach(class_id, name in TF_CLASSES)
                 }
             })
         }
+
+        DefineMenu(class extends Menu
+        {
+            id = "cosmetics_" + name + "_" + prefab_id + "_medaltype"
+            menu_name = "type"
+
+            class_name = name
+            prefab_index = prefab_id
+
+            function constructor()
+            {
+                items = [
+                    class extends MenuItem{
+                        titles = ["Community Medal"]
+
+                        function OnSelected(player)
+                        {
+                            local menu = player.GetVar("menu");
+                            player.GoToMenu("cosmetics_" + menu.class_name + "_" + menu.prefab_index + "_medal_community");
+                        }
+                    }
+                    class extends MenuItem{
+                        titles = ["Tournament Medal"]
+
+                        function OnSelected(player)
+                        {
+                            local menu = player.GetVar("menu");
+                            player.GoToMenu("cosmetics_" + menu.class_name + "_" + menu.prefab_index + "_medal_tournament");
+                        }
+                    }
+                ]
+            }
+        })
+
+        DefineMenu(class extends Menu
+        {
+            id = "cosmetics_" + name + "_" + prefab_id + "_medal_community"
+            menu_name = "community"
+
+            class_name = name
+            prefab_index = prefab_id
+
+            function constructor()
+            {
+                items = clone(CommunityMedalMenuItems)
+            }
+        })
+
+        DefineMenu(class extends Menu
+        {
+            id = "cosmetics_" + name + "_" + prefab_id + "_medal_tournament"
+            menu_name = "tournament"
+
+            class_name = name
+            prefab_index = prefab_id
+
+            function constructor()
+            {
+                items = clone(TournamentMedalMenuItems)
+            }
+        })
     }
 }
 
@@ -651,7 +849,7 @@ OnGameEvent("player_say", 110, function(params)
     if(!menu)
         return;
 
-    if(menu.id.find("_editcosmetic") != null && menu.id.find("_editunusual") != null)
+    if(menu.id.find("_editcosmetic") != null && menu.id.find("_editunusual") != null && menu.id.find("_medal_community") != null && menu.id.find("_medal_tournament") != null)
         return;
 
     //reload the menu in the case we're doing a search on an already searched on menu

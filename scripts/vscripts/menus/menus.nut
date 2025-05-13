@@ -12,8 +12,6 @@ class Menu
     {
         return id;
     }
-
-    function OnMenuOpened(player){}
 }
 
 ::DefineMenu <- function(menu_class)
@@ -95,33 +93,22 @@ OnGameEvent("player_say", 101, function(params)
 
 ::CTFPlayer.OpenMenu <- function()
 {
-    local menu = SetVar("menu", GetVar("stored_menu") ? GetVar("stored_menu") : MENUS["main_menu"]());
     PlaySoundForPlayer({sound_name = "ui/cyoa_map_open.wav"});
     EntFireByHandle(env_hudhint_menu, "HideHudHint", "", 0, this, this);
     SetVar("last_saved_cloak", GetSpyCloakMeter());
-    SetVar("current_menuitem_desc", null);
-    SetVar("current_menu_dir", null);
-    menu.OnMenuOpened(this);
     ClearText();
-    foreach(menuitem in menu.items)
-    {
-        menuitem.OnMenuOpened(this);
-    }
+
+    local menu = GetVar("stored_menu") ? GetVar("stored_menu") : MENUS["main_menu"]();
+    SetMenu(menu);
 }
 
 ::CTFPlayer.GoToMenu <- function(menu_id)
 {
+    PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_expand.wav"});
+
     local menu = MENUS[menu_id]();
     menu.parent_menu = GetVar("menu");
-    SetVar("menu", menu);
-    PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_expand.wav"});
-    SetVar("current_menuitem_desc", null);
-    SetVar("current_menu_dir", null);
-    menu.OnMenuOpened(this);
-    foreach(menuitem in menu.items)
-    {
-        menuitem.OnMenuOpened(this);
-    }
+    SetMenu(menu);
 }
 
 ::CTFPlayer.GoUpMenuDir <- function()
@@ -131,14 +118,20 @@ OnGameEvent("player_say", 101, function(params)
         CloseMenu();
         return;
     }
+    PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_collapse.wav"});
+
+    SetMenu(GetVar("menu").parent_menu);
+}
+
+::CTFPlayer.SetMenu <- function(menu)
+{
     SetVar("current_menuitem_desc", null);
     SetVar("current_menu_dir", null);
-    local menu = SetVar("menu", GetVar("menu").parent_menu);
-    foreach(menuitem in menu.items)
+    local new_menu = SetVar("menu", menu);
+    foreach(menuitem in new_menu.items)
     {
         menuitem.OnMenuOpened(this);
     }
-    PlaySoundForPlayer({sound_name = "ui/cyoa_objective_panel_collapse.wav"});
 }
 
 ::CTFPlayer.HandleCurrentMenu <- function()

@@ -1,8 +1,11 @@
+if(!IS_SUPERTEST)
+    return;
+
 ::spawn_point <- FindByName(null, "base_boss_spawn_point");
 
 ::SpawnTank <- function()
 {
-    if(!spawn_point.IsValid())
+    if(!spawn_point)
         return;
 
     local dps_boss = SpawnEntityFromTable("tank_boss", {

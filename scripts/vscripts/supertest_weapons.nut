@@ -2062,7 +2062,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
     },
     ["gigar_counter"] = {
-        display_name = "Gigar Counter"
+        display_name = "Giger Counter"
         classname = "tf_weapon_laser_pointer"
         item_id = 30668
         used_by_classes = [TF_CLASS_ENGINEER]

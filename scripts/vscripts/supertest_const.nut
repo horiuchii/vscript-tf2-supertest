@@ -223,12 +223,19 @@ enum UnusualType
     Taunt
 }
 
+enum CosmeticType
+{
+    Normal
+    CommunityMedal
+    TournamentMedal
+}
+
 ::COSMETIC_PREFAB_COUNT <- 6; //how many prefabs per class
-::COSMESTICS_IN_PREFAB_COUNT <- 6; //how many cosmetics inside of each prefab
+::COSMESTICS_IN_PREFAB_COUNT <- 7; //how many cosmetics inside of each prefab, last is reserved for medals
 
 ::DAI_INITIAL_TICKS <- 12 //how many ticks until we start dai
-::DAI_TICKS <- [550 220 110 55 0] //how many ticks need to have passed until we start moving the menu faster
-::DAI_PERIOD_TICKS <- [1 2 3 4 8] //how many ticks it takes to move the input
+::DAI_TICKS <- [1100 550 220 110 55 0] //how many ticks need to have passed until we start moving the menu faster
+::DAI_PERIOD_TICKS <- [0 1 2 3 4 8] //how many ticks it takes to move the input
 
 ::SIDE_DAI_INITIAL_TICKS <- 10; // how many ticks until side DAI starts
 ::SIDE_DAI_PERIOD_TICKS <- 10; // how many ticks inbetween side DAI inputs

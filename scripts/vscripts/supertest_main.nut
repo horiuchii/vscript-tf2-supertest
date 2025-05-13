@@ -1,4 +1,5 @@
 ::DEBUG <- !!GetDeveloperLevel();
+::IS_SUPERTEST <- GetMapName() == "supertest";
 
 ::projectDir <- ""
 IncludeScript(projectDir+"/__lizardlib/_lizardlib.nut", this);
@@ -36,3 +37,28 @@ OnGameEvent("player_say", function(params)
     if(params.text == "/toggle_debug")
         DEBUG = !DEBUG;
 })
+
+if(!IS_SUPERTEST)
+{
+    //respawn players so that the player vars can exist
+    foreach(player in GetPlayers())
+    {
+        player.ForceRespawn();
+    }
+
+    //if we're in a map without upgrade stations, make it so when we touch a resupply cabinet we open the menu
+    if(!FindByClassname(null, "func_upgradestation"))
+    {
+        local entity = null
+        while(entity = FindByClassname(entity, "func_regenerate"))
+        {
+            local brush = SpawnEntityFromTable("func_upgradestation", {
+                model = entity.GetModelName()
+                origin = entity.GetOrigin()
+                angles = entity.GetAbsAngles()
+                spawnflags = 1
+            })
+            brush.SetSolid(SOLID_OBB);
+        }
+    }
+}
