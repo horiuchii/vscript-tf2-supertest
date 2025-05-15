@@ -81,7 +81,7 @@ OnGameEvent("player_death", 1, function(params)
     if(IsPlayerABot(player))
         return;
 
-    player.SetVar("last_life_death", true);
+    player.SetVar("last_life_death", !Cookies.Get(player, "respawn_at_death_point"));
 
     if(Cookies.Get(player, "instant_respawn"))
     {

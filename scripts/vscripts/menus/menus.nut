@@ -66,6 +66,7 @@ IncludeScript(projectDir+"menus/menu_cvars.nut", this);
 IncludeScript(projectDir+"menus/menu_playermods.nut", this);
 IncludeScript(projectDir+"menus/menu_cosmetics.nut", this);
 IncludeScript(projectDir+"menus/menu_playersettings.nut", this);
+IncludeScript(projectDir+"menus/menu_stats.nut", this);
 
 OnGameEvent("player_say", 101, function(params)
 {
@@ -261,6 +262,7 @@ OnGameEvent("player_say", 101, function(params)
     }
 
     //skip over hidden menu items
+    //TODO: This doesn't work properly when menu items are hidden imbetween unhidden items
     while(menu.items[new_loc].hidden)
     {
         new_loc += offset;
@@ -295,39 +297,63 @@ OnGameEvent("player_say", 101, function(params)
 
 ::CTFPlayer.DisplayMenu <- function()
 {
-    if((GlobalTickCounter % 2) != 0)
+    if((GlobalTickCounter % 3) != 0)
         return;
 
     local menu = GetVar("menu");
     if(!menu)
         return;
 
+    local add_count = 0;
     local message = "";
+    local message2 = "";
+    local message3 = "";
+
+    local add_to_buffer = function(msg) {
+        if(add_count == 0 || add_count == 1)
+        {
+            message += msg;
+            message2 += "\n";
+            message3 += "\n";
+        }
+        if(add_count == 2 || add_count == 3 || add_count == 4)
+        {
+            message2 += msg;
+            message3 += "\n";
+        }
+        if(add_count == 5 || add_count == 6 || add_count == 7)
+        {
+            message3 += msg;
+        }
+
+        add_count++;
+    }
+
     local menu_size = menu.items.len();
     local option_count = 3;
-    for(local i = menu.selected_index - (option_count - 1); i < menu.selected_index + (option_count + 2); i++)
+    for(local i = menu.selected_index - (option_count - 1); i < menu.selected_index + (option_count + 3); i++)
     {
         local index = i;
 
         if(index == -1)
         {
-            message += "▲\n";
+            add_to_buffer("▲\n");
             continue;
         }
         if(index == menu_size)
         {
-            message += "▼\n";
+            add_to_buffer("▼\n");
             continue;
         }
         if(index < 0 || index > menu_size - 1)
         {
-            message += "\n";
+            add_to_buffer("\n");
             continue;
         }
 
         if(!menu.items[i])
         {
-            message += "INVALID ITEM\n"
+            add_to_buffer("INVALID ITEM\n");
             continue;
         }
         else
@@ -338,13 +364,15 @@ OnGameEvent("player_say", 101, function(params)
                 continue;
 
             if(item.titles.len() > 1)
-                message += "◀  " + item.titles[item.index] + "  ▶\n";
+                add_to_buffer("◀  " + item.titles[item.index] + "  ▶\n");
             else
-                message += item.titles[0] + "\n";
+                add_to_buffer(item.titles[0] + "\n");
         }
     }
 
-    SendGameText(-1, 0.13, 0, "255 255 255", message);
+    SendGameText(-1, 0.11, 0, "255 255 255", message);
+    SendGameText(-1, 0.11, 1, "255 255 255", message2);
+    SendGameText(-1, 0.11, 2, "255 255 255", message3);
 
     local desc = GetVar("current_menuitem_desc");
 
@@ -360,7 +388,7 @@ OnGameEvent("player_say", 101, function(params)
         case 2: desc_text_y = 0.445; break;
         case 3: desc_text_y = 0.425; break;
     }
-    SendGameText(-1, desc_text_y, 1, "255 255 255", desc);
+    SendGameText(-1, desc_text_y, 3, "255 255 255", desc);
 
     local menu_dir_name = GetVar("current_menu_dir");
 
@@ -376,5 +404,5 @@ OnGameEvent("player_say", 101, function(params)
         menu_dir_name = SetVar("current_menu_dir", "." + menu_dir_name);
     }
 
-    SendGameText(-1, 0.075, 2, "500 64 16", menu_dir_name);
+    SendGameText(-1, 0.075, 4, "500 64 16", menu_dir_name);
 }

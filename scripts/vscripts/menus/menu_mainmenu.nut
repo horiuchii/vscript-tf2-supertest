@@ -105,6 +105,19 @@ DefineMenu(class extends Menu{
         {
             player.GoToMenu("server_cvar")
         }
+    },
+    class extends MenuItem{
+        titles = ["Statistics"];
+
+        function GenerateDesc(player)
+        {
+            return "See various statistics for the items in TF2.";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("stats")
+        }
     }
     ]
 })

@@ -1844,7 +1844,7 @@ function GenerateSelectCollectionMenu()
 
         function GenerateDesc(player)
         {
-            return "Unequips your currently equipped skin / warpaint."
+            return "Unequips your currently equipped skin / war paint."
         }
 
         function OnSelected(player)
@@ -1902,7 +1902,7 @@ function GenerateSkinSelectCollectionMenu()
                             return desc_prefix + replacements.len() + " stock weapons.";
                     }
                     else
-                        return desc_prefix + "warpaintable weapons.";
+                        return desc_prefix + "war paintable weapons.";
                 }
 
                 function OnSelected(player)

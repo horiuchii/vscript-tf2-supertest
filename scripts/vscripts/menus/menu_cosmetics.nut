@@ -357,13 +357,22 @@ GenerateCosmeticEditMenu();
 
         function GenerateDesc(player)
         {
-            return "Change or Remove the cosmeitc." + "\nWhile in this menu, type in chat to perform a search.";
+            if(cosmetic_slot_index == COSMESTICS_IN_PREFAB_COUNT - 1)
+                return "Change or Remove the medal.";
+            else
+                return "Change or Remove the cosmeitc." + "\nWhile in this menu, type in chat to perform a search.";
         }
 
         function OnSelected(player)
         {
-            player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_medaltype");
+            if(cosmetic_slot_index == COSMESTICS_IN_PREFAB_COUNT - 1)
+            {
+                player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_medaltype");
+                return;
+            }
 
+            player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_" + cosmetic_slot_index + "_editcosmetic");
+            
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index;
             local hat_id = Cookies.GetNamespace(namespace, player, cookie);
@@ -388,12 +397,15 @@ GenerateCosmeticEditMenu();
     menu.items.append(class extends MenuItem
     {
         titles = [""];
+        invalid = false;
 
         function OnMenuOpened(player)
         {
             if(cosmetic_slot_index == COSMESTICS_IN_PREFAB_COUNT - 1)
             {
-                hidden = true;
+                //hidden = true;
+                invalid = true;
+                titles[0] = "Unusual: N/A";
                 return;
             }
 
@@ -412,11 +424,17 @@ GenerateCosmeticEditMenu();
 
         function GenerateDesc(player)
         {
-            return "Change or Remove the unusual." + "\nWhile in this menu, type in chat to perform a search.";
+            if(invalid)
+                return "This cosmetic cannot have an unusual.";
+            else
+                return "Change or Remove the unusual." + "\nWhile in this menu, type in chat to perform a search.";
         }
 
         function OnSelected(player)
         {
+            if(invalid)
+                return;
+
             player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_" + cosmetic_slot_index + "_editunusual");
 
             local namespace = "cosmetic_prefab_" + class_name;
@@ -444,6 +462,7 @@ GenerateCosmeticEditMenu();
     menu.items.append(class extends MenuItem
     {
         titles = [""];
+        invalid = false;
 
         function OnMenuOpened(player)
         {
@@ -453,19 +472,27 @@ GenerateCosmeticEditMenu();
             local hat_id = Cookies.GetNamespace(namespace, player, cookie);
             if(hat_id == -1 || !(hat_id in COSMETICS) || !("paint" in COSMETICS[hat_id]) || !COSMETICS[hat_id].paint)
             {
-                hidden = true;
+                invalid = true;
+                titles[0] = "Paint: N/A"
+                //hidden = true;
             }
             else
             {
-                hidden = false;
+                invalid = false;
+                //hidden = false;
                 titles = [];
                 foreach(paint in PAINTS)
                     titles.append("Paint: " + paint.name);
             }
+
+            index = Cookies.GetNamespace(namespace, player, cookie + "_paint");
         }
 
         function GenerateDesc(player)
         {
+            if(invalid)
+                return "This cosmetic cannot be painted.";
+
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_paint";
             return "Set the paint of the current cosmetic to:\n" + PAINTS[index].name + ".\nCurrent: " + PAINTS[Cookies.GetNamespace(namespace, player, cookie)].name;
@@ -473,6 +500,9 @@ GenerateCosmeticEditMenu();
 
         function OnSelected(player)
         {
+            if(invalid)
+                return;
+
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_paint";
             Cookies.SetNamespace(namespace, player, cookie, index);
@@ -485,6 +515,7 @@ GenerateCosmeticEditMenu();
     menu.items.append(class extends MenuItem
     {
         titles = [""];
+        invalid = false;
 
         function OnMenuOpened(player)
         {
@@ -494,19 +525,27 @@ GenerateCosmeticEditMenu();
             local hat_id = Cookies.GetNamespace(namespace, player, cookie);
             if(hat_id == -1 || !(hat_id in COSMETICS) || !("styles" in COSMETICS[hat_id]))
             {
-                hidden = true;
+                invalid = true;
+                titles[0] = "Style: N/A";
+                //hidden = true;
             }
             else
             {
-                hidden = false;
+                invalid = false;
+                //hidden = false;
                 titles = [];
                 foreach(style_name in COSMETICS[hat_id]["styles"])
                     titles.append("Style: " + style_name);
             }
+
+            index = Cookies.GetNamespace(namespace, player, cookie + "_style");
         }
 
         function GenerateDesc(player)
         {
+            if(invalid)
+                return "This cosmetic cannot be styled.";
+
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_style";
             return "Set the style of the current cosmetic to: " + titles[index].slice(7) + ".\nCurrent: " + titles[Cookies.GetNamespace(namespace, player, cookie)].slice(7);
@@ -514,6 +553,9 @@ GenerateCosmeticEditMenu();
 
         function OnSelected(player)
         {
+            if(invalid)
+                return;
+
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_style";
             Cookies.SetNamespace(namespace, player, cookie, index);
@@ -596,9 +638,9 @@ foreach(cosmetic_id, cosmetic_data in COSMETICS)
             {
                 local menu = player.GetVar("menu");
                 local namespace = "cosmetic_prefab_" + menu.class_name;
-                local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+                local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + (COSMESTICS_IN_PREFAB_COUNT - 1);
                 Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
-                player.SendChat(CHAT_PREFIX + "Equip the\n" + titles[0] + "\ninto the medal slot for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
+                player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " into the medal slot for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
                 SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
             }
         }
@@ -797,6 +839,11 @@ foreach(class_id, name in TF_CLASSES)
                             local menu = player.GetVar("menu");
                             player.GoToMenu("cosmetics_" + menu.class_name + "_" + menu.prefab_index + "_medal_community");
                         }
+
+                        function GenerateDesc(player)
+                        {
+                            return "Choose from the list of Community Medals.\nWhile in this menu, type in chat to perform a search.";
+                        }
                     }
                     class extends MenuItem{
                         titles = ["Tournament Medal"]
@@ -805,6 +852,11 @@ foreach(class_id, name in TF_CLASSES)
                         {
                             local menu = player.GetVar("menu");
                             player.GoToMenu("cosmetics_" + menu.class_name + "_" + menu.prefab_index + "_medal_tournament");
+                        }
+
+                        function GenerateDesc(player)
+                        {
+                            return "Choose from the list of Tournament Medals.\nWhile in this menu, type in chat to perform a search.";
                         }
                     }
                 ]

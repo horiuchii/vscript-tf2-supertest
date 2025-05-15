@@ -17,6 +17,7 @@ Cookies.AddCookie("menu_opacity", 0);
 
 Cookies.AddCookie("menu_dai_loop", 0);
 Cookies.AddCookie("instant_respawn", 0);
+Cookies.AddCookie("respawn_at_death_point", 0);
 Cookies.AddCookie("show_conds", 0);
 Cookies.AddCookie("show_keys", 0);
 
@@ -84,6 +85,25 @@ DefineMenu(class extends Menu{
                 }
             },
             class extends MenuItem{
+                titles = ["Respawn At Death Point: Off", "Respawn At Death Point: On"];
+
+                function OnMenuOpened(player)
+                {
+                    index = Cookies.Get(player, "respawn_at_death_point");
+                }
+
+                function GenerateDesc(player)
+                {
+                    return "Whether you will respawn where you died,\nmaintaining velocity and view angles.\nCurrent: " + (Cookies.Get(player, "respawn_at_death_point") ? "On" : "Off");
+                }
+
+                function OnSelected(player)
+                {
+                    Cookies.Set(player, "respawn_at_death_point", index);
+                    player.SendChat(CHAT_PREFIX + "Respawning at death point is now: " + (index ? "On" : "Off"));
+                }
+            },
+            class extends MenuItem{
                 titles = ["Show Conditions On HUD: Off", "Show Conditions On HUD: On"];
 
                 function OnMenuOpened(player)
@@ -93,7 +113,7 @@ DefineMenu(class extends Menu{
 
                 function GenerateDesc(player)
                 {
-                    return "Whether to show active conditions on the HUD.\nCurrent: " + (Cookies.Get(player, "show_conds") ? "On" : "Off");
+                    return "Whether to show active conditions on the HUD.\nMay cause menu flickering when enabled.\nCurrent: " + (Cookies.Get(player, "show_conds") ? "On" : "Off");
                 }
 
                 function OnSelected(player)
@@ -112,7 +132,7 @@ DefineMenu(class extends Menu{
 
                 function GenerateDesc(player)
                 {
-                    return "Whether to show keys on the HUD.\nCurrent: " + (Cookies.Get(player, "show_keys") ? "On" : "Off");
+                    return "Whether to show keys on the HUD.\nMay cause menu flickering when enabled.\nCurrent: " + (Cookies.Get(player, "show_keys") ? "On" : "Off");
                 }
 
                 function OnSelected(player)

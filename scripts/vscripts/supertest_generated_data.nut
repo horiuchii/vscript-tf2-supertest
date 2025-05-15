@@ -1142,71 +1142,71 @@
 		styles = ["A Day at the Beach" "Carefree Summer Nap"]
 	},
 	[496] = {
-		name = "1st Gamers With Jobs Tournament"
+		name = "First Place - Gamers With Jobs Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[497] = {
-		name = "2nd Gamers With Jobs Tournament"
+		name = "Second Place - Gamers With Jobs Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[498] = {
-		name = "Participant Gamers With Jobs Tournament"
+		name = "Participant - Gamers With Jobs Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[499] = {
-		name = "1st ETF2L 12v12 Tournament"
+		name = "First Place - ETF2L Highlander Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[500] = {
-		name = "2nd ETF2L 12v12 Tournament"
+		name = "Second Place - ETF2L Highlander Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[501] = {
-		name = "3rd ETF2L 12v12 Tournament"
+		name = "Third Place - ETF2L Highlander Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[502] = {
-		name = "Participant ETF2L 12v12 Tournament"
+		name = "Participant - ETF2L Highlander Tournament"
 		type = CosmeticType.TournamentMedal
 	},
 	[503] = {
-		name = "UGC 12v12 Participant"
+		name = "UGC Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[504] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[505] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[506] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[507] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[508] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[509] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[510] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[511] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[512] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[514] = {
@@ -1846,79 +1846,79 @@
 		paint = true
 	},
 	[680] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[681] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[682] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[683] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[684] = {
-		name = "UGC 12v12 Euro Platinum"
+		name = "UGC Highlander Euro Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[685] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[686] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[687] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[688] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[689] = {
-		name = "UGC 12v12 Euro Silver"
+		name = "UGC Highlander Euro Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[690] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[691] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[692] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[693] = {
-		name = "UGC 12v12 Euro Iron"
+		name = "UGC Highlander Euro Iron"
 		type = CosmeticType.TournamentMedal
 	},
 	[694] = {
-		name = "UGC 12v12 Tin 1st"
+		name = "UGC Highlander Tin 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[695] = {
-		name = "UGC 12v12 Tin 2nd"
+		name = "UGC Highlander Tin 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[696] = {
-		name = "UGC 12v12 Tin 3rd"
+		name = "UGC Highlander Tin 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[697] = {
-		name = "UGC 12v12 Participant"
+		name = "UGC Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[698] = {
-		name = "UGC 12v12 Euro Participant"
+		name = "UGC Highlander Euro Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[701] = {
@@ -3271,283 +3271,283 @@
 		classes = [TF_CLASS_SNIPER]
 	},
 	[8000] = {
-		name = "UGC 12v12 1st NA Platinum"
+		name = "UGC Highlander 1st Place North American Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8001] = {
-		name = "UGC 12v12 2nd NA Platinum"
+		name = "UGC Highlander 2nd Place North American Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8002] = {
-		name = "UGC 12v12 3rd NA Platinum"
+		name = "UGC Highlander 3rd Place North American Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8003] = {
-		name = "UGC 12v12 1st EU Platinum"
+		name = "UGC Highlander 1st Place European Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8004] = {
-		name = "UGC 12v12 2nd EU Platinum"
+		name = "UGC Highlander 2nd Place European Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8005] = {
-		name = "UGC 12v12 3rd EU Platinum"
+		name = "UGC Highlander 3rd Place European Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8006] = {
-		name = "UGC 12v12 1st South American Platinum"
+		name = "UGC Highlander 1st Place South American Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8007] = {
-		name = "UGC 12v12 2nd South American Platinum"
+		name = "UGC Highlander 2nd Place South American Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8008] = {
-		name = "UGC 12v12 3rd South American Platinum"
+		name = "UGC Highlander 3rd Place South American Platinum"
 		type = CosmeticType.TournamentMedal
 	},
 	[8009] = {
-		name = "UGC 12v12 1st NA Silver"
+		name = "UGC Highlander 1st Place North American Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[8010] = {
-		name = "UGC 12v12 2nd NA Silver"
+		name = "UGC Highlander 2nd Place North American Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[8011] = {
-		name = "UGC 12v12 3rd NA Silver"
+		name = "UGC Highlander 3rd Place North American Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[8012] = {
-		name = "UGC 12v12 1st EU Silver"
+		name = "UGC Highlander 1st Place European Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[8013] = {
-		name = "UGC 12v12 2nd EU Silver"
+		name = "UGC Highlander 2nd Place European Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[8014] = {
-		name = "UGC 12v12 3rd EU Silver"
+		name = "UGC Highlander 3rd Place European Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[8015] = {
-		name = "UGC 12v12 1st NA Steel"
+		name = "UGC Highlander 1st Place North American Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8016] = {
-		name = "UGC 12v12 2nd NA Steel"
+		name = "UGC Highlander 2nd Place North American Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8017] = {
-		name = "UGC 12v12 3rd NA Steel"
+		name = "UGC Highlander 3rd Place North American Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8018] = {
-		name = "UGC 12v12 1st EU Steel"
+		name = "UGC Highlander 1st Place European Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8019] = {
-		name = "UGC 12v12 2nd EU Steel"
+		name = "UGC Highlander 2nd Place European Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8020] = {
-		name = "UGC 12v12 3rd EU Steel"
+		name = "UGC Highlander 3rd Place European Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8021] = {
-		name = "UGC 12v12 1st South American Steel"
+		name = "UGC Highlander 1st Place South American Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8022] = {
-		name = "UGC 12v12 2nd South American Steel"
+		name = "UGC Highlander 2nd Place South American Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8023] = {
-		name = "UGC 12v12 3rd South American Steel"
+		name = "UGC Highlander 3rd Place South American Steel"
 		type = CosmeticType.TournamentMedal
 	},
 	[8024] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8025] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8026] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8027] = {
-		name = "ESL Season VI Premier Div 1st"
+		name = "ESL Season VI Premier Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8028] = {
-		name = "ESL Season VI Premier Div 2nd"
+		name = "ESL Season VI Premier Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8029] = {
-		name = "ESL Season VI Premier Div 3rd"
+		name = "ESL Season VI Premier Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8030] = {
-		name = "ESL Season VI Premier Div Participant"
+		name = "ESL Season VI Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8031] = {
-		name = "ESL Season VI Div 1 1st"
+		name = "ESL Season VI Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8032] = {
-		name = "ESL Season VI Div 1 2nd"
+		name = "ESL Season VI Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8033] = {
-		name = "ESL Season VI Div 1 3rd"
+		name = "ESL Season VI Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8034] = {
-		name = "ESL Season VI Div 1 Participant"
+		name = "ESL Season VI Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8035] = {
-		name = "ESL Season VI Div 2 1st"
+		name = "ESL Season VI Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8036] = {
-		name = "ESL Season VI Div 2 2nd"
+		name = "ESL Season VI Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8037] = {
-		name = "ESL Season VI Div 2 3rd"
+		name = "ESL Season VI Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8038] = {
-		name = "ESL Season VI Div 2 Participant"
+		name = "ESL Season VI Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8039] = {
-		name = "ESL Season VI Div 3 1st"
+		name = "ESL Season VI Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8040] = {
-		name = "ESL Season VI Div 3 2nd"
+		name = "ESL Season VI Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8041] = {
-		name = "ESL Season VI Div 3 3rd"
+		name = "ESL Season VI Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8042] = {
-		name = "ESL Season VI Div 3 Participant"
+		name = "ESL Season VI Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8043] = {
-		name = "ESL Season VI Div 4 1st"
+		name = "ESL Season VI Division 4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8044] = {
-		name = "ESL Season VI Div 4 2nd"
+		name = "ESL Season VI Division 4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8045] = {
-		name = "ESL Season VI Div 4 3rd"
+		name = "ESL Season VI Division 4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8046] = {
-		name = "ESL Season VI Div 4 Participant"
+		name = "ESL Season VI Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8047] = {
-		name = "ESL Season VI Div 5 1st"
+		name = "ESL Season VI Division 5 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8048] = {
-		name = "ESL Season VI Div 5 2nd"
+		name = "ESL Season VI Division 5 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8049] = {
-		name = "ESL Season VI Div 5 3rd"
+		name = "ESL Season VI Division 5 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8050] = {
-		name = "ESL Season VI Div 5 Participant"
+		name = "ESL Season VI Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8051] = {
-		name = "ESL Season VII Premiership Div 1st"
+		name = "ESL Season VII Premiership Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8052] = {
-		name = "ESL Season VII Premiership Div 2nd"
+		name = "ESL Season VII Premiership Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8053] = {
-		name = "ESL Season VII Premiership Div 3rd"
+		name = "ESL Season VII Premiership Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8054] = {
-		name = "ESL Season VII Premiership Div Participant"
+		name = "ESL Season VII Premiership Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8055] = {
-		name = "ESL Season VII Div 1 1st"
+		name = "ESL Season VII Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8056] = {
-		name = "ESL Season VII Div 1 2nd"
+		name = "ESL Season VII Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8057] = {
-		name = "ESL Season VII Div 1 3rd"
+		name = "ESL Season VII Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8058] = {
-		name = "ESL Season VII Div 2 1st"
+		name = "ESL Season VII Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8059] = {
-		name = "ESL Season VII Div 2 2nd"
+		name = "ESL Season VII Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8060] = {
-		name = "ESL Season VII Div 2 Participant"
+		name = "ESL Season VII Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8061] = {
-		name = "ESL Season VII Div 3 Participant"
+		name = "ESL Season VII Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8062] = {
-		name = "ESL Season VII Div 4 1st"
+		name = "ESL Season VII Division 4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8063] = {
-		name = "ESL Season VII Div 4 2nd"
+		name = "ESL Season VII Division 4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8064] = {
-		name = "ESL Season VII Div 4 3rd"
+		name = "ESL Season VII Division 4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8065] = {
-		name = "ESL Season VII Div 4 Participant"
+		name = "ESL Season VII Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8066] = {
-		name = "ESL Season VII Div 5 1st"
+		name = "ESL Season VII Division 5 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8067] = {
-		name = "ESL Season VII Div 5 2nd"
+		name = "ESL Season VII Division 5 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8068] = {
-		name = "ESL Season VII Div 5 3rd"
+		name = "ESL Season VII Division 5 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8069] = {
-		name = "ESL Season VII Div 5 Participant"
+		name = "ESL Season VII Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8070] = {
@@ -3559,756 +3559,756 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8072] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8073] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8074] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8075] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8076] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8077] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8078] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8079] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8080] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8081] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8082] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8083] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8084] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8085] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8086] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8087] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8088] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8089] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8090] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8091] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8092] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8093] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8094] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8095] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8096] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8097] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8098] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8099] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8100] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8101] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8102] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8103] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8104] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8105] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8106] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8107] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8108] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8109] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8110] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8111] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8112] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8113] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8114] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8115] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8116] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8117] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8118] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8119] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8120] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8121] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8122] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8123] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8124] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8125] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8126] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8127] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8128] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8129] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8130] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8131] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8132] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8133] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8134] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8135] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8136] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8137] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8138] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8139] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8140] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8141] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8142] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8143] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8144] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8145] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8146] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8147] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8148] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8149] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8150] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8151] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8152] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8153] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8154] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8155] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8156] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8157] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8158] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8159] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8160] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8161] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8162] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8163] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8164] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8165] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8166] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8167] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8168] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8169] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8170] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8171] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8172] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8173] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8174] = {
-		name = "ETF2L 12v12 Premier Div Gold"
+		name = "ETF2L Highlander Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8175] = {
-		name = "ETF2L 12v12 Premier Div Silver"
+		name = "ETF2L Highlander Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8176] = {
-		name = "ETF2L 12v12 Premier Div Bronze"
+		name = "ETF2L Highlander Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8177] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8178] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8179] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8180] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8181] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8182] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8183] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8184] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8185] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8186] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8187] = {
-		name = "ETF2L 12v12 Div 1 Group Winner"
+		name = "ETF2L Highlander Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8188] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8189] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8190] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8191] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8192] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8193] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8194] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8195] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8196] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8197] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8198] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8199] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8200] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8201] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8202] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8203] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8204] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8205] = {
-		name = "ETF2L 12v12 Premier Div Participation"
+		name = "ETF2L Highlander Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8206] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8207] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8208] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8209] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8210] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8211] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8212] = {
-		name = "ETF2L Ultiduo #1 Gold"
+		name = "ETF2L Ultiduo #1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8213] = {
-		name = "ETF2L Ultiduo #2 Gold"
+		name = "ETF2L Ultiduo #2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8214] = {
-		name = "ETF2L Ultiduo #3 Gold"
+		name = "ETF2L Ultiduo #3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8215] = {
-		name = "ETF2L Ultiduo #4 Gold"
+		name = "ETF2L Ultiduo #4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8216] = {
-		name = "ESH Ultiduo #1 Gold"
+		name = "ESH Ultiduo #1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8217] = {
-		name = "ESH Ultiduo #2 Gold"
+		name = "ESH Ultiduo #2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8218] = {
-		name = "ESH Ultiduo #3 Gold"
+		name = "ESH Ultiduo #3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8219] = {
-		name = "ESH Ultiduo #4 Gold"
+		name = "ESH Ultiduo #4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8220] = {
-		name = "ESH Ultiduo #5 Gold"
+		name = "ESH Ultiduo #5 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8221] = {
-		name = "ESH Ultiduo #6 Gold"
+		name = "ESH Ultiduo #6 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8222] = {
-		name = "ESH Ultiduo #7 Gold"
+		name = "ESH Ultiduo #7 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8224] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8225] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8226] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8227] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8228] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8229] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8230] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8231] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8232] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8233] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8234] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8235] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8236] = {
-		name = "UGC 12v12 1st"
+		name = "UGC Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8237] = {
-		name = "UGC 12v12 2nd"
+		name = "UGC Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8238] = {
-		name = "UGC 12v12 3rd"
+		name = "UGC Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8239] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8240] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8241] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8242] = {
-		name = "UGC 12v12 Participant"
+		name = "UGC Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8243] = {
-		name = "Ready Steady Pan 1st"
+		name = "Ready Steady Pan First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8244] = {
-		name = "Ready Steady Pan 2nd"
+		name = "Ready Steady Pan Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8245] = {
-		name = "Ready Steady Pan 3rd"
+		name = "Ready Steady Pan Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8246] = {
@@ -4320,95 +4320,95 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8248] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8249] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8250] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8251] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8252] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8253] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8254] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8255] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8256] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8257] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8258] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8259] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8260] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8261] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8262] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8263] = {
-		name = "UGC 12v12 1st"
+		name = "UGC Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8264] = {
-		name = "UGC 12v12 2nd"
+		name = "UGC Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8265] = {
-		name = "UGC 12v12 3rd"
+		name = "UGC Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8266] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8267] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8268] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8269] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8270] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8271] = {
@@ -4424,403 +4424,403 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8274] = {
-		name = "UGC 6vs6 EU Participant"
+		name = "UGC 6vs6 European Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8275] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8276] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8277] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8278] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8279] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8280] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8281] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8282] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8283] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8284] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8285] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8286] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8287] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8288] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8289] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8290] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8291] = {
-		name = "ETF2L 12v12 Premier Div Gold"
+		name = "ETF2L Highlander Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8292] = {
-		name = "ETF2L 12v12 Premier Div Silver"
+		name = "ETF2L Highlander Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8293] = {
-		name = "ETF2L 12v12 Premier Div Bronze"
+		name = "ETF2L Highlander Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8294] = {
-		name = "ETF2L 12v12 Div 1 Group Winner"
+		name = "ETF2L Highlander Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8295] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8296] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8297] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8298] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8299] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8300] = {
-		name = "ETF2L 12v12 Premier Div Participation"
+		name = "ETF2L Highlander Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8301] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8302] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8303] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8304] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8305] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8306] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8307] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8308] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8309] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8310] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8311] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8312] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8313] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8314] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8315] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8316] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8317] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8318] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8319] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8320] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8321] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8322] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8323] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8324] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8325] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8326] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8327] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8328] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8329] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8330] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8331] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8332] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8333] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8334] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8335] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8336] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8337] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8338] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8339] = {
-		name = "OWL 10 Premier Div 1st"
+		name = "OWL 10 Premier Division First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8340] = {
-		name = "OWL 10 Premier Div 2nd"
+		name = "OWL 10 Premier Division Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8341] = {
-		name = "OWL 10 Premier Div 3rd"
+		name = "OWL 10 Premier Division Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8342] = {
-		name = "OWL 10 Premier Div Participant"
+		name = "OWL 10 Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8343] = {
-		name = "OWL 10 Div 2 1st"
+		name = "OWL 10 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8344] = {
-		name = "OWL 10 Div 2 2nd"
+		name = "OWL 10 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8345] = {
-		name = "OWL 10 Div 2 3rd"
+		name = "OWL 10 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8346] = {
-		name = "OWL 10 Div 2 Participant"
+		name = "OWL 10 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8347] = {
-		name = "OWL 10 Div 3 1st"
+		name = "OWL 10 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8348] = {
-		name = "OWL 10 Div 3 2nd"
+		name = "OWL 10 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8349] = {
-		name = "OWL 10 Div 3 3rd"
+		name = "OWL 10 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8350] = {
-		name = "OWL 10 Div 3 Participant"
+		name = "OWL 10 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8351] = {
-		name = "OWL 10 Div 4 1st"
+		name = "OWL 10 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8352] = {
-		name = "OWL 10 Div 4 2nd"
+		name = "OWL 10 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8353] = {
-		name = "OWL 10 Div 4 3rd"
+		name = "OWL 10 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8354] = {
-		name = "OWL 10 Div 4 Participant"
+		name = "OWL 10 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8355] = {
-		name = "OWL 10 Div 5 1st"
+		name = "OWL 10 Division 5 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8356] = {
-		name = "OWL 10 Div 5 2nd"
+		name = "OWL 10 Division 5 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8357] = {
-		name = "OWL 10 Div 5 3rd"
+		name = "OWL 10 Division 5 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8358] = {
-		name = "OWL 10 Div 5 Participant"
+		name = "OWL 10 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8359] = {
-		name = "OWL 10 Div 6 1st"
+		name = "OWL 10 Division 6 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8360] = {
-		name = "OWL 10 Div 6 2nd"
+		name = "OWL 10 Division 6 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8361] = {
-		name = "OWL 10 Div 6 3rd"
+		name = "OWL 10 Division 6 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8362] = {
-		name = "OWL 10 Div 6 Participant"
+		name = "OWL 10 Division 6 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8363] = {
-		name = "AU 12v12 Community League 1st"
+		name = "AU Highlander Community League First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8364] = {
-		name = "AU 12v12 Community League 2nd"
+		name = "AU Highlander Community League Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8365] = {
-		name = "AU 12v12 Community League 3rd"
+		name = "AU Highlander Community League Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8366] = {
-		name = "AU 12v12 Community League Participant"
+		name = "AU Highlander Community League Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8367] = {
@@ -4829,101 +4829,101 @@
 		paint = true
 	},
 	[8368] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8369] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8370] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8371] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8372] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8373] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8374] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8375] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8376] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8377] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8378] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8379] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8380] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8381] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8382] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8383] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8384] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8385] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8386] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8387] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8388] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8389] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8390] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -4953,157 +4953,157 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[8397] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8398] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8399] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8400] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8401] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8402] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8403] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8404] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8405] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8406] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8407] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8408] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8409] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8410] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8411] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8412] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8413] = {
-		name = "ETF2L 12v12 Premier Div Gold"
+		name = "ETF2L Highlander Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8414] = {
-		name = "ETF2L 12v12 Premier Div Silver"
+		name = "ETF2L Highlander Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8415] = {
-		name = "ETF2L 12v12 Premier Div Bronze"
+		name = "ETF2L Highlander Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8416] = {
-		name = "ETF2L 12v12 Div 1 Group Winner"
+		name = "ETF2L Highlander Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8417] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8418] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8419] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8420] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8421] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8422] = {
-		name = "ETF2L 12v12 Premier Div Participation"
+		name = "ETF2L Highlander Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8423] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8424] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8425] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8426] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8427] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8428] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 		styles = ["ETF2L" "Demoman" "Engineer" "Heavy" "Medic" "Pyro" "Scout" "Sniper" "Soldier" "Spy"]
 	},
 	[8429] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8430] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8431] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8432] = {
@@ -5111,15 +5111,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8433] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8434] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8435] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8436] = {
@@ -5127,15 +5127,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8437] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8438] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8439] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8440] = {
@@ -5143,15 +5143,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8441] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8442] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8443] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8444] = {
@@ -5159,131 +5159,131 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8445] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8446] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8447] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8448] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8449] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8450] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8451] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8452] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8453] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8454] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8455] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8456] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8457] = {
-		name = "OWL 11 Premier Div 1st"
+		name = "OWL 11 Premier Division First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8458] = {
-		name = "OWL 11 Premier Div 2nd"
+		name = "OWL 11 Premier Division Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8459] = {
-		name = "OWL 11 Premier Div 3rd"
+		name = "OWL 11 Premier Division Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8460] = {
-		name = "OWL 11 Premier Div Participant"
+		name = "OWL 11 Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8461] = {
-		name = "OWL 11 Div 2 1st"
+		name = "OWL 11 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8462] = {
-		name = "OWL 11 Div 2 2nd"
+		name = "OWL 11 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8463] = {
-		name = "OWL 11 Div 2 3rd"
+		name = "OWL 11 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8464] = {
-		name = "OWL 11 Div 2 Participant"
+		name = "OWL 11 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8465] = {
-		name = "OWL 11 Div 3 1st"
+		name = "OWL 11 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8466] = {
-		name = "OWL 11 Div 3 2nd"
+		name = "OWL 11 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8467] = {
-		name = "OWL 11 Div 3 3rd"
+		name = "OWL 11 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8468] = {
-		name = "OWL 11 Div 3 Participant"
+		name = "OWL 11 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8469] = {
-		name = "OWL 11 Div 4 1st"
+		name = "OWL 11 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8470] = {
-		name = "OWL 11 Div 4 2nd"
+		name = "OWL 11 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8471] = {
-		name = "OWL 11 Div 4 3rd"
+		name = "OWL 11 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8472] = {
-		name = "OWL 11 Div 4 Participant"
+		name = "OWL 11 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8473] = {
-		name = "OWL 11 Div 5 1st"
+		name = "OWL 11 Division 5 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8474] = {
-		name = "OWL 11 Div 5 2nd"
+		name = "OWL 11 Division 5 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8475] = {
-		name = "OWL 11 Div 5 3rd"
+		name = "OWL 11 Division 5 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8476] = {
-		name = "OWL 11 Div 5 Participant"
+		name = "OWL 11 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8477] = {
@@ -5292,71 +5292,71 @@
 		paint = true
 	},
 	[8478] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8479] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8480] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8481] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8482] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8483] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8484] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8485] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8486] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8487] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8488] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8489] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8490] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8491] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8492] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8493] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8494] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8495] = {
@@ -5388,259 +5388,259 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8502] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8503] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8504] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8505] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8506] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8507] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8508] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8509] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8510] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8511] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8512] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8513] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8514] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8515] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8516] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8517] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8518] = {
-		name = "ETF2L 12v12 Premier Div Gold"
+		name = "ETF2L Highlander Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8519] = {
-		name = "ETF2L 12v12 Premier Div Silver"
+		name = "ETF2L Highlander Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8520] = {
-		name = "ETF2L 12v12 Premier Div Bronze"
+		name = "ETF2L Highlander Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8521] = {
-		name = "ETF2L 12v12 Div 1 Group Winner"
+		name = "ETF2L Highlander Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8522] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8523] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8524] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8525] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8526] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8527] = {
-		name = "ETF2L 12v12 Premier Div Participation"
+		name = "ETF2L Highlander Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8528] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8529] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8530] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8531] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8532] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8533] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8534] = {
-		name = "ETF2L 6v6 Premier Div Gold"
+		name = "ETF2L 6v6 Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8535] = {
-		name = "ETF2L 6v6 Premier Div Silver"
+		name = "ETF2L 6v6 Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8536] = {
-		name = "ETF2L 6v6 Premier Div Bronze"
+		name = "ETF2L 6v6 Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8537] = {
-		name = "ETF2L 6v6 Div 1 Group Winner"
+		name = "ETF2L 6v6 Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8538] = {
-		name = "ETF2L 6v6 Div 2 Group Winner"
+		name = "ETF2L 6v6 Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8539] = {
-		name = "ETF2L 6v6 Div 3 Group Winner"
+		name = "ETF2L 6v6 Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8540] = {
-		name = "ETF2L 6v6 Div 4 Group Winner"
+		name = "ETF2L 6v6 Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8541] = {
-		name = "ETF2L 6v6 Div 5 Group Winner"
+		name = "ETF2L 6v6 Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8542] = {
-		name = "ETF2L 6v6 Div 6 Group Winner"
+		name = "ETF2L 6v6 Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8543] = {
-		name = "ETF2L 6v6 Premier Div Participation"
+		name = "ETF2L 6v6 Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8544] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8545] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8546] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8547] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8548] = {
-		name = "ETF2L 6v6 Div 5 Participation"
+		name = "ETF2L 6v6 Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8549] = {
-		name = "ETF2L 6v6 Div 6 Participation"
+		name = "ETF2L 6v6 Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8550] = {
-		name = "ETF2L 12v12 Premier Div Gold"
+		name = "ETF2L Highlander Premier Division Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8551] = {
-		name = "ETF2L 12v12 Premier Div Silver"
+		name = "ETF2L Highlander Premier Division Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8552] = {
-		name = "ETF2L 12v12 Premier Div Bronze"
+		name = "ETF2L Highlander Premier Division Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8553] = {
-		name = "ETF2L 12v12 Div 1 Group Winner"
+		name = "ETF2L Highlander Division 1 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8554] = {
-		name = "ETF2L 12v12 Div 2 Group Winner"
+		name = "ETF2L Highlander Division 2 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8555] = {
-		name = "ETF2L 12v12 Div 3 Group Winner"
+		name = "ETF2L Highlander Division 3 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8556] = {
-		name = "ETF2L 12v12 Div 4 Group Winner"
+		name = "ETF2L Highlander Division 4 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8557] = {
-		name = "ETF2L 12v12 Div 5 Group Winner"
+		name = "ETF2L Highlander Division 5 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8558] = {
-		name = "ETF2L 12v12 Div 6 Group Winner"
+		name = "ETF2L Highlander Division 6 Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[8559] = {
-		name = "ETF2L 12v12 Premier Div Participation"
+		name = "ETF2L Highlander Premier Division Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8560] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8561] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8562] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8563] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8564] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8565] = {
-		name = "ETF2L 12v12 Div 6 Participation"
+		name = "ETF2L Highlander Division 6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8566] = {
@@ -5680,33 +5680,33 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8575] = {
-		name = "ETF2L 12v12 Open 1st"
+		name = "ETF2L Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8576] = {
-		name = "ETF2L 12v12 Open 2nd"
+		name = "ETF2L Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8577] = {
-		name = "ETF2L 12v12 Open 3rd"
+		name = "ETF2L Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8578] = {
-		name = "ETF2L 12v12 Open Participant"
+		name = "ETF2L Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8579] = {
-		name = "BETA LAN 1st"
+		name = "BETA LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8580] = {
-		name = "BETA LAN 2nd"
+		name = "BETA LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8581] = {
-		name = "BETA LAN 3rd"
+		name = "BETA LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -5716,7 +5716,7 @@
 		paint = true
 	},
 	[8583] = {
-		name = "Florida LAN '14"
+		name = "Florida LAN 2014"
 		type = CosmeticType.CommunityMedal
 	},
 	[8584] = {
@@ -5725,17 +5725,17 @@
 		paint = true
 	},
 	[8585] = {
-		name = "Gamers Assembly Gold"
+		name = "Gamers Assembly Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8586] = {
-		name = "Gamers Assembly Silver"
+		name = "Gamers Assembly Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8587] = {
-		name = "Gamers Assembly Bronze"
+		name = "Gamers Assembly Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -5744,17 +5744,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8589] = {
-		name = "GA'lloween Gold"
+		name = "GA'lloween Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8590] = {
-		name = "GA'lloween Silver"
+		name = "GA'lloween Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8591] = {
-		name = "GA'lloween Bronze"
+		name = "GA'lloween Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -5763,17 +5763,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8593] = {
-		name = "Gamers Assembly Gold"
+		name = "Gamers Assembly Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8594] = {
-		name = "Gamers Assembly Silver"
+		name = "Gamers Assembly Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8595] = {
-		name = "Gamers Assembly Bronze"
+		name = "Gamers Assembly Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -5782,17 +5782,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8597] = {
-		name = "GA'lloween Gold"
+		name = "GA'lloween Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8598] = {
-		name = "GA'lloween Silver"
+		name = "GA'lloween Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8599] = {
-		name = "GA'lloween Bronze"
+		name = "GA'lloween Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -5801,31 +5801,31 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8601] = {
-		name = "LBTF2 12v12 1st"
+		name = "LBTF2 Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8602] = {
-		name = "LBTF2 12v12 2nd"
+		name = "LBTF2 Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8603] = {
-		name = "LBTF2 12v12 3rd"
+		name = "LBTF2 Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8604] = {
-		name = "LBTF2 12v12 Participant"
+		name = "LBTF2 Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8605] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8606] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8607] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8608] = {
@@ -5833,15 +5833,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8609] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8610] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8611] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8612] = {
@@ -5849,15 +5849,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8613] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8614] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8615] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8616] = {
@@ -5865,15 +5865,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8617] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8618] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8619] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8620] = {
@@ -5881,15 +5881,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8621] = {
-		name = "FBTF Cup 6v6 Wastex Miller 1st"
+		name = "FBTF Cup 6v6 Wastex Miller 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8622] = {
-		name = "FBTF Cup 6v6 Wastex Miller 2nd"
+		name = "FBTF Cup 6v6 Wastex Miller 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8623] = {
-		name = "FBTF Cup 6v6 Wastex Miller 3rd"
+		name = "FBTF Cup 6v6 Wastex Miller 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8624] = {
@@ -5897,15 +5897,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8625] = {
-		name = "FBTF Cup 6v6 Barts Rimet 1st"
+		name = "FBTF Cup 6v6 Barts Rimet 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8626] = {
-		name = "FBTF Cup 6v6 Barts Rimet 2nd"
+		name = "FBTF Cup 6v6 Barts Rimet 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8627] = {
-		name = "FBTF Cup 6v6 Barts Rimet 3rd"
+		name = "FBTF Cup 6v6 Barts Rimet 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8628] = {
@@ -5913,15 +5913,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8629] = {
-		name = "FBTF Cup 6v6 Vic Basten 1st"
+		name = "FBTF Cup 6v6 Vic Basten 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8630] = {
-		name = "FBTF Cup 6v6 Vic Basten 2nd"
+		name = "FBTF Cup 6v6 Vic Basten 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8631] = {
-		name = "FBTF Cup 6v6 Vic Basten 3rd"
+		name = "FBTF Cup 6v6 Vic Basten 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8632] = {
@@ -5933,175 +5933,175 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[8634] = {
-		name = "TF2Connexion Div 1 Gold"
+		name = "TF2Connexion Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8635] = {
-		name = "TF2Connexion Div 1 Silver"
+		name = "TF2Connexion Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8636] = {
-		name = "TF2Connexion Div 1 Bronze"
+		name = "TF2Connexion Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8637] = {
-		name = "TF2Connexion Div 1 Participant"
+		name = "TF2Connexion Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8638] = {
-		name = "TF2Connexion Div 2 Gold"
+		name = "TF2Connexion Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8639] = {
-		name = "TF2Connexion Div 2 Silver"
+		name = "TF2Connexion Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8640] = {
-		name = "TF2Connexion Div 2 Bronze"
+		name = "TF2Connexion Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8641] = {
-		name = "TF2Connexion Div 2 Participant"
+		name = "TF2Connexion Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8642] = {
-		name = "TF2Connexion Div 3 Gold"
+		name = "TF2Connexion Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8643] = {
-		name = "TF2Connexion Div 3 Silver"
+		name = "TF2Connexion Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8644] = {
-		name = "TF2Connexion Div 3 Bronze"
+		name = "TF2Connexion Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8645] = {
-		name = "TF2Connexion Div 3 Participant"
+		name = "TF2Connexion Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8646] = {
-		name = "TF2Connexion Div 4 Gold"
+		name = "TF2Connexion Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8647] = {
-		name = "TF2Connexion Div 4 Silver"
+		name = "TF2Connexion Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8648] = {
-		name = "TF2Connexion Div 4 Bronze"
+		name = "TF2Connexion Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8649] = {
-		name = "TF2Connexion Div 4 Participant"
+		name = "TF2Connexion Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8650] = {
-		name = "OWL 12 Premier Div 1st"
+		name = "OWL 12 Premier Division First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8651] = {
-		name = "OWL 12 Premier Div 2nd"
+		name = "OWL 12 Premier Division Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8652] = {
-		name = "OWL 12 Premier Div 3rd"
+		name = "OWL 12 Premier Division Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8653] = {
-		name = "OWL 12 Premier Div Participant"
+		name = "OWL 12 Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8654] = {
-		name = "OWL 12 Div 2 1st"
+		name = "OWL 12 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8655] = {
-		name = "OWL 12 Div 2 2nd"
+		name = "OWL 12 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8656] = {
-		name = "OWL 12 Div 2 3rd"
+		name = "OWL 12 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8657] = {
-		name = "OWL 12 Div 2 Participant"
+		name = "OWL 12 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8658] = {
-		name = "OWL 12 Div 3 1st"
+		name = "OWL 12 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8659] = {
-		name = "OWL 12 Div 3 2nd"
+		name = "OWL 12 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8660] = {
-		name = "OWL 12 Div 3 3rd"
+		name = "OWL 12 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8661] = {
-		name = "OWL 12 Div 3 Participant"
+		name = "OWL 12 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8662] = {
-		name = "OWL 12 Div 4 1st"
+		name = "OWL 12 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8663] = {
-		name = "OWL 12 Div 4 2nd"
+		name = "OWL 12 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8664] = {
-		name = "OWL 12 Div 4 3rd"
+		name = "OWL 12 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8665] = {
-		name = "OWL 12 Div 4 Participant"
+		name = "OWL 12 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8666] = {
-		name = "OWL 12 Div 5 1st"
+		name = "OWL 12 Division 5 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8667] = {
-		name = "OWL 12 Div 5 2nd"
+		name = "OWL 12 Division 5 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8668] = {
-		name = "OWL 12 Div 5 3rd"
+		name = "OWL 12 Division 5 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8669] = {
-		name = "OWL 12 Div 5 Participant"
+		name = "OWL 12 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8670] = {
-		name = "OSL.tf 1st"
+		name = "OSL.tf 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8671] = {
-		name = "OSL.tf 2nd"
+		name = "OSL.tf 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8672] = {
-		name = "OSL.tf 3rd"
+		name = "OSL.tf 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8673] = {
@@ -6109,75 +6109,75 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8674] = {
-		name = "Florida LAN '15"
+		name = "Florida LAN 2015"
 		type = CosmeticType.CommunityMedal
 	},
 	[8675] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8676] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8677] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8678] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8679] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8680] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8681] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8682] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8683] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8684] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8685] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8686] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8687] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8688] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8689] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8690] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8691] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8692] = {
@@ -6201,15 +6201,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8697] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8698] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8699] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8700] = {
@@ -6229,71 +6229,71 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8704] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8705] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8706] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8707] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8708] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8709] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8710] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8711] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8712] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8713] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8714] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8715] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8716] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8717] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8718] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8719] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8720] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8721] = {
@@ -6317,15 +6317,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8726] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8727] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8728] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8729] = {
@@ -6345,17 +6345,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8733] = {
-		name = "Gamers Assembly Gold"
+		name = "Gamers Assembly Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8734] = {
-		name = "Gamers Assembly Silver"
+		name = "Gamers Assembly Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8735] = {
-		name = "Gamers Assembly Bronze"
+		name = "Gamers Assembly Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -6364,435 +6364,435 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8737] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8738] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8739] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8740] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8741] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8742] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8743] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8744] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8745] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8746] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8747] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8748] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8749] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8750] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8751] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8752] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8753] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8754] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8755] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8756] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8757] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8758] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8759] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8760] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8761] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8762] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8763] = {
-		name = "ETF2L 12v12 High Playoff"
+		name = "ETF2L Highlander High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8764] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8765] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8766] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8767] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8768] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8769] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8770] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8771] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8772] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8773] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8774] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8775] = {
-		name = "ETF2L Ultiduo #5 Gold"
+		name = "ETF2L Ultiduo #5 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8776] = {
-		name = "ETF2L Ultiduo #5 Silver"
+		name = "ETF2L Ultiduo #5 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8777] = {
-		name = "ETF2L Ultiduo #5 Bronze"
+		name = "ETF2L Ultiduo #5 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8778] = {
-		name = "ETF2L Ultiduo #5 Participation"
+		name = "ETF2L Ultiduo #5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8779] = {
-		name = "Jaunty Pin '15"
+		name = "Jaunty Pin 2015"
 		type = CosmeticType.CommunityMedal
 	},
 	[8780] = {
-		name = "OWL 13 Premier Div 1st"
+		name = "OWL 13 Premier Division First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8781] = {
-		name = "OWL 13 Premier Div 2nd"
+		name = "OWL 13 Premier Division Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8782] = {
-		name = "OWL 13 Premier Div 3rd"
+		name = "OWL 13 Premier Division Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8783] = {
-		name = "OWL 13 Premier Div Participant"
+		name = "OWL 13 Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8784] = {
-		name = "OWL 13 Div 2 1st"
+		name = "OWL 13 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8785] = {
-		name = "OWL 13 Div 2 2nd"
+		name = "OWL 13 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8786] = {
-		name = "OWL 13 Div 2 3rd"
+		name = "OWL 13 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8787] = {
-		name = "OWL 13 Div 2 Participant"
+		name = "OWL 13 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8788] = {
-		name = "OWL 13 Div 3 1st"
+		name = "OWL 13 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8789] = {
-		name = "OWL 13 Div 3 2nd"
+		name = "OWL 13 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8790] = {
-		name = "OWL 13 Div 3 3rd"
+		name = "OWL 13 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8791] = {
-		name = "OWL 13 Div 3 Participant"
+		name = "OWL 13 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8792] = {
-		name = "OWL 13 Div 4 1st"
+		name = "OWL 13 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8793] = {
-		name = "OWL 13 Div 4 2nd"
+		name = "OWL 13 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8794] = {
-		name = "OWL 13 Div 4 3rd"
+		name = "OWL 13 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8795] = {
-		name = "OWL 13 Div 4 Participant"
+		name = "OWL 13 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8796] = {
-		name = "OWL 13 Div 5 1st"
+		name = "OWL 13 Division 5 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8797] = {
-		name = "OWL 13 Div 5 2nd"
+		name = "OWL 13 Division 5 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8798] = {
-		name = "OWL 13 Div 5 3rd"
+		name = "OWL 13 Division 5 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8799] = {
-		name = "OWL 13 Div 5 Participant"
+		name = "OWL 13 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8800] = {
-		name = "TF2Connexion Div 1 Gold"
+		name = "TF2Connexion Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8801] = {
-		name = "TF2Connexion Div 1 Silver"
+		name = "TF2Connexion Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8802] = {
-		name = "TF2Connexion Div 1 Bronze"
+		name = "TF2Connexion Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8803] = {
-		name = "TF2Connexion Div 1 Participant"
+		name = "TF2Connexion Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8804] = {
-		name = "TF2Connexion Div 2 Gold"
+		name = "TF2Connexion Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8805] = {
-		name = "TF2Connexion Div 2 Silver"
+		name = "TF2Connexion Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8806] = {
-		name = "TF2Connexion Div 2 Bronze"
+		name = "TF2Connexion Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8807] = {
-		name = "TF2Connexion Div 2 Participant"
+		name = "TF2Connexion Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8808] = {
-		name = "TF2Connexion Div 3 Gold"
+		name = "TF2Connexion Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8809] = {
-		name = "TF2Connexion Div 3 Silver"
+		name = "TF2Connexion Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8810] = {
-		name = "TF2Connexion Div 3 Bronze"
+		name = "TF2Connexion Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8811] = {
-		name = "TF2Connexion Div 3 Participant"
+		name = "TF2Connexion Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[8812] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8813] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8814] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8815] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8816] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8817] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8818] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8819] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8820] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8821] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8822] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8823] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8824] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8825] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8826] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8827] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8828] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8829] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8830] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[8831] = {
-		name = "Arms Race 1st"
+		name = "Arms Race 1st Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8832] = {
-		name = "Arms Race 2nd"
+		name = "Arms Race 2nd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8833] = {
-		name = "Arms Race 3rd"
+		name = "Arms Race 3rd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8834] = {
-		name = "Arms Race Participant"
+		name = "Arms Race Participant Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8835] = {
-		name = "Arms Race 1st"
+		name = "Arms Race 1st Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8836] = {
-		name = "Arms Race 2nd"
+		name = "Arms Race 2nd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8837] = {
-		name = "Arms Race 3rd"
+		name = "Arms Race 3rd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8838] = {
-		name = "Arms Race Participant"
+		name = "Arms Race Participant Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[8839] = {
-		name = "OWL 14 Premier 1st"
+		name = "OWL 14 Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8840] = {
-		name = "OWL 14 Premier 2nd"
+		name = "OWL 14 Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8841] = {
-		name = "OWL 14 Premier 3rd"
+		name = "OWL 14 Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8842] = {
@@ -6800,79 +6800,79 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8843] = {
-		name = "OWL 14 Div 2 1st"
+		name = "OWL 14 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8844] = {
-		name = "OWL 14 Div 2 2nd"
+		name = "OWL 14 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8845] = {
-		name = "OWL 14 Div 2 3rd"
+		name = "OWL 14 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8846] = {
-		name = "OWL 14 Div 2 Participant"
+		name = "OWL 14 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8847] = {
-		name = "OWL 14 Div 3 1st"
+		name = "OWL 14 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8848] = {
-		name = "OWL 14 Div 3 2nd"
+		name = "OWL 14 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8849] = {
-		name = "OWL 14 Div 3 3rd"
+		name = "OWL 14 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8850] = {
-		name = "OWL 14 Div 3 Participant"
+		name = "OWL 14 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8851] = {
-		name = "OWL 14 Div 4 1st"
+		name = "OWL 14 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8852] = {
-		name = "OWL 14 Div 4 2nd"
+		name = "OWL 14 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8853] = {
-		name = "OWL 14 Div 4 3rd"
+		name = "OWL 14 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8854] = {
-		name = "OWL 14 Div 4 Participant"
+		name = "OWL 14 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8855] = {
-		name = "OWL 14 Div 5 1st"
+		name = "OWL 14 Division 5 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8856] = {
-		name = "OWL 14 Div 5 2nd"
+		name = "OWL 14 Division 5 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8857] = {
-		name = "OWL 14 Div 5 3rd"
+		name = "OWL 14 Division 5 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8858] = {
-		name = "OWL 14 Div 5 Participant"
+		name = "OWL 14 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8859] = {
-		name = "DeutschLAN 1st"
+		name = "DeutschLAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8860] = {
-		name = "DeutschLAN 2nd"
+		name = "DeutschLAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8861] = {
-		name = "DeutschLAN 3rd"
+		name = "DeutschLAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8862] = {
@@ -6884,31 +6884,31 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8864] = {
-		name = "LBTF2 12v12 Access 1st"
+		name = "LBTF2 Highlander Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8865] = {
-		name = "LBTF2 12v12 Access 2nd"
+		name = "LBTF2 Highlander Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8866] = {
-		name = "LBTF2 12v12 Access 3rd"
+		name = "LBTF2 Highlander Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8867] = {
-		name = "LBTF2 12v12 Access Participant"
+		name = "LBTF2 Highlander Access Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8868] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8869] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8870] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8871] = {
@@ -6916,15 +6916,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8872] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8873] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8874] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8875] = {
@@ -6932,15 +6932,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8876] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8877] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8878] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8879] = {
@@ -6948,15 +6948,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8880] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8881] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8882] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8883] = {
@@ -6964,111 +6964,111 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8884] = {
-		name = "LBTF2 12v12 Principal 1st"
+		name = "LBTF2 Highlander Principal 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8885] = {
-		name = "LBTF2 12v12 Principal 2nd"
+		name = "LBTF2 Highlander Principal 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8886] = {
-		name = "LBTF2 12v12 Principal 3rd"
+		name = "LBTF2 Highlander Principal 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8887] = {
-		name = "LBTF2 12v12 Principal Participant"
+		name = "LBTF2 Highlander Principal Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8888] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8889] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8890] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8891] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8892] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8893] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8894] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8895] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8896] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8897] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8898] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8899] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8939] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8940] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8941] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8942] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8943] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8944] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8945] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8946] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8947] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8948] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8949] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8950] = {
@@ -7092,15 +7092,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8955] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8956] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8957] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8958] = {
@@ -7120,95 +7120,95 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8962] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8963] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8964] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8965] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8966] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8967] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8968] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8969] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8970] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8971] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8972] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8973] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8974] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8975] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8976] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8977] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8978] = {
-		name = "UGC 12v12 Iron 1st"
+		name = "UGC Highlander Iron 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8979] = {
-		name = "UGC 12v12 Iron 2nd"
+		name = "UGC Highlander Iron 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8980] = {
-		name = "UGC 12v12 Iron 3rd"
+		name = "UGC Highlander Iron 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8981] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[8982] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8983] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8984] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8985] = {
@@ -7232,15 +7232,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[8990] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8991] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8992] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[8993] = {
@@ -7260,17 +7260,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9029] = {
-		name = "GA'lloween Gold"
+		name = "GA'lloween Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9030] = {
-		name = "GA'lloween Silver"
+		name = "GA'lloween Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9031] = {
-		name = "GA'lloween Bronze"
+		name = "GA'lloween Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -7279,51 +7279,51 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9033] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9034] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9035] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9036] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9037] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9038] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9039] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9040] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9041] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9042] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9043] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9044] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9045] = {
@@ -7349,15 +7349,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9050] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9051] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9052] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9053] = {
@@ -7365,15 +7365,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9054] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9055] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9056] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9057] = {
@@ -7381,15 +7381,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9058] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9059] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9060] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9061] = {
@@ -7397,15 +7397,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9062] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9063] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9064] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9065] = {
@@ -7413,49 +7413,49 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9066] = {
-		name = "LBTF2 12v12 Access 1st"
+		name = "LBTF2 Highlander Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9067] = {
-		name = "LBTF2 12v12 Access 2nd"
+		name = "LBTF2 Highlander Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9068] = {
-		name = "LBTF2 12v12 Access 3rd"
+		name = "LBTF2 Highlander Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9069] = {
-		name = "LBTF2 12v12 Access Participant"
+		name = "LBTF2 Highlander Access Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9070] = {
-		name = "LBTF2 12v12 Principal 1st"
+		name = "LBTF2 Highlander Principal 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9071] = {
-		name = "LBTF2 12v12 Principal 2nd"
+		name = "LBTF2 Highlander Principal 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9072] = {
-		name = "LBTF2 12v12 Principal 3rd"
+		name = "LBTF2 Highlander Principal 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9073] = {
-		name = "LBTF2 12v12 Principal Participant"
+		name = "LBTF2 Highlander Principal Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9074] = {
-		name = "Gamers Assembly Gold"
+		name = "Gamers Assembly Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9075] = {
-		name = "Gamers Assembly Silver"
+		name = "Gamers Assembly Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9076] = {
-		name = "Gamers Assembly Bronze"
+		name = "Gamers Assembly Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -7464,63 +7464,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9078] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9079] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9080] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9081] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9082] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9083] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9084] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9085] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9086] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9087] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9088] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9089] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9090] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9091] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9092] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9093] = {
@@ -7528,15 +7528,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9094] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9095] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9096] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9097] = {
@@ -7544,15 +7544,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9098] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9099] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9100] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9101] = {
@@ -7560,15 +7560,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9102] = {
-		name = "ozfortress Summer Cup 1st"
+		name = "ozfortress Summer Cup First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9103] = {
-		name = "ozfortress Summer Cup 2nd"
+		name = "ozfortress Summer Cup Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9104] = {
-		name = "ozfortress Summer Cup 3rd"
+		name = "ozfortress Summer Cup Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9105] = {
@@ -7576,327 +7576,327 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9106] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9107] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9108] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9109] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9110] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9111] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9112] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9113] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9114] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9115] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9116] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9117] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9118] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9119] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9120] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9121] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9122] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9123] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9124] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9125] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9126] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9127] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9128] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9129] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9130] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9131] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9132] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9133] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9134] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9135] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9136] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9137] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9138] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9139] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9140] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9141] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9142] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9143] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9144] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9145] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9146] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9147] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9148] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9149] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9150] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9151] = {
-		name = "ETF2L 12v12 High Playoff"
+		name = "ETF2L Highlander High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9152] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9153] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9154] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9155] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9156] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9157] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9158] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9159] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9160] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9161] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9162] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9163] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9164] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9165] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9166] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9167] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9168] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9169] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9170] = {
-		name = "ETF2L 12v12 High Playoff"
+		name = "ETF2L Highlander High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9171] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9172] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9173] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9174] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9175] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9176] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9177] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9178] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9179] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9180] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9181] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9182] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9183] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9184] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9185] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9186] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9187] = {
@@ -7936,71 +7936,71 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9196] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9197] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9198] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9199] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9200] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9201] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9202] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9203] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9204] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9205] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9206] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9207] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9208] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9209] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9210] = {
-		name = "UGC 6vs6 Gold 1st"
+		name = "UGC 6vs6 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9211] = {
-		name = "UGC 6vs6 Gold 2nd"
+		name = "UGC 6vs6 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9212] = {
-		name = "UGC 6vs6 Gold 3rd"
+		name = "UGC 6vs6 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9213] = {
@@ -8020,15 +8020,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9217] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9218] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9219] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9220] = {
@@ -8048,15 +8048,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9224] = {
-		name = "AsiaFortress Mercenaries Cup 1st"
+		name = "AsiaFortress Mercenaries Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9225] = {
-		name = "AsiaFortress Mercenaries Cup 2nd"
+		name = "AsiaFortress Mercenaries Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9226] = {
-		name = "AsiaFortress Mercenaries Cup 3rd"
+		name = "AsiaFortress Mercenaries Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9227] = {
@@ -8064,7 +8064,7 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9228] = {
-		name = "TF2Maps 72hr Jam Summer Participant"
+		name = "TF2Maps 72hr TF2Jam Summer Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
@@ -8074,7 +8074,7 @@
 		paint = true
 	},
 	[9230] = {
-		name = "Florida LAN '16"
+		name = "Florida LAN 2016"
 		type = CosmeticType.CommunityMedal
 	},
 	[9231] = {
@@ -8090,15 +8090,15 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[9234] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9235] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9236] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9237] = {
@@ -8106,15 +8106,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9238] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9239] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9240] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9241] = {
@@ -8122,15 +8122,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9242] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9243] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9244] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9245] = {
@@ -8138,15 +8138,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9246] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9247] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9248] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9249] = {
@@ -8154,15 +8154,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9250] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9251] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9252] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9253] = {
@@ -8170,15 +8170,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9254] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9255] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9256] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9257] = {
@@ -8186,15 +8186,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9260] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9261] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9262] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9263] = {
@@ -8202,15 +8202,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9264] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9265] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9266] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9267] = {
@@ -8218,15 +8218,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9268] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9269] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9270] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9271] = {
@@ -8234,15 +8234,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9272] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9273] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9274] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9275] = {
@@ -8250,65 +8250,65 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9276] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9277] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9278] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9279] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9280] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9281] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9282] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9283] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9284] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9285] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9286] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9287] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9288] = {
-		name = "GA'lloween Gold"
+		name = "GA'lloween Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9289] = {
-		name = "GA'lloween Silver"
+		name = "GA'lloween Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9290] = {
-		name = "GA'lloween Bronze"
+		name = "GA'lloween Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -8317,15 +8317,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9292] = {
-		name = "Chapelaria 6v6 1st"
+		name = "Chapelaria 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9293] = {
-		name = "Chapelaria 6v6 2nd"
+		name = "Chapelaria 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9294] = {
-		name = "Chapelaria 6v6 3rd"
+		name = "Chapelaria 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9295] = {
@@ -8349,29 +8349,29 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[9300] = {
-		name = "PASS Time Tournament Gold"
+		name = "PASS Time Tournament Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9301] = {
-		name = "PASS Time Tournament Silver"
+		name = "PASS Time Tournament Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9302] = {
-		name = "PASS Time Tournament Bronze"
+		name = "PASS Time Tournament Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9303] = {
-		name = "ESA Rewind 1st"
+		name = "ESA Rewind 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9304] = {
-		name = "ESA Rewind 2nd"
+		name = "ESA Rewind 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9305] = {
-		name = "ESA Rewind 3rd"
+		name = "ESA Rewind 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -8381,25 +8381,25 @@
 		paint = true
 	},
 	[9307] = {
-		name = "Special Snowflake '16"
+		name = "Special Snowflake 2016"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9308] = {
-		name = "Gift of Giving '16"
+		name = "Gift of Giving 2016"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9309] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9310] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9311] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9312] = {
@@ -8407,15 +8407,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9313] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9314] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9315] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9316] = {
@@ -8423,15 +8423,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9317] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9318] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9319] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9320] = {
@@ -8443,36 +8443,36 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9322] = {
-		name = "TF2Maps 72hr Jam Winter Participant"
+		name = "TF2Maps 72hr TF2Jam Winter Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[9323] = {
-		name = "Rally Call '17 1st place"
+		name = "Rally Call 2017 - 1st place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9324] = {
-		name = "Rally Call '17 2nd"
+		name = "Rally Call 2017 - 2nd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9325] = {
-		name = "Rally Call '17 Participant/Helper"
+		name = "Rally Call 2017 Participant/Helper Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9326] = {
-		name = "Rally Call '17 Donator"
+		name = "Rally Call 2017 Donator Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9327] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9328] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9329] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9330] = {
@@ -8480,15 +8480,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9331] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9332] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9333] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9334] = {
@@ -8496,15 +8496,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9335] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9336] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9337] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9338] = {
@@ -8512,75 +8512,75 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9339] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9340] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9341] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9342] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9343] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9344] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9345] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9346] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9347] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9348] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9349] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9350] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9351] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9352] = {
-		name = "UGC 12v12 Iron Participant"
+		name = "UGC Highlander Iron Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9353] = {
-		name = "UGC 6vs6 Gold 1st"
+		name = "UGC 6vs6 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9354] = {
-		name = "UGC 6vs6 Gold 2nd"
+		name = "UGC 6vs6 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9355] = {
-		name = "UGC 6vs6 Gold 3rd"
+		name = "UGC 6vs6 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9356] = {
@@ -8600,15 +8600,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9360] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9361] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9362] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9363] = {
@@ -8628,73 +8628,73 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9367] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9368] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9369] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9370] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9371] = {
-		name = "UGC 12v12 Gold 1st"
+		name = "UGC Highlander Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9372] = {
-		name = "UGC 12v12 Gold 2nd"
+		name = "UGC Highlander Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9373] = {
-		name = "UGC 12v12 Gold 3rd"
+		name = "UGC Highlander Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9374] = {
-		name = "UGC 12v12 Gold Participant"
+		name = "UGC Highlander Gold Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9375] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9376] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9377] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9378] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9379] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9380] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9381] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9382] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -8712,15 +8712,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9386] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9387] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9388] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9389] = {
@@ -8736,15 +8736,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9392] = {
-		name = "RGB LAN 1st"
+		name = "RGB LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9393] = {
-		name = "RGB LAN 2nd"
+		name = "RGB LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9394] = {
-		name = "RGB LAN 3rd"
+		name = "RGB LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9395] = {
@@ -8752,17 +8752,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9396] = {
-		name = "Gamers Assembly Gold"
+		name = "Gamers Assembly Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9397] = {
-		name = "Gamers Assembly Silver"
+		name = "Gamers Assembly Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9398] = {
-		name = "Gamers Assembly Bronze"
+		name = "Gamers Assembly Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -8771,15 +8771,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9400] = {
-		name = "Chapelaria 6v6 Legatus 1st"
+		name = "Chapelaria 6v6 Legatus 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9401] = {
-		name = "Chapelaria 6v6 Legatus 2nd"
+		name = "Chapelaria 6v6 Legatus 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9402] = {
-		name = "Chapelaria 6v6 Legatus 3rd"
+		name = "Chapelaria 6v6 Legatus 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9403] = {
@@ -8787,15 +8787,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9404] = {
-		name = "Chapelaria 6v6 Gladiator 1st"
+		name = "Chapelaria 6v6 Gladiator 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9405] = {
-		name = "Chapelaria 6v6 Gladiator 2nd"
+		name = "Chapelaria 6v6 Gladiator 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9406] = {
-		name = "Chapelaria 6v6 Gladiator 3rd"
+		name = "Chapelaria 6v6 Gladiator 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9407] = {
@@ -8803,15 +8803,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9408] = {
-		name = "Chapelaria Ultiduo Gladiator 1st"
+		name = "Chapelaria Ultiduo Gladiator 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9409] = {
-		name = "Chapelaria Ultiduo Gladiator 2nd"
+		name = "Chapelaria Ultiduo Gladiator 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9410] = {
-		name = "Chapelaria Ultiduo Gladiator 3rd"
+		name = "Chapelaria Ultiduo Gladiator 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9411] = {
@@ -8819,412 +8819,412 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9412] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9413] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9414] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9415] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9416] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9417] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9418] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9419] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9420] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9421] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9422] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9423] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9424] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9425] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9426] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9427] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9428] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9429] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9430] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9431] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9432] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9433] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9434] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9435] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9436] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9437] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9438] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9439] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9440] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9441] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9442] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9443] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9444] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9445] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9446] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9447] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9448] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9449] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9450] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9451] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9452] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9453] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9454] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9455] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9456] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9457] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9458] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9459] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9460] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9461] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9462] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9463] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9464] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9465] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9466] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9467] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9468] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9469] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9470] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9471] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9472] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9473] = {
-		name = "ETF2L 12v12 High/Mid Gold"
+		name = "ETF2L Highlander High/Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9474] = {
-		name = "ETF2L 12v12 High/Mid Silver"
+		name = "ETF2L Highlander High/Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9475] = {
-		name = "ETF2L 12v12 High/Mid Bronze"
+		name = "ETF2L Highlander High/Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9476] = {
-		name = "ETF2L 12v12 High/Mid Playoff"
+		name = "ETF2L Highlander High/Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9477] = {
-		name = "ETF2L 12v12 High/Mid Participation"
+		name = "ETF2L Highlander High/Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9478] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9479] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9480] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9481] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9482] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9483] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9484] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9485] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9486] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9487] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9488] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9489] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9490] = {
-		name = "ETF2L 12v12 High Playoff"
+		name = "ETF2L Highlander High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9491] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9492] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9493] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9494] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9495] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9496] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9497] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9498] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9499] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9500] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9501] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9502] = {
-		name = "ETF2L Ultiduo #6 Gold"
+		name = "ETF2L Ultiduo #6 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9503] = {
-		name = "ETF2L Ultiduo #6 Silver"
+		name = "ETF2L Ultiduo #6 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9504] = {
-		name = "ETF2L Ultiduo #6 Bronze"
+		name = "ETF2L Ultiduo #6 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9505] = {
-		name = "ETF2L Ultiduo #6 Participation"
+		name = "ETF2L Ultiduo #6 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9506] = {
-		name = "ETF2L 12v12 Open 2 Gold"
+		name = "ETF2L Highlander Open 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9507] = {
-		name = "ETF2L 12v12 Open 2 Silver"
+		name = "ETF2L Highlander Open 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9508] = {
-		name = "ETF2L 12v12 Open 2 Bronze"
+		name = "ETF2L Highlander Open 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9509] = {
-		name = "ETF2L 12v12 Open 2 Participation"
+		name = "ETF2L Highlander Open 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9510] = {
-		name = "Mappers vs. Machines Participant '17"
+		name = "Mappers vs. Machines Participant Medal 2017"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9511] = {
-		name = "CappingTV Ultiduo Summer Brawl 1st"
+		name = "CappingTV Ultiduo Summer Brawl 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9512] = {
-		name = "CappingTV Ultiduo Summer Brawl 2nd"
+		name = "CappingTV Ultiduo Summer Brawl 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9513] = {
-		name = "CappingTV Ultiduo Summer Brawl 3rd"
+		name = "CappingTV Ultiduo Summer Brawl 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9514] = {
@@ -9232,36 +9232,36 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9515] = {
-		name = "Heartfelt Hug"
+		name = "The Heartfelt Hug"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9516] = {
-		name = "Snack's Summery Ultiduo Siesta Gold"
+		name = "Snack's Summery Ultiduo Siesta Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9517] = {
-		name = "Snack's Summery Ultiduo Siesta Silver"
+		name = "Snack's Summery Ultiduo Siesta Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9518] = {
-		name = "Snack's Summery Ultiduo Siesta Bronze"
+		name = "Snack's Summery Ultiduo Siesta Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9519] = {
-		name = "Snack's Summery Ultiduo Siesta Participation"
+		name = "Snack's Summery Ultiduo Siesta Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9520] = {
-		name = "FBTF Cup 6v6 Wastex Miller 1st"
+		name = "FBTF Cup 6v6 Wastex Miller 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9521] = {
-		name = "FBTF Cup 6v6 Wastex Miller 2nd"
+		name = "FBTF Cup 6v6 Wastex Miller 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9522] = {
-		name = "FBTF Cup 6v6 Wastex Miller 3rd"
+		name = "FBTF Cup 6v6 Wastex Miller 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9523] = {
@@ -9269,15 +9269,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9524] = {
-		name = "FBTF Cup 6v6 Barts Rimet 1st"
+		name = "FBTF Cup 6v6 Barts Rimet 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9525] = {
-		name = "FBTF Cup 6v6 Barts Rimet 2nd"
+		name = "FBTF Cup 6v6 Barts Rimet 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9526] = {
-		name = "FBTF Cup 6v6 Barts Rimet 3rd"
+		name = "FBTF Cup 6v6 Barts Rimet 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9527] = {
@@ -9285,15 +9285,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9528] = {
-		name = "FBTF Cup 6v6 Vic Basten 1st"
+		name = "FBTF Cup 6v6 Vic Basten 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9529] = {
-		name = "FBTF Cup 6v6 Vic Basten 2nd"
+		name = "FBTF Cup 6v6 Vic Basten 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9530] = {
-		name = "FBTF Cup 6v6 Vic Basten 3rd"
+		name = "FBTF Cup 6v6 Vic Basten 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9531] = {
@@ -9301,31 +9301,31 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9532] = {
-		name = "Arms Race 1st"
+		name = "Arms Race 1st Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9533] = {
-		name = "Arms Race 2nd"
+		name = "Arms Race 2nd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9534] = {
-		name = "Arms Race 3rd"
+		name = "Arms Race 3rd Place Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9535] = {
-		name = "Arms Race Participant"
+		name = "Arms Race Participant Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[9537] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9538] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9539] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9540] = {
@@ -9333,15 +9333,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9541] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9542] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9543] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9544] = {
@@ -9349,15 +9349,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9545] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9546] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9547] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9548] = {
@@ -9365,143 +9365,143 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9549] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9550] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9551] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9552] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9553] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9554] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9555] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9556] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9557] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9558] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9559] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9560] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9561] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9562] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9563] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9564] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9565] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9566] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9567] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9568] = {
-		name = "ETF2L Fresh Meat Challenge Gold"
+		name = "ETF2L Fresh Meat Challenge Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9569] = {
-		name = "ETF2L Fresh Meat Challenge Silver"
+		name = "ETF2L Fresh Meat Challenge Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9570] = {
-		name = "ETF2L Fresh Meat Challenge Bronze"
+		name = "ETF2L Fresh Meat Challenge Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9571] = {
-		name = "ETF2L Fresh Meat Challenge Participation"
+		name = "ETF2L Fresh Meat Challenge Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9572] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9573] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9574] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9575] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9576] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9577] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9578] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9579] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9580] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9581] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9582] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9583] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9584] = {
@@ -9521,15 +9521,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9588] = {
-		name = "Chapelaria Ultiduo Legatus 1st"
+		name = "Chapelaria Ultiduo Legatus 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9589] = {
-		name = "Chapelaria Ultiduo Legatus 2nd"
+		name = "Chapelaria Ultiduo Legatus 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9590] = {
-		name = "Chapelaria Ultiduo Legatus 3rd"
+		name = "Chapelaria Ultiduo Legatus 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9591] = {
@@ -9537,7 +9537,7 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[9592] = {
-		name = "TF2Maps 72hr Jam Summer Participant"
+		name = "TF2Maps 72hr TF2Jam Summer Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
@@ -9547,27 +9547,27 @@
 		paint = true
 	},
 	[9594] = {
-		name = "TFCL 6v6 1st"
+		name = "TFCL 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9595] = {
-		name = "TFCL 6v6 2nd"
+		name = "TFCL 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9596] = {
-		name = "TFCL 6v6 3rd"
+		name = "TFCL 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9597] = {
-		name = "TFCL 6v6 1st"
+		name = "TFCL 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9598] = {
-		name = "TFCL 6v6 2nd"
+		name = "TFCL 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9599] = {
-		name = "TFCL 6v6 3rd"
+		name = "TFCL 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9600] = {
@@ -9580,27 +9580,27 @@
 		paint = true
 	},
 	[9602] = {
-		name = "TFCL Ultiduo 1st"
+		name = "TFCL Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9603] = {
-		name = "TFCL Ultiduo 2nd"
+		name = "TFCL Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9604] = {
-		name = "TFCL Ultiduo 3rd"
+		name = "TFCL Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9605] = {
-		name = "TFCL Ultiduo 1st"
+		name = "TFCL Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9606] = {
-		name = "TFCL Ultiduo 2nd"
+		name = "TFCL Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9607] = {
-		name = "TFCL Ultiduo 3rd"
+		name = "TFCL Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9608] = {
@@ -9608,15 +9608,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9609] = {
-		name = "TFCL Ultiduo 1st"
+		name = "TFCL Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9610] = {
-		name = "TFCL Ultiduo 2nd"
+		name = "TFCL Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9611] = {
-		name = "TFCL Ultiduo 3rd"
+		name = "TFCL Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9612] = {
@@ -9624,20 +9624,20 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9613] = {
-		name = "TF2Maps Charitable Heart '17"
+		name = "TF2Maps Charitable Heart 2017"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[9614] = {
-		name = "CappingTV Ultiduo Winter Chalice 1st"
+		name = "CappingTV Ultiduo Winter Chalice 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9615] = {
-		name = "CappingTV Ultiduo Winter Chalice 2nd"
+		name = "CappingTV Ultiduo Winter Chalice 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9616] = {
-		name = "CappingTV Ultiduo Winter Chalice 3rd"
+		name = "CappingTV Ultiduo Winter Chalice 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9617] = {
@@ -9645,15 +9645,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9618] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9619] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9620] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9621] = {
@@ -9661,15 +9661,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9622] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9623] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9624] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9625] = {
@@ -9677,15 +9677,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9626] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9627] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9628] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9629] = {
@@ -9705,19 +9705,19 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[9633] = {
-		name = "Snack's Summery Ultiduo Siesta Gold"
+		name = "Snack's Summery Ultiduo Siesta Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9634] = {
-		name = "Snack's Summery Ultiduo Siesta Silver"
+		name = "Snack's Summery Ultiduo Siesta Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9635] = {
-		name = "Snack's Summery Ultiduo Siesta Bronze"
+		name = "Snack's Summery Ultiduo Siesta Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9636] = {
-		name = "Snack's Summery Ultiduo Siesta Participation"
+		name = "Snack's Summery Ultiduo Siesta Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9637] = {
@@ -9731,203 +9731,203 @@
 		paint = true
 	},
 	[9639] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9640] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9641] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9642] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9643] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9644] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9645] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9646] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9647] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9648] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9649] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9650] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9651] = {
-		name = "ETF2L 12v12 High Playoff"
+		name = "ETF2L Highlander High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9652] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9653] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9654] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9655] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9656] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9657] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9658] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9659] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9660] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9661] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9662] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9663] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9664] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9665] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9666] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9667] = {
-		name = "ETF2L 6v6 High Gold"
+		name = "ETF2L 6v6 High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9668] = {
-		name = "ETF2L 6v6 High Silver"
+		name = "ETF2L 6v6 High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9669] = {
-		name = "ETF2L 6v6 High Bronze"
+		name = "ETF2L 6v6 High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9670] = {
-		name = "ETF2L 6v6 High Playoff"
+		name = "ETF2L 6v6 High Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9671] = {
-		name = "ETF2L 6v6 High Participation"
+		name = "ETF2L 6v6 High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9672] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9673] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9674] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9675] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9676] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9677] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9678] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9679] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9680] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9681] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9682] = {
-		name = "TFCL 12v12 1st"
+		name = "TFCL Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9683] = {
-		name = "TFCL 12v12 2nd"
+		name = "TFCL Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9684] = {
-		name = "TFCL 12v12 3rd"
+		name = "TFCL Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9685] = {
-		name = "TFCL 12v12 Participant"
+		name = "TFCL Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9686] = {
-		name = "TFCL 4v4 1st"
+		name = "TFCL 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9687] = {
-		name = "TFCL 4v4 2nd"
+		name = "TFCL 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9688] = {
-		name = "TFCL 4v4 3rd"
+		name = "TFCL 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9689] = {
@@ -9935,15 +9935,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9690] = {
-		name = "TFCL bball 1st"
+		name = "TFCL bball 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9691] = {
-		name = "TFCL bball 2nd"
+		name = "TFCL bball 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9692] = {
-		name = "TFCL bball 3rd"
+		name = "TFCL bball 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9693] = {
@@ -9951,15 +9951,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9694] = {
-		name = "TFCL 6v6 1st"
+		name = "TFCL 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9695] = {
-		name = "TFCL 6v6 2nd"
+		name = "TFCL 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9696] = {
-		name = "TFCL 6v6 3rd"
+		name = "TFCL 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9697] = {
@@ -9967,15 +9967,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9698] = {
-		name = "TFCL Ultiduo 1st"
+		name = "TFCL Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9699] = {
-		name = "TFCL Ultiduo 2nd"
+		name = "TFCL Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9700] = {
-		name = "TFCL Ultiduo 3rd"
+		name = "TFCL Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9701] = {
@@ -9983,63 +9983,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9702] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9703] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9704] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9705] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9706] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9707] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9708] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9709] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9710] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9711] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9712] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9713] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9714] = {
-		name = "Insomnia 61 1st"
+		name = "Insomnia 61 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9715] = {
-		name = "Insomnia 61 2nd"
+		name = "Insomnia 61 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9716] = {
-		name = "Insomnia 61 3rd"
+		name = "Insomnia 61 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9717] = {
@@ -10056,7 +10056,7 @@
 		paint = true
 	},
 	[9720] = {
-		name = "Titanium Tank Participant '17"
+		name = "Titanium Tank Participant 2017"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
@@ -10069,15 +10069,15 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[9723] = {
-		name = "Chapelaria 6v6 Legatus 1st"
+		name = "Chapelaria 6v6 Legatus 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9724] = {
-		name = "Chapelaria 6v6 Legatus 2nd"
+		name = "Chapelaria 6v6 Legatus 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9725] = {
-		name = "Chapelaria 6v6 Legatus 3rd"
+		name = "Chapelaria 6v6 Legatus 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9726] = {
@@ -10085,15 +10085,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9727] = {
-		name = "Chapelaria 6v6 Gladiator 1st"
+		name = "Chapelaria 6v6 Gladiator 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9728] = {
-		name = "Chapelaria 6v6 Gladiator 2nd"
+		name = "Chapelaria 6v6 Gladiator 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9729] = {
-		name = "Chapelaria 6v6 Gladiator 3rd"
+		name = "Chapelaria 6v6 Gladiator 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9730] = {
@@ -10111,17 +10111,17 @@
 		paint = true
 	},
 	[9733] = {
-		name = "Heals for Reals Event 1st"
+		name = "Heals for Reals Event 1st Place"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9734] = {
-		name = "Heals for Reals Event 2nd"
+		name = "Heals for Reals Event 2nd Place"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9735] = {
-		name = "Heals for Reals Event 3rd"
+		name = "Heals for Reals Event 3rd Place"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
@@ -10146,159 +10146,159 @@
 		paint = true
 	},
 	[9740] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9741] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9742] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9743] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9744] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9745] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9746] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9747] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9748] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9749] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9750] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9751] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9752] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9753] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9754] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9755] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9756] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9757] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9758] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9759] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9760] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9761] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9762] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9763] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9764] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9765] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9766] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9767] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9768] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9769] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9770] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9771] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9772] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9773] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9774] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9775] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9776] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9777] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9778] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9779] = {
@@ -10314,15 +10314,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9782] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9783] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9784] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9785] = {
@@ -10338,15 +10338,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9788] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9789] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9790] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9791] = {
@@ -10362,15 +10362,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9794] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9795] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9796] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9797] = {
@@ -10386,15 +10386,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9800] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9801] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9802] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9803] = {
@@ -10410,15 +10410,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9806] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9807] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9808] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9809] = {
@@ -10434,15 +10434,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9812] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9813] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9814] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9815] = {
@@ -10450,15 +10450,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9816] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9817] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9818] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9819] = {
@@ -10466,15 +10466,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9820] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9821] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9822] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9823] = {
@@ -10506,17 +10506,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9830] = {
-		name = "Florida LAN '18 Donator"
+		name = "Florida LAN 2018 Donator Medal"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9831] = {
-		name = "Florida LAN '18 Participant"
+		name = "Florida LAN 2018 Participant Medal"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9832] = {
-		name = "Florida LAN '18 Contributor"
+		name = "Florida LAN 2018 Contributor Medal"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
@@ -10529,11 +10529,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9835] = {
-		name = "NHBL Finals 2nd"
+		name = "NHBL Finals 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9836] = {
-		name = "NHBL Finals 3rd"
+		name = "NHBL Finals 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9837] = {
@@ -10541,15 +10541,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9838] = {
-		name = "Ultimate Ultiduo 1st"
+		name = "Ultimate Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9839] = {
-		name = "Ultimate Ultiduo 2nd"
+		name = "Ultimate Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9840] = {
-		name = "Ultimate Ultiduo 3rd"
+		name = "Ultimate Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9841] = {
@@ -10566,11 +10566,11 @@
 		paint = true
 	},
 	[9844] = {
-		name = "RGL.gg One Day Prolander Cup NA"
+		name = "RGL.gg One Day Prolander Cup - North America"
 		type = CosmeticType.TournamentMedal
 	},
 	[9845] = {
-		name = "RGL.gg One Day Prolander Cup Europe"
+		name = "RGL.gg One Day Prolander Cup - Europe"
 		type = CosmeticType.TournamentMedal
 	},
 	[9846] = {
@@ -10589,15 +10589,15 @@
 		paint = true
 	},
 	[9849] = {
-		name = "Journey to the East 1st"
+		name = "Journey to the East 1st Place"
 		type = CosmeticType.CommunityMedal
 	},
 	[9850] = {
-		name = "Journey to the East 2nd"
+		name = "Journey to the East 2nd Place"
 		type = CosmeticType.CommunityMedal
 	},
 	[9851] = {
-		name = "Journey to the East 3rd"
+		name = "Journey to the East 3rd Place"
 		type = CosmeticType.CommunityMedal
 	},
 	[9852] = {
@@ -10605,17 +10605,17 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[9853] = {
-		name = "Newbie Prolander Cup Gold"
+		name = "Newbie Prolander Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9854] = {
-		name = "Newbie Prolander Cup Silver"
+		name = "Newbie Prolander Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9855] = {
-		name = "Newbie Prolander Cup Bronze"
+		name = "Newbie Prolander Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -10645,269 +10645,269 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9862] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9863] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9864] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9865] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9866] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9867] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9868] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9869] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9870] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9871] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9872] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9873] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9874] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9875] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9876] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9877] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9878] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9879] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9880] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9881] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9882] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9883] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9884] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9885] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9886] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9887] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9888] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9889] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9890] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9891] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9892] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9893] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9894] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9895] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9896] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9897] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9898] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9899] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9900] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9901] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9902] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9903] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9904] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9905] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9906] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9907] = {
-		name = "Canteen Crasher Platinum Crit '18"
+		name = "Canteen Crasher Platinum Crit 2018"
 		type = CosmeticType.CommunityMedal
 	},
 	[9908] = {
-		name = "Canteen Crasher Gold Uber '18"
+		name = "Canteen Crasher Gold Uber 2018"
 		type = CosmeticType.CommunityMedal
 	},
 	[9909] = {
-		name = "Canteen Crasher Silver Building '18"
+		name = "Canteen Crasher Silver Building 2018"
 		type = CosmeticType.CommunityMedal
 	},
 	[9910] = {
-		name = "Canteen Crasher Bronze Ammo '18"
+		name = "Canteen Crasher Bronze Ammo 2018"
 		type = CosmeticType.CommunityMedal
 	},
 	[9911] = {
-		name = "Canteen Crasher Iron Recall '18"
+		name = "Canteen Crasher Iron Recall 2018"
 		type = CosmeticType.CommunityMedal
 	},
 	[9912] = {
-		name = "Canteen Crasher Rust Starter '18"
+		name = "Canteen Crasher Rust Starter 2018"
 		type = CosmeticType.CommunityMedal
 	},
 	[9913] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9914] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9915] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9916] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9917] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9918] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9919] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9920] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9921] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9922] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9923] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9924] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9925] = {
-		name = "Copenhagen Games 6v6 1st"
+		name = "Copenhagen Games 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9926] = {
-		name = "Copenhagen Games 6v6 2nd"
+		name = "Copenhagen Games 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9927] = {
-		name = "Copenhagen Games 6v6 3rd"
+		name = "Copenhagen Games 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -10922,12 +10922,12 @@
 		paint = true
 	},
 	[9930] = {
-		name = "TFCL frag_club 1st"
+		name = "TFCL frag_club 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9931] = {
-		name = "TFCL RoyalKeys 2nd"
+		name = "TFCL RoyalKeys 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -10948,40 +10948,40 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9936] = {
-		name = "HLPugs.tf 12v12 Cup 1st"
+		name = "HLPugs.tf Highlander Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9937] = {
-		name = "HLPugs.tf 12v12 Cup 2nd"
+		name = "HLPugs.tf Highlander Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9938] = {
-		name = "HLPugs.tf 12v12 Cup 3rd"
+		name = "HLPugs.tf Highlander Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9939] = {
-		name = "HLPugs.tf 12v12 Cup Participant"
+		name = "HLPugs.tf Highlander Cup Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9940] = {
-		name = "HLPugs.tf 12v12 Cup Contributor"
+		name = "HLPugs.tf Highlander Cup Contributor"
 		type = CosmeticType.TournamentMedal
 	},
 	[9941] = {
-		name = "Heartfelt Hero"
+		name = "The Heartfelt Hero"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[9942] = {
-		name = "Essentials.TF Monthly Tournament Gold"
+		name = "Essentials.TF Monthly Tournament Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9943] = {
-		name = "Essentials.TF Monthly Tournament Silver"
+		name = "Essentials.TF Monthly Tournament Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9944] = {
-		name = "Essentials.TF Monthly Tournament Bronze"
+		name = "Essentials.TF Monthly Tournament Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9945] = {
@@ -10993,155 +10993,155 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9947] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[9948] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9949] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9950] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9951] = {
-		name = "RGL.gg Div1 Champions"
+		name = "RGL.gg - Div1 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[9952] = {
-		name = "RGL.gg Div1 2nd"
+		name = "RGL.gg - Div1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9953] = {
-		name = "RGL.gg Div1 3rd"
+		name = "RGL.gg - Div1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9954] = {
-		name = "RGL.gg Div1 Participant"
+		name = "RGL.gg - Div1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9955] = {
-		name = "RGL.gg Rec Participant"
+		name = "RGL.gg - Rec Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9956] = {
-		name = "RGL.gg One Day Prolander Cup NA"
+		name = "RGL.gg One Day Prolander Cup - North America"
 		type = CosmeticType.TournamentMedal
 	},
 	[9957] = {
-		name = "EU.RGL.gg Invite Champions"
+		name = "EU.RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[9958] = {
-		name = "EU.RGL.gg Invite 2nd"
+		name = "EU.RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9959] = {
-		name = "EU.RGL.gg Invite 3rd"
+		name = "EU.RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9960] = {
-		name = "EU.RGL.gg Invite Participant"
+		name = "EU.RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9961] = {
-		name = "EU.RGL.gg Div2 Champions"
+		name = "EU.RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[9962] = {
-		name = "EU.RGL.gg Div2 2nd"
+		name = "EU.RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9963] = {
-		name = "EU.RGL.gg Div2 3rd"
+		name = "EU.RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9964] = {
-		name = "EU.RGL.gg Div2 Participant"
+		name = "EU.RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9965] = {
-		name = "PURE League Premier Div 1st"
+		name = "PURE League Premier Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9966] = {
-		name = "PURE League Premier Div 2nd"
+		name = "PURE League Premier Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9967] = {
-		name = "PURE League Premier Div 3rd"
+		name = "PURE League Premier Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9968] = {
-		name = "PURE League Premier Div Participant"
+		name = "PURE League Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9969] = {
-		name = "PURE League Intermediate Div 1st"
+		name = "PURE League Intermediate Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9970] = {
-		name = "PURE League Intermediate Div 2nd"
+		name = "PURE League Intermediate Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9971] = {
-		name = "PURE League Intermediate Div 3rd"
+		name = "PURE League Intermediate Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9972] = {
-		name = "PURE League Intermediate Div Participant"
+		name = "PURE League Intermediate Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9973] = {
-		name = "PURE League Open Div 1st"
+		name = "PURE League Open Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9974] = {
-		name = "PURE League Open Div 2nd"
+		name = "PURE League Open Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9975] = {
-		name = "PURE League Open Div 3rd"
+		name = "PURE League Open Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9976] = {
-		name = "PURE League Open Div Participant"
+		name = "PURE League Open Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[9977] = {
-		name = "Copenhagen Games 12v12 1st"
+		name = "Copenhagen Games Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9978] = {
-		name = "Copenhagen Games 12v12 2nd"
+		name = "Copenhagen Games Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9979] = {
-		name = "Copenhagen Games 12v12 3rd"
+		name = "Copenhagen Games Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9980] = {
-		name = "Copenhagen Games 12v12 Participant"
+		name = "Copenhagen Games Highlander Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[9981] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9982] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9983] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9984] = {
@@ -11149,15 +11149,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9985] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9986] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9987] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9988] = {
@@ -11165,15 +11165,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9989] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9990] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9991] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[9992] = {
@@ -11181,43 +11181,43 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[9993] = {
-		name = "Beginnings 5 1st"
+		name = "Beginnings 5 First Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9994] = {
-		name = "Beginnings 5 2nd"
+		name = "Beginnings 5 Second Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9995] = {
-		name = "Beginnings 5 3rd"
+		name = "Beginnings 5 Third Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9996] = {
-		name = "Beginnings 5 Participant"
+		name = "Beginnings 5 Participant Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9997] = {
-		name = "Beginnings 5 Helper"
+		name = "Beginnings 5 Helper Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9998] = {
-		name = "HLMixes Showdown 1st"
+		name = "HLMixes Showdown 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[9999] = {
-		name = "HLMixes Showdown Finalist"
+		name = "HLMixes Showdown Finalist Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10002] = {
-		name = "HLMixes Showdown Participant"
+		name = "HLMixes Showdown Participant Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10003] = {
-		name = "Hydro.tf Participant"
+		name = "Hydro.tf Participant Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10004] = {
-		name = "Hydro.tf All-Star"
+		name = "Hydro.tf All-Star Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10005] = {
@@ -11226,12 +11226,12 @@
 		paint = true
 	},
 	[10006] = {
-		name = "Second Seasonal Stomper"
+		name = "The Second Seasonal Stomper"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10007] = {
-		name = "Third Thyme Champ"
+		name = "The Third Thyme Champ"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -11246,7 +11246,7 @@
 		paint = true
 	},
 	[10010] = {
-		name = "Eggcellent Helper"
+		name = "The Eggcellent Helper"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -11267,20 +11267,20 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10015] = {
-		name = "TF2Maps Ray of Sunshine '18"
+		name = "TF2Maps Ray of Sunshine 2018"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[10016] = {
-		name = "Chapelaria Ultiduo Gladiator 1st"
+		name = "Chapelaria Ultiduo Gladiator 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10017] = {
-		name = "Chapelaria Ultiduo Gladiator 2nd"
+		name = "Chapelaria Ultiduo Gladiator 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10018] = {
-		name = "Chapelaria Ultiduo Gladiator 3rd"
+		name = "Chapelaria Ultiduo Gladiator 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10019] = {
@@ -11288,15 +11288,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10020] = {
-		name = "Chapelaria Ultiduo Legatus 1st"
+		name = "Chapelaria Ultiduo Legatus 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10021] = {
-		name = "Chapelaria Ultiduo Legatus 2nd"
+		name = "Chapelaria Ultiduo Legatus 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10022] = {
-		name = "Chapelaria Ultiduo Legatus 3rd"
+		name = "Chapelaria Ultiduo Legatus 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10023] = {
@@ -11304,47 +11304,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10024] = {
-		name = "Newbie 12v12 Cup Gold"
+		name = "Newbie Highlander Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10025] = {
-		name = "Newbie 12v12 Cup Silver"
+		name = "Newbie Highlander Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10026] = {
-		name = "Newbie 12v12 Cup Bronze"
+		name = "Newbie Highlander Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10027] = {
-		name = "Newbie 12v12 Cup Participant"
+		name = "Newbie Highlander Cup Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10028] = {
-		name = "Rally Call Whale"
+		name = "Rally Call - Whale"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[10029] = {
-		name = "Rally Call Whale Donor"
+		name = "Rally Call - Whale Donor"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[10030] = {
-		name = "Newbie Prolander Cup Gold"
+		name = "Newbie Prolander Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10031] = {
-		name = "Newbie Prolander Cup Silver"
+		name = "Newbie Prolander Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10032] = {
-		name = "Newbie Prolander Cup Bronze"
+		name = "Newbie Prolander Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -11354,15 +11354,15 @@
 		paint = true
 	},
 	[10034] = {
-		name = "TFCL 6v6 1st"
+		name = "TFCL 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10035] = {
-		name = "TFCL 6v6 2nd"
+		name = "TFCL 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10036] = {
-		name = "TFCL 6v6 3rd"
+		name = "TFCL 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10037] = {
@@ -11370,15 +11370,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10038] = {
-		name = "TFCL Ultiduo 1st"
+		name = "TFCL Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10039] = {
-		name = "TFCL Ultiduo 2nd"
+		name = "TFCL Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10040] = {
-		name = "TFCL Ultiduo 3rd"
+		name = "TFCL Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10041] = {
@@ -11386,36 +11386,36 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10042] = {
-		name = "TFCL 12v12 1st"
+		name = "TFCL Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10043] = {
-		name = "TFCL 12v12 2nd"
+		name = "TFCL Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10044] = {
-		name = "TFCL 12v12 3rd"
+		name = "TFCL Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10045] = {
-		name = "TFCL 12v12 Participant"
+		name = "TFCL Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10046] = {
-		name = "TF2Maps 72hr Jam Summer Participant"
+		name = "TF2Maps 72hr TF2Jam Summer Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[10047] = {
-		name = "Insomnia 63 1st"
+		name = "Insomnia 63 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10048] = {
-		name = "Insomnia 63 2nd"
+		name = "Insomnia 63 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10049] = {
-		name = "Insomnia 63 3rd"
+		name = "Insomnia 63 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10050] = {
@@ -11427,63 +11427,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10052] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10053] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10054] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10055] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10056] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10057] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10058] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10059] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10060] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10061] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10062] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10063] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10064] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10065] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10066] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10067] = {
@@ -11499,15 +11499,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10070] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10071] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10072] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10073] = {
@@ -11523,63 +11523,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10076] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10077] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10078] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10079] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10080] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10081] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10082] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10083] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10084] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10085] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10086] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10087] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10088] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10089] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10090] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10091] = {
@@ -11595,15 +11595,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10094] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10095] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10096] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10097] = {
@@ -11619,15 +11619,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10100] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10101] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10102] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10103] = {
@@ -11635,15 +11635,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10104] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10105] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10106] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10107] = {
@@ -11651,15 +11651,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10108] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10109] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10110] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10111] = {
@@ -11667,27 +11667,27 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10112] = {
-		name = "Fresh Meat Prolander Cup 1st"
+		name = "Fresh Meat Prolander Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10113] = {
-		name = "Fresh Meat Prolander Cup 2nd"
+		name = "Fresh Meat Prolander Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10114] = {
-		name = "Fresh Meat Prolander Cup 3rd"
+		name = "Fresh Meat Prolander Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10115] = {
-		name = "Fresh Meat Prolander Cup Amateur 1st"
+		name = "Fresh Meat Prolander Cup Amateur 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10116] = {
-		name = "Fresh Meat Prolander Cup Amateur 2nd"
+		name = "Fresh Meat Prolander Cup Amateur 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10117] = {
-		name = "Fresh Meat Prolander Cup Amateur 3rd"
+		name = "Fresh Meat Prolander Cup Amateur 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10118] = {
@@ -11699,39 +11699,39 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10120] = {
-		name = "Fresh Meat Prolander Cup 1st"
+		name = "Fresh Meat Prolander Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10121] = {
-		name = "Fresh Meat Prolander Cup 2nd"
+		name = "Fresh Meat Prolander Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10122] = {
-		name = "Fresh Meat Prolander Cup 3rd"
+		name = "Fresh Meat Prolander Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10123] = {
-		name = "Fresh Meat Prolander Cup Amateur 1st"
+		name = "Fresh Meat Prolander Cup Amateur 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10124] = {
-		name = "Fresh Meat Prolander Cup Amateur 2nd"
+		name = "Fresh Meat Prolander Cup Amateur 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10125] = {
-		name = "Fresh Meat Prolander Cup Amateur 3rd"
+		name = "Fresh Meat Prolander Cup Amateur 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10126] = {
-		name = "Fresh Meat Prolander Cup Elite 1st"
+		name = "Fresh Meat Prolander Cup Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10127] = {
-		name = "Fresh Meat Prolander Cup Elite 2nd"
+		name = "Fresh Meat Prolander Cup Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10128] = {
-		name = "Fresh Meat Prolander Cup Elite 3rd"
+		name = "Fresh Meat Prolander Cup Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10129] = {
@@ -11743,15 +11743,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10131] = {
-		name = "NewbiDuo Cup 1st"
+		name = "NewbiDuo Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10132] = {
-		name = "NewbiDuo Cup 2nd"
+		name = "NewbiDuo Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10133] = {
-		name = "NewbiDuo Cup 3rd"
+		name = "NewbiDuo Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10134] = {
@@ -11763,15 +11763,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10136] = {
-		name = "Ultimate Ultiduo 1st"
+		name = "Ultimate Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10137] = {
-		name = "Ultimate Ultiduo 2nd"
+		name = "Ultimate Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10138] = {
-		name = "Ultimate Ultiduo 3rd"
+		name = "Ultimate Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10139] = {
@@ -11783,421 +11783,421 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10141] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10142] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10143] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10144] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10145] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10146] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10147] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10148] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10149] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10150] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10151] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10152] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10153] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10154] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10155] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10156] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10157] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10158] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10159] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10160] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10161] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10162] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10163] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10164] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10165] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10166] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10167] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10168] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10169] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10170] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10171] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10172] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10173] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10174] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10175] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10176] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10177] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10178] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10179] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10180] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10181] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10182] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10183] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10184] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10185] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10186] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10187] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10188] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10189] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10190] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10191] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10192] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10193] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10194] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10195] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10196] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10197] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10198] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10199] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10200] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10201] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10202] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10203] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10204] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10205] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10206] = {
-		name = "ETF2L 12v12 Low Playoff"
+		name = "ETF2L Highlander Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10207] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10208] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10209] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10210] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10211] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10212] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10213] = {
-		name = "Newbie 12v12 Cup Gold"
+		name = "Newbie Highlander Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10214] = {
-		name = "Newbie 12v12 Cup Silver"
+		name = "Newbie Highlander Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10215] = {
-		name = "Newbie 12v12 Cup Bronze"
+		name = "Newbie Highlander Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10216] = {
-		name = "Newbie 12v12 Cup Participant"
+		name = "Newbie Highlander Cup Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10217] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10218] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10219] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10220] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10221] = {
-		name = "RGL.gg Div2 Champions"
+		name = "RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10222] = {
-		name = "RGL.gg Div2 2nd"
+		name = "RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10223] = {
-		name = "RGL.gg Div2 3rd"
+		name = "RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10224] = {
-		name = "RGL.gg Div2 Participant"
+		name = "RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10225] = {
-		name = "RGL.gg Open Participant"
+		name = "RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10226] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10227] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10228] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10229] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10230] = {
-		name = "RGL.gg Div1 Champions"
+		name = "RGL.gg - Div1 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10231] = {
-		name = "RGL.gg Div1 2nd"
+		name = "RGL.gg - Div1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10232] = {
-		name = "RGL.gg Div1 3rd"
+		name = "RGL.gg - Div1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10233] = {
-		name = "RGL.gg Div1 Participant"
+		name = "RGL.gg - Div1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10234] = {
-		name = "RGL.gg Div2 Champions"
+		name = "RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10235] = {
-		name = "RGL.gg Div2 2nd"
+		name = "RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10236] = {
-		name = "RGL.gg Div2 3rd"
+		name = "RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10237] = {
-		name = "RGL.gg Div2 Participant"
+		name = "RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10238] = {
-		name = "RGL.gg Open Participant"
+		name = "RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10239] = {
-		name = "RGL.gg One Day Prolander Cup NA"
+		name = "RGL.gg One Day Prolander Cup - North America"
 		type = CosmeticType.TournamentMedal
 	},
 	[10240] = {
-		name = "RGL.gg One Day Prolander Cup AUS"
+		name = "RGL.gg One Day Prolander Cup - Australia"
 		type = CosmeticType.TournamentMedal
 	},
 	[10241] = {
-		name = "PASS Time Federation 1st"
+		name = "PASS Time Federation 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10242] = {
-		name = "PASS Time Federation 2nd"
+		name = "PASS Time Federation 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10243] = {
-		name = "PASS Time Federation 3rd"
+		name = "PASS Time Federation 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -12212,77 +12212,77 @@
 		paint = true
 	},
 	[10246] = {
-		name = "Chapelaria 12v12 Gladiator 1st"
+		name = "Chapelaria Highlander Gladiator 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10247] = {
-		name = "Chapelaria 12v12 Gladiator 2nd"
+		name = "Chapelaria Highlander Gladiator 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10248] = {
-		name = "Chapelaria 12v12 Gladiator 3rd"
+		name = "Chapelaria Highlander Gladiator 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10249] = {
-		name = "Chapelaria 12v12 Gladiator Participant"
+		name = "Chapelaria Highlander Gladiator Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10250] = {
-		name = "Chapelaria 12v12 Legatus 1st"
+		name = "Chapelaria Highlander Legatus 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10251] = {
-		name = "Chapelaria 12v12 Legatus 2nd"
+		name = "Chapelaria Highlander Legatus 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10252] = {
-		name = "Chapelaria 12v12 Legatus 3rd"
+		name = "Chapelaria Highlander Legatus 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10253] = {
-		name = "Chapelaria 12v12 Legatus Participant"
+		name = "Chapelaria Highlander Legatus Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10254] = {
-		name = "Respawn League 12v12 1st"
+		name = "Respawn League Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10255] = {
-		name = "Respawn League 12v12 2nd"
+		name = "Respawn League Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10256] = {
-		name = "Respawn League 12v12 3rd"
+		name = "Respawn League Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10257] = {
-		name = "Respawn League 12v12 Participant"
+		name = "Respawn League Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10258] = {
-		name = "Respawn League 12v12 Founder"
+		name = "Respawn League Highlander Founder"
 		type = CosmeticType.TournamentMedal
 	},
 	[10259] = {
-		name = "Moscow LAN 1st"
+		name = "Moscow LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10260] = {
-		name = "Moscow LAN 2nd"
+		name = "Moscow LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10261] = {
-		name = "Moscow LAN 3rd"
+		name = "Moscow LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -12312,15 +12312,15 @@
 		paint = true
 	},
 	[10267] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10268] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10269] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10270] = {
@@ -12328,15 +12328,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10271] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10272] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10273] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10274] = {
@@ -12344,15 +12344,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10275] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10276] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10277] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10278] = {
@@ -12360,17 +12360,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10279] = {
-		name = "TFNew Cup 1st"
+		name = "TFNew Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10280] = {
-		name = "TFNew Cup 2nd"
+		name = "TFNew Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10281] = {
-		name = "TFNew Cup 3rd"
+		name = "TFNew Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -12380,15 +12380,15 @@
 		paint = true
 	},
 	[10283] = {
-		name = "RGB 3 LAN 1st"
+		name = "RGB 3 LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10284] = {
-		name = "RGB 3 LAN 2nd"
+		name = "RGB 3 LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10285] = {
-		name = "RGB 3 LAN 3rd"
+		name = "RGB 3 LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10286] = {
@@ -12396,15 +12396,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10287] = {
-		name = "United Dodgeball League 1st"
+		name = "United Dodgeball League 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10288] = {
-		name = "United Dodgeball League 2nd"
+		name = "United Dodgeball League 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10289] = {
-		name = "United Dodgeball League 3rd"
+		name = "United Dodgeball League 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10290] = {
@@ -12412,17 +12412,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10291] = {
-		name = "ESEA 6s Invite 1st"
+		name = "ESEA 6s Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10292] = {
-		name = "ESEA 6s Invite 2nd"
+		name = "ESEA 6s Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10293] = {
-		name = "ESEA 6s Invite 3rd"
+		name = "ESEA 6s Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -12432,17 +12432,17 @@
 		paint = true
 	},
 	[10295] = {
-		name = "ESEA 6s Invite 1st"
+		name = "ESEA 6s Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10296] = {
-		name = "ESEA 6s Invite 2nd"
+		name = "ESEA 6s Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10297] = {
-		name = "ESEA 6s Invite 3rd"
+		name = "ESEA 6s Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -12452,15 +12452,15 @@
 		paint = true
 	},
 	[10299] = {
-		name = "Brazil Fortress 6v6 1st"
+		name = "Brazil Fortress 6v6 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10300] = {
-		name = "Brazil Fortress 6v6 2nd"
+		name = "Brazil Fortress 6v6 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10301] = {
-		name = "Brazil Fortress 6v6 3rd"
+		name = "Brazil Fortress 6v6 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10302] = {
@@ -12468,15 +12468,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10303] = {
-		name = "Brazil Fortress 6v6 1st"
+		name = "Brazil Fortress 6v6 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10304] = {
-		name = "Brazil Fortress 6v6 2nd"
+		name = "Brazil Fortress 6v6 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10305] = {
-		name = "Brazil Fortress 6v6 3rd"
+		name = "Brazil Fortress 6v6 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10306] = {
@@ -12484,63 +12484,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10307] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10308] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10309] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10310] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10311] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10312] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10313] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10314] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10315] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10316] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10317] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10318] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10319] = {
-		name = "Sacred Scouts 6v6 Gold"
+		name = "Sacred Scouts 6v6 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10320] = {
-		name = "Sacred Scouts 6v6 Silver"
+		name = "Sacred Scouts 6v6 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10321] = {
-		name = "Sacred Scouts 6v6 Bronze"
+		name = "Sacred Scouts 6v6 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10322] = {
@@ -12548,211 +12548,211 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10323] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10324] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10325] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10326] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10327] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10328] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10329] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10330] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10331] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10332] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10333] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10334] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10335] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10336] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10337] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10338] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10339] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10340] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10341] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10342] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10343] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10344] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10345] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10346] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10347] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10348] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10349] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10350] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10351] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10352] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10353] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10354] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10355] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10356] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10357] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10358] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10359] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10360] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10361] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10362] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10363] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10364] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10365] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10366] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10367] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10368] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10369] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10370] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10371] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10372] = {
-		name = "Brazil Fortress 6v6 Open 1st"
+		name = "Brazil Fortress 6v6 Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10373] = {
-		name = "Brazil Fortress 6v6 Open 2nd"
+		name = "Brazil Fortress 6v6 Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10374] = {
-		name = "Brazil Fortress 6v6 Open 3rd"
+		name = "Brazil Fortress 6v6 Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10375] = {
@@ -12760,15 +12760,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10376] = {
-		name = "Brazil Fortress 6v6 Invite 1st"
+		name = "Brazil Fortress 6v6 Invite First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10377] = {
-		name = "Brazil Fortress 6v6 Invite 2nd"
+		name = "Brazil Fortress 6v6 Invite Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10378] = {
-		name = "Brazil Fortress 6v6 Invite 3rd"
+		name = "Brazil Fortress 6v6 Invite Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10379] = {
@@ -12776,15 +12776,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10380] = {
-		name = "LAN Downunder 1st"
+		name = "LAN Downunder 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10381] = {
-		name = "LAN Downunder 2nd"
+		name = "LAN Downunder 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10382] = {
-		name = "LAN Downunder 3rd"
+		name = "LAN Downunder 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10383] = {
@@ -12792,35 +12792,35 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10384] = {
-		name = "Russian 12v12 1st"
+		name = "Russian Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10385] = {
-		name = "Russian 12v12 2nd"
+		name = "Russian Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10386] = {
-		name = "Russian 12v12 3rd"
+		name = "Russian Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10387] = {
-		name = "Russian 12v12 Participant"
+		name = "Russian Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10388] = {
-		name = "Russian 12v12 Staff"
+		name = "Russian Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[10389] = {
-		name = "AsiaFortress LAN 1st"
+		name = "AsiaFortress LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10390] = {
-		name = "AsiaFortress LAN 2nd"
+		name = "AsiaFortress LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10391] = {
-		name = "AsiaFortress LAN 3rd"
+		name = "AsiaFortress LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10392] = {
@@ -12832,15 +12832,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10394] = {
-		name = "NewbiDuo Cup 1st"
+		name = "NewbiDuo Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10395] = {
-		name = "NewbiDuo Cup 2nd"
+		name = "NewbiDuo Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10396] = {
-		name = "NewbiDuo Cup 3rd"
+		name = "NewbiDuo Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10397] = {
@@ -12852,15 +12852,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10399] = {
-		name = "Streamer Cup Gold"
+		name = "Streamer Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10400] = {
-		name = "Streamer Cup Silver"
+		name = "Streamer Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10401] = {
-		name = "Streamer Cup Bronze"
+		name = "Streamer Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10402] = {
@@ -12872,15 +12872,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10404] = {
-		name = "Respawn League AUS/NZ 4v4 1st"
+		name = "Respawn League AUS/NZ 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10405] = {
-		name = "Respawn League AUS/NZ 4v4 2nd"
+		name = "Respawn League AUS/NZ 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10406] = {
-		name = "Respawn League AUS/NZ 4v4 3rd"
+		name = "Respawn League AUS/NZ 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10407] = {
@@ -12888,15 +12888,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10408] = {
-		name = "Respawn League ASIA 4v4 1st"
+		name = "Respawn League ASIA 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10409] = {
-		name = "Respawn League ASIA 4v4 2nd"
+		name = "Respawn League ASIA 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10410] = {
-		name = "Respawn League ASIA 4v4 3rd"
+		name = "Respawn League ASIA 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10411] = {
@@ -12904,47 +12904,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10412] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10413] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10414] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10415] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10416] = {
-		name = "Respawn League AUS/NZ 12v12 1st"
+		name = "Respawn League AUS/NZ Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10417] = {
-		name = "Respawn League AUS/NZ 12v12 2nd"
+		name = "Respawn League AUS/NZ Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10418] = {
-		name = "Respawn League AUS/NZ 12v12 3rd"
+		name = "Respawn League AUS/NZ Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10419] = {
-		name = "Respawn League AUS/NZ 12v12 Participant"
+		name = "Respawn League AUS/NZ Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10420] = {
-		name = "Eu Mixes 1st"
+		name = "Eu Mixes 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10421] = {
-		name = "Eu Mixes 2nd"
+		name = "Eu Mixes 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10422] = {
-		name = "Eu Mixes 3rd"
+		name = "Eu Mixes 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10423] = {
@@ -12960,15 +12960,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10426] = {
-		name = "KnightComp Gold"
+		name = "KnightComp Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10427] = {
-		name = "KnightComp Silver"
+		name = "KnightComp Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10428] = {
-		name = "KnightComp Bronze"
+		name = "KnightComp Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10429] = {
@@ -12989,11 +12989,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10433] = {
-		name = "NHBL Finals 2nd"
+		name = "NHBL Finals 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10434] = {
-		name = "NHBL Finals 3rd"
+		name = "NHBL Finals 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10435] = {
@@ -13006,196 +13006,196 @@
 		paint = true
 	},
 	[10437] = {
-		name = "Russian 12v12 1st"
+		name = "Russian Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10438] = {
-		name = "Russian 12v12 2nd"
+		name = "Russian Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10439] = {
-		name = "Russian 12v12 3rd"
+		name = "Russian Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10440] = {
-		name = "Russian 12v12 Participant"
+		name = "Russian Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10441] = {
-		name = "Russian 12v12 Staff"
+		name = "Russian Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[10450] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10451] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10452] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10453] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10454] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10455] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10456] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10457] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10458] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10459] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10460] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10461] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10462] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10463] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10464] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10465] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10466] = {
-		name = "RGL.gg Open Participant 12v12"
+		name = "RGL.gg - Open Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10467] = {
-		name = "RGL.gg Div1 Champions AU"
+		name = "RGL.gg - Div1 Champions AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10468] = {
-		name = "RGL.gg Div1 2nd AU"
+		name = "RGL.gg - Div1 2nd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10469] = {
-		name = "RGL.gg Div1 3rd AU"
+		name = "RGL.gg - Div1 3rd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10470] = {
-		name = "RGL.gg Div1 Participant AU"
+		name = "RGL.gg - Div1 Participant AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10471] = {
-		name = "RGL.gg Staff AU"
+		name = "RGL.gg - Staff AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10472] = {
-		name = "RGL.gg Div2 Champions AU"
+		name = "RGL.gg - Div2 Champions AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10473] = {
-		name = "RGL.gg Div2 2nd AU"
+		name = "RGL.gg - Div2 2nd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10474] = {
-		name = "RGL.gg Div2 3rd AU"
+		name = "RGL.gg - Div2 3rd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10475] = {
-		name = "RGL.gg Div2 Participant AU"
+		name = "RGL.gg - Div2 Participant AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10476] = {
-		name = "RGL.gg One Day Prolander Cup NA #1"
+		name = "RGL.gg One Day Prolander Cup - NA #1"
 		type = CosmeticType.TournamentMedal
 	},
 	[10477] = {
-		name = "RGL.gg One Day Prolander Cup NA #2"
+		name = "RGL.gg One Day Prolander Cup - NA #2"
 		type = CosmeticType.TournamentMedal
 	},
 	[10478] = {
-		name = "RGL.gg Staff One Day Prolander Cup NA #1"
+		name = "RGL.gg Staff - One Day Prolander Cup - NA #1"
 		type = CosmeticType.TournamentMedal
 	},
 	[10479] = {
-		name = "RGL.gg Staff One Day Prolander Cup NA #2"
+		name = "RGL.gg Staff - One Day Prolander Cup - NA #2"
 		type = CosmeticType.TournamentMedal
 	},
 	[10480] = {
-		name = "Fruit Mixes 12v12 Gold"
+		name = "Fruit Mixes Highlander Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10481] = {
-		name = "Fruit Mixes 12v12 Silver"
+		name = "Fruit Mixes Highlander Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10482] = {
-		name = "Fruit Mixes 12v12 Bronze"
+		name = "Fruit Mixes Highlander Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10483] = {
-		name = "Fruit Mixes 12v12 Participant"
+		name = "Fruit Mixes Highlander Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10484] = {
-		name = "Fruit Mixes 12v12 Staff"
+		name = "Fruit Mixes Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[10485] = {
-		name = "New Caps Cup 1st"
+		name = "New Caps Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10486] = {
-		name = "New Caps Cup 2nd"
+		name = "New Caps Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10487] = {
-		name = "New Caps Cup 3rd"
+		name = "New Caps Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10488] = {
@@ -13203,15 +13203,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10489] = {
-		name = "United Dodgeball League Gold"
+		name = "United Dodgeball League Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10490] = {
-		name = "United Dodgeball League Silver"
+		name = "United Dodgeball League Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10491] = {
-		name = "United Dodgeball League Bronze"
+		name = "United Dodgeball League Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10492] = {
@@ -13223,15 +13223,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10494] = {
-		name = "Rasslabyxa Cup 1st"
+		name = "Rasslabyxa Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10495] = {
-		name = "Rasslabyxa Cup 2nd"
+		name = "Rasslabyxa Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10496] = {
-		name = "Rasslabyxa Cup 3rd"
+		name = "Rasslabyxa Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10497] = {
@@ -13243,15 +13243,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10499] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10500] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10501] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10502] = {
@@ -13259,15 +13259,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10503] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10504] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10505] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10506] = {
@@ -13275,15 +13275,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10507] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10508] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10509] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10510] = {
@@ -13291,31 +13291,31 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10511] = {
-		name = "AUS Hightower Highjinx Champion"
+		name = "Australian Hightower Highjinx Champion"
 		type = CosmeticType.CommunityMedal
 	},
 	[10512] = {
-		name = "AUS Hightower Highjinx Participant"
+		name = "Australian Hightower Highjinx Participant"
 		type = CosmeticType.CommunityMedal
 	},
 	[10513] = {
-		name = "AUS Hightower Highjinx Donor"
+		name = "Australian Hightower Highjinx Donor"
 		type = CosmeticType.CommunityMedal
 	},
 	[10514] = {
-		name = "AUS Hightower Highjinx Helper"
+		name = "Australian Hightower Highjinx Helper"
 		type = CosmeticType.CommunityMedal
 	},
 	[10515] = {
-		name = "Ultimate Ultiduo 1st"
+		name = "Ultimate Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10516] = {
-		name = "Ultimate Ultiduo 2nd"
+		name = "Ultimate Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10517] = {
-		name = "Ultimate Ultiduo 3rd"
+		name = "Ultimate Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10518] = {
@@ -13327,47 +13327,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10520] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 1st"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10521] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 2nd"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10522] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 3rd"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10523] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 Participant"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10524] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 1st"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10525] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 2nd"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10526] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 3rd"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10527] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 Participant"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10528] = {
-		name = "Brazil Fortress Jump Cup Demoman 1st"
+		name = "Brazil Fortress Jump Cup Demoman First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10529] = {
-		name = "Brazil Fortress Jump Cup Demoman 2nd"
+		name = "Brazil Fortress Jump Cup Demoman Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10530] = {
-		name = "Brazil Fortress Jump Cup Demoman 3rd"
+		name = "Brazil Fortress Jump Cup Demoman Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10531] = {
@@ -13379,7 +13379,7 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10533] = {
-		name = "RGL.gg 12v12 Experimental Maps Cup"
+		name = "RGL.gg Highlander Experimental Maps Cup"
 		type = CosmeticType.TournamentMedal
 	},
 	[10534] = {
@@ -13425,17 +13425,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10543] = {
-		name = "RETF2 Retrospective 2 12v12 Winner Season 2"
+		name = "RETF2 Retrospective 2 Highlander Winner Season 2"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10544] = {
-		name = "RETF2 Retrospective 2 12v12 Finalist Season 2"
+		name = "RETF2 Retrospective 2 Highlander Finalist Season 2"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10545] = {
-		name = "RETF2 Retrospective 2 12v12 Participant Season 2"
+		name = "RETF2 Retrospective 2 Highlander Participant Season 2"
 		type = CosmeticType.TournamentMedal
 	},
 	[10546] = {
@@ -13472,227 +13472,227 @@
 		paint = true
 	},
 	[10553] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10554] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10555] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10556] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10557] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10558] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10559] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10560] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10561] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10562] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10563] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10564] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10565] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10566] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10567] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10568] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10569] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10570] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10571] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10572] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10573] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10574] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10575] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10576] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10577] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10578] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10579] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10580] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10581] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10582] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10583] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10584] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10585] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10586] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10587] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10588] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10589] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10590] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10591] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10592] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10593] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10594] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10595] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10596] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10597] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10598] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10599] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10600] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10601] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10602] = {
-		name = "ETF2L Fresh Meat Challenge Gold"
+		name = "ETF2L Fresh Meat Challenge Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10603] = {
-		name = "ETF2L Fresh Meat Challenge Silver"
+		name = "ETF2L Fresh Meat Challenge Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10604] = {
-		name = "ETF2L Fresh Meat Challenge Bronze"
+		name = "ETF2L Fresh Meat Challenge Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10605] = {
-		name = "ETF2L Fresh Meat Challenge Participation"
+		name = "ETF2L Fresh Meat Challenge Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10606] = {
-		name = "South American Vanilla Fortress 6v6 Invite 1st"
+		name = "South American Vanilla Fortress 6v6 Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10607] = {
-		name = "South American Vanilla Fortress 6v6 Invite 2nd"
+		name = "South American Vanilla Fortress 6v6 Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10608] = {
-		name = "South American Vanilla Fortress 6v6 Invite 3rd"
+		name = "South American Vanilla Fortress 6v6 Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10609] = {
@@ -13700,15 +13700,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10610] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 1st"
+		name = "South American Vanilla Fortress 6v6 Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10611] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 2nd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10612] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 3rd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10613] = {
@@ -13716,15 +13716,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10614] = {
-		name = "South American Vanilla Fortress 6v6 Open 1st"
+		name = "South American Vanilla Fortress 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10615] = {
-		name = "South American Vanilla Fortress 6v6 Open 2nd"
+		name = "South American Vanilla Fortress 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10616] = {
-		name = "South American Vanilla Fortress 6v6 Open 3rd"
+		name = "South American Vanilla Fortress 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10617] = {
@@ -13736,15 +13736,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10619] = {
-		name = "Asia BBall Cup 1st"
+		name = "Asia BBall Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10620] = {
-		name = "Asia BBall Cup 2nd"
+		name = "Asia BBall Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10621] = {
-		name = "Asia BBall Cup 3rd"
+		name = "Asia BBall Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10622] = {
@@ -13767,31 +13767,31 @@
 		paint = true
 	},
 	[10626] = {
-		name = "Respawn League AUS/NZ 12v12 1st"
+		name = "Respawn League AUS/NZ Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10627] = {
-		name = "Respawn League AUS/NZ 12v12 2nd"
+		name = "Respawn League AUS/NZ Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10628] = {
-		name = "Respawn League AUS/NZ 12v12 3rd"
+		name = "Respawn League AUS/NZ Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10629] = {
-		name = "Respawn League AUS/NZ 12v12 Participant"
+		name = "Respawn League AUS/NZ Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10630] = {
-		name = "Respawn League AUS/NZ 4v4 1st"
+		name = "Respawn League AUS/NZ 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10631] = {
-		name = "Respawn League AUS/NZ 4v4 2nd"
+		name = "Respawn League AUS/NZ 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10632] = {
-		name = "Respawn League AUS/NZ 4v4 3rd"
+		name = "Respawn League AUS/NZ 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10633] = {
@@ -13799,15 +13799,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10634] = {
-		name = "Respawn League ASIA 4v4 1st"
+		name = "Respawn League ASIA 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10635] = {
-		name = "Respawn League ASIA 4v4 2nd"
+		name = "Respawn League ASIA 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10636] = {
-		name = "Respawn League ASIA 4v4 3rd"
+		name = "Respawn League ASIA 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10637] = {
@@ -13815,55 +13815,55 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10638] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10639] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10640] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10641] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10642] = {
-		name = "First Scary"
+		name = "The First Scary"
 		type = CosmeticType.TournamentMedal
 	},
 	[10643] = {
-		name = "Second Spell"
+		name = "The Second Spell"
 		type = CosmeticType.TournamentMedal
 	},
 	[10644] = {
-		name = "Third Monstrosity"
+		name = "The Third Monstrosity"
 		type = CosmeticType.TournamentMedal
 	},
 	[10645] = {
-		name = "Friday's Playoff"
+		name = "The Friday's Playoff"
 		type = CosmeticType.TournamentMedal
 	},
 	[10646] = {
-		name = "Vampiric Participant"
+		name = "The Vampiric Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10647] = {
-		name = "Cursed Assistant"
+		name = "The Cursed Assistant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10648] = {
-		name = "CLTF2 Prolander Tournament Gold"
+		name = "CLTF2 Prolander Tournament Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10649] = {
-		name = "CLTF2 Prolander Tournament Silver"
+		name = "CLTF2 Prolander Tournament Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10650] = {
-		name = "CLTF2 Prolander Tournament Bronze"
+		name = "CLTF2 Prolander Tournament Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10651] = {
@@ -13875,27 +13875,27 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10653] = {
-		name = "Memes vs. Machines Baked Potato '19"
+		name = "Memes vs. Machines Baked Potato 2019"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[10654] = {
-		name = "Memes vs. Machines PotatOS Server '19"
+		name = "Memes vs. Machines PotatOS Server 2019"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[10655] = {
-		name = "FBTF 4v4 Elite 1st"
+		name = "FBTF 4v4 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10656] = {
-		name = "FBTF 4v4 Elite 2nd"
+		name = "FBTF 4v4 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10657] = {
-		name = "FBTF 4v4 Elite 3rd"
+		name = "FBTF 4v4 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10658] = {
@@ -13903,15 +13903,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10659] = {
-		name = "FBTF 4v4 Access 1st"
+		name = "FBTF 4v4 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10660] = {
-		name = "FBTF 4v4 Access 2nd"
+		name = "FBTF 4v4 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10661] = {
-		name = "FBTF 4v4 Access 3rd"
+		name = "FBTF 4v4 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10662] = {
@@ -13919,15 +13919,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10663] = {
-		name = "FBTF 4v4 Open 1st"
+		name = "FBTF 4v4 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10664] = {
-		name = "FBTF 4v4 Open 2nd"
+		name = "FBTF 4v4 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10665] = {
-		name = "FBTF 4v4 Open 3rd"
+		name = "FBTF 4v4 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10666] = {
@@ -13935,52 +13935,52 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10667] = {
-		name = "TFArena Gold"
+		name = "TFArena Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10668] = {
-		name = "TFArena Silver"
+		name = "TFArena Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10669] = {
-		name = "TFArena Bronze"
+		name = "TFArena Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10670] = {
-		name = "TFArena Participation"
+		name = "TFArena Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10671] = {
-		name = "TFArena Helper"
+		name = "TFArena Helper Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10672] = {
-		name = "Copenhagen Games 6v6 1st"
+		name = "Copenhagen Games 6v6 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10673] = {
-		name = "Copenhagen Games 6v6 2nd"
+		name = "Copenhagen Games 6v6 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10674] = {
-		name = "Copenhagen Games 6v6 3rd"
+		name = "Copenhagen Games 6v6 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10675] = {
-		name = "Copenhagen Games 12v12 1st"
+		name = "Copenhagen Games Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10676] = {
-		name = "Copenhagen Games 12v12 2nd"
+		name = "Copenhagen Games Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10677] = {
-		name = "Copenhagen Games 12v12 3rd"
+		name = "Copenhagen Games Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -13995,49 +13995,49 @@
 		paint = true
 	},
 	[10680] = {
-		name = "LBTF2 12v12 Open 1st"
+		name = "LBTF2 Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10681] = {
-		name = "LBTF2 12v12 Open 2nd"
+		name = "LBTF2 Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10682] = {
-		name = "LBTF2 12v12 Open 3rd"
+		name = "LBTF2 Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10683] = {
-		name = "LBTF2 12v12 Open Participant"
+		name = "LBTF2 Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10684] = {
-		name = "LBTF2 12v12 Main 1st"
+		name = "LBTF2 Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10685] = {
-		name = "LBTF2 12v12 Main 2nd"
+		name = "LBTF2 Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10686] = {
-		name = "LBTF2 12v12 Main 3rd"
+		name = "LBTF2 Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10687] = {
-		name = "LBTF2 12v12 Main Participant"
+		name = "LBTF2 Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10688] = {
-		name = "Cap that Cup 1st"
+		name = "Cap that Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10689] = {
-		name = "Cap that Cup 2nd"
+		name = "Cap that Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10690] = {
-		name = "Cap that Cup 3rd"
+		name = "Cap that Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -14052,15 +14052,15 @@
 		paint = true
 	},
 	[10693] = {
-		name = "EuroLander Premier Gold"
+		name = "EuroLander Premier Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10694] = {
-		name = "EuroLander Premier Silver"
+		name = "EuroLander Premier Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10695] = {
-		name = "EuroLander Premier Bronze"
+		name = "EuroLander Premier Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10696] = {
@@ -14072,15 +14072,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10698] = {
-		name = "EuroLander Main Gold"
+		name = "EuroLander Main Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10699] = {
-		name = "EuroLander Main Silver"
+		name = "EuroLander Main Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10700] = {
-		name = "EuroLander Main Bronze"
+		name = "EuroLander Main Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10701] = {
@@ -14088,15 +14088,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10702] = {
-		name = "EuroLander Open Gold"
+		name = "EuroLander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10703] = {
-		name = "EuroLander Open Silver"
+		name = "EuroLander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10704] = {
-		name = "EuroLander Open Bronze"
+		name = "EuroLander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10705] = {
@@ -14104,15 +14104,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10706] = {
-		name = "Classic MGE Cup 1st"
+		name = "Classic MGE Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10707] = {
-		name = "Classic MGE Cup 2nd"
+		name = "Classic MGE Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10708] = {
-		name = "Classic MGE Cup 3rd"
+		name = "Classic MGE Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10709] = {
@@ -14124,15 +14124,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10711] = {
-		name = "Late Night TF2 Cup Gold"
+		name = "Late Night TF2 Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10712] = {
-		name = "Late Night TF2 Cup Silver"
+		name = "Late Night TF2 Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10713] = {
-		name = "Late Night TF2 Cup Bronze"
+		name = "Late Night TF2 Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10714] = {
@@ -14144,15 +14144,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10716] = {
-		name = "EBL 1st"
+		name = "EBL 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10717] = {
-		name = "EBL 2nd"
+		name = "EBL 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10718] = {
-		name = "EBL 3rd"
+		name = "EBL 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10719] = {
@@ -14164,373 +14164,373 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10721] = {
-		name = "HLMixes Showdown 1st"
+		name = "HLMixes Showdown 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10722] = {
-		name = "HLMixes Showdown Finalist"
+		name = "HLMixes Showdown Finalist Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10723] = {
-		name = "HLMixes Showdown Participant"
+		name = "HLMixes Showdown Participant Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10724] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10725] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10726] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10727] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10728] = {
-		name = "RGL.gg Div1 Champions"
+		name = "RGL.gg - Div1 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10729] = {
-		name = "RGL.gg Div1 2nd"
+		name = "RGL.gg - Div1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10730] = {
-		name = "RGL.gg Div1 3rd"
+		name = "RGL.gg - Div1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10731] = {
-		name = "RGL.gg Div1 Participant"
+		name = "RGL.gg - Div1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10732] = {
-		name = "RGL.gg Div2 Champions"
+		name = "RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10733] = {
-		name = "RGL.gg Div2 2nd"
+		name = "RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10734] = {
-		name = "RGL.gg Div2 3rd"
+		name = "RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10735] = {
-		name = "RGL.gg Div2 Participant"
+		name = "RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10736] = {
-		name = "RGL.gg Div3 Champions"
+		name = "RGL.gg - Div3 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10737] = {
-		name = "RGL.gg Div3 2nd"
+		name = "RGL.gg - Div3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10738] = {
-		name = "RGL.gg Div3 3rd"
+		name = "RGL.gg - Div3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10739] = {
-		name = "RGL.gg Div3 Participant"
+		name = "RGL.gg - Div3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10740] = {
-		name = "RGL.gg Open Participant"
+		name = "RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10741] = {
-		name = "EU.RGL.gg Invite Champions"
+		name = "EU.RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10742] = {
-		name = "EU.RGL.gg Invite 2nd"
+		name = "EU.RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10743] = {
-		name = "EU.RGL.gg Invite 3rd"
+		name = "EU.RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10744] = {
-		name = "EU.RGL.gg Invite Participant"
+		name = "EU.RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10745] = {
-		name = "EU.RGL.gg Div2 Champions"
+		name = "EU.RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10746] = {
-		name = "EU.RGL.gg Div2 2nd"
+		name = "EU.RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10747] = {
-		name = "EU.RGL.gg Div2 3rd"
+		name = "EU.RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10748] = {
-		name = "EU.RGL.gg Div2 Participant"
+		name = "EU.RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10749] = {
-		name = "EU.RGL.gg Div3 Champions"
+		name = "EU.RGL.gg - Div3 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[10750] = {
-		name = "EU.RGL.gg Div3 2nd"
+		name = "EU.RGL.gg - Div3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10751] = {
-		name = "EU.RGL.gg Div3 3rd"
+		name = "EU.RGL.gg - Div3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10752] = {
-		name = "EU.RGL.gg Div3 Participant"
+		name = "EU.RGL.gg - Div3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10753] = {
-		name = "EU.RGL.gg Open Participant"
+		name = "EU.RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10754] = {
-		name = "RGL.gg Div1 Champions AU"
+		name = "RGL.gg - Div1 Champions AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10755] = {
-		name = "RGL.gg Div1 2nd AU"
+		name = "RGL.gg - Div1 2nd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10756] = {
-		name = "RGL.gg Div1 3rd AU"
+		name = "RGL.gg - Div1 3rd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10757] = {
-		name = "RGL.gg Div1 Participant AU"
+		name = "RGL.gg - Div1 Participant AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10758] = {
-		name = "RGL.gg Div2 Champions AU"
+		name = "RGL.gg - Div2 Champions AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10759] = {
-		name = "RGL.gg Div2 2nd AU"
+		name = "RGL.gg - Div2 2nd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10760] = {
-		name = "RGL.gg Div2 3rd AU"
+		name = "RGL.gg - Div2 3rd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10761] = {
-		name = "RGL.gg Div2 Participant AU"
+		name = "RGL.gg - Div2 Participant AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[10762] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10763] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10764] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10765] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10766] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10767] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10768] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10769] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10770] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10771] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10772] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10773] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10774] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10775] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10776] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10777] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10778] = {
-		name = "RGL.gg Open Participant 12v12"
+		name = "RGL.gg - Open Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10779] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10780] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10781] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10782] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10783] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10784] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10785] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10786] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10787] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10788] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10789] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10790] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10791] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10792] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10793] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10794] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10795] = {
-		name = "RGL.gg Open Participant 12v12"
+		name = "RGL.gg - Open Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10796] = {
-		name = "RGL.gg 12v12 Experimental Maps Cup"
+		name = "RGL.gg Highlander Experimental Maps Cup"
 		type = CosmeticType.TournamentMedal
 	},
 	[10797] = {
-		name = "CLTF2 6v6 High No Restrictions Tournament Gold"
+		name = "CLTF2 6v6 High - No Restrictions Tournament Gold"
 		type = CosmeticType.TournamentMedal
 	},
 	[10798] = {
-		name = "CLTF2 6v6 High No Restrictions Tournament Silver"
+		name = "CLTF2 6v6 High - No Restrictions Tournament Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[10799] = {
-		name = "CLTF2 6v6 High No Restrictions Tournament Bronze"
+		name = "CLTF2 6v6 High - No Restrictions Tournament Bronze"
 		type = CosmeticType.TournamentMedal
 	},
 	[10800] = {
-		name = "CLTF2 6v6 High No Restrictions Tournament Participant"
+		name = "CLTF2 6v6 High - No Restrictions Tournament Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10805] = {
-		name = "CLTF2 6v6 Open No Restrictions Tournament Gold"
+		name = "CLTF2 6v6 Open - No Restrictions Tournament Gold"
 		type = CosmeticType.TournamentMedal
 	},
 	[10806] = {
-		name = "CLTF2 6v6 Open No Restrictions Tournament Silver"
+		name = "CLTF2 6v6 Open - No Restrictions Tournament Silver"
 		type = CosmeticType.TournamentMedal
 	},
 	[10807] = {
-		name = "CLTF2 6v6 Open No Restrictions Tournament Bronze"
+		name = "CLTF2 6v6 Open - No Restrictions Tournament Bronze"
 		type = CosmeticType.TournamentMedal
 	},
 	[10808] = {
-		name = "CLTF2 6v6 Open No Restrictions Tournament Participant"
+		name = "CLTF2 6v6 Open - No Restrictions Tournament Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10809] = {
@@ -14538,15 +14538,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10810] = {
-		name = "BBall One Day Cup 1st"
+		name = "BBall One Day Cup First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10811] = {
-		name = "BBall One Day Cup 2nd"
+		name = "BBall One Day Cup Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10812] = {
-		name = "BBall One Day Cup 3rd"
+		name = "BBall One Day Cup Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10813] = {
@@ -14558,15 +14558,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10815] = {
-		name = "Pugiklander 1st"
+		name = "Pugiklander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10816] = {
-		name = "Pugiklander 2nd"
+		name = "Pugiklander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10817] = {
-		name = "Pugiklander 3rd"
+		name = "Pugiklander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10818] = {
@@ -14578,15 +14578,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10820] = {
-		name = "MidNight Moon 1st"
+		name = "MidNight Moon 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10821] = {
-		name = "MidNight Moon 2nd"
+		name = "MidNight Moon 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10822] = {
-		name = "MidNight Moon 3rd"
+		name = "MidNight Moon 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10823] = {
@@ -14606,79 +14606,79 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10827] = {
-		name = "UGC 12v12 1st"
+		name = "UGC Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10828] = {
-		name = "UGC 12v12 2nd"
+		name = "UGC Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10829] = {
-		name = "UGC 12v12 3rd"
+		name = "UGC Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10830] = {
-		name = "UGC 12v12 Premium Participant"
+		name = "UGC Highlander Premium Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10831] = {
-		name = "UGC 12v12 Main 1st"
+		name = "UGC Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10832] = {
-		name = "UGC 12v12 Main 2nd"
+		name = "UGC Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10833] = {
-		name = "UGC 12v12 Main 3rd"
+		name = "UGC Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10834] = {
-		name = "UGC 12v12 Main Participant"
+		name = "UGC Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10835] = {
-		name = "UGC 12v12 1st"
+		name = "UGC Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10836] = {
-		name = "UGC 12v12 2nd"
+		name = "UGC Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10837] = {
-		name = "UGC 12v12 3rd"
+		name = "UGC Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10838] = {
-		name = "UGC 12v12 Premium Participant"
+		name = "UGC Highlander Premium Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10839] = {
-		name = "UGC 12v12 Main 1st"
+		name = "UGC Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10840] = {
-		name = "UGC 12v12 Main 2nd"
+		name = "UGC Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10841] = {
-		name = "UGC 12v12 Main 3rd"
+		name = "UGC Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10842] = {
-		name = "UGC 12v12 Main Participant"
+		name = "UGC Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10843] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10844] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10845] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10846] = {
@@ -14686,15 +14686,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10847] = {
-		name = "UGC 6vs6 Silver 1st"
+		name = "UGC 6vs6 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10848] = {
-		name = "UGC 6vs6 Silver 2nd"
+		name = "UGC 6vs6 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10849] = {
-		name = "UGC 6vs6 Silver 3rd"
+		name = "UGC 6vs6 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10850] = {
@@ -14702,15 +14702,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10851] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10852] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10853] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10854] = {
@@ -14718,15 +14718,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10855] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10856] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10857] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10858] = {
@@ -14734,15 +14734,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10859] = {
-		name = "UGC 6vs6 Silver 1st"
+		name = "UGC 6vs6 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10860] = {
-		name = "UGC 6vs6 Silver 2nd"
+		name = "UGC 6vs6 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10861] = {
-		name = "UGC 6vs6 Silver 3rd"
+		name = "UGC 6vs6 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10862] = {
@@ -14750,15 +14750,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10863] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10864] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10865] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10866] = {
@@ -14766,15 +14766,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10867] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10868] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10869] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10870] = {
@@ -14782,15 +14782,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10871] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10872] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10873] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10874] = {
@@ -14798,15 +14798,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10875] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10876] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10877] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10878] = {
@@ -14814,15 +14814,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10879] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10880] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10881] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10882] = {
@@ -14830,15 +14830,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10883] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10884] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10885] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10886] = {
@@ -14846,15 +14846,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10887] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10888] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10889] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10890] = {
@@ -14862,35 +14862,35 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10891] = {
-		name = "Russian 12v12 1st"
+		name = "Russian Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10892] = {
-		name = "Russian 12v12 2nd"
+		name = "Russian Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10893] = {
-		name = "Russian 12v12 3rd"
+		name = "Russian Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10894] = {
-		name = "Russian 12v12 Participant"
+		name = "Russian Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10895] = {
-		name = "Russian 12v12 Staff"
+		name = "Russian Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[10896] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10897] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10898] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10899] = {
@@ -14898,15 +14898,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10900] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10901] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10902] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10903] = {
@@ -14914,15 +14914,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10904] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10905] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10906] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10907] = {
@@ -14930,15 +14930,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10908] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10909] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10910] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10911] = {
@@ -14946,100 +14946,100 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10912] = {
-		name = "RGL.gg Invite Champions No Restriction Sixes"
+		name = "RGL.gg - Invite Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10913] = {
-		name = "RGL.gg Invite 2nd No Restriction Sixes"
+		name = "RGL.gg - Invite 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10914] = {
-		name = "RGL.gg Invite 3rd No Restriction Sixes"
+		name = "RGL.gg - Invite 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10915] = {
-		name = "RGL.gg Invite Participant No Restriction Sixes"
+		name = "RGL.gg - Invite Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10916] = {
-		name = "RGL.gg Div-1 Champions No Restriction Sixes"
+		name = "RGL.gg - Div-1 Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10917] = {
-		name = "RGL.gg Div-1 2nd No Restriction Sixes"
+		name = "RGL.gg - Div-1 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10918] = {
-		name = "RGL.gg Div-1 3rd No Restriction Sixes"
+		name = "RGL.gg - Div-1 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10919] = {
-		name = "RGL.gg Div-1 Participant No Restriction Sixes"
+		name = "RGL.gg - Div-1 Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10920] = {
-		name = "RGL.gg Div-2 Champions No Restriction Sixes"
+		name = "RGL.gg - Div-2 Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10921] = {
-		name = "RGL.gg Div-2 2nd No Restriction Sixes"
+		name = "RGL.gg - Div-2 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10922] = {
-		name = "RGL.gg Div-2 3rd No Restriction Sixes"
+		name = "RGL.gg - Div-2 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10923] = {
-		name = "RGL.gg Div-2 Participant No Restriction Sixes"
+		name = "RGL.gg - Div-2 Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10924] = {
-		name = "RGL.gg Div-3 Champions No Restriction Sixes"
+		name = "RGL.gg - Div-3 Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10925] = {
-		name = "RGL.gg Div-3 2nd No Restriction Sixes"
+		name = "RGL.gg - Div-3 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10926] = {
-		name = "RGL.gg Div-3 3rd No Restriction Sixes"
+		name = "RGL.gg - Div-3 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10927] = {
-		name = "RGL.gg Div-3 Participant No Restriction Sixes"
+		name = "RGL.gg - Div-3 Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10928] = {
-		name = "RGL.gg Open Participant No Restriction Sixes"
+		name = "RGL.gg - Open Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10929] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10930] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10931] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10932] = {
@@ -15047,15 +15047,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10933] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10934] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10935] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10936] = {
@@ -15063,15 +15063,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10937] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10938] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10939] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10940] = {
@@ -15079,15 +15079,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10941] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10942] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10943] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10944] = {
@@ -15095,15 +15095,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10945] = {
-		name = "EBL 1st"
+		name = "EBL 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10946] = {
-		name = "EBL 2nd"
+		name = "EBL 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10947] = {
-		name = "EBL 3rd"
+		name = "EBL 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[10948] = {
@@ -15115,15 +15115,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10950] = {
-		name = "RGB 4 LAN 1st"
+		name = "RGB 4 LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10951] = {
-		name = "RGB 4 LAN 2nd"
+		name = "RGB 4 LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10952] = {
-		name = "RGB 4 LAN 3rd"
+		name = "RGB 4 LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10953] = {
@@ -15135,75 +15135,75 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10955] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10956] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10957] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10958] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10959] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10960] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10961] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10962] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10963] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10964] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10965] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10966] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[10967] = {
-		name = "ESL TF2 Monthly Challenge Final 1st"
+		name = "ESL TF2 Monthly Challenge Final 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10968] = {
-		name = "ESL TF2 Monthly Challenge Final 2nd"
+		name = "ESL TF2 Monthly Challenge Final 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10969] = {
-		name = "ESL TF2 Monthly Challenge Final 3rd"
+		name = "ESL TF2 Monthly Challenge Final 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10970] = {
-		name = "LAN Downunder 1st"
+		name = "LAN Downunder 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10971] = {
-		name = "LAN Downunder 2nd"
+		name = "LAN Downunder 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10972] = {
-		name = "LAN Downunder 3rd"
+		name = "LAN Downunder 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10973] = {
@@ -15211,19 +15211,19 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10974] = {
-		name = "BlapBash Backer '19"
+		name = "BlapBash Backer 2019"
 		type = CosmeticType.CommunityMedal
 	},
 	[10975] = {
-		name = "BlapBash Supporter '19"
+		name = "BlapBash Supporter 2019"
 		type = CosmeticType.CommunityMedal
 	},
 	[10976] = {
-		name = "BlapBash Benefactor '19"
+		name = "BlapBash Benefactor 2019"
 		type = CosmeticType.CommunityMedal
 	},
 	[10977] = {
-		name = "TF2Maps Ray of Sunshine '19"
+		name = "TF2Maps Ray of Sunshine 2019"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
@@ -15265,15 +15265,15 @@
 		paint = true
 	},
 	[10986] = {
-		name = "Ultimate Ultiduo 1st"
+		name = "Ultimate Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10987] = {
-		name = "Ultimate Ultiduo 2nd"
+		name = "Ultimate Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10988] = {
-		name = "Ultimate Ultiduo 3rd"
+		name = "Ultimate Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10989] = {
@@ -15285,15 +15285,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10991] = {
-		name = "NewbiDuo Cup 1st"
+		name = "NewbiDuo Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10992] = {
-		name = "NewbiDuo Cup 2nd"
+		name = "NewbiDuo Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10993] = {
-		name = "NewbiDuo Cup 3rd"
+		name = "NewbiDuo Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[10994] = {
@@ -15305,22 +15305,22 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[10996] = {
-		name = "TF2Maps 72hr Jam Summer Participant"
+		name = "TF2Maps 72hr TF2Jam Summer Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[10997] = {
-		name = "Moscow LAN 1st"
+		name = "Moscow LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10998] = {
-		name = "Moscow LAN 2nd"
+		name = "Moscow LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[10999] = {
-		name = "Moscow LAN 3rd"
+		name = "Moscow LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -15335,235 +15335,235 @@
 		paint = true
 	},
 	[11002] = {
-		name = "Fruit Mixes 12v12 High/Prem Gold"
+		name = "Fruit Mixes Highlander High/Prem Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11003] = {
-		name = "Fruit Mixes 12v12 High/Prem Silver"
+		name = "Fruit Mixes Highlander High/Prem Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11004] = {
-		name = "Fruit Mixes 12v12 High/Prem Bronze"
+		name = "Fruit Mixes Highlander High/Prem Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11005] = {
-		name = "Fruit Mixes 12v12 High/Prem Participant"
+		name = "Fruit Mixes Highlander High/Prem Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11006] = {
-		name = "Fruit Mixes 12v12 Staff"
+		name = "Fruit Mixes Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[11007] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11008] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11009] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11010] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11011] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11012] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11013] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11014] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11015] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11016] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11017] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11018] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11019] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11020] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11021] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11022] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11023] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11024] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11025] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11026] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11027] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11028] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11029] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11030] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11031] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11032] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11033] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11034] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11035] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11036] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11037] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11038] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11039] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11040] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11041] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11042] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11043] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11044] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11045] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11046] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11047] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11048] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11049] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11050] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11051] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11052] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11053] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11054] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11055] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11056] = {
-		name = "Insomnia 65 1st"
+		name = "Insomnia 65 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11057] = {
-		name = "Insomnia 65 2nd"
+		name = "Insomnia 65 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11058] = {
-		name = "Insomnia 65 3rd"
+		name = "Insomnia 65 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11059] = {
@@ -15575,17 +15575,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11061] = {
-		name = "Cap that Charity 1st"
+		name = "Cap that Charity 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11062] = {
-		name = "Cap that Charity 2nd"
+		name = "Cap that Charity 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11063] = {
-		name = "Cap that Charity 3rd"
+		name = "Cap that Charity 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -15612,31 +15612,31 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[11069] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11070] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11071] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11072] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11073] = {
-		name = "Respawn League APAC 4v4 1st"
+		name = "Respawn League APAC 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11074] = {
-		name = "Respawn League APAC 4v4 2nd"
+		name = "Respawn League APAC 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11075] = {
-		name = "Respawn League APAC 4v4 3rd"
+		name = "Respawn League APAC 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11076] = {
@@ -15644,31 +15644,31 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11077] = {
-		name = "Respawn League AUS/NZ 12v12 1st"
+		name = "Respawn League AUS/NZ Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11078] = {
-		name = "Respawn League AUS/NZ 12v12 2nd"
+		name = "Respawn League AUS/NZ Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11079] = {
-		name = "Respawn League AUS/NZ 12v12 3rd"
+		name = "Respawn League AUS/NZ Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11080] = {
-		name = "Respawn League AUS/NZ 12v12 Participant"
+		name = "Respawn League AUS/NZ Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11081] = {
-		name = "Brazil Fortress 6v6 Invite 1st"
+		name = "Brazil Fortress 6v6 Invite First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11082] = {
-		name = "Brazil Fortress 6v6 Invite 2nd"
+		name = "Brazil Fortress 6v6 Invite Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11083] = {
-		name = "Brazil Fortress 6v6 Invite 3rd"
+		name = "Brazil Fortress 6v6 Invite Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11084] = {
@@ -15676,47 +15676,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11085] = {
-		name = "Brazil Fortress 6v6 Div 1 1st"
+		name = "Brazil Fortress 6v6 Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11086] = {
-		name = "Brazil Fortress 6v6 Div 1 2nd"
+		name = "Brazil Fortress 6v6 Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11087] = {
-		name = "Brazil Fortress 6v6 Div 1 3rd"
+		name = "Brazil Fortress 6v6 Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11088] = {
-		name = "Brazil Fortress 6v6 Div 1 Participant"
+		name = "Brazil Fortress 6v6 Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11089] = {
-		name = "Brazil Fortress 6v6 Div 2 1st"
+		name = "Brazil Fortress 6v6 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11090] = {
-		name = "Brazil Fortress 6v6 Div 2 2nd"
+		name = "Brazil Fortress 6v6 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11091] = {
-		name = "Brazil Fortress 6v6 Div 2 3rd"
+		name = "Brazil Fortress 6v6 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11092] = {
-		name = "Brazil Fortress 6v6 Div 2 Participant"
+		name = "Brazil Fortress 6v6 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11093] = {
-		name = "Brazil Fortress 6v6 Academy 1st"
+		name = "Brazil Fortress 6v6 Academy First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11094] = {
-		name = "Brazil Fortress 6v6 Academy 2nd"
+		name = "Brazil Fortress 6v6 Academy Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11095] = {
-		name = "Brazil Fortress 6v6 Academy 3rd"
+		name = "Brazil Fortress 6v6 Academy Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11096] = {
@@ -15732,67 +15732,67 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11099] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 1st"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11100] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 2nd"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11101] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 3rd"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11102] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 Participant"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11103] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 1st"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11104] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 2nd"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11105] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 3rd"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11106] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 Participant"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11107] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 1 1st"
+		name = "Brazil Fortress Jump Cup Demoman Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11108] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 1 2nd"
+		name = "Brazil Fortress Jump Cup Demoman Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11109] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 1 3rd"
+		name = "Brazil Fortress Jump Cup Demoman Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11110] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 1 Participant"
+		name = "Brazil Fortress Jump Cup Demoman Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11111] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 2 1st"
+		name = "Brazil Fortress Jump Cup Demoman Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11112] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 2 2nd"
+		name = "Brazil Fortress Jump Cup Demoman Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11113] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 2 3rd"
+		name = "Brazil Fortress Jump Cup Demoman Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11114] = {
-		name = "Brazil Fortress Jump Cup Demoman Div 2 Participant"
+		name = "Brazil Fortress Jump Cup Demoman Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11115] = {
@@ -15800,15 +15800,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11116] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11117] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11118] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11119] = {
@@ -15816,15 +15816,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11120] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11121] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11122] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11123] = {
@@ -15832,15 +15832,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11124] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11125] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11126] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11127] = {
@@ -15848,15 +15848,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11128] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11129] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11130] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11131] = {
@@ -15864,15 +15864,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11132] = {
-		name = "EBL Invite 1st"
+		name = "EBL Invite 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11133] = {
-		name = "EBL Invite 2nd"
+		name = "EBL Invite 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11134] = {
-		name = "EBL Invite 3rd"
+		name = "EBL Invite 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11135] = {
@@ -15884,35 +15884,35 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11137] = {
-		name = "Russian 12v12 1st"
+		name = "Russian Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11138] = {
-		name = "Russian 12v12 2nd"
+		name = "Russian Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11139] = {
-		name = "Russian 12v12 3rd"
+		name = "Russian Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11140] = {
-		name = "Russian 12v12 Participant"
+		name = "Russian Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11141] = {
-		name = "Russian 12v12 Staff"
+		name = "Russian Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[11142] = {
-		name = "Late Night TF2 Cup Gold"
+		name = "Late Night TF2 Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11143] = {
-		name = "Late Night TF2 Cup Silver"
+		name = "Late Night TF2 Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11144] = {
-		name = "Late Night TF2 Cup Bronze"
+		name = "Late Night TF2 Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11145] = {
@@ -15924,15 +15924,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11147] = {
-		name = "EBL Main 1st"
+		name = "EBL Main 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11148] = {
-		name = "EBL Main 2nd"
+		name = "EBL Main 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11149] = {
-		name = "EBL Main 3rd"
+		name = "EBL Main 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11150] = {
@@ -15940,15 +15940,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11151] = {
-		name = "EBL Open 1st"
+		name = "EBL Open 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11152] = {
-		name = "EBL Open 2nd"
+		name = "EBL Open 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11153] = {
-		name = "EBL Open 3rd"
+		name = "EBL Open 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11154] = {
@@ -15960,99 +15960,99 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11171] = {
-		name = "LBTF2 12v12 Access 1st"
+		name = "LBTF2 Highlander Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11172] = {
-		name = "LBTF2 12v12 Access 2nd"
+		name = "LBTF2 Highlander Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11173] = {
-		name = "LBTF2 12v12 Access 3rd"
+		name = "LBTF2 Highlander Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11174] = {
-		name = "LBTF2 12v12 Access Participant"
+		name = "LBTF2 Highlander Access Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11175] = {
-		name = "LBTF2 12v12 Principal 1st"
+		name = "LBTF2 Highlander Principal 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11176] = {
-		name = "LBTF2 12v12 Principal 2nd"
+		name = "LBTF2 Highlander Principal 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11177] = {
-		name = "LBTF2 12v12 Principal 3rd"
+		name = "LBTF2 Highlander Principal 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11178] = {
-		name = "LBTF2 12v12 Principal Participant"
+		name = "LBTF2 Highlander Principal Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11179] = {
-		name = "LBTF2 12v12 Open 1st"
+		name = "LBTF2 Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11180] = {
-		name = "LBTF2 12v12 Open 2nd"
+		name = "LBTF2 Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11181] = {
-		name = "LBTF2 12v12 Open 3rd"
+		name = "LBTF2 Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11182] = {
-		name = "LBTF2 12v12 Open Participant"
+		name = "LBTF2 Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11183] = {
-		name = "South American Vanilla Fortress 12v12 Invite 1st"
+		name = "South American Vanilla Fortress Highlander Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11184] = {
-		name = "South American Vanilla Fortress 12v12 Invite 2nd"
+		name = "South American Vanilla Fortress Highlander Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11185] = {
-		name = "South American Vanilla Fortress 12v12 Invite 3rd"
+		name = "South American Vanilla Fortress Highlander Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11186] = {
-		name = "South American Vanilla Fortress 12v12 Invite Participant"
+		name = "South American Vanilla Fortress Highlander Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11187] = {
-		name = "South American Vanilla Fortress 12v12 Open 1st"
+		name = "South American Vanilla Fortress Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11188] = {
-		name = "South American Vanilla Fortress 12v12 Open 2nd"
+		name = "South American Vanilla Fortress Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11189] = {
-		name = "South American Vanilla Fortress 12v12 Open 3rd"
+		name = "South American Vanilla Fortress Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11190] = {
-		name = "South American Vanilla Fortress 12v12 Open Participant"
+		name = "South American Vanilla Fortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11191] = {
-		name = "South American Vanilla Fortress 12v12 Supporter"
+		name = "South American Vanilla Fortress Highlander Supporter"
 		type = CosmeticType.TournamentMedal
 	},
 	[11192] = {
-		name = "South American Vanilla Fortress 6v6 Invite 1st"
+		name = "South American Vanilla Fortress 6v6 Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11193] = {
-		name = "South American Vanilla Fortress 6v6 Invite 2nd"
+		name = "South American Vanilla Fortress 6v6 Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11194] = {
-		name = "South American Vanilla Fortress 6v6 Invite 3rd"
+		name = "South American Vanilla Fortress 6v6 Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11195] = {
@@ -16060,15 +16060,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11196] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 1st"
+		name = "South American Vanilla Fortress 6v6 Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11197] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 2nd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11198] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 3rd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11199] = {
@@ -16076,15 +16076,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11200] = {
-		name = "South American Vanilla Fortress 6v6 Open 1st"
+		name = "South American Vanilla Fortress 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11201] = {
-		name = "South American Vanilla Fortress 6v6 Open 2nd"
+		name = "South American Vanilla Fortress 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11202] = {
-		name = "South American Vanilla Fortress 6v6 Open 3rd"
+		name = "South American Vanilla Fortress 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11203] = {
@@ -16096,259 +16096,259 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11205] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11206] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11207] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11208] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11209] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11210] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11211] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11212] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11213] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11214] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11215] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11216] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11217] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11218] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11219] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11220] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11221] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11222] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11223] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11224] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11225] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11226] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11227] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11228] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11229] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11230] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11231] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11232] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11233] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11234] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11235] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11236] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11237] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11238] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11239] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11240] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11241] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11242] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11243] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11244] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11245] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11246] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11247] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11248] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11249] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11250] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11251] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11252] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11253] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11254] = {
-		name = "PURE League Premier Div 1st"
+		name = "PURE League Premier Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11255] = {
-		name = "PURE League Premier Div 2nd"
+		name = "PURE League Premier Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11256] = {
-		name = "PURE League Premier Div 3rd"
+		name = "PURE League Premier Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11257] = {
-		name = "PURE League Premier Div Participant"
+		name = "PURE League Premier Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11258] = {
-		name = "PURE League Intermediate Div 1st"
+		name = "PURE League Intermediate Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11259] = {
-		name = "PURE League Intermediate Div 2nd"
+		name = "PURE League Intermediate Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11260] = {
-		name = "PURE League Intermediate Div 3rd"
+		name = "PURE League Intermediate Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11261] = {
-		name = "PURE League Intermediate Div Participant"
+		name = "PURE League Intermediate Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11262] = {
-		name = "PURE League Open Div 1st"
+		name = "PURE League Open Division 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11263] = {
-		name = "PURE League Open Div 2nd"
+		name = "PURE League Open Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11264] = {
-		name = "PURE League Open Div 3rd"
+		name = "PURE League Open Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11265] = {
-		name = "PURE League Open Div Participant"
+		name = "PURE League Open Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11266] = {
-		name = "Asia BBall Cup 1st"
+		name = "Asia BBall Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11267] = {
-		name = "Asia BBall Cup 2nd"
+		name = "Asia BBall Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11268] = {
-		name = "Asia BBall Cup 3rd"
+		name = "Asia BBall Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11269] = {
@@ -16356,567 +16356,567 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11270] = {
-		name = "EU.RGL.gg Invite Champions"
+		name = "EU.RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11271] = {
-		name = "EU.RGL.gg Invite 2nd"
+		name = "EU.RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11272] = {
-		name = "EU.RGL.gg Invite 3rd"
+		name = "EU.RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11273] = {
-		name = "EU.RGL.gg Invite Participant"
+		name = "EU.RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11274] = {
-		name = "EU.RGL.gg Div1 Champions"
+		name = "EU.RGL.gg - Div1 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11275] = {
-		name = "EU.RGL.gg Div1 2nd"
+		name = "EU.RGL.gg - Div1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11276] = {
-		name = "EU.RGL.gg Div1 3rd"
+		name = "EU.RGL.gg - Div1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11277] = {
-		name = "EU.RGL.gg Div1 Participant"
+		name = "EU.RGL.gg - Div1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11278] = {
-		name = "EU.RGL.gg Div2 Champions"
+		name = "EU.RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11279] = {
-		name = "EU.RGL.gg Div2 2nd"
+		name = "EU.RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11280] = {
-		name = "EU.RGL.gg Div2 3rd"
+		name = "EU.RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11281] = {
-		name = "EU.RGL.gg Div2 Participant"
+		name = "EU.RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11282] = {
-		name = "EU.RGL.gg Open Participant"
+		name = "EU.RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11283] = {
-		name = "EU.RGL.gg Invite Champions"
+		name = "EU.RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11284] = {
-		name = "EU.RGL.gg Invite 2nd"
+		name = "EU.RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11285] = {
-		name = "EU.RGL.gg Invite 3rd"
+		name = "EU.RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11286] = {
-		name = "EU.RGL.gg Invite Participant"
+		name = "EU.RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11287] = {
-		name = "EU.RGL.gg Div1 Champions"
+		name = "EU.RGL.gg - Div1 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11288] = {
-		name = "EU.RGL.gg Div1 2nd"
+		name = "EU.RGL.gg - Div1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11289] = {
-		name = "EU.RGL.gg Div1 3rd"
+		name = "EU.RGL.gg - Div1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11290] = {
-		name = "EU.RGL.gg Div1 Participant"
+		name = "EU.RGL.gg - Div1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11291] = {
-		name = "EU.RGL.gg Div2 Champions"
+		name = "EU.RGL.gg - Div2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11292] = {
-		name = "EU.RGL.gg Div2 2nd"
+		name = "EU.RGL.gg - Div2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11293] = {
-		name = "EU.RGL.gg Div2 3rd"
+		name = "EU.RGL.gg - Div2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11294] = {
-		name = "EU.RGL.gg Div2 Participant"
+		name = "EU.RGL.gg - Div2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11295] = {
-		name = "EU.RGL.gg Div3 Champions"
+		name = "EU.RGL.gg - Div3 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11296] = {
-		name = "EU.RGL.gg Div3 2nd"
+		name = "EU.RGL.gg - Div3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11297] = {
-		name = "EU.RGL.gg Div3 3rd"
+		name = "EU.RGL.gg - Div3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11298] = {
-		name = "EU.RGL.gg Div3 Participant"
+		name = "EU.RGL.gg - Div3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11299] = {
-		name = "EU.RGL.gg Open Participant"
+		name = "EU.RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11300] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11301] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11302] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11303] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11304] = {
-		name = "RGL.gg Advanced Champions"
+		name = "RGL.gg - Advanced Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11305] = {
-		name = "RGL.gg Advanced 2nd"
+		name = "RGL.gg - Advanced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11306] = {
-		name = "RGL.gg Advanced 3rd"
+		name = "RGL.gg - Advanced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11307] = {
-		name = "RGL.gg Advanced Participant"
+		name = "RGL.gg - Advanced Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11308] = {
-		name = "RGL.gg Main Champions"
+		name = "RGL.gg - Main Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11309] = {
-		name = "RGL.gg Main 2nd"
+		name = "RGL.gg - Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11310] = {
-		name = "RGL.gg Main 3rd"
+		name = "RGL.gg - Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11311] = {
-		name = "RGL.gg Main Participant"
+		name = "RGL.gg - Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11312] = {
-		name = "RGL.gg IM Champions"
+		name = "RGL.gg - IM Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11313] = {
-		name = "RGL.gg IM 2nd"
+		name = "RGL.gg - IM 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11314] = {
-		name = "RGL.gg IM 3rd"
+		name = "RGL.gg - IM 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11315] = {
-		name = "RGL.gg IM Participant"
+		name = "RGL.gg - IM Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11316] = {
-		name = "RGL.gg Open Participant"
+		name = "RGL.gg - Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11317] = {
-		name = "RGL.gg Div1 Champions AU"
+		name = "RGL.gg - Div1 Champions AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11318] = {
-		name = "RGL.gg Div1 2nd AU"
+		name = "RGL.gg - Div1 2nd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11319] = {
-		name = "RGL.gg Div1 3rd AU"
+		name = "RGL.gg - Div1 3rd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11320] = {
-		name = "RGL.gg Div1 Participant AU"
+		name = "RGL.gg - Div1 Participant AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11321] = {
-		name = "RGL.gg Div2 Champions AU"
+		name = "RGL.gg - Div2 Champions AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11322] = {
-		name = "RGL.gg Div2 2nd AU"
+		name = "RGL.gg - Div2 2nd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11323] = {
-		name = "RGL.gg Div2 3rd AU"
+		name = "RGL.gg - Div2 3rd Place AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11324] = {
-		name = "RGL.gg Div2 Participant AU"
+		name = "RGL.gg - Div2 Participant AU"
 		type = CosmeticType.TournamentMedal
 	},
 	[11325] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11326] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11327] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11328] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11329] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11330] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11331] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11332] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11333] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11334] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11335] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11336] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11337] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11338] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11339] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11340] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11341] = {
-		name = "RGL.gg Open Participant 12v12"
+		name = "RGL.gg - Open Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11342] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11343] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11344] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11345] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11346] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11347] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11348] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11349] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11350] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11351] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11352] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11353] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11354] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11355] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11356] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11357] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11358] = {
-		name = "RGL.gg Open Participant 12v12"
+		name = "RGL.gg - Open Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11359] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11360] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11361] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11362] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11363] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11364] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11365] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11366] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11367] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11368] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11369] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11370] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11371] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11372] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11373] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11374] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11375] = {
-		name = "RGL.gg Open Participant 6v6"
+		name = "RGL.gg - Open Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11376] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11377] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11378] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11379] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11380] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11381] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11382] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11383] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11384] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11385] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11386] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11387] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11388] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11389] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11390] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11391] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11392] = {
-		name = "RGL.gg Open Participant 6v6"
+		name = "RGL.gg - Open Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11393] = {
-		name = "RGL.gg 12v12 Experimental Maps Cup"
+		name = "RGL.gg Highlander Experimental Maps Cup"
 		type = CosmeticType.TournamentMedal
 	},
 	[11394] = {
@@ -16928,11 +16928,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11396] = {
-		name = "NHBL Finals 2nd"
+		name = "NHBL Finals 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11397] = {
-		name = "NHBL Finals 3rd"
+		name = "NHBL Finals 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11398] = {
@@ -16940,15 +16940,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11399] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11400] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11401] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11402] = {
@@ -16956,15 +16956,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11403] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11404] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11405] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11406] = {
@@ -16972,15 +16972,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11407] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11408] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11409] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11410] = {
@@ -16988,15 +16988,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11411] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11412] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11413] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11414] = {
@@ -17004,15 +17004,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11415] = {
-		name = "United Dodgeball League Gold"
+		name = "United Dodgeball League Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11416] = {
-		name = "United Dodgeball League Silver"
+		name = "United Dodgeball League Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11417] = {
-		name = "United Dodgeball League Bronze"
+		name = "United Dodgeball League Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11418] = {
@@ -17024,15 +17024,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11420] = {
-		name = "Rasslabyxa Cup 1st"
+		name = "Rasslabyxa Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11421] = {
-		name = "Rasslabyxa Cup 2nd"
+		name = "Rasslabyxa Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11422] = {
-		name = "Rasslabyxa Cup 3rd"
+		name = "Rasslabyxa Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11423] = {
@@ -17044,15 +17044,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11425] = {
-		name = "Classic MGE Cup 1st"
+		name = "Classic MGE Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11426] = {
-		name = "Classic MGE Cup 2nd"
+		name = "Classic MGE Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11427] = {
-		name = "Classic MGE Cup 3rd"
+		name = "Classic MGE Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11428] = {
@@ -17064,33 +17064,33 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11430] = {
-		name = "Mashed Mediocrity Potato '20"
+		name = "Mashed Mediocrity Potato 2020"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[11431] = {
-		name = "Mashed Mediocrity Super Potato '20"
+		name = "Mashed Mediocrity Super Potato 2020"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[11432] = {
-		name = "Mashed Mediocrity Memer Motherboard '20"
+		name = "Mashed Mediocrity Memer Motherboard 2020"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[11433] = {
-		name = "Brazil Fortress 6v6 Invite 1st"
+		name = "Brazil Fortress 6v6 Invite First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11434] = {
-		name = "Brazil Fortress 6v6 Invite 2nd"
+		name = "Brazil Fortress 6v6 Invite Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11435] = {
-		name = "Brazil Fortress 6v6 Invite 3rd"
+		name = "Brazil Fortress 6v6 Invite Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11436] = {
@@ -17098,47 +17098,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11437] = {
-		name = "Brazil Fortress 6v6 Div 1 1st"
+		name = "Brazil Fortress 6v6 Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11438] = {
-		name = "Brazil Fortress 6v6 Div 1 2nd"
+		name = "Brazil Fortress 6v6 Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11439] = {
-		name = "Brazil Fortress 6v6 Div 1 3rd"
+		name = "Brazil Fortress 6v6 Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11440] = {
-		name = "Brazil Fortress 6v6 Div 1 Participant"
+		name = "Brazil Fortress 6v6 Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11441] = {
-		name = "Brazil Fortress 6v6 Div 2 1st"
+		name = "Brazil Fortress 6v6 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11442] = {
-		name = "Brazil Fortress 6v6 Div 2 2nd"
+		name = "Brazil Fortress 6v6 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11443] = {
-		name = "Brazil Fortress 6v6 Div 2 3rd"
+		name = "Brazil Fortress 6v6 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11444] = {
-		name = "Brazil Fortress 6v6 Div 2 Participant"
+		name = "Brazil Fortress 6v6 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11445] = {
-		name = "Brazil Fortress 6v6 Academy 1st"
+		name = "Brazil Fortress 6v6 Academy First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11446] = {
-		name = "Brazil Fortress 6v6 Academy 2nd"
+		name = "Brazil Fortress 6v6 Academy Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11447] = {
-		name = "Brazil Fortress 6v6 Academy 3rd"
+		name = "Brazil Fortress 6v6 Academy Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11448] = {
@@ -17154,51 +17154,51 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11451] = {
-		name = "Brazil Fortress Halloween Scary Group 1st"
+		name = "The Brazil Fortress Halloween - Scary Group First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11452] = {
-		name = "Brazil Fortress Halloween Scary Group 2nd"
+		name = "The Brazil Fortress Halloween - Scary Group Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11453] = {
-		name = "Brazil Fortress Halloween Scary Group 3rd"
+		name = "The Brazil Fortress Halloween - Scary Group Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11454] = {
-		name = "Brazil Fortress Halloween Scary Group Participant"
+		name = "The Brazil Fortress Halloween - Scary Group Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11455] = {
-		name = "Brazil Fortress Halloween Haunted Group Winner"
+		name = "The Brazil Fortress Halloween - Haunted Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[11456] = {
-		name = "Brazil Fortress Halloween Haunted Group Participant"
+		name = "The Brazil Fortress Halloween - Haunted Group Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11457] = {
-		name = "Brazil Fortress Halloween Ghastly Group Winner"
+		name = "The Brazil Fortress Halloween - Ghastly Group Winner"
 		type = CosmeticType.TournamentMedal
 	},
 	[11458] = {
-		name = "Brazil Fortress Halloween Ghastly Group Participant"
+		name = "The Brazil Fortress Halloween - Ghastly Group Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11459] = {
-		name = "Brazil Fortress Halloween Helper"
+		name = "The Brazil Fortress Halloween - Helper"
 		type = CosmeticType.TournamentMedal
 	},
 	[11460] = {
-		name = "EBL Invite 1st"
+		name = "EBL Invite 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11461] = {
-		name = "EBL Invite 2nd"
+		name = "EBL Invite 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11462] = {
-		name = "EBL Invite 3rd"
+		name = "EBL Invite 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11463] = {
@@ -17206,15 +17206,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11464] = {
-		name = "EBL Main 1st"
+		name = "EBL Main 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11465] = {
-		name = "EBL Main 2nd"
+		name = "EBL Main 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11466] = {
-		name = "EBL Main 3rd"
+		name = "EBL Main 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11467] = {
@@ -17222,15 +17222,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11468] = {
-		name = "EBL Open 1st"
+		name = "EBL Open 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11469] = {
-		name = "EBL Open 2nd"
+		name = "EBL Open 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11470] = {
-		name = "EBL Open 3rd"
+		name = "EBL Open 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11471] = {
@@ -17238,243 +17238,243 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11472] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11473] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11474] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11475] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11476] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11477] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11478] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11479] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11480] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11481] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11482] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11483] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11484] = {
-		name = "ETF2L 6v6 Div 3 Gold"
+		name = "ETF2L 6v6 Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11485] = {
-		name = "ETF2L 6v6 Div 3 Silver"
+		name = "ETF2L 6v6 Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11486] = {
-		name = "ETF2L 6v6 Div 3 Bronze"
+		name = "ETF2L 6v6 Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11487] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11488] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11489] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11490] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11491] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11492] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11493] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11494] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11495] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11496] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11497] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11498] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11499] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11500] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11501] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11502] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11503] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11504] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11505] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11506] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11507] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11508] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11509] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11510] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11511] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11512] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11513] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11514] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11515] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11516] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11517] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11518] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11519] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11520] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11521] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11522] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11523] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11524] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11525] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11526] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11527] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11528] = {
-		name = "ETF2L 12v12 Open 3 Gold"
+		name = "ETF2L Highlander Open 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11529] = {
-		name = "ETF2L 12v12 Open 3 Silver"
+		name = "ETF2L Highlander Open 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11530] = {
-		name = "ETF2L 12v12 Open 3 Bronze"
+		name = "ETF2L Highlander Open 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11531] = {
-		name = "ETF2L 12v12 Open 3 Participation"
+		name = "ETF2L Highlander Open 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11532] = {
@@ -17482,91 +17482,91 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11533] = {
-		name = "Respawn League AUS/NZ 12v12 1st"
+		name = "Respawn League AUS/NZ Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11534] = {
-		name = "Respawn League AUS/NZ 12v12 2nd"
+		name = "Respawn League AUS/NZ Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11535] = {
-		name = "Respawn League AUS/NZ 12v12 3rd"
+		name = "Respawn League AUS/NZ Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11536] = {
-		name = "Respawn League AUS/NZ 12v12 Participant"
+		name = "Respawn League AUS/NZ Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11537] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11538] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11539] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11540] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11541] = {
-		name = "Respawn League AUS/NZ 12v12 Main 1st"
+		name = "Respawn League AUS/NZ Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11542] = {
-		name = "Respawn League AUS/NZ 12v12 Main 2nd"
+		name = "Respawn League AUS/NZ Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11543] = {
-		name = "Respawn League AUS/NZ 12v12 Main 3rd"
+		name = "Respawn League AUS/NZ Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11544] = {
-		name = "Respawn League AUS/NZ 12v12 Main Participant"
+		name = "Respawn League AUS/NZ Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11545] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11546] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11547] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11548] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11549] = {
-		name = "HLMixes Showdown 1st"
+		name = "HLMixes Showdown 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11550] = {
-		name = "HLMixes Showdown Finalist"
+		name = "HLMixes Showdown Finalist Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11551] = {
-		name = "HLMixes Showdown Participant"
+		name = "HLMixes Showdown Participant Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11552] = {
-		name = "Asia BBall Cup Invite 1st"
+		name = "Asia BBall Cup Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11553] = {
-		name = "Asia BBall Cup Invite 2nd"
+		name = "Asia BBall Cup Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11554] = {
-		name = "Asia BBall Cup Invite 3rd"
+		name = "Asia BBall Cup Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11555] = {
@@ -17574,31 +17574,31 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11556] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 1st"
+		name = "Respawn League AUS/NZ Highlander Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11557] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 2nd"
+		name = "Respawn League AUS/NZ Highlander Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11558] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 3rd"
+		name = "Respawn League AUS/NZ Highlander Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11559] = {
-		name = "Respawn League AUS/NZ 12v12 Premier Participant"
+		name = "Respawn League AUS/NZ Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11560] = {
-		name = "Asia BBall Cup Main 1st"
+		name = "Asia BBall Cup Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11561] = {
-		name = "Asia BBall Cup Main 2nd"
+		name = "Asia BBall Cup Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11562] = {
-		name = "Asia BBall Cup Main 3rd"
+		name = "Asia BBall Cup Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11563] = {
@@ -17606,63 +17606,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11564] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11565] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11566] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11567] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11568] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11569] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11570] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11571] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11572] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11573] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11574] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11575] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11576] = {
-		name = "Pugiklander Experienced 1st"
+		name = "Pugiklander Experienced 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11577] = {
-		name = "Pugiklander Experienced 2nd"
+		name = "Pugiklander Experienced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11578] = {
-		name = "Pugiklander Experienced 3rd"
+		name = "Pugiklander Experienced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11579] = {
@@ -17670,15 +17670,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11580] = {
-		name = "Pugiklander Beginner 1st"
+		name = "Pugiklander Beginner 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11581] = {
-		name = "Pugiklander Beginner 2nd"
+		name = "Pugiklander Beginner 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11582] = {
-		name = "Pugiklander Beginner 3rd"
+		name = "Pugiklander Beginner 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11583] = {
@@ -17690,15 +17690,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11585] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11586] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11587] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11588] = {
@@ -17706,15 +17706,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11589] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11590] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11591] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11592] = {
@@ -17722,15 +17722,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11593] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11594] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11595] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11596] = {
@@ -17738,15 +17738,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11597] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11598] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11599] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11600] = {
@@ -17754,15 +17754,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11601] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11602] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11603] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11604] = {
@@ -17770,15 +17770,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11605] = {
-		name = "Pugiklander Premier 1st"
+		name = "Pugiklander Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11606] = {
-		name = "Pugiklander Premier 2nd"
+		name = "Pugiklander Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11607] = {
-		name = "Pugiklander Premier 3rd"
+		name = "Pugiklander Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11608] = {
@@ -17790,20 +17790,20 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11610] = {
-		name = "Replica Titanium Tank '20"
+		name = "Replica Titanium Tank 2020"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[11613] = {
-		name = "MidNight Moon 1st"
+		name = "MidNight Moon 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11614] = {
-		name = "MidNight Moon 2nd"
+		name = "MidNight Moon 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11615] = {
-		name = "MidNight Moon 3rd"
+		name = "MidNight Moon 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11616] = {
@@ -17815,15 +17815,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11618] = {
-		name = "CLTF2 No Restriction 6v6 Tournament Gold"
+		name = "CLTF2 No Restriction 6v6 Tournament Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11619] = {
-		name = "CLTF2 No Restriction 6v6 Tournament Silver"
+		name = "CLTF2 No Restriction 6v6 Tournament Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11620] = {
-		name = "CLTF2 No Restriction 6v6 Tournament Bronze"
+		name = "CLTF2 No Restriction 6v6 Tournament Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11621] = {
@@ -17835,15 +17835,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11623] = {
-		name = "Brazil Fortress 6v6 Invite 1st"
+		name = "Brazil Fortress 6v6 Invite First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11624] = {
-		name = "Brazil Fortress 6v6 Invite 2nd"
+		name = "Brazil Fortress 6v6 Invite Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11625] = {
-		name = "Brazil Fortress 6v6 Invite 3rd"
+		name = "Brazil Fortress 6v6 Invite Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11626] = {
@@ -17851,47 +17851,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11627] = {
-		name = "Brazil Fortress 6v6 Div 1 1st"
+		name = "Brazil Fortress 6v6 Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11628] = {
-		name = "Brazil Fortress 6v6 Div 1 2nd"
+		name = "Brazil Fortress 6v6 Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11629] = {
-		name = "Brazil Fortress 6v6 Div 1 3rd"
+		name = "Brazil Fortress 6v6 Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11630] = {
-		name = "Brazil Fortress 6v6 Div 1 Participant"
+		name = "Brazil Fortress 6v6 Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11631] = {
-		name = "Brazil Fortress 6v6 Div 2 1st"
+		name = "Brazil Fortress 6v6 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11632] = {
-		name = "Brazil Fortress 6v6 Div 2 2nd"
+		name = "Brazil Fortress 6v6 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11633] = {
-		name = "Brazil Fortress 6v6 Div 2 3rd"
+		name = "Brazil Fortress 6v6 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11634] = {
-		name = "Brazil Fortress 6v6 Div 2 Participant"
+		name = "Brazil Fortress 6v6 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11635] = {
-		name = "Brazil Fortress 6v6 Academy 1st"
+		name = "Brazil Fortress 6v6 Academy First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11636] = {
-		name = "Brazil Fortress 6v6 Academy 2nd"
+		name = "Brazil Fortress 6v6 Academy Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11637] = {
-		name = "Brazil Fortress 6v6 Academy 3rd"
+		name = "Brazil Fortress 6v6 Academy Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11638] = {
@@ -17907,47 +17907,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11641] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 1st"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11642] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 2nd"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11643] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 3rd"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11644] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 1 Participant"
+		name = "Brazil Fortress Jump Cup Soldier Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11645] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 1st"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11646] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 2nd"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11647] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 3rd"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11648] = {
-		name = "Brazil Fortress Jump Cup Soldier Div 2 Participant"
+		name = "Brazil Fortress Jump Cup Soldier Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11649] = {
-		name = "Brazil Fortress Jump Cup Demoman 1st"
+		name = "Brazil Fortress Jump Cup Demoman First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11650] = {
-		name = "Brazil Fortress Jump Cup Demoman 2nd"
+		name = "Brazil Fortress Jump Cup Demoman Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11651] = {
-		name = "Brazil Fortress Jump Cup Demoman 3rd"
+		name = "Brazil Fortress Jump Cup Demoman Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11652] = {
@@ -17955,15 +17955,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11653] = {
-		name = "Brazil Fortress Jump Cup Speed Run Soldier 1st"
+		name = "Brazil Fortress Jump Cup Speed Run Soldier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11654] = {
-		name = "Brazil Fortress Jump Cup Speed Run Soldier 2nd"
+		name = "Brazil Fortress Jump Cup Speed Run Soldier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11655] = {
-		name = "Brazil Fortress Jump Cup Speed Run Soldier 3rd"
+		name = "Brazil Fortress Jump Cup Speed Run Soldier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11656] = {
@@ -17971,15 +17971,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11657] = {
-		name = "Brazil Fortress Jump Cup Speed Run Demoman 1st"
+		name = "Brazil Fortress Jump Cup Speed Run Demoman First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11658] = {
-		name = "Brazil Fortress Jump Cup Speed Run Demoman 2nd"
+		name = "Brazil Fortress Jump Cup Speed Run Demoman Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11659] = {
-		name = "Brazil Fortress Jump Cup Speed Run Demoman 3rd"
+		name = "Brazil Fortress Jump Cup Speed Run Demoman Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11660] = {
@@ -17991,663 +17991,663 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11667] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11668] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11669] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11670] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11671] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11672] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11673] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11674] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11675] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11676] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11677] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11678] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11679] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11680] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11681] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11682] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11683] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11684] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11685] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11686] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11687] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11688] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11689] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11690] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11691] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11692] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11693] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11694] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11695] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11696] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11697] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11698] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11699] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11700] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11701] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11702] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11703] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11704] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11705] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11706] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11707] = {
-		name = "RGL.gg Div-1 Champions 6v6"
+		name = "RGL.gg - Div-1 Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11708] = {
-		name = "RGL.gg Div-1 2nd 6v6"
+		name = "RGL.gg - Div-1 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11709] = {
-		name = "RGL.gg Div-1 3rd 6v6"
+		name = "RGL.gg - Div-1 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11710] = {
-		name = "RGL.gg Div-1 Participant 6v6"
+		name = "RGL.gg - Div-1 Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11711] = {
-		name = "RGL.gg Div-2 Champions 6v6"
+		name = "RGL.gg - Div-2 Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11712] = {
-		name = "RGL.gg Div-2 2nd 6v6"
+		name = "RGL.gg - Div-2 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11713] = {
-		name = "RGL.gg Div-2 3rd 6v6"
+		name = "RGL.gg - Div-2 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11714] = {
-		name = "RGL.gg Div-2 Participant 6v6"
+		name = "RGL.gg - Div-2 Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11715] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11716] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11717] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11718] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11719] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11720] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11721] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11722] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11723] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11724] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11725] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11726] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11727] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11728] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11729] = {
-		name = "RGL.gg Div-1 Champions 6v6"
+		name = "RGL.gg - Div-1 Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11730] = {
-		name = "RGL.gg Div-1 2nd 6v6"
+		name = "RGL.gg - Div-1 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11731] = {
-		name = "RGL.gg Div-1 3rd 6v6"
+		name = "RGL.gg - Div-1 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11732] = {
-		name = "RGL.gg Div-1 Participant 6v6"
+		name = "RGL.gg - Div-1 Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11733] = {
-		name = "RGL.gg Div-2 Champions 6v6"
+		name = "RGL.gg - Div-2 Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11734] = {
-		name = "RGL.gg Div-2 2nd 6v6"
+		name = "RGL.gg - Div-2 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11735] = {
-		name = "RGL.gg Div-2 3rd 6v6"
+		name = "RGL.gg - Div-2 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11736] = {
-		name = "RGL.gg Div-2 Participant 6v6"
+		name = "RGL.gg - Div-2 Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11737] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11738] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11739] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11740] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11741] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11742] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11743] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11744] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11745] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11746] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11747] = {
-		name = "RGL.gg Invite Champions No Restriction Sixes"
+		name = "RGL.gg - Invite Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11748] = {
-		name = "RGL.gg Invite 2nd No Restriction Sixes"
+		name = "RGL.gg - Invite 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11749] = {
-		name = "RGL.gg Invite 3rd No Restriction Sixes"
+		name = "RGL.gg - Invite 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11750] = {
-		name = "RGL.gg Invite Participant No Restriction Sixes"
+		name = "RGL.gg - Invite Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11751] = {
-		name = "RGL.gg Advanced Champions No Restriction Sixes"
+		name = "RGL.gg - Advanced Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11752] = {
-		name = "RGL.gg Advanced 2nd No Restriction Sixes"
+		name = "RGL.gg - Advanced 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11753] = {
-		name = "RGL.gg Advanced 3rd No Restriction Sixes"
+		name = "RGL.gg - Advanced 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11754] = {
-		name = "RGL.gg Advanced Participant No Restriction Sixes"
+		name = "RGL.gg - Advanced Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11755] = {
-		name = "RGL.gg Main Champions No Restriction Sixes"
+		name = "RGL.gg - Main Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11756] = {
-		name = "RGL.gg Main 2nd No Restriction Sixes"
+		name = "RGL.gg - Main 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11757] = {
-		name = "RGL.gg Main 3rd No Restriction Sixes"
+		name = "RGL.gg - Main 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11758] = {
-		name = "RGL.gg Main Participant No Restriction Sixes"
+		name = "RGL.gg - Main Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11759] = {
-		name = "RGL.gg Intermediate Champions No Restriction Sixes"
+		name = "RGL.gg - Intermediate Champions - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11760] = {
-		name = "RGL.gg Intermediate 2nd No Restriction Sixes"
+		name = "RGL.gg - Intermediate 2nd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11761] = {
-		name = "RGL.gg Intermediate 3rd No Restriction Sixes"
+		name = "RGL.gg - Intermediate 3rd Place - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11762] = {
-		name = "RGL.gg Intermediate Participant No Restriction Sixes"
+		name = "RGL.gg - Intermediate Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11763] = {
-		name = "RGL.gg Amateur Participant No Restriction Sixes"
+		name = "RGL.gg - Amateur Participant - No Restriction Sixes"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11764] = {
-		name = "RGL.gg Newcomer Cup 6v6"
+		name = "RGL.gg - Newcomer Cup - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11765] = {
-		name = "RGL.gg 12v12 Experimental Maps Cup"
+		name = "RGL.gg Highlander Experimental Maps Cup"
 		type = CosmeticType.TournamentMedal
 	},
 	[11766] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11767] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11768] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11769] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11770] = {
-		name = "RGL.gg Advanced Champions"
+		name = "RGL.gg - Advanced Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11771] = {
-		name = "RGL.gg Advanced 2nd"
+		name = "RGL.gg - Advanced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11772] = {
-		name = "RGL.gg Advanced 3rd"
+		name = "RGL.gg - Advanced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11773] = {
-		name = "RGL.gg Advanced Participant"
+		name = "RGL.gg - Advanced Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11774] = {
-		name = "RGL.gg Main Champions"
+		name = "RGL.gg - Main Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11775] = {
-		name = "RGL.gg Main 2nd"
+		name = "RGL.gg - Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11776] = {
-		name = "RGL.gg Main 3rd"
+		name = "RGL.gg - Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11777] = {
-		name = "RGL.gg Main Participant"
+		name = "RGL.gg - Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11778] = {
-		name = "RGL.gg IM Champions"
+		name = "RGL.gg - IM Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11779] = {
-		name = "RGL.gg IM 2nd"
+		name = "RGL.gg - IM 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11780] = {
-		name = "RGL.gg IM 3rd"
+		name = "RGL.gg - IM 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11781] = {
-		name = "RGL.gg IM Participant"
+		name = "RGL.gg - IM Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11782] = {
-		name = "RGL.gg Amateur Participant"
+		name = "RGL.gg - Amateur Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11783] = {
-		name = "RGL.gg Newcomer Participant"
+		name = "RGL.gg - Newcomer Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11784] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11785] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11786] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11787] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11788] = {
-		name = "RGL.gg Advanced Champions"
+		name = "RGL.gg - Advanced Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11789] = {
-		name = "RGL.gg Advanced 2nd"
+		name = "RGL.gg - Advanced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11790] = {
-		name = "RGL.gg Advanced 3rd"
+		name = "RGL.gg - Advanced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11791] = {
-		name = "RGL.gg Advanced Participant"
+		name = "RGL.gg - Advanced Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11792] = {
-		name = "RGL.gg Main Champions"
+		name = "RGL.gg - Main Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11793] = {
-		name = "RGL.gg Main 2nd"
+		name = "RGL.gg - Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11794] = {
-		name = "RGL.gg Main 3rd"
+		name = "RGL.gg - Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11795] = {
-		name = "RGL.gg Main Participant"
+		name = "RGL.gg - Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11796] = {
-		name = "RGL.gg IM Champions"
+		name = "RGL.gg - IM Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[11797] = {
-		name = "RGL.gg IM 2nd"
+		name = "RGL.gg - IM 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11798] = {
-		name = "RGL.gg IM 3rd"
+		name = "RGL.gg - IM 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11799] = {
-		name = "RGL.gg IM Participant"
+		name = "RGL.gg - IM Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11800] = {
-		name = "RGL.gg Amateur Participant"
+		name = "RGL.gg - Amateur Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11801] = {
-		name = "RGL.gg Newcomer Participant"
+		name = "RGL.gg - Newcomer Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11802] = {
-		name = "TF2Maps 72hr Jam Participant"
+		name = "TF2Maps 72hr TF2Jam Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[11803] = {
-		name = "TF2Maps Ray of Sunshine '20"
+		name = "TF2Maps Ray of Sunshine 2020"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[11804] = {
-		name = "CappingTV Summer Brawl 1st"
+		name = "CappingTV Summer Brawl 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11805] = {
-		name = "CappingTV Summer Brawl 2nd"
+		name = "CappingTV Summer Brawl 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11806] = {
-		name = "CappingTV Summer Brawl 3rd"
+		name = "CappingTV Summer Brawl 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11807] = {
@@ -18655,15 +18655,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11808] = {
-		name = "CappingTV PASS Time Championship 1st"
+		name = "CappingTV PASS Time Championship 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11809] = {
-		name = "CappingTV PASS Time Championship 2nd"
+		name = "CappingTV PASS Time Championship 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11810] = {
-		name = "CappingTV PASS Time Championship 3rd"
+		name = "CappingTV PASS Time Championship 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11811] = {
@@ -18671,151 +18671,151 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11812] = {
-		name = "Fruit Mixes 12v12 Low/Mid Gold"
+		name = "Fruit Mixes Highlander Low/Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11813] = {
-		name = "Fruit Mixes 12v12 Low/Mid Silver"
+		name = "Fruit Mixes Highlander Low/Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11814] = {
-		name = "Fruit Mixes 12v12 Low/Mid Bronze"
+		name = "Fruit Mixes Highlander Low/Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11815] = {
-		name = "Fruit Mixes 12v12 Low/Mid Participant"
+		name = "Fruit Mixes Highlander Low/Mid Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11816] = {
-		name = "Fruit Mixes 12v12 Open Gold"
+		name = "Fruit Mixes Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11817] = {
-		name = "Fruit Mixes 12v12 Open Silver"
+		name = "Fruit Mixes Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11818] = {
-		name = "Fruit Mixes 12v12 Open Bronze"
+		name = "Fruit Mixes Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11819] = {
-		name = "Fruit Mixes 12v12 Open Participant"
+		name = "Fruit Mixes Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[11820] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11821] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11822] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11823] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11824] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11825] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11826] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11827] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11828] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11829] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11830] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11831] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11832] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11833] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11834] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11835] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11836] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11837] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11838] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11839] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11840] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11841] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11842] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11843] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11844] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11845] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11846] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11847] = {
@@ -18823,15 +18823,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11848] = {
-		name = "UGC 6vs6 Silver 1st"
+		name = "UGC 6vs6 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11849] = {
-		name = "UGC 6vs6 Silver 2nd"
+		name = "UGC 6vs6 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11850] = {
-		name = "UGC 6vs6 Silver 3rd"
+		name = "UGC 6vs6 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11851] = {
@@ -18839,15 +18839,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11852] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11853] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11854] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11855] = {
@@ -18855,15 +18855,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11856] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11857] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11858] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11859] = {
@@ -18871,15 +18871,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11860] = {
-		name = "UGC 6vs6 Silver 1st"
+		name = "UGC 6vs6 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11861] = {
-		name = "UGC 6vs6 Silver 2nd"
+		name = "UGC 6vs6 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11862] = {
-		name = "UGC 6vs6 Silver 3rd"
+		name = "UGC 6vs6 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11863] = {
@@ -18887,15 +18887,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11864] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11865] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11866] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11867] = {
@@ -18903,15 +18903,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11868] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11869] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11870] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11871] = {
@@ -18919,15 +18919,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11872] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11873] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11874] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11875] = {
@@ -18935,15 +18935,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11876] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11877] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11878] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11879] = {
@@ -18951,15 +18951,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11880] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11881] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11882] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11883] = {
@@ -18967,15 +18967,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11884] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11885] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11886] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11887] = {
@@ -18983,15 +18983,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11888] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11889] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11890] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11891] = {
@@ -18999,111 +18999,111 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11892] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11893] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11894] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11895] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11896] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11897] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11898] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11899] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11900] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11901] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11902] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11903] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11904] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11905] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11906] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11907] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11908] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11909] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11910] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11911] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11912] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11913] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11914] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11915] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[11916] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11917] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11918] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11919] = {
@@ -19111,15 +19111,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11920] = {
-		name = "UGC 6vs6 Silver 1st"
+		name = "UGC 6vs6 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11921] = {
-		name = "UGC 6vs6 Silver 2nd"
+		name = "UGC 6vs6 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11922] = {
-		name = "UGC 6vs6 Silver 3rd"
+		name = "UGC 6vs6 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11923] = {
@@ -19127,15 +19127,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11924] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11925] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11926] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11927] = {
@@ -19143,15 +19143,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11928] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11929] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11930] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11931] = {
@@ -19159,15 +19159,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11932] = {
-		name = "UGC 6vs6 Silver 1st"
+		name = "UGC 6vs6 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11933] = {
-		name = "UGC 6vs6 Silver 2nd"
+		name = "UGC 6vs6 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11934] = {
-		name = "UGC 6vs6 Silver 3rd"
+		name = "UGC 6vs6 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11935] = {
@@ -19175,15 +19175,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11936] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11937] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11938] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11939] = {
@@ -19191,15 +19191,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11940] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11941] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11942] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11943] = {
@@ -19207,15 +19207,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11944] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11945] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11946] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11947] = {
@@ -19223,15 +19223,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11948] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11949] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11950] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11951] = {
@@ -19239,15 +19239,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11952] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11953] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11954] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11955] = {
@@ -19255,15 +19255,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11956] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11957] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11958] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11959] = {
@@ -19271,15 +19271,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11960] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11961] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11962] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11963] = {
@@ -19291,15 +19291,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11965] = {
-		name = "South American Vanilla Fortress 6v6 Invite 1st"
+		name = "South American Vanilla Fortress 6v6 Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11966] = {
-		name = "South American Vanilla Fortress 6v6 Invite 2nd"
+		name = "South American Vanilla Fortress 6v6 Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11967] = {
-		name = "South American Vanilla Fortress 6v6 Invite 3rd"
+		name = "South American Vanilla Fortress 6v6 Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11968] = {
@@ -19307,15 +19307,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11969] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 1st"
+		name = "South American Vanilla Fortress 6v6 Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11970] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 2nd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11971] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 3rd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11972] = {
@@ -19323,15 +19323,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11973] = {
-		name = "South American Vanilla Fortress 6v6 Open 1st"
+		name = "South American Vanilla Fortress 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11974] = {
-		name = "South American Vanilla Fortress 6v6 Open 2nd"
+		name = "South American Vanilla Fortress 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11975] = {
-		name = "South American Vanilla Fortress 6v6 Open 3rd"
+		name = "South American Vanilla Fortress 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11976] = {
@@ -19343,35 +19343,35 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11978] = {
-		name = "TFArena Gold"
+		name = "TFArena Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11979] = {
-		name = "TFArena Silver"
+		name = "TFArena Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11980] = {
-		name = "TFArena Bronze"
+		name = "TFArena Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11981] = {
-		name = "TFArena Participation"
+		name = "TFArena Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11982] = {
-		name = "TFArena Helper"
+		name = "TFArena Helper Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[11983] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11984] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11985] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11986] = {
@@ -19379,15 +19379,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11987] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11988] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11989] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11990] = {
@@ -19395,15 +19395,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11991] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11992] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11993] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11994] = {
@@ -19411,15 +19411,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11995] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11996] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11997] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[11998] = {
@@ -19427,15 +19427,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[11999] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12000] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12001] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12002] = {
@@ -19443,15 +19443,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12003] = {
-		name = "CappingTV Ultiduo 1st"
+		name = "CappingTV Ultiduo 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12004] = {
-		name = "CappingTV Ultiduo 2nd"
+		name = "CappingTV Ultiduo 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12005] = {
-		name = "CappingTV Ultiduo 3rd"
+		name = "CappingTV Ultiduo 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12006] = {
@@ -19459,15 +19459,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12007] = {
-		name = "DreamHack Community Clash 1st"
+		name = "DreamHack Community Clash 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12008] = {
-		name = "DreamHack Community Clash 2nd"
+		name = "DreamHack Community Clash 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12009] = {
-		name = "DreamHack Community Clash 3rd"
+		name = "DreamHack Community Clash 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12010] = {
@@ -19479,15 +19479,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12012] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12013] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12014] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12015] = {
@@ -19495,15 +19495,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12016] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12017] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12018] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12019] = {
@@ -19511,15 +19511,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12020] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12021] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12022] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12023] = {
@@ -19527,15 +19527,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12024] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12025] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12026] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12027] = {
@@ -19543,67 +19543,67 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12028] = {
-		name = "South American Vanilla Fortress 12v12 Invite 1st"
+		name = "South American Vanilla Fortress Highlander Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12029] = {
-		name = "South American Vanilla Fortress 12v12 Invite 2nd"
+		name = "South American Vanilla Fortress Highlander Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12030] = {
-		name = "South American Vanilla Fortress 12v12 Invite 3rd"
+		name = "South American Vanilla Fortress Highlander Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12031] = {
-		name = "South American Vanilla Fortress 12v12 Invite Participant"
+		name = "South American Vanilla Fortress Highlander Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12032] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate 1st"
+		name = "South American Vanilla Fortress Highlander Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12033] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate 2nd"
+		name = "South American Vanilla Fortress Highlander Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12034] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate 3rd"
+		name = "South American Vanilla Fortress Highlander Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12035] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate Participant"
+		name = "South American Vanilla Fortress Highlander Intermediate Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12036] = {
-		name = "South American Vanilla Fortress 12v12 Open 1st"
+		name = "South American Vanilla Fortress Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12037] = {
-		name = "South American Vanilla Fortress 12v12 Open 2nd"
+		name = "South American Vanilla Fortress Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12038] = {
-		name = "South American Vanilla Fortress 12v12 Open 3rd"
+		name = "South American Vanilla Fortress Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12039] = {
-		name = "South American Vanilla Fortress 12v12 Open Participant"
+		name = "South American Vanilla Fortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12040] = {
-		name = "South American Vanilla Fortress 12v12 Supporter"
+		name = "South American Vanilla Fortress Highlander Supporter"
 		type = CosmeticType.TournamentMedal
 	},
 	[12041] = {
-		name = "Classic MGE Cup Advanced 1st"
+		name = "Classic MGE Cup Advanced 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12042] = {
-		name = "Classic MGE Cup Advanced 2nd"
+		name = "Classic MGE Cup Advanced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12043] = {
-		name = "Classic MGE Cup Advanced 3rd"
+		name = "Classic MGE Cup Advanced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12044] = {
@@ -19611,15 +19611,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12045] = {
-		name = "Classic MGE Cup Open 1st"
+		name = "Classic MGE Cup Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12046] = {
-		name = "Classic MGE Cup Open 2nd"
+		name = "Classic MGE Cup Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12047] = {
-		name = "Classic MGE Cup Open 3rd"
+		name = "Classic MGE Cup Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12048] = {
@@ -19631,481 +19631,481 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12050] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12051] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12052] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12053] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12054] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12055] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12056] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12057] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12058] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12059] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12060] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12061] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12062] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12063] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12064] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12065] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12066] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12067] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12068] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12069] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12070] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12071] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12072] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12073] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12074] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12075] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12076] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12077] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12078] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12079] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12080] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12081] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12082] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12083] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12084] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12085] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12086] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12087] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12088] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12089] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12090] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12091] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12092] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12093] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12094] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12095] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12096] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12097] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12098] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12099] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12100] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12101] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12102] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12103] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12104] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12105] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12106] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12107] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12108] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12109] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12110] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12111] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12112] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12113] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12114] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12115] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12116] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12117] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12118] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12119] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12120] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12121] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12122] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12123] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12124] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12125] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12126] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12127] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12128] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12129] = {
-		name = "Fruit Mixes 12v12 High/Prem Gold"
+		name = "Fruit Mixes Highlander High/Prem Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12130] = {
-		name = "Fruit Mixes 12v12 High/Prem Silver"
+		name = "Fruit Mixes Highlander High/Prem Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12131] = {
-		name = "Fruit Mixes 12v12 High/Prem Bronze"
+		name = "Fruit Mixes Highlander High/Prem Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12132] = {
-		name = "Fruit Mixes 12v12 High/Prem Participant"
+		name = "Fruit Mixes Highlander High/Prem Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12133] = {
-		name = "Fruit Mixes 12v12 Mid Gold"
+		name = "Fruit Mixes Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12134] = {
-		name = "Fruit Mixes 12v12 Mid Silver"
+		name = "Fruit Mixes Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12135] = {
-		name = "Fruit Mixes 12v12 Mid Bronze"
+		name = "Fruit Mixes Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12136] = {
-		name = "Fruit Mixes 12v12 Mid Participant"
+		name = "Fruit Mixes Highlander Mid Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12137] = {
-		name = "Fruit Mixes 12v12 Low Gold"
+		name = "Fruit Mixes Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12138] = {
-		name = "Fruit Mixes 12v12 Low Silver"
+		name = "Fruit Mixes Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12139] = {
-		name = "Fruit Mixes 12v12 Low Bronze"
+		name = "Fruit Mixes Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12140] = {
-		name = "Fruit Mixes 12v12 Low Participant"
+		name = "Fruit Mixes Highlander Low Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12141] = {
-		name = "Fruit Mixes 12v12 Open Gold"
+		name = "Fruit Mixes Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12142] = {
-		name = "Fruit Mixes 12v12 Open Silver"
+		name = "Fruit Mixes Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12143] = {
-		name = "Fruit Mixes 12v12 Open Bronze"
+		name = "Fruit Mixes Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12144] = {
-		name = "Fruit Mixes 12v12 Open Participant"
+		name = "Fruit Mixes Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12145] = {
-		name = "Fruit Mixes 12v12 Staff"
+		name = "Fruit Mixes Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[12146] = {
-		name = "ozfortress Summer Cup Div 1 1st"
+		name = "ozfortress Summer Cup Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12147] = {
-		name = "ozfortress Summer Cup Div 1 2nd"
+		name = "ozfortress Summer Cup Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12148] = {
-		name = "ozfortress Summer Cup Div 1 3rd"
+		name = "ozfortress Summer Cup Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12149] = {
-		name = "ozfortress Summer Cup Div 1 Participant"
+		name = "ozfortress Summer Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12150] = {
-		name = "ozfortress Summer Cup Div 2 1st"
+		name = "ozfortress Summer Cup Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12151] = {
-		name = "ozfortress Summer Cup Div 2 2nd"
+		name = "ozfortress Summer Cup Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12152] = {
-		name = "ozfortress Summer Cup Div 2 3rd"
+		name = "ozfortress Summer Cup Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12153] = {
-		name = "ozfortress Summer Cup Div 2 Participant"
+		name = "ozfortress Summer Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12154] = {
-		name = "ozfortress Summer Cup Div 3 1st"
+		name = "ozfortress Summer Cup Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12155] = {
-		name = "ozfortress Summer Cup Div 3 2nd"
+		name = "ozfortress Summer Cup Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12156] = {
-		name = "ozfortress Summer Cup Div 3 3rd"
+		name = "ozfortress Summer Cup Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12157] = {
-		name = "ozfortress Summer Cup Div 3 Participant"
+		name = "ozfortress Summer Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12158] = {
-		name = "ozfortress Summer Cup Div 4 1st"
+		name = "ozfortress Summer Cup Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12159] = {
-		name = "ozfortress Summer Cup Div 4 2nd"
+		name = "ozfortress Summer Cup Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12160] = {
-		name = "ozfortress Summer Cup Div 4 3rd"
+		name = "ozfortress Summer Cup Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12161] = {
-		name = "ozfortress Summer Cup Div 4 Participant"
+		name = "ozfortress Summer Cup Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12162] = {
-		name = "PASS Time Federation 1st"
+		name = "PASS Time Federation 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12163] = {
-		name = "PASS Time Federation 2nd"
+		name = "PASS Time Federation 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12164] = {
-		name = "PASS Time Federation 3rd"
+		name = "PASS Time Federation 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -20120,111 +20120,111 @@
 		paint = true
 	},
 	[12167] = {
-		name = "Respawn League AUS/NZ 12v12 Main 1st"
+		name = "Respawn League AUS/NZ Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12168] = {
-		name = "Respawn League AUS/NZ 12v12 Main 2nd"
+		name = "Respawn League AUS/NZ Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12169] = {
-		name = "Respawn League AUS/NZ 12v12 Main 3rd"
+		name = "Respawn League AUS/NZ Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12170] = {
-		name = "Respawn League AUS/NZ 12v12 Main Participant"
+		name = "Respawn League AUS/NZ Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12171] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 1st"
+		name = "Respawn League AUS/NZ Highlander Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12172] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 2nd"
+		name = "Respawn League AUS/NZ Highlander Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12173] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 3rd"
+		name = "Respawn League AUS/NZ Highlander Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12174] = {
-		name = "Respawn League AUS/NZ 12v12 Premier Participant"
+		name = "Respawn League AUS/NZ Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12175] = {
-		name = "Respawn League AUS/NZ 12v12 Main 1st"
+		name = "Respawn League AUS/NZ Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12176] = {
-		name = "Respawn League AUS/NZ 12v12 Main 2nd"
+		name = "Respawn League AUS/NZ Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12177] = {
-		name = "Respawn League AUS/NZ 12v12 Main 3rd"
+		name = "Respawn League AUS/NZ Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12178] = {
-		name = "Respawn League AUS/NZ 12v12 Main Participant"
+		name = "Respawn League AUS/NZ Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12179] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 1st"
+		name = "Respawn League AUS/NZ Highlander Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12180] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 2nd"
+		name = "Respawn League AUS/NZ Highlander Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12181] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 3rd"
+		name = "Respawn League AUS/NZ Highlander Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12182] = {
-		name = "Respawn League AUS/NZ 12v12 Premier Participant"
+		name = "Respawn League AUS/NZ Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12183] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12184] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12185] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12186] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12187] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12188] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12189] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12190] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12191] = {
-		name = "Respawn League AUS/NZ Quadlander Main 4v4 1st"
+		name = "Respawn League AUS/NZ Quadlander Main 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12192] = {
-		name = "Respawn League AUS/NZ Quadlander Main 4v4 2nd"
+		name = "Respawn League AUS/NZ Quadlander Main 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12193] = {
-		name = "Respawn League AUS/NZ Quadlander Main 4v4 3rd"
+		name = "Respawn League AUS/NZ Quadlander Main 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12194] = {
@@ -20240,11 +20240,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12197] = {
-		name = "NHBL Finals 2nd"
+		name = "NHBL Finals 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12198] = {
-		name = "NHBL Finals 3rd"
+		name = "NHBL Finals 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12199] = {
@@ -20256,15 +20256,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12201] = {
-		name = "EBL Invite 1st"
+		name = "EBL Invite 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12202] = {
-		name = "EBL Invite 2nd"
+		name = "EBL Invite 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12203] = {
-		name = "EBL Invite 3rd"
+		name = "EBL Invite 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12204] = {
@@ -20272,15 +20272,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12205] = {
-		name = "EBL Main 1st"
+		name = "EBL Main 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12206] = {
-		name = "EBL Main 2nd"
+		name = "EBL Main 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12207] = {
-		name = "EBL Main 3rd"
+		name = "EBL Main 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12208] = {
@@ -20288,15 +20288,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12209] = {
-		name = "EBL Open 1st"
+		name = "EBL Open 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12210] = {
-		name = "EBL Open 2nd"
+		name = "EBL Open 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12211] = {
-		name = "EBL Open 3rd"
+		name = "EBL Open 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12212] = {
@@ -20304,15 +20304,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12213] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12214] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12215] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12216] = {
@@ -20320,15 +20320,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12217] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12218] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12219] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12220] = {
@@ -20336,15 +20336,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12221] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12222] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12223] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12224] = {
@@ -20352,15 +20352,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12225] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12226] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12227] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12228] = {
@@ -20368,79 +20368,79 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12229] = {
-		name = "LBTF2 12v12 Elite 1st"
+		name = "LBTF2 Highlander Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12230] = {
-		name = "LBTF2 12v12 Elite 2nd"
+		name = "LBTF2 Highlander Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12231] = {
-		name = "LBTF2 12v12 Elite 3rd"
+		name = "LBTF2 Highlander Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12232] = {
-		name = "LBTF2 12v12 Elite Participant"
+		name = "LBTF2 Highlander Elite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12233] = {
-		name = "LBTF2 12v12 Central 1st"
+		name = "LBTF2 Highlander Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12234] = {
-		name = "LBTF2 12v12 Central 2nd"
+		name = "LBTF2 Highlander Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12235] = {
-		name = "LBTF2 12v12 Central 3rd"
+		name = "LBTF2 Highlander Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12236] = {
-		name = "LBTF2 12v12 Central Participant"
+		name = "LBTF2 Highlander Central Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12237] = {
-		name = "LBTF2 12v12 Access 1st"
+		name = "LBTF2 Highlander Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12238] = {
-		name = "LBTF2 12v12 Access 2nd"
+		name = "LBTF2 Highlander Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12239] = {
-		name = "LBTF2 12v12 Access 3rd"
+		name = "LBTF2 Highlander Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12240] = {
-		name = "LBTF2 12v12 Access Participant"
+		name = "LBTF2 Highlander Access Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12241] = {
-		name = "LBTF2 12v12 Open 1st"
+		name = "LBTF2 Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12242] = {
-		name = "LBTF2 12v12 Open 2nd"
+		name = "LBTF2 Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12243] = {
-		name = "LBTF2 12v12 Open 3rd"
+		name = "LBTF2 Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12244] = {
-		name = "LBTF2 12v12 Open Participant"
+		name = "LBTF2 Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12245] = {
-		name = "Respawn League AUS/NZ Quadlander Premier 4v4 1st"
+		name = "Respawn League AUS/NZ Quadlander Premier 4v4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12246] = {
-		name = "Respawn League AUS/NZ Quadlander Premier 4v4 2nd"
+		name = "Respawn League AUS/NZ Quadlander Premier 4v4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12247] = {
-		name = "Respawn League AUS/NZ Quadlander Premier 4v4 3rd"
+		name = "Respawn League AUS/NZ Quadlander Premier 4v4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12248] = {
@@ -20448,27 +20448,27 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12249] = {
-		name = "Starched Silliness Potato Lookalike '21"
+		name = "Starched Silliness Potato Lookalike 2021"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[12250] = {
-		name = "Starched Silliness Super Spud '21"
+		name = "Starched Silliness Super Spud 2021"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[12252] = {
-		name = "FBTF Cup 6v6 Wastex Miller 1st"
+		name = "FBTF Cup 6v6 Wastex Miller 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12253] = {
-		name = "FBTF Cup 6v6 Wastex Miller 2nd"
+		name = "FBTF Cup 6v6 Wastex Miller 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12254] = {
-		name = "FBTF Cup 6v6 Wastex Miller 3rd"
+		name = "FBTF Cup 6v6 Wastex Miller 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12255] = {
@@ -20476,15 +20476,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12256] = {
-		name = "FBTF Cup 6v6 Barts Rimet 1st"
+		name = "FBTF Cup 6v6 Barts Rimet 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12257] = {
-		name = "FBTF Cup 6v6 Barts Rimet 2nd"
+		name = "FBTF Cup 6v6 Barts Rimet 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12258] = {
-		name = "FBTF Cup 6v6 Barts Rimet 3rd"
+		name = "FBTF Cup 6v6 Barts Rimet 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12259] = {
@@ -20492,15 +20492,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12260] = {
-		name = "FBTF Cup 6v6 Vic Basten 1st"
+		name = "FBTF Cup 6v6 Vic Basten 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12261] = {
-		name = "FBTF Cup 6v6 Vic Basten 2nd"
+		name = "FBTF Cup 6v6 Vic Basten 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12262] = {
-		name = "FBTF Cup 6v6 Vic Basten 3rd"
+		name = "FBTF Cup 6v6 Vic Basten 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12263] = {
@@ -20508,15 +20508,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12264] = {
-		name = "FBTF Cup 6v6 Ghosten Tüchel 1st"
+		name = "FBTF Cup 6v6 Ghosten Tüchel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12265] = {
-		name = "FBTF Cup 6v6 Ghosten Tüchel 2nd"
+		name = "FBTF Cup 6v6 Ghosten Tüchel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12266] = {
-		name = "FBTF Cup 6v6 Ghosten Tüchel 3rd"
+		name = "FBTF Cup 6v6 Ghosten Tüchel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12267] = {
@@ -20524,15 +20524,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12268] = {
-		name = "FBTF Cup 6v6 Jöten Klopp 1st"
+		name = "FBTF Cup 6v6 Jöten Klopp 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12269] = {
-		name = "FBTF Cup 6v6 Jöten Klopp 2nd"
+		name = "FBTF Cup 6v6 Jöten Klopp 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12270] = {
-		name = "FBTF Cup 6v6 Jöten Klopp 3rd"
+		name = "FBTF Cup 6v6 Jöten Klopp 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12271] = {
@@ -20540,15 +20540,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12272] = {
-		name = "DreamHack Community Clash 1st"
+		name = "DreamHack Community Clash 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12273] = {
-		name = "DreamHack Community Clash 2nd"
+		name = "DreamHack Community Clash 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12274] = {
-		name = "DreamHack Community Clash 3rd"
+		name = "DreamHack Community Clash 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12275] = {
@@ -20560,15 +20560,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12277] = {
-		name = "South American Vanilla Fortress 6v6 Invite 1st"
+		name = "South American Vanilla Fortress 6v6 Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12278] = {
-		name = "South American Vanilla Fortress 6v6 Invite 2nd"
+		name = "South American Vanilla Fortress 6v6 Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12279] = {
-		name = "South American Vanilla Fortress 6v6 Invite 3rd"
+		name = "South American Vanilla Fortress 6v6 Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12280] = {
@@ -20576,15 +20576,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12281] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 1st"
+		name = "South American Vanilla Fortress 6v6 Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12282] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 2nd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12283] = {
-		name = "South American Vanilla Fortress 6v6 Intermediate 3rd"
+		name = "South American Vanilla Fortress 6v6 Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12284] = {
@@ -20592,15 +20592,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12285] = {
-		name = "South American Vanilla Fortress 6v6 Open 1st"
+		name = "South American Vanilla Fortress 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12286] = {
-		name = "South American Vanilla Fortress 6v6 Open 2nd"
+		name = "South American Vanilla Fortress 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12287] = {
-		name = "South American Vanilla Fortress 6v6 Open 3rd"
+		name = "South American Vanilla Fortress 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12288] = {
@@ -20612,15 +20612,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12290] = {
-		name = "CappingTV Ultiduo Summer Brawl 1st"
+		name = "CappingTV Ultiduo Summer Brawl 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12291] = {
-		name = "CappingTV Ultiduo Summer Brawl 2nd"
+		name = "CappingTV Ultiduo Summer Brawl 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12292] = {
-		name = "CappingTV Ultiduo Summer Brawl 3rd"
+		name = "CappingTV Ultiduo Summer Brawl 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12293] = {
@@ -20628,15 +20628,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12294] = {
-		name = "LAN Downunder 1st"
+		name = "LAN Downunder 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12295] = {
-		name = "LAN Downunder 2nd"
+		name = "LAN Downunder 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12296] = {
-		name = "LAN Downunder 3rd"
+		name = "LAN Downunder 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12297] = {
@@ -20644,499 +20644,499 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12298] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12299] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12300] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12301] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12302] = {
-		name = "RGL.gg Challenger Champions 12v12"
+		name = "RGL.gg - Challenger Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12303] = {
-		name = "RGL.gg Challenger 2nd 12v12"
+		name = "RGL.gg - Challenger 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12304] = {
-		name = "RGL.gg Challenger 3rd 12v12"
+		name = "RGL.gg - Challenger 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12305] = {
-		name = "RGL.gg Challenger Participant 12v12"
+		name = "RGL.gg - Challenger Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12306] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12307] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12308] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12309] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12310] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12311] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12312] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12313] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12314] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12315] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12316] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12317] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12318] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12319] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12320] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12321] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12322] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12323] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12324] = {
-		name = "RGL.gg Challenger Champions 12v12"
+		name = "RGL.gg - Challenger Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12325] = {
-		name = "RGL.gg Challenger 2nd 12v12"
+		name = "RGL.gg - Challenger 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12326] = {
-		name = "RGL.gg Challenger 3rd 12v12"
+		name = "RGL.gg - Challenger 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12327] = {
-		name = "RGL.gg Challenger Participant 12v12"
+		name = "RGL.gg - Challenger Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12328] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12329] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12330] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12331] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12332] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12333] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12334] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12335] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12336] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12337] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12338] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12339] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12340] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12341] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12342] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12343] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12344] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12345] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12346] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12347] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12348] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12349] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12350] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12351] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12352] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12353] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12354] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12355] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12356] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12357] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12358] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12359] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12360] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12361] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12362] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12363] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12364] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12365] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12366] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12367] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12368] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12369] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12370] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12371] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12372] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12373] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12374] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12375] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12376] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12377] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12378] = {
-		name = "RGL.gg Invite Champions"
+		name = "RGL.gg - Invite Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[12379] = {
-		name = "RGL.gg Invite 2nd"
+		name = "RGL.gg - Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12380] = {
-		name = "RGL.gg Invite 3rd"
+		name = "RGL.gg - Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12381] = {
-		name = "RGL.gg Invite Participant"
+		name = "RGL.gg - Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12382] = {
-		name = "RGL.gg Advanced Champions"
+		name = "RGL.gg - Advanced Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[12383] = {
-		name = "RGL.gg Advanced 2nd"
+		name = "RGL.gg - Advanced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12384] = {
-		name = "RGL.gg Advanced 3rd"
+		name = "RGL.gg - Advanced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12385] = {
-		name = "RGL.gg Advanced Participant"
+		name = "RGL.gg - Advanced Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12386] = {
-		name = "RGL.gg Main Champions"
+		name = "RGL.gg - Main Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[12387] = {
-		name = "RGL.gg Main 2nd"
+		name = "RGL.gg - Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12388] = {
-		name = "RGL.gg Main 3rd"
+		name = "RGL.gg - Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12389] = {
-		name = "RGL.gg Main Participant"
+		name = "RGL.gg - Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12390] = {
-		name = "RGL.gg IM Champions"
+		name = "RGL.gg - IM Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[12391] = {
-		name = "RGL.gg IM 2nd"
+		name = "RGL.gg - IM 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12392] = {
-		name = "RGL.gg IM 3rd"
+		name = "RGL.gg - IM 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12393] = {
-		name = "RGL.gg IM Participant"
+		name = "RGL.gg - IM Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12394] = {
-		name = "RGL.gg Amateur Participant"
+		name = "RGL.gg - Amateur Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12395] = {
-		name = "RGL.gg Newcomer Participant"
+		name = "RGL.gg - Newcomer Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12396] = {
-		name = "RGL.gg 12v12 Experimental Maps Cup"
+		name = "RGL.gg Highlander Experimental Maps Cup"
 		type = CosmeticType.TournamentMedal
 	},
 	[12397] = {
-		name = "RGL.gg One Day Prolander Cup NA #1"
+		name = "RGL.gg One Day Prolander Cup - NA #1"
 		type = CosmeticType.TournamentMedal
 	},
 	[12398] = {
-		name = "RGL.gg One Day Prolander Cup NA #1"
+		name = "RGL.gg One Day Prolander Cup - NA #1"
 		type = CosmeticType.TournamentMedal
 	},
 	[12399] = {
-		name = "UGC Ultiduo Steel 1st"
+		name = "UGC Ultiduo Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12400] = {
-		name = "UGC Ultiduo Steel 2nd"
+		name = "UGC Ultiduo Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12401] = {
-		name = "UGC Ultiduo Steel 3rd"
+		name = "UGC Ultiduo Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12402] = {
@@ -21144,15 +21144,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12403] = {
-		name = "UGC Ultiduo Platinum 1st"
+		name = "UGC Ultiduo Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12404] = {
-		name = "UGC Ultiduo Platinum 2nd"
+		name = "UGC Ultiduo Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12405] = {
-		name = "UGC Ultiduo Platinum 3rd"
+		name = "UGC Ultiduo Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12406] = {
@@ -21160,15 +21160,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12407] = {
-		name = "UGC Ultiduo Steel 1st"
+		name = "UGC Ultiduo Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12408] = {
-		name = "UGC Ultiduo Steel 2nd"
+		name = "UGC Ultiduo Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12409] = {
-		name = "UGC Ultiduo Steel 3rd"
+		name = "UGC Ultiduo Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12410] = {
@@ -21176,63 +21176,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12411] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12412] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12413] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12414] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12415] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12416] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12417] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12418] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12419] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12420] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12421] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12422] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12423] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12424] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12425] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12426] = {
@@ -21240,15 +21240,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12427] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12428] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12429] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12430] = {
@@ -21256,15 +21256,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12431] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12432] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12433] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12434] = {
@@ -21272,15 +21272,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12435] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12436] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12437] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12438] = {
@@ -21288,15 +21288,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12439] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12440] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12441] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12442] = {
@@ -21304,15 +21304,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12443] = {
-		name = "UGC Ultiduo Platinum 1st"
+		name = "UGC Ultiduo Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12444] = {
-		name = "UGC Ultiduo Platinum 2nd"
+		name = "UGC Ultiduo Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12445] = {
-		name = "UGC Ultiduo Platinum 3rd"
+		name = "UGC Ultiduo Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12446] = {
@@ -21320,15 +21320,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12447] = {
-		name = "UGC Ultiduo Steel 1st"
+		name = "UGC Ultiduo Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12448] = {
-		name = "UGC Ultiduo Steel 2nd"
+		name = "UGC Ultiduo Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12449] = {
-		name = "UGC Ultiduo Steel 3rd"
+		name = "UGC Ultiduo Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12450] = {
@@ -21336,63 +21336,63 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12451] = {
-		name = "UGC 12v12 Platinum 1st"
+		name = "UGC Highlander Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12452] = {
-		name = "UGC 12v12 Platinum 2nd"
+		name = "UGC Highlander Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12453] = {
-		name = "UGC 12v12 Platinum 3rd"
+		name = "UGC Highlander Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12454] = {
-		name = "UGC 12v12 Platinum Participant"
+		name = "UGC Highlander Platinum Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12455] = {
-		name = "UGC 12v12 Silver 1st"
+		name = "UGC Highlander Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12456] = {
-		name = "UGC 12v12 Silver 2nd"
+		name = "UGC Highlander Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12457] = {
-		name = "UGC 12v12 Silver 3rd"
+		name = "UGC Highlander Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12458] = {
-		name = "UGC 12v12 Silver Participant"
+		name = "UGC Highlander Silver Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12459] = {
-		name = "UGC 12v12 Steel 1st"
+		name = "UGC Highlander Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12460] = {
-		name = "UGC 12v12 Steel 2nd"
+		name = "UGC Highlander Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12461] = {
-		name = "UGC 12v12 Steel 3rd"
+		name = "UGC Highlander Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12462] = {
-		name = "UGC 12v12 Steel Participant"
+		name = "UGC Highlander Steel Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12463] = {
-		name = "UGC 6vs6 Platinum 1st"
+		name = "UGC 6vs6 Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12464] = {
-		name = "UGC 6vs6 Platinum 2nd"
+		name = "UGC 6vs6 Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12465] = {
-		name = "UGC 6vs6 Platinum 3rd"
+		name = "UGC 6vs6 Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12466] = {
@@ -21400,15 +21400,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12467] = {
-		name = "UGC 6vs6 Steel 1st"
+		name = "UGC 6vs6 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12468] = {
-		name = "UGC 6vs6 Steel 2nd"
+		name = "UGC 6vs6 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12469] = {
-		name = "UGC 6vs6 Steel 3rd"
+		name = "UGC 6vs6 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12470] = {
@@ -21416,15 +21416,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12471] = {
-		name = "UGC 4vs4 Gold 1st"
+		name = "UGC 4vs4 Gold 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12472] = {
-		name = "UGC 4vs4 Gold 2nd"
+		name = "UGC 4vs4 Gold 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12473] = {
-		name = "UGC 4vs4 Gold 3rd"
+		name = "UGC 4vs4 Gold 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12474] = {
@@ -21432,15 +21432,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12475] = {
-		name = "UGC 4vs4 Silver 1st"
+		name = "UGC 4vs4 Silver 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12476] = {
-		name = "UGC 4vs4 Silver 2nd"
+		name = "UGC 4vs4 Silver 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12477] = {
-		name = "UGC 4vs4 Silver 3rd"
+		name = "UGC 4vs4 Silver 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12478] = {
@@ -21448,15 +21448,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12479] = {
-		name = "UGC 4vs4 Steel 1st"
+		name = "UGC 4vs4 Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12480] = {
-		name = "UGC 4vs4 Steel 2nd"
+		name = "UGC 4vs4 Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12481] = {
-		name = "UGC 4vs4 Steel 3rd"
+		name = "UGC 4vs4 Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12482] = {
@@ -21464,15 +21464,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12483] = {
-		name = "UGC Ultiduo Platinum 1st"
+		name = "UGC Ultiduo Platinum 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12484] = {
-		name = "UGC Ultiduo Platinum 2nd"
+		name = "UGC Ultiduo Platinum 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12485] = {
-		name = "UGC Ultiduo Platinum 3rd"
+		name = "UGC Ultiduo Platinum 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12486] = {
@@ -21480,15 +21480,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12487] = {
-		name = "UGC Ultiduo Steel 1st"
+		name = "UGC Ultiduo Steel 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12488] = {
-		name = "UGC Ultiduo Steel 2nd"
+		name = "UGC Ultiduo Steel 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12489] = {
-		name = "UGC Ultiduo Steel 3rd"
+		name = "UGC Ultiduo Steel 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12490] = {
@@ -21496,15 +21496,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12491] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12492] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12493] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12494] = {
@@ -21512,15 +21512,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12495] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12496] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12497] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12498] = {
@@ -21528,15 +21528,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12499] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12500] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12501] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12502] = {
@@ -21544,15 +21544,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12503] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12504] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12505] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12506] = {
@@ -21560,691 +21560,691 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12507] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12508] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12509] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12510] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12511] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12512] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12513] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12514] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12515] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12516] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12517] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12518] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12519] = {
-		name = "AsiaFortress Cup Div 4 1st"
+		name = "AsiaFortress Cup Division 4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12520] = {
-		name = "AsiaFortress Cup Div 4 2nd"
+		name = "AsiaFortress Cup Division 4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12521] = {
-		name = "AsiaFortress Cup Div 4 3rd"
+		name = "AsiaFortress Cup Division 4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12522] = {
-		name = "AsiaFortress Cup Div 4 Participant"
+		name = "AsiaFortress Cup Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12523] = {
-		name = "Respawn League AUS/NZ 12v12 Main 1st"
+		name = "Respawn League AUS/NZ Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12524] = {
-		name = "Respawn League AUS/NZ 12v12 Main 2nd"
+		name = "Respawn League AUS/NZ Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12525] = {
-		name = "Respawn League AUS/NZ 12v12 Main 3rd"
+		name = "Respawn League AUS/NZ Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12526] = {
-		name = "Respawn League AUS/NZ 12v12 Main Participant"
+		name = "Respawn League AUS/NZ Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12527] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 1st"
+		name = "Respawn League AUS/NZ Highlander Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12528] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 2nd"
+		name = "Respawn League AUS/NZ Highlander Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12529] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 3rd"
+		name = "Respawn League AUS/NZ Highlander Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12530] = {
-		name = "Respawn League AUS/NZ 12v12 Premier Participant"
+		name = "Respawn League AUS/NZ Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12531] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12532] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12533] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12534] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12535] = {
-		name = "Respawn League AUS/NZ 12v12 Main 1st"
+		name = "Respawn League AUS/NZ Highlander Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12536] = {
-		name = "Respawn League AUS/NZ 12v12 Main 2nd"
+		name = "Respawn League AUS/NZ Highlander Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12537] = {
-		name = "Respawn League AUS/NZ 12v12 Main 3rd"
+		name = "Respawn League AUS/NZ Highlander Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12538] = {
-		name = "Respawn League AUS/NZ 12v12 Main Participant"
+		name = "Respawn League AUS/NZ Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12539] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 1st"
+		name = "Respawn League AUS/NZ Highlander Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12540] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 2nd"
+		name = "Respawn League AUS/NZ Highlander Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12541] = {
-		name = "Respawn League AUS/NZ 12v12 Premier 3rd"
+		name = "Respawn League AUS/NZ Highlander Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12542] = {
-		name = "Respawn League AUS/NZ 12v12 Premier Participant"
+		name = "Respawn League AUS/NZ Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12543] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12544] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12545] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12546] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12547] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12548] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12549] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12550] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12551] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12552] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12553] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12554] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12555] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12556] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12557] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12558] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12559] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12560] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12561] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12562] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12563] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12564] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12565] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12566] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12567] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12568] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12569] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12570] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12571] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12572] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12573] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12574] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12575] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12576] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12577] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12578] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12579] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12580] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12581] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12582] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12583] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12584] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12585] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12586] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12587] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12588] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12589] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12590] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12591] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12592] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12593] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12594] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12595] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12596] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12597] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12598] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12599] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12600] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12601] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12602] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12603] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12604] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12605] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12606] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12607] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12608] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12609] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12610] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12611] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12612] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12613] = {
-		name = "ETF2L 12v12 Div 3 Gold"
+		name = "ETF2L Highlander Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12614] = {
-		name = "ETF2L 12v12 Div 3 Silver"
+		name = "ETF2L Highlander Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12615] = {
-		name = "ETF2L 12v12 Div 3 Bronze"
+		name = "ETF2L Highlander Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12616] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12617] = {
-		name = "ETF2L 12v12 Div 4 Gold"
+		name = "ETF2L Highlander Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12618] = {
-		name = "ETF2L 12v12 Div 4 Silver"
+		name = "ETF2L Highlander Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12619] = {
-		name = "ETF2L 12v12 Div 4 Bronze"
+		name = "ETF2L Highlander Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12620] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12621] = {
-		name = "ETF2L 12v12 Div 5 Gold"
+		name = "ETF2L Highlander Division 5 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12622] = {
-		name = "ETF2L 12v12 Div 5 Silver"
+		name = "ETF2L Highlander Division 5 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12623] = {
-		name = "ETF2L 12v12 Div 5 Bronze"
+		name = "ETF2L Highlander Division 5 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12624] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12625] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12626] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12627] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12628] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12629] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12630] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12631] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12632] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12633] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12634] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12635] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12636] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12637] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12638] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12639] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12640] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12641] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12642] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12643] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12644] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12645] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12646] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12647] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12648] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12649] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12650] = {
-		name = "ETF2L 12v12 Low Playoff"
+		name = "ETF2L Highlander Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12651] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12652] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12653] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12654] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12655] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12656] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12657] = {
-		name = "BlapBash Backer '21"
+		name = "BlapBash Backer 2021"
 		type = CosmeticType.CommunityMedal
 	},
 	[12658] = {
-		name = "BlapBash Supporter '21"
+		name = "BlapBash Supporter 2021"
 		type = CosmeticType.CommunityMedal
 	},
 	[12659] = {
-		name = "BlapBash Benefactor '21"
+		name = "BlapBash Benefactor 2021"
 		type = CosmeticType.CommunityMedal
 	},
 	[12662] = {
-		name = "ozfortress Winter League Div 1 1st"
+		name = "ozfortress Winter League Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12663] = {
-		name = "ozfortress Winter League Div 1 2nd"
+		name = "ozfortress Winter League Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12664] = {
-		name = "ozfortress Winter League Div 1 3rd"
+		name = "ozfortress Winter League Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12665] = {
-		name = "ozfortress Winter League Div 1 Participant"
+		name = "ozfortress Winter League Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12666] = {
-		name = "ozfortress Winter League Div 2 1st"
+		name = "ozfortress Winter League Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12667] = {
-		name = "ozfortress Winter League Div 2 2nd"
+		name = "ozfortress Winter League Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12668] = {
-		name = "ozfortress Winter League Div 2 3rd"
+		name = "ozfortress Winter League Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12669] = {
-		name = "ozfortress Winter League Div 2 Participant"
+		name = "ozfortress Winter League Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12670] = {
-		name = "ozfortress Winter League Div 3 1st"
+		name = "ozfortress Winter League Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12671] = {
-		name = "ozfortress Winter League Div 3 2nd"
+		name = "ozfortress Winter League Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12672] = {
-		name = "ozfortress Winter League Div 3 3rd"
+		name = "ozfortress Winter League Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12673] = {
-		name = "ozfortress Winter League Div 3 Participant"
+		name = "ozfortress Winter League Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12674] = {
-		name = "ozfortress Winter League Div 4 1st"
+		name = "ozfortress Winter League Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12675] = {
-		name = "ozfortress Winter League Div 4 2nd"
+		name = "ozfortress Winter League Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12676] = {
-		name = "ozfortress Winter League Div 4 3rd"
+		name = "ozfortress Winter League Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12677] = {
-		name = "ozfortress Winter League Div 4 Participant"
+		name = "ozfortress Winter League Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12678] = {
-		name = "EBL Invite 1st"
+		name = "EBL Invite 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12679] = {
-		name = "EBL Invite 2nd"
+		name = "EBL Invite 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12680] = {
-		name = "EBL Invite 3rd"
+		name = "EBL Invite 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12681] = {
@@ -22252,15 +22252,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12682] = {
-		name = "EBL Main 1st"
+		name = "EBL Main 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12683] = {
-		name = "EBL Main 2nd"
+		name = "EBL Main 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12684] = {
-		name = "EBL Main 3rd"
+		name = "EBL Main 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12685] = {
@@ -22268,15 +22268,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12686] = {
-		name = "EBL Open 1st"
+		name = "EBL Open 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12687] = {
-		name = "EBL Open 2nd"
+		name = "EBL Open 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12688] = {
-		name = "EBL Open 3rd"
+		name = "EBL Open 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12689] = {
@@ -22284,15 +22284,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12690] = {
-		name = "MidNight Moon 1st"
+		name = "MidNight Moon 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12691] = {
-		name = "MidNight Moon 2nd"
+		name = "MidNight Moon 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12692] = {
-		name = "MidNight Moon 3rd"
+		name = "MidNight Moon 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12693] = {
@@ -22304,37 +22304,37 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12695] = {
-		name = "Gibus 12v12 Cup Gold"
+		name = "Gibus Highlander Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12696] = {
-		name = "Gibus 12v12 Cup Silver"
+		name = "Gibus Highlander Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12697] = {
-		name = "Gibus 12v12 Cup Bronze"
+		name = "Gibus Highlander Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12698] = {
-		name = "Gibus 12v12 Cup Participant"
+		name = "Gibus Highlander Cup Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12699] = {
-		name = "Gibus Prolander Cup Gold"
+		name = "Gibus Prolander Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12700] = {
-		name = "Gibus Prolander Cup Silver"
+		name = "Gibus Prolander Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12701] = {
-		name = "Gibus Prolander Cup Bronze"
+		name = "Gibus Prolander Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -22344,15 +22344,15 @@
 		paint = true
 	},
 	[12703] = {
-		name = "Binary Blackout Golden Great '21"
+		name = "Binary Blackout Golden Great 2021"
 		type = CosmeticType.CommunityMedal
 	},
 	[12704] = {
-		name = "Binary Blackout Silver Soldier '21"
+		name = "Binary Blackout Silver Soldier 2021"
 		type = CosmeticType.CommunityMedal
 	},
 	[12705] = {
-		name = "Binary Blackout Bronze Beginner '21"
+		name = "Binary Blackout Bronze Beginner 2021"
 		type = CosmeticType.CommunityMedal
 	},
 	[12708] = {
@@ -22361,47 +22361,47 @@
 		paint = true
 	},
 	[12709] = {
-		name = "Brazil Fortress Halloween Haunted Group 1st"
+		name = "The Brazil Fortress Halloween - Haunted Group First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12710] = {
-		name = "Brazil Fortress Halloween Haunted Group 2nd"
+		name = "The Brazil Fortress Halloween - Haunted Group Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12711] = {
-		name = "Brazil Fortress Halloween Haunted Group 3rd"
+		name = "The Brazil Fortress Halloween - Haunted Group Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12712] = {
-		name = "Brazil Fortress Halloween Haunted Group Participant"
+		name = "The Brazil Fortress Halloween - Haunted Group Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12713] = {
-		name = "Brazil Fortress Halloween Ghastly Group 1st"
+		name = "The Brazil Fortress Halloween - Ghastly Group First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12714] = {
-		name = "Brazil Fortress Halloween Ghastly Group 2nd"
+		name = "The Brazil Fortress Halloween - Ghastly Group Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12715] = {
-		name = "Brazil Fortress Halloween Ghastly Group 3rd"
+		name = "The Brazil Fortress Halloween - Ghastly Group Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12716] = {
-		name = "Brazil Fortress Halloween Ghastly Group Participant"
+		name = "The Brazil Fortress Halloween - Ghastly Group Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12717] = {
-		name = "Respawn League AUS/NZ BBall Main 1st"
+		name = "Respawn League AUS/NZ BBall Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12718] = {
-		name = "Respawn League AUS/NZ BBall Main 2nd"
+		name = "Respawn League AUS/NZ BBall Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12719] = {
-		name = "Respawn League AUS/NZ BBall Main 3rd"
+		name = "Respawn League AUS/NZ BBall Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12720] = {
@@ -22409,15 +22409,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12721] = {
-		name = "Respawn League AUS/NZ BBall Intermediate 1st"
+		name = "Respawn League AUS/NZ BBall Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12722] = {
-		name = "Respawn League AUS/NZ BBall Intermediate 2nd"
+		name = "Respawn League AUS/NZ BBall Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12723] = {
-		name = "Respawn League AUS/NZ BBall Intermediate 3rd"
+		name = "Respawn League AUS/NZ BBall Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12724] = {
@@ -22425,15 +22425,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12725] = {
-		name = "Respawn League AUS/NZ BBall Premier 1st"
+		name = "Respawn League AUS/NZ BBall Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12726] = {
-		name = "Respawn League AUS/NZ BBall Premier 2nd"
+		name = "Respawn League AUS/NZ BBall Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12727] = {
-		name = "Respawn League AUS/NZ BBall Premier 3rd"
+		name = "Respawn League AUS/NZ BBall Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12728] = {
@@ -22441,15 +22441,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12729] = {
-		name = "Respawn League Asia BBall Main 1st"
+		name = "Respawn League Asia BBall Main 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12730] = {
-		name = "Respawn League Asia BBall Main 2nd"
+		name = "Respawn League Asia BBall Main 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12731] = {
-		name = "Respawn League Asia BBall Main 3rd"
+		name = "Respawn League Asia BBall Main 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12732] = {
@@ -22457,15 +22457,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12733] = {
-		name = "Respawn League Asia BBall Premier 1st"
+		name = "Respawn League Asia BBall Premier 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12734] = {
-		name = "Respawn League Asia BBall Premier 2nd"
+		name = "Respawn League Asia BBall Premier 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12735] = {
-		name = "Respawn League Asia BBall Premier 3rd"
+		name = "Respawn League Asia BBall Premier 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12736] = {
@@ -22473,15 +22473,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12737] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12738] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12739] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12740] = {
@@ -22489,15 +22489,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12741] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12742] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12743] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12744] = {
@@ -22505,15 +22505,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12745] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12746] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12747] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12748] = {
@@ -22521,15 +22521,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12749] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12750] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12751] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12752] = {
@@ -22537,15 +22537,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12753] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12754] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12755] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12756] = {
@@ -22553,157 +22553,157 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12757] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12758] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12759] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12760] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12761] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12762] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12763] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12764] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12765] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12766] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12767] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12768] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12769] = {
-		name = "AsiaFortress Cup Div 4 1st"
+		name = "AsiaFortress Cup Division 4 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12770] = {
-		name = "AsiaFortress Cup Div 4 2nd"
+		name = "AsiaFortress Cup Division 4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12771] = {
-		name = "AsiaFortress Cup Div 4 3rd"
+		name = "AsiaFortress Cup Division 4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12772] = {
-		name = "AsiaFortress Cup Div 4 Participant"
+		name = "AsiaFortress Cup Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12773] = {
-		name = "South American Vanilla Fortress 12v12 Invite 1st"
+		name = "South American Vanilla Fortress Highlander Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12774] = {
-		name = "South American Vanilla Fortress 12v12 Invite 2nd"
+		name = "South American Vanilla Fortress Highlander Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12775] = {
-		name = "South American Vanilla Fortress 12v12 Invite 3rd"
+		name = "South American Vanilla Fortress Highlander Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12776] = {
-		name = "South American Vanilla Fortress 12v12 Invite Participant"
+		name = "South American Vanilla Fortress Highlander Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12777] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate 1st"
+		name = "South American Vanilla Fortress Highlander Intermediate 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12778] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate 2nd"
+		name = "South American Vanilla Fortress Highlander Intermediate 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12779] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate 3rd"
+		name = "South American Vanilla Fortress Highlander Intermediate 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12780] = {
-		name = "South American Vanilla Fortress 12v12 Intermediate Participant"
+		name = "South American Vanilla Fortress Highlander Intermediate Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12781] = {
-		name = "South American Vanilla Fortress 12v12 Open 1st"
+		name = "South American Vanilla Fortress Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12782] = {
-		name = "South American Vanilla Fortress 12v12 Open 2nd"
+		name = "South American Vanilla Fortress Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12783] = {
-		name = "South American Vanilla Fortress 12v12 Open 3rd"
+		name = "South American Vanilla Fortress Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12784] = {
-		name = "South American Vanilla Fortress 12v12 Open Participant"
+		name = "South American Vanilla Fortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12785] = {
-		name = "South American Vanilla Fortress 12v12 Supporter"
+		name = "South American Vanilla Fortress Highlander Supporter"
 		type = CosmeticType.TournamentMedal
 	},
 	[12786] = {
-		name = "AUS Hightower Highjinx Royalty"
+		name = "Australian Hightower Highjinx Royalty"
 		type = CosmeticType.CommunityMedal
 	},
 	[12787] = {
-		name = "AUS Hightower Highjinx Participant"
+		name = "Australian Hightower Highjinx Participant"
 		type = CosmeticType.CommunityMedal
 	},
 	[12788] = {
-		name = "AUS Hightower Highjinx Donor"
+		name = "Australian Hightower Highjinx Donor"
 		type = CosmeticType.CommunityMedal
 	},
 	[12789] = {
-		name = "AUS Hightower Highjinx Helper"
+		name = "Australian Hightower Highjinx Helper"
 		type = CosmeticType.CommunityMedal
 	},
 	[12790] = {
-		name = "TF2Maps Charitable Heart '21"
+		name = "TF2Maps Charitable Heart 2021"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[12791] = {
-		name = "TF2Maps 72hr Jam Participant"
+		name = "TF2Maps 72hr TF2Jam Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[12792] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12793] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12794] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12795] = {
@@ -22711,15 +22711,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12796] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12797] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12798] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12799] = {
@@ -22727,15 +22727,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12800] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12801] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12802] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12803] = {
@@ -22743,15 +22743,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12804] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12805] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12806] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12807] = {
@@ -22759,15 +22759,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12808] = {
-		name = "LBTF2 6v6 Beginner 1st"
+		name = "LBTF2 6v6 Beginner 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12809] = {
-		name = "LBTF2 6v6 Beginner 2nd"
+		name = "LBTF2 6v6 Beginner 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12810] = {
-		name = "LBTF2 6v6 Beginner 3rd"
+		name = "LBTF2 6v6 Beginner 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12811] = {
@@ -22775,15 +22775,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12812] = {
-		name = "Classic MGE Cup Advanced 1st"
+		name = "Classic MGE Cup Advanced 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12813] = {
-		name = "Classic MGE Cup Advanced 2nd"
+		name = "Classic MGE Cup Advanced 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12814] = {
-		name = "Classic MGE Cup Advanced 3rd"
+		name = "Classic MGE Cup Advanced 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12815] = {
@@ -22791,15 +22791,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12816] = {
-		name = "Classic MGE Cup Open 1st"
+		name = "Classic MGE Cup Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12817] = {
-		name = "Classic MGE Cup Open 2nd"
+		name = "Classic MGE Cup Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12818] = {
-		name = "Classic MGE Cup Open 3rd"
+		name = "Classic MGE Cup Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12819] = {
@@ -22811,15 +22811,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12821] = {
-		name = "CLTF2 6v6 Tournament Gold"
+		name = "CLTF2 6v6 Tournament Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12822] = {
-		name = "CLTF2 6v6 Tournament Silver"
+		name = "CLTF2 6v6 Tournament Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12823] = {
-		name = "CLTF2 6v6 Tournament Bronze"
+		name = "CLTF2 6v6 Tournament Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12824] = {
@@ -22827,7 +22827,7 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12825] = {
-		name = "CLTF2 6v6 Tournament Staff"
+		name = "CLTF2 6v6 Tournament Staff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12826] = {
@@ -22835,15 +22835,15 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[12830] = {
-		name = "Streamer Cup Gold"
+		name = "Streamer Cup Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12831] = {
-		name = "Streamer Cup Silver"
+		name = "Streamer Cup Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12832] = {
-		name = "Streamer Cup Bronze"
+		name = "Streamer Cup Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[12833] = {
@@ -22855,15 +22855,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12835] = {
-		name = "CappingTV Summer Brawl 1st"
+		name = "CappingTV Summer Brawl 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12836] = {
-		name = "CappingTV Summer Brawl 2nd"
+		name = "CappingTV Summer Brawl 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12837] = {
-		name = "CappingTV Summer Brawl 3rd"
+		name = "CappingTV Summer Brawl 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12838] = {
@@ -22871,15 +22871,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12839] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12840] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12841] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12842] = {
@@ -22887,15 +22887,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12843] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12844] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12845] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12846] = {
@@ -22903,15 +22903,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12847] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12848] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12849] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12850] = {
@@ -22919,15 +22919,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12851] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12852] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12853] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12854] = {
@@ -22935,15 +22935,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12855] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12856] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12857] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12858] = {
@@ -22951,15 +22951,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12859] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12860] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12861] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12862] = {
@@ -22967,15 +22967,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12863] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12864] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12865] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12866] = {
@@ -22983,15 +22983,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12867] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12868] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12869] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12870] = {
@@ -22999,47 +22999,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12871] = {
-		name = "Respawn League AUS/NZ 12v12 1st"
+		name = "Respawn League AUS/NZ Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12872] = {
-		name = "Respawn League AUS/NZ 12v12 2nd"
+		name = "Respawn League AUS/NZ Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12873] = {
-		name = "Respawn League AUS/NZ 12v12 3rd"
+		name = "Respawn League AUS/NZ Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12874] = {
-		name = "Respawn League AUS/NZ 12v12 Participant"
+		name = "Respawn League AUS/NZ Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12875] = {
-		name = "Respawn League ASIA 12v12 1st"
+		name = "Respawn League ASIA Highlander 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12876] = {
-		name = "Respawn League ASIA 12v12 2nd"
+		name = "Respawn League ASIA Highlander 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12877] = {
-		name = "Respawn League ASIA 12v12 3rd"
+		name = "Respawn League ASIA Highlander 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12878] = {
-		name = "Respawn League ASIA 12v12 Participant"
+		name = "Respawn League ASIA Highlander Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12879] = {
-		name = "TFCL Summer Cup 1st"
+		name = "TFCL Summer Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12880] = {
-		name = "TFCL Summer Cup 2nd"
+		name = "TFCL Summer Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12881] = {
-		name = "TFCL Summer Cup 3rd"
+		name = "TFCL Summer Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12882] = {
@@ -23052,195 +23052,195 @@
 		paint = true
 	},
 	[12889] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12890] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12891] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12892] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12893] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12894] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12895] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12896] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12897] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12898] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12899] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12900] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12901] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12902] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12903] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12904] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12905] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12906] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12907] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12908] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12909] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12910] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12911] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12912] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12913] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12914] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12915] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12916] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12917] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12918] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12919] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12920] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12921] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12922] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12923] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12924] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[12925] = {
-		name = "South American Vanilla Fortress 6v6 Elite 1st"
+		name = "South American Vanilla Fortress 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12926] = {
-		name = "South American Vanilla Fortress 6v6 Elite 2nd"
+		name = "South American Vanilla Fortress 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12927] = {
-		name = "South American Vanilla Fortress 6v6 Elite 3rd"
+		name = "South American Vanilla Fortress 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12928] = {
@@ -23248,15 +23248,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12929] = {
-		name = "South American Vanilla Fortress 6v6 Central 1st"
+		name = "South American Vanilla Fortress 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12930] = {
-		name = "South American Vanilla Fortress 6v6 Central 2nd"
+		name = "South American Vanilla Fortress 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12931] = {
-		name = "South American Vanilla Fortress 6v6 Central 3rd"
+		name = "South American Vanilla Fortress 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12932] = {
@@ -23264,15 +23264,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12933] = {
-		name = "South American Vanilla Fortress 6v6 Access 1st"
+		name = "South American Vanilla Fortress 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12934] = {
-		name = "South American Vanilla Fortress 6v6 Access 2nd"
+		name = "South American Vanilla Fortress 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12935] = {
-		name = "South American Vanilla Fortress 6v6 Access 3rd"
+		name = "South American Vanilla Fortress 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12936] = {
@@ -23280,15 +23280,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12937] = {
-		name = "South American Vanilla Fortress 6v6 Open 1st"
+		name = "South American Vanilla Fortress 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12938] = {
-		name = "South American Vanilla Fortress 6v6 Open 2nd"
+		name = "South American Vanilla Fortress 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12939] = {
-		name = "South American Vanilla Fortress 6v6 Open 3rd"
+		name = "South American Vanilla Fortress 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12940] = {
@@ -23296,163 +23296,163 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12941] = {
-		name = "South American Vanilla Fortress 12v12 Elite 1st"
+		name = "South American Vanilla Fortress Highlander Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12942] = {
-		name = "South American Vanilla Fortress 12v12 Elite 2nd"
+		name = "South American Vanilla Fortress Highlander Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12943] = {
-		name = "South American Vanilla Fortress 12v12 Elite 3rd"
+		name = "South American Vanilla Fortress Highlander Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12944] = {
-		name = "South American Vanilla Fortress 12v12 Elite Participant"
+		name = "South American Vanilla Fortress Highlander Elite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12945] = {
-		name = "South American Vanilla Fortress 12v12 Central 1st"
+		name = "South American Vanilla Fortress Highlander Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12946] = {
-		name = "South American Vanilla Fortress 12v12 Central 2nd"
+		name = "South American Vanilla Fortress Highlander Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12947] = {
-		name = "South American Vanilla Fortress 12v12 Central 3rd"
+		name = "South American Vanilla Fortress Highlander Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12948] = {
-		name = "South American Vanilla Fortress 12v12 Central Participant"
+		name = "South American Vanilla Fortress Highlander Central Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12949] = {
-		name = "South American Vanilla Fortress 12v12 Access 1st"
+		name = "South American Vanilla Fortress Highlander Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12950] = {
-		name = "South American Vanilla Fortress 12v12 Access 2nd"
+		name = "South American Vanilla Fortress Highlander Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12951] = {
-		name = "South American Vanilla Fortress 12v12 Access 3rd"
+		name = "South American Vanilla Fortress Highlander Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12952] = {
-		name = "South American Vanilla Fortress 12v12 Access Participant"
+		name = "South American Vanilla Fortress Highlander Access Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12953] = {
-		name = "South American Vanilla Fortress 12v12 Open 1st"
+		name = "South American Vanilla Fortress Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12954] = {
-		name = "South American Vanilla Fortress 12v12 Open 2nd"
+		name = "South American Vanilla Fortress Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12955] = {
-		name = "South American Vanilla Fortress 12v12 Open 3rd"
+		name = "South American Vanilla Fortress Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12956] = {
-		name = "South American Vanilla Fortress 12v12 Open Participant"
+		name = "South American Vanilla Fortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12957] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12958] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12959] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12960] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12961] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12962] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12963] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12964] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12965] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12966] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12967] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12968] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12969] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12970] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12971] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12972] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12973] = {
-		name = "ozfortress 12v12 Intermediate 1st"
+		name = "ozfortress Highlander Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12974] = {
-		name = "ozfortress 12v12 Intermediate 2nd"
+		name = "ozfortress Highlander Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12975] = {
-		name = "ozfortress 12v12 Intermediate 3rd"
+		name = "ozfortress Highlander Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12976] = {
-		name = "ozfortress 12v12 Intermediate Participant"
+		name = "ozfortress Highlander Intermediate Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12977] = {
-		name = "ozfortress 12v12 Open 1st"
+		name = "ozfortress Highlander Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12978] = {
-		name = "ozfortress 12v12 Open 2nd"
+		name = "ozfortress Highlander Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12979] = {
-		name = "ozfortress 12v12 Open 3rd"
+		name = "ozfortress Highlander Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12980] = {
-		name = "ozfortress 12v12 Open Participant"
+		name = "ozfortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[12981] = {
@@ -23460,11 +23460,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12982] = {
-		name = "LAN Downunder 2nd"
+		name = "LAN Downunder 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12983] = {
-		name = "LAN Downunder 3rd"
+		name = "LAN Downunder 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12984] = {
@@ -23472,49 +23472,49 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[12985] = {
-		name = "Anniversary Annihilation Participation Trophy '22"
+		name = "Anniversary Annihilation Participation Trophy 2022"
 		type = CosmeticType.CommunityMedal
 	},
 	[12986] = {
-		name = "Anniversary Annihilation Galvanized Goblet '22"
+		name = "Anniversary Annihilation Galvanized Goblet 2022"
 		type = CosmeticType.CommunityMedal
 	},
 	[12991] = {
-		name = "TF2Maps 72hr Jam Summer Participant"
+		name = "TF2Maps 72hr TF2Jam Summer Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[12992] = {
-		name = "TF2Maps Ray of Sunshine '22"
+		name = "TF2Maps Ray of Sunshine 2022"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[12993] = {
-		name = "BlapBash Backer '22"
+		name = "BlapBash Backer 2022"
 		type = CosmeticType.CommunityMedal
 	},
 	[12994] = {
-		name = "BlapBash Supporter '22"
+		name = "BlapBash Supporter 2022"
 		type = CosmeticType.CommunityMedal
 	},
 	[12995] = {
-		name = "BlapBash Benefactor '22"
+		name = "BlapBash Benefactor 2022"
 		type = CosmeticType.CommunityMedal
 	},
 	[12996] = {
-		name = "BlapBash Advocator '22"
+		name = "BlapBash Advocator 2022"
 		type = CosmeticType.CommunityMedal
 	},
 	[12997] = {
-		name = "Insomnia 69 1st"
+		name = "Insomnia 69 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12998] = {
-		name = "Insomnia 69 2nd"
+		name = "Insomnia 69 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[12999] = {
-		name = "Insomnia 69 3rd"
+		name = "Insomnia 69 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13000] = {
@@ -23526,15 +23526,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13002] = {
-		name = "DreamHack Community Clash 1st"
+		name = "DreamHack Community Clash 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13003] = {
-		name = "DreamHack Community Clash 2nd"
+		name = "DreamHack Community Clash 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13004] = {
-		name = "DreamHack Community Clash 3rd"
+		name = "DreamHack Community Clash 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13005] = {
@@ -23546,866 +23546,866 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13007] = {
-		name = "TFArena Elite Div Champions"
+		name = "TFArena Elite Division Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13008] = {
-		name = "TFArena Elite Div 2nd"
+		name = "TFArena Elite Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13009] = {
-		name = "TFArena Elite Div 3rd"
+		name = "TFArena Elite Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13010] = {
-		name = "TFArena Elite Div Participant"
+		name = "TFArena Elite Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13011] = {
-		name = "TFArena Experienced Div Champions"
+		name = "TFArena Experienced Division Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13012] = {
-		name = "TFArena Experienced Div 2nd"
+		name = "TFArena Experienced Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13013] = {
-		name = "TFArena Experienced Div 3rd"
+		name = "TFArena Experienced Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13014] = {
-		name = "TFArena Experienced Div Participant"
+		name = "TFArena Experienced Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13015] = {
-		name = "TFArena Rookie Div Champions"
+		name = "TFArena Rookie Division Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13016] = {
-		name = "TFArena Rookie Div 2nd"
+		name = "TFArena Rookie Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13017] = {
-		name = "TFArena Rookie Div 3rd"
+		name = "TFArena Rookie Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13018] = {
-		name = "TFArena Rookie Div Participant"
+		name = "TFArena Rookie Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13019] = {
-		name = "TFArena Helper"
+		name = "TFArena Helper Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13020] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13021] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13022] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13023] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13024] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13025] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13026] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13027] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13028] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13029] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13030] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13031] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13032] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13033] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13034] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13035] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13036] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13037] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13038] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13039] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13040] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13041] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13042] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13043] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13044] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13045] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13046] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13047] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13048] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13049] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13050] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13051] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13052] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13053] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13054] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13055] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13056] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13057] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13058] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13059] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13060] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13061] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13062] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13063] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13064] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13065] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13066] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13067] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13068] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13069] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13070] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13071] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13072] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13073] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13074] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13075] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13076] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13077] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13078] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13079] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13080] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13081] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13082] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13083] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13084] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13085] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13086] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13087] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13088] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13089] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13090] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13091] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13092] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13093] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13094] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13095] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13096] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13097] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13098] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13099] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13100] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13101] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13102] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13103] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13104] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13105] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13106] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13107] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13108] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13109] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13110] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13111] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13112] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13113] = {
-		name = "ETF2L 12v12 Div 3 Gold"
+		name = "ETF2L Highlander Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13114] = {
-		name = "ETF2L 12v12 Div 3 Silver"
+		name = "ETF2L Highlander Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13115] = {
-		name = "ETF2L 12v12 Div 3 Bronze"
+		name = "ETF2L Highlander Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13116] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13117] = {
-		name = "ETF2L 12v12 Div 4 Gold"
+		name = "ETF2L Highlander Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13118] = {
-		name = "ETF2L 12v12 Div 4 Silver"
+		name = "ETF2L Highlander Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13119] = {
-		name = "ETF2L 12v12 Div 4 Bronze"
+		name = "ETF2L Highlander Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13120] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13121] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13122] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13123] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13124] = {
-		name = "ETF2L 12v12 Low Playoff"
+		name = "ETF2L Highlander Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13125] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13126] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13127] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13128] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13129] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13130] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13131] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13132] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13133] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13134] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13135] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13136] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13137] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13138] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13139] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13140] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13141] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13142] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13143] = {
-		name = "ETF2L 12v12 Div 3 Gold"
+		name = "ETF2L Highlander Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13144] = {
-		name = "ETF2L 12v12 Div 3 Silver"
+		name = "ETF2L Highlander Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13145] = {
-		name = "ETF2L 12v12 Div 3 Bronze"
+		name = "ETF2L Highlander Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13146] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13147] = {
-		name = "ETF2L 12v12 Div 4 Gold"
+		name = "ETF2L Highlander Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13148] = {
-		name = "ETF2L 12v12 Div 4 Silver"
+		name = "ETF2L Highlander Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13149] = {
-		name = "ETF2L 12v12 Div 4 Bronze"
+		name = "ETF2L Highlander Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13150] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13151] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13152] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13153] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13154] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13155] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13156] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13157] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13158] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13159] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13160] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13161] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13162] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13163] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13164] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13165] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13166] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13167] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13168] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13169] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13170] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13171] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13172] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13173] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13174] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13175] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13176] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13177] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13178] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13179] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13180] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13181] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13182] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13183] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13184] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13185] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13186] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13187] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13188] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13189] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13190] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13191] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13192] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13193] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13194] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13195] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13196] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13197] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13198] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13199] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13200] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13201] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13202] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13203] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13204] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13205] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13206] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13207] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13208] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13209] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13210] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13211] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13212] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13213] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -24414,212 +24414,212 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13215] = {
-		name = "Holographic Harvest Carbon Compassion '22"
+		name = "Holographic Harvest Carbon Compassion 2022"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13216] = {
-		name = "Holographic Harvest Zebra Zirconia '22"
+		name = "Holographic Harvest Zebra Zirconia 2022"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13217] = {
-		name = "Holographic Harvest Lahsuniya Ratna '22"
+		name = "Holographic Harvest Lahsuniya Ratna 2022"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13218] = {
-		name = "Holographic Harvest Haunted Scrap Canteen '22"
+		name = "Holographic Harvest Haunted Scrap Canteen 2022"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13219] = {
-		name = "PASS Time Federation EU 1st"
+		name = "PASS Time Federation - EU - 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13220] = {
-		name = "PASS Time Federation EU 2nd"
+		name = "PASS Time Federation - EU - 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13221] = {
-		name = "PASS Time Federation EU 3rd"
+		name = "PASS Time Federation - EU - 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13222] = {
-		name = "PASS Time Federation EU Participant"
+		name = "PASS Time Federation - EU - Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13223] = {
-		name = "PASS Time Federation NA 1st"
+		name = "PASS Time Federation - NA - 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13224] = {
-		name = "PASS Time Federation NA 2nd"
+		name = "PASS Time Federation - NA - 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13225] = {
-		name = "PASS Time Federation NA 3rd"
+		name = "PASS Time Federation - NA - 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13226] = {
-		name = "PASS Time Federation NA Participant"
+		name = "PASS Time Federation - NA - Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13227] = {
-		name = "PASS Time Federation Staff"
+		name = "PASS Time Federation Staff Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13228] = {
-		name = "Fruit Mixes 12v12 High/Prem Gold"
+		name = "Fruit Mixes Highlander High/Prem Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13229] = {
-		name = "Fruit Mixes 12v12 High/Prem Silver"
+		name = "Fruit Mixes Highlander High/Prem Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13230] = {
-		name = "Fruit Mixes 12v12 High/Prem Bronze"
+		name = "Fruit Mixes Highlander High/Prem Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13231] = {
-		name = "Fruit Mixes 12v12 High/Prem Participant"
+		name = "Fruit Mixes Highlander High/Prem Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13232] = {
-		name = "Fruit Mixes 12v12 Mid Gold"
+		name = "Fruit Mixes Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13233] = {
-		name = "Fruit Mixes 12v12 Mid Silver"
+		name = "Fruit Mixes Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13234] = {
-		name = "Fruit Mixes 12v12 Mid Bronze"
+		name = "Fruit Mixes Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13235] = {
-		name = "Fruit Mixes 12v12 Mid Participant"
+		name = "Fruit Mixes Highlander Mid Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13236] = {
-		name = "Fruit Mixes 12v12 Low Gold"
+		name = "Fruit Mixes Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13237] = {
-		name = "Fruit Mixes 12v12 Low Silver"
+		name = "Fruit Mixes Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13238] = {
-		name = "Fruit Mixes 12v12 Low Bronze"
+		name = "Fruit Mixes Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13239] = {
-		name = "Fruit Mixes 12v12 Low Participant"
+		name = "Fruit Mixes Highlander Low Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13240] = {
-		name = "Fruit Mixes 12v12 Open Gold"
+		name = "Fruit Mixes Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13241] = {
-		name = "Fruit Mixes 12v12 Open Silver"
+		name = "Fruit Mixes Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13242] = {
-		name = "Fruit Mixes 12v12 Open Bronze"
+		name = "Fruit Mixes Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13243] = {
-		name = "Fruit Mixes 12v12 Open Participant"
+		name = "Fruit Mixes Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13244] = {
-		name = "Fruit Mixes 12v12 Staff"
+		name = "Fruit Mixes Highlander Staff"
 		type = CosmeticType.TournamentMedal
 	},
 	[13245] = {
-		name = "AsiaFortress Cup Div 1 1st"
+		name = "AsiaFortress Cup Division 1 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13246] = {
-		name = "AsiaFortress Cup Div 1 2nd"
+		name = "AsiaFortress Cup Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13247] = {
-		name = "AsiaFortress Cup Div 1 3rd"
+		name = "AsiaFortress Cup Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13248] = {
-		name = "AsiaFortress Cup Div 1 Participant"
+		name = "AsiaFortress Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13249] = {
-		name = "AsiaFortress Cup Div 2 1st"
+		name = "AsiaFortress Cup Division 2 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13250] = {
-		name = "AsiaFortress Cup Div 2 2nd"
+		name = "AsiaFortress Cup Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13251] = {
-		name = "AsiaFortress Cup Div 2 3rd"
+		name = "AsiaFortress Cup Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13252] = {
-		name = "AsiaFortress Cup Div 2 Participant"
+		name = "AsiaFortress Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13253] = {
-		name = "AsiaFortress Cup Div 3 1st"
+		name = "AsiaFortress Cup Division 3 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13254] = {
-		name = "AsiaFortress Cup Div 3 2nd"
+		name = "AsiaFortress Cup Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13255] = {
-		name = "AsiaFortress Cup Div 3 3rd"
+		name = "AsiaFortress Cup Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13256] = {
-		name = "AsiaFortress Cup Div 3 Participant"
+		name = "AsiaFortress Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13257] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13258] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13259] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13260] = {
@@ -24627,15 +24627,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13261] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13262] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13263] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13264] = {
@@ -24643,15 +24643,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13265] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13266] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13267] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13268] = {
@@ -24659,15 +24659,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13269] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13270] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13271] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13272] = {
@@ -24675,231 +24675,231 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13273] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13274] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13275] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13276] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13277] = {
-		name = "ozfortress 12v12 Main 1st"
+		name = "ozfortress Highlander Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13278] = {
-		name = "ozfortress 12v12 Main 2nd"
+		name = "ozfortress Highlander Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13279] = {
-		name = "ozfortress 12v12 Main 3rd"
+		name = "ozfortress Highlander Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13280] = {
-		name = "ozfortress 12v12 Main Participant"
+		name = "ozfortress Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13281] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13282] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13283] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13284] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13285] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13286] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13287] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13288] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13289] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13290] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13291] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13292] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13293] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13294] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13295] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13296] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13297] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13298] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13299] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13300] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13301] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13302] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13303] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13304] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13305] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13306] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13307] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13308] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13309] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13310] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13311] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13312] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13313] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13314] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13315] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13316] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13317] = {
-		name = "RGL.gg 12v12 Experimental Maps Cup"
+		name = "RGL.gg Highlander Experimental Maps Cup"
 		type = CosmeticType.TournamentMedal
 	},
 	[13318] = {
-		name = "CappingTV Summer Brawl 1st"
+		name = "CappingTV Summer Brawl 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13319] = {
-		name = "CappingTV Summer Brawl 2nd"
+		name = "CappingTV Summer Brawl 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13320] = {
-		name = "CappingTV Summer Brawl 3rd"
+		name = "CappingTV Summer Brawl 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13321] = {
@@ -24913,137 +24913,137 @@
 		styles = ["Style 1" "Style 2"]
 	},
 	[13323] = {
-		name = "ozfortress Summer Cup Sixes Div 1 1st"
+		name = "ozfortress Summer Cup Sixes Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13324] = {
-		name = "ozfortress Summer Cup Sixes Div 1 2nd"
+		name = "ozfortress Summer Cup Sixes Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13325] = {
-		name = "ozfortress Summer Cup Sixes Div 1 3rd"
+		name = "ozfortress Summer Cup Sixes Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13326] = {
-		name = "ozfortress Summer Cup Sixes Div 1 Participant"
+		name = "ozfortress Summer Cup Sixes Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13327] = {
-		name = "ozfortress Summer Cup Sixes Div 2 1st"
+		name = "ozfortress Summer Cup Sixes Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13328] = {
-		name = "ozfortress Summer Cup Sixes Div 2 2nd"
+		name = "ozfortress Summer Cup Sixes Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13329] = {
-		name = "ozfortress Summer Cup Sixes Div 2 3rd"
+		name = "ozfortress Summer Cup Sixes Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13330] = {
-		name = "ozfortress Summer Cup Sixes Div 2 Participant"
+		name = "ozfortress Summer Cup Sixes Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13331] = {
-		name = "ozfortress Summer Cup Sixes Div 3 1st"
+		name = "ozfortress Summer Cup Sixes Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13332] = {
-		name = "ozfortress Summer Cup Sixes Div 3 2nd"
+		name = "ozfortress Summer Cup Sixes Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13333] = {
-		name = "ozfortress Summer Cup Sixes Div 3 3rd"
+		name = "ozfortress Summer Cup Sixes Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13334] = {
-		name = "ozfortress Summer Cup Sixes Div 3 Participant"
+		name = "ozfortress Summer Cup Sixes Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13335] = {
-		name = "Last Laugh Copper Chicanery '23"
+		name = "Last Laugh Copper Chicanery 2023"
 		type = CosmeticType.CommunityMedal
 		styles = ["Gem Only" "Normal"]
 	},
 	[13336] = {
-		name = "Last Laugh Happy Spud '23"
+		name = "Last Laugh Happy Spud 2023"
 		type = CosmeticType.CommunityMedal
 		styles = ["Style 1" "Style 2"]
 	},
 	[13337] = {
-		name = "Last Laugh Bruised Johnstone '23"
+		name = "Last Laugh Bruised Johnstone 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Gem Only" "Normal"]
 	},
 	[13338] = {
-		name = "Last Laugh Caustic Container '23"
+		name = "Last Laugh Caustic Container 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13339] = {
-		name = "Last Laugh Alluring Artifact '23"
+		name = "Last Laugh Alluring Artifact 2023"
 		type = CosmeticType.CommunityMedal
 		styles = ["Gem Only" "Normal"]
 	},
 	[13340] = {
-		name = "ozfortress Summer Cup 12v12 Div 1 1st"
+		name = "ozfortress Summer Cup Highlander Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13341] = {
-		name = "ozfortress Summer Cup 12v12 Div 1 2nd"
+		name = "ozfortress Summer Cup Highlander Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13342] = {
-		name = "ozfortress Summer Cup 12v12 Div 1 3rd"
+		name = "ozfortress Summer Cup Highlander Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13343] = {
-		name = "ozfortress Summer Cup 12v12 Div 1 Participant"
+		name = "ozfortress Summer Cup Highlander Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13344] = {
-		name = "ozfortress Summer Cup 12v12 Div 2 1st"
+		name = "ozfortress Summer Cup Highlander Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13345] = {
-		name = "ozfortress Summer Cup 12v12 Div 2 2nd"
+		name = "ozfortress Summer Cup Highlander Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13346] = {
-		name = "ozfortress Summer Cup 12v12 Div 2 3rd"
+		name = "ozfortress Summer Cup Highlander Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13347] = {
-		name = "ozfortress Summer Cup 12v12 Div 2 Participant"
+		name = "ozfortress Summer Cup Highlander Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13348] = {
-		name = "ozfortress Summer Cup 12v12 Div 3 1st"
+		name = "ozfortress Summer Cup Highlander Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13349] = {
-		name = "ozfortress Summer Cup 12v12 Div 3 2nd"
+		name = "ozfortress Summer Cup Highlander Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13350] = {
-		name = "ozfortress Summer Cup 12v12 Div 3 3rd"
+		name = "ozfortress Summer Cup Highlander Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13351] = {
-		name = "ozfortress Summer Cup 12v12 Div 3 Participant"
+		name = "ozfortress Summer Cup Highlander Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13352] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13353] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13354] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13355] = {
@@ -25051,15 +25051,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13356] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13357] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13358] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13359] = {
@@ -25067,15 +25067,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13360] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13361] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13362] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13363] = {
@@ -25083,15 +25083,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13364] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13365] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13366] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13367] = {
@@ -25099,244 +25099,244 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13368] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13369] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13370] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13371] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13372] = {
-		name = "ozfortress 12v12 Intermediate 1st"
+		name = "ozfortress Highlander Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13373] = {
-		name = "ozfortress 12v12 Intermediate 2nd"
+		name = "ozfortress Highlander Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13374] = {
-		name = "ozfortress 12v12 Intermediate 3rd"
+		name = "ozfortress Highlander Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13375] = {
-		name = "ozfortress 12v12 Intermediate Participant"
+		name = "ozfortress Highlander Intermediate Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13376] = {
-		name = "ozfortress 12v12 Open 1st"
+		name = "ozfortress Highlander Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13377] = {
-		name = "ozfortress 12v12 Open 2nd"
+		name = "ozfortress Highlander Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13378] = {
-		name = "ozfortress 12v12 Open 3rd"
+		name = "ozfortress Highlander Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13379] = {
-		name = "ozfortress 12v12 Open Participant"
+		name = "ozfortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13380] = {
-		name = "Voltaic Violence Verdant Vexatious Vivianite of Vanity '23"
+		name = "Voltaic Violence Verdant Vexatious Vivianite of Vanity 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13381] = {
-		name = "Voltaic Violence Volcanic Vesuvianite of Valor '23"
+		name = "Voltaic Violence Volcanic Vesuvianite of Valor 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13382] = {
-		name = "Voltaic Violence Virtual Vascular Vitality '23"
+		name = "Voltaic Violence Virtual Vascular Vitality 2023"
 		type = CosmeticType.CommunityMedal
 	},
 	[13383] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13384] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13385] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13386] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13387] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13388] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13389] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13390] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13391] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13392] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13393] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13394] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13395] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13396] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13397] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13398] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13399] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13400] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13401] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13402] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13403] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13404] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13405] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13406] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13407] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13408] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13409] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13410] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13411] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13412] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13413] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13414] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13415] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13416] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13417] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13418] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -25345,11 +25345,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13420] = {
-		name = "LAN Downunder 2nd"
+		name = "LAN Downunder 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13421] = {
-		name = "LAN Downunder 3rd"
+		name = "LAN Downunder 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13422] = {
@@ -25357,15 +25357,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13423] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13424] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13425] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13426] = {
@@ -25373,15 +25373,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13427] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13428] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13429] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13430] = {
@@ -25389,15 +25389,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13431] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13432] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13433] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13434] = {
@@ -25405,15 +25405,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13435] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13436] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13437] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13438] = {
@@ -25421,15 +25421,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13439] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13440] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13441] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13442] = {
@@ -25437,89 +25437,89 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13443] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13444] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13445] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13446] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13447] = {
-		name = "ozfortress 12v12 Intermediate 1st"
+		name = "ozfortress Highlander Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13448] = {
-		name = "ozfortress 12v12 Intermediate 2nd"
+		name = "ozfortress Highlander Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13449] = {
-		name = "ozfortress 12v12 Intermediate 3rd"
+		name = "ozfortress Highlander Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13450] = {
-		name = "ozfortress 12v12 Intermediate Participant"
+		name = "ozfortress Highlander Intermediate Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13451] = {
-		name = "ozfortress 12v12 Main 1st"
+		name = "ozfortress Highlander Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13452] = {
-		name = "ozfortress 12v12 Main 2nd"
+		name = "ozfortress Highlander Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13453] = {
-		name = "ozfortress 12v12 Main 3rd"
+		name = "ozfortress Highlander Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13454] = {
-		name = "ozfortress 12v12 Main Participant"
+		name = "ozfortress Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13455] = {
-		name = "ozfortress 12v12 Open 1st"
+		name = "ozfortress Highlander Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13456] = {
-		name = "ozfortress 12v12 Open 2nd"
+		name = "ozfortress Highlander Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13457] = {
-		name = "ozfortress 12v12 Open 3rd"
+		name = "ozfortress Highlander Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13458] = {
-		name = "ozfortress 12v12 Open Participant"
+		name = "ozfortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13459] = {
-		name = "Heartfelt Hug '23"
+		name = "The Heartfelt Hug 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13460] = {
-		name = "Heartfelt Hero '23"
+		name = "The Heartfelt Hero 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13461] = {
-		name = "LBTF2 6v6 Central 1st"
+		name = "LBTF2 6v6 Central 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13462] = {
-		name = "LBTF2 6v6 Central 2nd"
+		name = "LBTF2 6v6 Central 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13463] = {
-		name = "LBTF2 6v6 Central 3rd"
+		name = "LBTF2 6v6 Central 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13464] = {
@@ -25527,15 +25527,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13465] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13466] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13467] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13468] = {
@@ -25543,15 +25543,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13469] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13470] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13471] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13472] = {
@@ -25559,15 +25559,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13473] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13474] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13475] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13476] = {
@@ -25575,15 +25575,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13477] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13478] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13479] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13480] = {
@@ -25591,15 +25591,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13481] = {
-		name = "LBTF2 6v6 Elite 1st"
+		name = "LBTF2 6v6 Elite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13482] = {
-		name = "LBTF2 6v6 Elite 2nd"
+		name = "LBTF2 6v6 Elite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13483] = {
-		name = "LBTF2 6v6 Elite 3rd"
+		name = "LBTF2 6v6 Elite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13484] = {
@@ -25607,15 +25607,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13485] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13486] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13487] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13488] = {
@@ -25623,15 +25623,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13489] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13490] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13491] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13492] = {
@@ -25639,20 +25639,20 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13496] = {
-		name = "Galvanized Gauntlet Soldiers Spoils '23"
+		name = "Galvanized Gauntlet Soldiers Spoils 2023"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[13497] = {
-		name = "AsiaFortress Invite 1st"
+		name = "AsiaFortress Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13498] = {
-		name = "AsiaFortress Invite 2nd"
+		name = "AsiaFortress Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13499] = {
-		name = "AsiaFortress Invite 3rd"
+		name = "AsiaFortress Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13500] = {
@@ -25664,19 +25664,19 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13502] = {
-		name = "AsiaFortress International Jade"
+		name = "AsiaFortress International Jade Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13503] = {
-		name = "Insomnia 71 1st"
+		name = "Insomnia 71 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13504] = {
-		name = "Insomnia 71 2nd"
+		name = "Insomnia 71 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13505] = {
-		name = "Insomnia 71 3rd"
+		name = "Insomnia 71 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13506] = {
@@ -25688,289 +25688,289 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13508] = {
-		name = "TF2Maps Charitable Heart '23"
+		name = "TF2Maps Charitable Heart 2023"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[13509] = {
-		name = "TF2Maps 72hr Jam Participant"
+		name = "TF2Maps 72hr TF2Jam Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[13510] = {
-		name = "ozfortress Experimental Cup 2 Div 1 1st"
+		name = "ozfortress Experimental Cup 2 Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13511] = {
-		name = "ozfortress Experimental Cup 2 Div 1 2nd"
+		name = "ozfortress Experimental Cup 2 Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13512] = {
-		name = "ozfortress Experimental Cup 2 Div 1 3rd"
+		name = "ozfortress Experimental Cup 2 Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13513] = {
-		name = "ozfortress Experimental Cup 2 Div 1 Participant"
+		name = "ozfortress Experimental Cup 2 Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13514] = {
-		name = "ozfortress Experimental Cup 2 Div 2 1st"
+		name = "ozfortress Experimental Cup 2 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13515] = {
-		name = "ozfortress Experimental Cup 2 Div 2 2nd"
+		name = "ozfortress Experimental Cup 2 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13516] = {
-		name = "ozfortress Experimental Cup 2 Div 2 3rd"
+		name = "ozfortress Experimental Cup 2 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13517] = {
-		name = "ozfortress Experimental Cup 2 Div 2 Participant"
+		name = "ozfortress Experimental Cup 2 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13518] = {
-		name = "ozfortress Experimental Cup 2 Div 3 1st"
+		name = "ozfortress Experimental Cup 2 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13519] = {
-		name = "ozfortress Experimental Cup 2 Div 3 2nd"
+		name = "ozfortress Experimental Cup 2 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13520] = {
-		name = "ozfortress Experimental Cup 2 Div 3 3rd"
+		name = "ozfortress Experimental Cup 2 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13521] = {
-		name = "ozfortress Experimental Cup 2 Div 3 Participant"
+		name = "ozfortress Experimental Cup 2 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13522] = {
-		name = "ozfortress Experimental Cup 2 Div 4 1st"
+		name = "ozfortress Experimental Cup 2 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13523] = {
-		name = "ozfortress Experimental Cup 2 Div 4 2nd"
+		name = "ozfortress Experimental Cup 2 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13524] = {
-		name = "ozfortress Experimental Cup 2 Div 4 3rd"
+		name = "ozfortress Experimental Cup 2 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13525] = {
-		name = "ozfortress Experimental Cup 2 Div 4 Participant"
+		name = "ozfortress Experimental Cup 2 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13526] = {
-		name = "ozfortress Experimental Cup 2 Div 5 1st"
+		name = "ozfortress Experimental Cup 2 Division 5 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13527] = {
-		name = "ozfortress Experimental Cup 2 Div 5 2nd"
+		name = "ozfortress Experimental Cup 2 Division 5 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13528] = {
-		name = "ozfortress Experimental Cup 2 Div 5 3rd"
+		name = "ozfortress Experimental Cup 2 Division 5 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13529] = {
-		name = "ozfortress Experimental Cup 2 Div 5 Participant"
+		name = "ozfortress Experimental Cup 2 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13530] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13531] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13532] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13533] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13534] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13535] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13536] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13537] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13538] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13539] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13540] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13541] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13542] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13543] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13544] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13545] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13546] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13547] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13548] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13549] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13550] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13551] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13552] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13553] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13554] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13555] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13556] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13557] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13558] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13559] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13560] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13561] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13562] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13563] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13564] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13565] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13567] = {
-		name = "Firmware Frenzy Purehearted Purple '23"
+		name = "Firmware Frenzy Purehearted Purple 2023"
 		type = CosmeticType.CommunityMedal
 	},
 	[13568] = {
-		name = "Firmware Frenzy Bountiful Benevolence '23"
+		name = "Firmware Frenzy Bountiful Benevolence 2023"
 		type = CosmeticType.CommunityMedal
 	},
 	[13569] = {
-		name = "Firmware Frenzy Giver in Gold '23"
+		name = "Firmware Frenzy Giver in Gold 2023"
 		type = CosmeticType.CommunityMedal
 	},
 	[13570] = {
-		name = "Firmware Frenzy Supercritical Selflessness '23"
+		name = "Firmware Frenzy Supercritical Selflessness 2023"
 		type = CosmeticType.CommunityMedal
 	},
 	[13571] = {
@@ -25978,15 +25978,15 @@
 		type = CosmeticType.CommunityMedal
 	},
 	[13572] = {
-		name = "United Dodgeball League Gold"
+		name = "United Dodgeball League Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13573] = {
-		name = "United Dodgeball League Silver"
+		name = "United Dodgeball League Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13574] = {
-		name = "United Dodgeball League Bronze"
+		name = "United Dodgeball League Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13575] = {
@@ -25998,67 +25998,67 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13577] = {
-		name = "TFArena Elite Div Champions"
+		name = "TFArena Elite Division Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13578] = {
-		name = "TFArena Elite Div 2nd"
+		name = "TFArena Elite Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13579] = {
-		name = "TFArena Elite Div 3rd"
+		name = "TFArena Elite Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13580] = {
-		name = "TFArena Elite Div Participant"
+		name = "TFArena Elite Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13581] = {
-		name = "TFArena Experienced Div Champions"
+		name = "TFArena Experienced Division Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13582] = {
-		name = "TFArena Experienced Div 2nd"
+		name = "TFArena Experienced Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13583] = {
-		name = "TFArena Experienced Div 3rd"
+		name = "TFArena Experienced Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13584] = {
-		name = "TFArena Experienced Div Participant"
+		name = "TFArena Experienced Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13585] = {
-		name = "TFArena Rookie Div Champions"
+		name = "TFArena Rookie Division Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13586] = {
-		name = "TFArena Rookie Div 2nd"
+		name = "TFArena Rookie Division 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13587] = {
-		name = "TFArena Rookie Div 3rd"
+		name = "TFArena Rookie Division 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13588] = {
-		name = "TFArena Rookie Div Participant"
+		name = "TFArena Rookie Division Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13589] = {
-		name = "TFArena Helper"
+		name = "TFArena Helper Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13590] = {
-		name = "AsiaFortress Invite 1st"
+		name = "AsiaFortress Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13591] = {
-		name = "AsiaFortress Invite 2nd"
+		name = "AsiaFortress Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13592] = {
-		name = "AsiaFortress Invite 3rd"
+		name = "AsiaFortress Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13593] = {
@@ -26070,15 +26070,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13595] = {
-		name = "TF2 Summer Brawl 1st"
+		name = "TF2 Summer Brawl 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13596] = {
-		name = "TF2 Summer Brawl 2nd"
+		name = "TF2 Summer Brawl 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13597] = {
-		name = "TF2 Summer Brawl 3rd"
+		name = "TF2 Summer Brawl 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13598] = {
@@ -26086,15 +26086,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13599] = {
-		name = "RGB 6 LAN 1st"
+		name = "RGB 6 LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13600] = {
-		name = "RGB 6 LAN 2nd"
+		name = "RGB 6 LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13601] = {
-		name = "RGB 6 LAN 3rd"
+		name = "RGB 6 LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13602] = {
@@ -26102,17 +26102,17 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13603] = {
-		name = "Moscow LAN 1st"
+		name = "Moscow LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13604] = {
-		name = "Moscow LAN 2nd"
+		name = "Moscow LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13605] = {
-		name = "Moscow LAN 3rd"
+		name = "Moscow LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
@@ -26127,51 +26127,51 @@
 		paint = true
 	},
 	[13608] = {
-		name = "ozfortress Fours Summer Cup Div 1 1st"
+		name = "ozfortress Fours Summer Cup Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13609] = {
-		name = "ozfortress Fours Summer Cup Div 1 2nd"
+		name = "ozfortress Fours Summer Cup Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13610] = {
-		name = "ozfortress Fours Summer Cup Div 1 3rd"
+		name = "ozfortress Fours Summer Cup Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13611] = {
-		name = "ozfortress Fours Summer Cup Div 1 Participant"
+		name = "ozfortress Fours Summer Cup Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13612] = {
-		name = "ozfortress Fours Summer Cup Div 2 1st"
+		name = "ozfortress Fours Summer Cup Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13613] = {
-		name = "ozfortress Fours Summer Cup Div 2 2nd"
+		name = "ozfortress Fours Summer Cup Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13614] = {
-		name = "ozfortress Fours Summer Cup Div 2 3rd"
+		name = "ozfortress Fours Summer Cup Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13615] = {
-		name = "ozfortress Fours Summer Cup Div 2 Participant"
+		name = "ozfortress Fours Summer Cup Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13616] = {
-		name = "ozfortress Fours Summer Cup Div 3 1st"
+		name = "ozfortress Fours Summer Cup Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13617] = {
-		name = "ozfortress Fours Summer Cup Div 3 2nd"
+		name = "ozfortress Fours Summer Cup Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13618] = {
-		name = "ozfortress Fours Summer Cup Div 3 3rd"
+		name = "ozfortress Fours Summer Cup Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13619] = {
-		name = "ozfortress Fours Summer Cup Div 3 Participant"
+		name = "ozfortress Fours Summer Cup Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13620] = {
@@ -26179,11 +26179,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13621] = {
-		name = "CLTF2 4v4 Premiership 2nd"
+		name = "CLTF2 4v4 Premiership 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13622] = {
-		name = "CLTF2 4v4 Premiership 3rd"
+		name = "CLTF2 4v4 Premiership 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13623] = {
@@ -26191,35 +26191,35 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13624] = {
-		name = "CLTF2 4v4 Div 1 Champions"
+		name = "CLTF2 4v4 Division 1 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13625] = {
-		name = "CLTF2 4v4 Div 1 2nd"
+		name = "CLTF2 4v4 Division 1 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13626] = {
-		name = "CLTF2 4v4 Div 1 3rd"
+		name = "CLTF2 4v4 Division 1 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13627] = {
-		name = "CLTF2 4v4 Div 1 Participant"
+		name = "CLTF2 4v4 Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13628] = {
-		name = "CLTF2 4v4 Div 2 Champions"
+		name = "CLTF2 4v4 Division 2 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13629] = {
-		name = "CLTF2 4v4 Div 2 2nd"
+		name = "CLTF2 4v4 Division 2 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13630] = {
-		name = "CLTF2 4v4 Div 2 3rd"
+		name = "CLTF2 4v4 Division 2 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13631] = {
-		name = "CLTF2 4v4 Div 2 Participant"
+		name = "CLTF2 4v4 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13632] = {
@@ -26227,15 +26227,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13633] = {
-		name = "FBTF Cup 6v6 Wastex Miller 1st"
+		name = "FBTF Cup 6v6 Wastex Miller 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13634] = {
-		name = "FBTF Cup 6v6 Wastex Miller 2nd"
+		name = "FBTF Cup 6v6 Wastex Miller 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13635] = {
-		name = "FBTF Cup 6v6 Wastex Miller 3rd"
+		name = "FBTF Cup 6v6 Wastex Miller 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13636] = {
@@ -26243,15 +26243,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13637] = {
-		name = "FBTF Cup 6v6 Barts Rimet 1st"
+		name = "FBTF Cup 6v6 Barts Rimet 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13638] = {
-		name = "FBTF Cup 6v6 Barts Rimet 2nd"
+		name = "FBTF Cup 6v6 Barts Rimet 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13639] = {
-		name = "FBTF Cup 6v6 Barts Rimet 3rd"
+		name = "FBTF Cup 6v6 Barts Rimet 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13640] = {
@@ -26259,15 +26259,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13641] = {
-		name = "FBTF Cup 6v6 Vic Basten 1st"
+		name = "FBTF Cup 6v6 Vic Basten 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13642] = {
-		name = "FBTF Cup 6v6 Vic Basten 2nd"
+		name = "FBTF Cup 6v6 Vic Basten 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13643] = {
-		name = "FBTF Cup 6v6 Vic Basten 3rd"
+		name = "FBTF Cup 6v6 Vic Basten 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13644] = {
@@ -26275,15 +26275,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13645] = {
-		name = "FBTF Cup 6v6 Jöten Klopp 1st"
+		name = "FBTF Cup 6v6 Jöten Klopp 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13646] = {
-		name = "FBTF Cup 6v6 Jöten Klopp 2nd"
+		name = "FBTF Cup 6v6 Jöten Klopp 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13647] = {
-		name = "FBTF Cup 6v6 Jöten Klopp 3rd"
+		name = "FBTF Cup 6v6 Jöten Klopp 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13648] = {
@@ -26291,15 +26291,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13649] = {
-		name = "LBTF2 6v6 Access 1st"
+		name = "LBTF2 6v6 Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13650] = {
-		name = "LBTF2 6v6 Access 2nd"
+		name = "LBTF2 6v6 Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13651] = {
-		name = "LBTF2 6v6 Access 3rd"
+		name = "LBTF2 6v6 Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13652] = {
@@ -26307,15 +26307,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13653] = {
-		name = "LBTF2 6v6 Open 1st"
+		name = "LBTF2 6v6 Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13654] = {
-		name = "LBTF2 6v6 Open 2nd"
+		name = "LBTF2 6v6 Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13655] = {
-		name = "LBTF2 6v6 Open 3rd"
+		name = "LBTF2 6v6 Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13656] = {
@@ -26323,15 +26323,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13657] = {
-		name = "DreamHack Atlanta 1st"
+		name = "DreamHack Atlanta 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13658] = {
-		name = "DreamHack Atlanta 2nd"
+		name = "DreamHack Atlanta 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13659] = {
-		name = "DreamHack Atlanta 3rd"
+		name = "DreamHack Atlanta 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13660] = {
@@ -26343,375 +26343,375 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13662] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13663] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13664] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13665] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13666] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13667] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13668] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13669] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13670] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13671] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13672] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13673] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13674] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13675] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13676] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13677] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13678] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13679] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13680] = {
-		name = "RGL.gg Invite Champions 12v12"
+		name = "RGL.gg - Invite Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13681] = {
-		name = "RGL.gg Invite 2nd 12v12"
+		name = "RGL.gg - Invite 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13682] = {
-		name = "RGL.gg Invite 3rd 12v12"
+		name = "RGL.gg - Invite 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13683] = {
-		name = "RGL.gg Invite Participant 12v12"
+		name = "RGL.gg - Invite Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13684] = {
-		name = "RGL.gg Advanced Champions 12v12"
+		name = "RGL.gg - Advanced Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13685] = {
-		name = "RGL.gg Advanced 2nd 12v12"
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13686] = {
-		name = "RGL.gg Advanced 3rd 12v12"
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13687] = {
-		name = "RGL.gg Advanced Participant 12v12"
+		name = "RGL.gg - Advanced Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13688] = {
-		name = "RGL.gg Main Champions 12v12"
+		name = "RGL.gg - Main Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13689] = {
-		name = "RGL.gg Main 2nd 12v12"
+		name = "RGL.gg - Main 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13690] = {
-		name = "RGL.gg Main 3rd 12v12"
+		name = "RGL.gg - Main 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13691] = {
-		name = "RGL.gg Main Participant 12v12"
+		name = "RGL.gg - Main Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13692] = {
-		name = "RGL.gg Intermediate Champions 12v12"
+		name = "RGL.gg - Intermediate Champions - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13693] = {
-		name = "RGL.gg Intermediate 2nd 12v12"
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13694] = {
-		name = "RGL.gg Intermediate 3rd 12v12"
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13695] = {
-		name = "RGL.gg Intermediate Participant 12v12"
+		name = "RGL.gg - Intermediate Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13696] = {
-		name = "RGL.gg Amateur Participant 12v12"
+		name = "RGL.gg - Amateur Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13697] = {
-		name = "RGL.gg Newcomer Participant 12v12"
+		name = "RGL.gg - Newcomer Participant - Highlander"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13698] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13699] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13700] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13701] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13702] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13703] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13704] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13705] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13706] = {
-		name = "RGL.gg Main Champions 6v6"
+		name = "RGL.gg - Main Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13707] = {
-		name = "RGL.gg Main 2nd 6v6"
+		name = "RGL.gg - Main 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13708] = {
-		name = "RGL.gg Main 3rd 6v6"
+		name = "RGL.gg - Main 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13709] = {
-		name = "RGL.gg Main Participant 6v6"
+		name = "RGL.gg - Main Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13710] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13711] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13712] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13713] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13714] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13715] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13716] = {
-		name = "RGL.gg Invite Champions 6v6"
+		name = "RGL.gg - Invite Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13717] = {
-		name = "RGL.gg Invite 2nd 6v6"
+		name = "RGL.gg - Invite 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13718] = {
-		name = "RGL.gg Invite 3rd 6v6"
+		name = "RGL.gg - Invite 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13719] = {
-		name = "RGL.gg Invite Participant 6v6"
+		name = "RGL.gg - Invite Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13720] = {
-		name = "RGL.gg Advanced Champions 6v6"
+		name = "RGL.gg - Advanced Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13721] = {
-		name = "RGL.gg Advanced 2nd 6v6"
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13722] = {
-		name = "RGL.gg Advanced 3rd 6v6"
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13723] = {
-		name = "RGL.gg Advanced Participant 6v6"
+		name = "RGL.gg - Advanced Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13724] = {
-		name = "RGL.gg Div-1 Champions 6v6"
+		name = "RGL.gg - Div-1 Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13725] = {
-		name = "RGL.gg Div-1 2nd 6v6"
+		name = "RGL.gg - Div-1 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13726] = {
-		name = "RGL.gg Div-1 3rd 6v6"
+		name = "RGL.gg - Div-1 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13727] = {
-		name = "RGL.gg Div-1 Participant 6v6"
+		name = "RGL.gg - Div-1 Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13728] = {
-		name = "RGL.gg Intermediate Champions 6v6"
+		name = "RGL.gg - Intermediate Champions - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13729] = {
-		name = "RGL.gg Intermediate 2nd 6v6"
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13730] = {
-		name = "RGL.gg Intermediate 3rd 6v6"
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13731] = {
-		name = "RGL.gg Intermediate Participant 6v6"
+		name = "RGL.gg - Intermediate Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13732] = {
-		name = "RGL.gg Amateur Participant 6v6"
+		name = "RGL.gg - Amateur Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13733] = {
-		name = "RGL.gg Newcomer Participant 6v6"
+		name = "RGL.gg - Newcomer Participant - 6v6"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[13734] = {
-		name = "DreamHack Community Clash 1st"
+		name = "DreamHack Community Clash 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13735] = {
-		name = "DreamHack Community Clash 2nd"
+		name = "DreamHack Community Clash 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13736] = {
-		name = "DreamHack Community Clash 3rd"
+		name = "DreamHack Community Clash 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13737] = {
@@ -26723,19 +26723,19 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13740] = {
-		name = "Magnetic Mayhem Monstrous Megalomaniacal Mastodon '24"
+		name = "Magnetic Mayhem Monstrous Megalomaniacal Mastodon 2024"
 		type = CosmeticType.CommunityMedal
 	},
 	[13744] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13745] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13746] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13747] = {
@@ -26743,15 +26743,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13748] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13749] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13750] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13751] = {
@@ -26759,15 +26759,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13752] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13753] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13754] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13755] = {
@@ -26775,15 +26775,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13756] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13757] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13758] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13759] = {
@@ -26791,15 +26791,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13760] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13761] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13762] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13763] = {
@@ -26807,15 +26807,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13764] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13765] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13766] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13767] = {
@@ -26823,15 +26823,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13768] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13769] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13770] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13771] = {
@@ -26839,15 +26839,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13772] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13773] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13774] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13775] = {
@@ -26855,15 +26855,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13776] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13777] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13778] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13779] = {
@@ -26871,15 +26871,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13780] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13781] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13782] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13783] = {
@@ -26887,1055 +26887,1055 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[13784] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13785] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13786] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13787] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13788] = {
-		name = "ozfortress 12v12 Intermediate 1st"
+		name = "ozfortress Highlander Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13789] = {
-		name = "ozfortress 12v12 Intermediate 2nd"
+		name = "ozfortress Highlander Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13790] = {
-		name = "ozfortress 12v12 Intermediate 3rd"
+		name = "ozfortress Highlander Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13791] = {
-		name = "ozfortress 12v12 Intermediate Participant"
+		name = "ozfortress Highlander Intermediate Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13792] = {
-		name = "ozfortress 12v12 Open 1st"
+		name = "ozfortress Highlander Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13793] = {
-		name = "ozfortress 12v12 Open 2nd"
+		name = "ozfortress Highlander Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13794] = {
-		name = "ozfortress 12v12 Open 3rd"
+		name = "ozfortress Highlander Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13795] = {
-		name = "ozfortress 12v12 Open Participant"
+		name = "ozfortress Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13796] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13797] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13798] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13799] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13800] = {
-		name = "ozfortress 12v12 Main 1st"
+		name = "ozfortress Highlander Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13801] = {
-		name = "ozfortress 12v12 Main 2nd"
+		name = "ozfortress Highlander Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13802] = {
-		name = "ozfortress 12v12 Main 3rd"
+		name = "ozfortress Highlander Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13803] = {
-		name = "ozfortress 12v12 Main Participant"
+		name = "ozfortress Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13804] = {
-		name = "CLTF2 4v4 Div 3 Champions"
+		name = "CLTF2 4v4 Division 3 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13805] = {
-		name = "CLTF2 4v4 Div 3 2nd"
+		name = "CLTF2 4v4 Division 3 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13806] = {
-		name = "CLTF2 4v4 Div 3 3rd"
+		name = "CLTF2 4v4 Division 3 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13807] = {
-		name = "CLTF2 4v4 Div 3 Participant"
+		name = "CLTF2 4v4 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13808] = {
-		name = "CLTF2 4v4 Div 4 Champions"
+		name = "CLTF2 4v4 Division 4 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13809] = {
-		name = "CLTF2 4v4 Div 4 2nd"
+		name = "CLTF2 4v4 Division 4 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13810] = {
-		name = "CLTF2 4v4 Div 4 3rd"
+		name = "CLTF2 4v4 Division 4 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13811] = {
-		name = "CLTF2 4v4 Div 4 Participant"
+		name = "CLTF2 4v4 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13812] = {
-		name = "CLTF2 4v4 Div 5 Champions"
+		name = "CLTF2 4v4 Division 5 Champions"
 		type = CosmeticType.TournamentMedal
 	},
 	[13813] = {
-		name = "CLTF2 4v4 Div 5 2nd"
+		name = "CLTF2 4v4 Division 5 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13814] = {
-		name = "CLTF2 4v4 Div 5 3rd"
+		name = "CLTF2 4v4 Division 5 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[13815] = {
-		name = "CLTF2 4v4 Div 5 Participant"
+		name = "CLTF2 4v4 Division 5 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[13816] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13817] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13818] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13819] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13820] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13821] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13822] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13823] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13824] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13825] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13826] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13827] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13828] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13829] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13830] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13831] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13832] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13833] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13834] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13835] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13836] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13837] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13838] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13839] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13840] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13841] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13842] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13843] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13844] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13845] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13846] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13847] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13848] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13849] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13850] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13851] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13852] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13853] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13854] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13855] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13856] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13857] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13858] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13859] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13860] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13861] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13862] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13863] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13864] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13865] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13866] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13867] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13868] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13869] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13870] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13871] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13872] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13873] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13874] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13875] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13876] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13877] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13878] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13879] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13880] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13881] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13882] = {
-		name = "ETF2L 6v6 Div 3 Gold"
+		name = "ETF2L 6v6 Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13883] = {
-		name = "ETF2L 6v6 Div 3 Silver"
+		name = "ETF2L 6v6 Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13884] = {
-		name = "ETF2L 6v6 Div 3 Bronze"
+		name = "ETF2L 6v6 Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13885] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13886] = {
-		name = "ETF2L 6v6 Div 4 Gold"
+		name = "ETF2L 6v6 Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13887] = {
-		name = "ETF2L 6v6 Div 4 Silver"
+		name = "ETF2L 6v6 Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13888] = {
-		name = "ETF2L 6v6 Div 4 Bronze"
+		name = "ETF2L 6v6 Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13889] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13890] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13891] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13892] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13893] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13894] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13895] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13896] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13897] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13898] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13899] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13900] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13901] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13902] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13903] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13904] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13905] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13906] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13907] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13908] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13909] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13910] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13911] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13912] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13913] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13914] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13915] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13916] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13917] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13918] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13919] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13920] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13921] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13922] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13923] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13924] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13925] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13926] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13927] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13928] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13929] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13930] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13931] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13932] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13933] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13934] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13935] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13936] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13937] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13938] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13939] = {
-		name = "ETF2L 12v12 Div 3 Gold"
+		name = "ETF2L Highlander Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13940] = {
-		name = "ETF2L 12v12 Div 3 Silver"
+		name = "ETF2L Highlander Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13941] = {
-		name = "ETF2L 12v12 Div 3 Bronze"
+		name = "ETF2L Highlander Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13942] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13943] = {
-		name = "ETF2L 12v12 Div 4 Gold"
+		name = "ETF2L Highlander Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13944] = {
-		name = "ETF2L 12v12 Div 4 Silver"
+		name = "ETF2L Highlander Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13945] = {
-		name = "ETF2L 12v12 Div 4 Bronze"
+		name = "ETF2L Highlander Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13946] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13947] = {
-		name = "ETF2L 12v12 Div 5 Gold"
+		name = "ETF2L Highlander Division 5 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13948] = {
-		name = "ETF2L 12v12 Div 5 Silver"
+		name = "ETF2L Highlander Division 5 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13949] = {
-		name = "ETF2L 12v12 Div 5 Bronze"
+		name = "ETF2L Highlander Division 5 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13950] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13951] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13952] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13953] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13954] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13955] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13956] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13957] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13958] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13959] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13960] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13961] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13962] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13963] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13964] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13965] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13966] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13967] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13968] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13969] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13970] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13971] = {
-		name = "ETF2L 12v12 Mid Playoff"
+		name = "ETF2L Highlander Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13972] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13973] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13974] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13975] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13976] = {
-		name = "ETF2L 12v12 Low Playoff"
+		name = "ETF2L Highlander Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13977] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13978] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13979] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13980] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13982] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13983] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13984] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13985] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13986] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13987] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13988] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13989] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13990] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13991] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13992] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13993] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13994] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13995] = {
-		name = "ETF2L 12v12 Div 3 Gold"
+		name = "ETF2L Highlander Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13996] = {
-		name = "ETF2L 12v12 Div 3 Silver"
+		name = "ETF2L Highlander Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13997] = {
-		name = "ETF2L 12v12 Div 3 Bronze"
+		name = "ETF2L Highlander Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13998] = {
-		name = "ETF2L 12v12 Div 3 Participation"
+		name = "ETF2L Highlander Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[13999] = {
-		name = "ETF2L 12v12 Div 4 Gold"
+		name = "ETF2L Highlander Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14000] = {
-		name = "ETF2L 12v12 Div 4 Silver"
+		name = "ETF2L Highlander Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14001] = {
-		name = "ETF2L 12v12 Div 4 Bronze"
+		name = "ETF2L Highlander Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14002] = {
-		name = "ETF2L 12v12 Div 4 Participation"
+		name = "ETF2L Highlander Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14003] = {
-		name = "ETF2L 12v12 Div 5 Gold"
+		name = "ETF2L Highlander Division 5 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14004] = {
-		name = "ETF2L 12v12 Div 5 Silver"
+		name = "ETF2L Highlander Division 5 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14005] = {
-		name = "ETF2L 12v12 Div 5 Bronze"
+		name = "ETF2L Highlander Division 5 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14006] = {
-		name = "ETF2L 12v12 Div 5 Participation"
+		name = "ETF2L Highlander Division 5 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14007] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14008] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14009] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14010] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14011] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14012] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14013] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14014] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14015] = {
-		name = "ETF2L 12v12 High Gold"
+		name = "ETF2L Highlander High Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14016] = {
-		name = "ETF2L 12v12 High Silver"
+		name = "ETF2L Highlander High Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14017] = {
-		name = "ETF2L 12v12 High Bronze"
+		name = "ETF2L Highlander High Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14018] = {
-		name = "ETF2L 12v12 High Participation"
+		name = "ETF2L Highlander High Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14019] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14020] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14021] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14022] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14023] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14024] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14025] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14026] = {
-		name = "ETF2L 12v12 Low Playoff"
+		name = "ETF2L Highlander Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14027] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14028] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14029] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14030] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14031] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14032] = {
-		name = "ETF2L Fresh Meat Challenge Gold"
+		name = "ETF2L Fresh Meat Challenge Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14033] = {
-		name = "ETF2L Fresh Meat Challenge Silver"
+		name = "ETF2L Fresh Meat Challenge Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14034] = {
-		name = "ETF2L Fresh Meat Challenge Bronze"
+		name = "ETF2L Fresh Meat Challenge Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14035] = {
-		name = "ETF2L Fresh Meat Challenge Participation"
+		name = "ETF2L Fresh Meat Challenge Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14036] = {
-		name = "ETF2L Ultiduo #7 Gold"
+		name = "ETF2L Ultiduo #7 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14037] = {
-		name = "ETF2L Ultiduo #7 Silver"
+		name = "ETF2L Ultiduo #7 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14038] = {
-		name = "ETF2L Ultiduo #7 Bronze"
+		name = "ETF2L Ultiduo #7 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14039] = {
-		name = "ETF2L Ultiduo #7 Participation"
+		name = "ETF2L Ultiduo #7 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14040] = {
-		name = "Osmium Ordinance Pyrite Pint '24"
+		name = "Osmium Ordinance Pyrite Pint 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[14041] = {
-		name = "Osmium Ordinance Platinum Pitcher '24"
+		name = "Osmium Ordinance Platinum Pitcher 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[14042] = {
-		name = "Osmium Ordinance Tungsten Tank '24"
+		name = "Osmium Ordinance Tungsten Tank 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[14043] = {
-		name = "Osmium Ordinance Bohrium Buster '24"
+		name = "Osmium Ordinance Bohrium Buster 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[14044] = {
-		name = "AsiaFortress Liquid.tf Open 1st"
+		name = "AsiaFortress Liquid.tf Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14045] = {
-		name = "AsiaFortress Liquid.tf Open 2nd"
+		name = "AsiaFortress Liquid.tf Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14046] = {
-		name = "AsiaFortress Liquid.tf Open 3rd"
+		name = "AsiaFortress Liquid.tf Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14047] = {
@@ -27947,23 +27947,23 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14049] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open 1st"
+		name = "AsiaFortress Liquid.tf Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14050] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open 2nd"
+		name = "AsiaFortress Liquid.tf Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14051] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open 3rd"
+		name = "AsiaFortress Liquid.tf Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14052] = {
-		name = "AsiaFortress Liquid.tf 12v12 Invite Participant"
+		name = "AsiaFortress Liquid.tf Highlander Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14053] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open Participant"
+		name = "AsiaFortress Liquid.tf Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14054] = {
@@ -27971,20 +27971,20 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14055] = {
-		name = "Osmium Ordinance Cobalt Keepsake '24"
+		name = "Osmium Ordinance Cobalt Keepsake 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[14056] = {
-		name = "LAN Downunder 1st"
+		name = "LAN Downunder 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14057] = {
-		name = "LAN Downunder 2nd"
+		name = "LAN Downunder 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14058] = {
-		name = "LAN Downunder 3rd"
+		name = "LAN Downunder 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14059] = {
@@ -27992,15 +27992,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14060] = {
-		name = "RGB 7 LAN 1st"
+		name = "RGB 7 LAN 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14061] = {
-		name = "RGB 7 LAN 2nd"
+		name = "RGB 7 LAN 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14062] = {
-		name = "RGB 7 LAN 3rd"
+		name = "RGB 7 LAN 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14063] = {
@@ -28008,59 +28008,59 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14064] = {
-		name = "LBTF2 12v12 Access 1st"
+		name = "LBTF2 Highlander Access 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14065] = {
-		name = "LBTF2 12v12 Access 2nd"
+		name = "LBTF2 Highlander Access 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14066] = {
-		name = "LBTF2 12v12 Access 3rd"
+		name = "LBTF2 Highlander Access 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14067] = {
-		name = "LBTF2 12v12 Access Participant"
+		name = "LBTF2 Highlander Access Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14068] = {
-		name = "LBTF2 12v12 Principal 1st"
+		name = "LBTF2 Highlander Principal 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14069] = {
-		name = "LBTF2 12v12 Principal 2nd"
+		name = "LBTF2 Highlander Principal 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14070] = {
-		name = "LBTF2 12v12 Principal 3rd"
+		name = "LBTF2 Highlander Principal 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14071] = {
-		name = "LBTF2 12v12 Principal Participant"
+		name = "LBTF2 Highlander Principal Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14072] = {
-		name = "AsiaFortress Liquid.tf Invite 1st"
+		name = "AsiaFortress Liquid.tf Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14073] = {
-		name = "AsiaFortress Liquid.tf Invite 2nd"
+		name = "AsiaFortress Liquid.tf Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14074] = {
-		name = "AsiaFortress Liquid.tf Invite 3rd"
+		name = "AsiaFortress Liquid.tf Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14075] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14076] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14077] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14078] = {
@@ -28068,15 +28068,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14079] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14080] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14081] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14082] = {
@@ -28084,15 +28084,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14083] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14084] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14085] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14086] = {
@@ -28100,15 +28100,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14087] = {
-		name = "ozfortress Sixes Main 1st"
+		name = "ozfortress Sixes Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14088] = {
-		name = "ozfortress Sixes Main 2nd"
+		name = "ozfortress Sixes Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14089] = {
-		name = "ozfortress Sixes Main 3rd"
+		name = "ozfortress Sixes Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14090] = {
@@ -28116,15 +28116,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14091] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14092] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14093] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14094] = {
@@ -28132,94 +28132,94 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14095] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14096] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14097] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14098] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14099] = {
-		name = "ozfortress 12v12 Main 1st"
+		name = "ozfortress Highlander Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14100] = {
-		name = "ozfortress 12v12 Main 2nd"
+		name = "ozfortress Highlander Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14101] = {
-		name = "ozfortress 12v12 Main 3rd"
+		name = "ozfortress Highlander Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14102] = {
-		name = "ozfortress 12v12 Main Participant"
+		name = "ozfortress Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14103] = {
-		name = "PASS Time Federation EU 1st"
+		name = "PASS Time Federation - EU - 1st Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[14104] = {
-		name = "PASS Time Federation EU 2nd"
+		name = "PASS Time Federation - EU - 2nd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[14105] = {
-		name = "PASS Time Federation EU 3rd"
+		name = "PASS Time Federation - EU - 3rd Place Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[14106] = {
-		name = "PASS Time Federation EU Participant"
+		name = "PASS Time Federation - EU - Participant"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[14107] = {
-		name = "PASS Time Federation Volunteer"
+		name = "PASS Time Federation Volunteer Medal"
 		type = CosmeticType.TournamentMedal
 		paint = true
 	},
 	[14108] = {
-		name = "AsiaFortress Liquid.tf 12v12 Invite 1st"
+		name = "AsiaFortress Liquid.tf Highlander Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14109] = {
-		name = "AsiaFortress Liquid.tf 12v12 Invite 2nd"
+		name = "AsiaFortress Liquid.tf Highlander Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14110] = {
-		name = "AsiaFortress Liquid.tf 12v12 Invite 3rd"
+		name = "AsiaFortress Liquid.tf Highlander Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14111] = {
-		name = "TF2Maps Charitable Heart '24"
+		name = "TF2Maps Charitable Heart 2024"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[14112] = {
-		name = "TF2Maps 72hr Jam Participant"
+		name = "TF2Maps 72hr TF2Jam Participant"
 		type = CosmeticType.CommunityMedal
 		styles = ["Medal" "Pin"]
 	},
 	[14113] = {
-		name = "AsiaFortress Liquid.tf Open 1st"
+		name = "AsiaFortress Liquid.tf Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14114] = {
-		name = "AsiaFortress Liquid.tf Open 2nd"
+		name = "AsiaFortress Liquid.tf Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14115] = {
-		name = "AsiaFortress Liquid.tf Open 3rd"
+		name = "AsiaFortress Liquid.tf Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14116] = {
@@ -28231,67 +28231,67 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14118] = {
-		name = "ozfortress Experimental Cup 3 Div 1 1st"
+		name = "ozfortress Experimental Cup 3 Division 1 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14119] = {
-		name = "ozfortress Experimental Cup 3 Div 1 2nd"
+		name = "ozfortress Experimental Cup 3 Division 1 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14120] = {
-		name = "ozfortress Experimental Cup 3 Div 1 3rd"
+		name = "ozfortress Experimental Cup 3 Division 1 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14121] = {
-		name = "ozfortress Experimental Cup 3 Div 1 Participant"
+		name = "ozfortress Experimental Cup 3 Division 1 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14122] = {
-		name = "ozfortress Experimental Cup 3 Div 2 1st"
+		name = "ozfortress Experimental Cup 3 Division 2 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14123] = {
-		name = "ozfortress Experimental Cup 3 Div 2 2nd"
+		name = "ozfortress Experimental Cup 3 Division 2 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14124] = {
-		name = "ozfortress Experimental Cup 3 Div 2 3rd"
+		name = "ozfortress Experimental Cup 3 Division 2 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14125] = {
-		name = "ozfortress Experimental Cup 3 Div 2 Participant"
+		name = "ozfortress Experimental Cup 3 Division 2 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14126] = {
-		name = "ozfortress Experimental Cup 3 Div 3 1st"
+		name = "ozfortress Experimental Cup 3 Division 3 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14127] = {
-		name = "ozfortress Experimental Cup 3 Div 3 2nd"
+		name = "ozfortress Experimental Cup 3 Division 3 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14128] = {
-		name = "ozfortress Experimental Cup 3 Div 3 3rd"
+		name = "ozfortress Experimental Cup 3 Division 3 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14129] = {
-		name = "ozfortress Experimental Cup 3 Div 3 Participant"
+		name = "ozfortress Experimental Cup 3 Division 3 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14130] = {
-		name = "ozfortress Experimental Cup 3 Div 4 1st"
+		name = "ozfortress Experimental Cup 3 Division 4 First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14131] = {
-		name = "ozfortress Experimental Cup 3 Div 4 2nd"
+		name = "ozfortress Experimental Cup 3 Division 4 Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14132] = {
-		name = "ozfortress Experimental Cup 3 Div 4 3rd"
+		name = "ozfortress Experimental Cup 3 Division 4 Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14133] = {
-		name = "ozfortress Experimental Cup 3 Div 4 Participant"
+		name = "ozfortress Experimental Cup 3 Division 4 Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14134] = {
@@ -28299,11 +28299,11 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14135] = {
-		name = "CLTF2 Ultiduo Cup 2nd"
+		name = "CLTF2 Ultiduo Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14136] = {
-		name = "CLTF2 Ultiduo Cup 3rd"
+		name = "CLTF2 Ultiduo Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14137] = {
@@ -28315,359 +28315,359 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14139] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14140] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14141] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14142] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14143] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14144] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14145] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14146] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14147] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14148] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14149] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14150] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14151] = {
-		name = "ETF2L 6v6 Mid Gold"
+		name = "ETF2L 6v6 Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14152] = {
-		name = "ETF2L 6v6 Mid Silver"
+		name = "ETF2L 6v6 Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14153] = {
-		name = "ETF2L 6v6 Mid Bronze"
+		name = "ETF2L 6v6 Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14154] = {
-		name = "ETF2L 6v6 Mid Playoff"
+		name = "ETF2L 6v6 Mid Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14155] = {
-		name = "ETF2L 6v6 Mid Participation"
+		name = "ETF2L 6v6 Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14156] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14157] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14158] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14159] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14160] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14161] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14162] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14163] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14164] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14165] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14166] = {
-		name = "ETF2L 6v6 Premiership Gold"
+		name = "ETF2L 6v6 Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14167] = {
-		name = "ETF2L 6v6 Premiership Silver"
+		name = "ETF2L 6v6 Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14168] = {
-		name = "ETF2L 6v6 Premiership Bronze"
+		name = "ETF2L 6v6 Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14169] = {
-		name = "ETF2L 6v6 Premiership Participation"
+		name = "ETF2L 6v6 Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14170] = {
-		name = "ETF2L 6v6 Div 1 Gold"
+		name = "ETF2L 6v6 Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14171] = {
-		name = "ETF2L 6v6 Div 1 Silver"
+		name = "ETF2L 6v6 Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14172] = {
-		name = "ETF2L 6v6 Div 1 Bronze"
+		name = "ETF2L 6v6 Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14173] = {
-		name = "ETF2L 6v6 Div 1 Participation"
+		name = "ETF2L 6v6 Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14174] = {
-		name = "ETF2L 6v6 Div 2 Gold"
+		name = "ETF2L 6v6 Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14175] = {
-		name = "ETF2L 6v6 Div 2 Silver"
+		name = "ETF2L 6v6 Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14176] = {
-		name = "ETF2L 6v6 Div 2 Bronze"
+		name = "ETF2L 6v6 Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14177] = {
-		name = "ETF2L 6v6 Div 2 Participation"
+		name = "ETF2L 6v6 Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14178] = {
-		name = "ETF2L 6v6 Div 3 Gold"
+		name = "ETF2L 6v6 Division 3 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14179] = {
-		name = "ETF2L 6v6 Div 3 Silver"
+		name = "ETF2L 6v6 Division 3 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14180] = {
-		name = "ETF2L 6v6 Div 3 Bronze"
+		name = "ETF2L 6v6 Division 3 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14181] = {
-		name = "ETF2L 6v6 Div 3 Participation"
+		name = "ETF2L 6v6 Division 3 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14182] = {
-		name = "ETF2L 6v6 Div 4 Gold"
+		name = "ETF2L 6v6 Division 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14183] = {
-		name = "ETF2L 6v6 Div 4 Silver"
+		name = "ETF2L 6v6 Division 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14184] = {
-		name = "ETF2L 6v6 Div 4 Bronze"
+		name = "ETF2L 6v6 Division 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14185] = {
-		name = "ETF2L 6v6 Div 4 Participation"
+		name = "ETF2L 6v6 Division 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14186] = {
-		name = "ETF2L 6v6 Low Gold"
+		name = "ETF2L 6v6 Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14187] = {
-		name = "ETF2L 6v6 Low Silver"
+		name = "ETF2L 6v6 Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14188] = {
-		name = "ETF2L 6v6 Low Bronze"
+		name = "ETF2L 6v6 Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14189] = {
-		name = "ETF2L 6v6 Low Playoff"
+		name = "ETF2L 6v6 Low Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14190] = {
-		name = "ETF2L 6v6 Low Participation"
+		name = "ETF2L 6v6 Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14191] = {
-		name = "ETF2L 6v6 Open Gold"
+		name = "ETF2L 6v6 Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14192] = {
-		name = "ETF2L 6v6 Open Silver"
+		name = "ETF2L 6v6 Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14193] = {
-		name = "ETF2L 6v6 Open Bronze"
+		name = "ETF2L 6v6 Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14194] = {
-		name = "ETF2L 6v6 Open Playoff"
+		name = "ETF2L 6v6 Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14195] = {
-		name = "ETF2L 6v6 Open Participation"
+		name = "ETF2L 6v6 Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14196] = {
-		name = "ETF2L 12v12 Premiership Gold"
+		name = "ETF2L Highlander Premiership Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14197] = {
-		name = "ETF2L 12v12 Premiership Silver"
+		name = "ETF2L Highlander Premiership Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14198] = {
-		name = "ETF2L 12v12 Premiership Bronze"
+		name = "ETF2L Highlander Premiership Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14199] = {
-		name = "ETF2L 12v12 Premiership Participation"
+		name = "ETF2L Highlander Premiership Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14200] = {
-		name = "ETF2L 12v12 Div 1 Gold"
+		name = "ETF2L Highlander Division 1 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14201] = {
-		name = "ETF2L 12v12 Div 1 Silver"
+		name = "ETF2L Highlander Division 1 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14202] = {
-		name = "ETF2L 12v12 Div 1 Bronze"
+		name = "ETF2L Highlander Division 1 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14203] = {
-		name = "ETF2L 12v12 Div 1 Participation"
+		name = "ETF2L Highlander Division 1 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14204] = {
-		name = "ETF2L 12v12 Div 2 Gold"
+		name = "ETF2L Highlander Division 2 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14205] = {
-		name = "ETF2L 12v12 Div 2 Silver"
+		name = "ETF2L Highlander Division 2 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14206] = {
-		name = "ETF2L 12v12 Div 2 Bronze"
+		name = "ETF2L Highlander Division 2 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14207] = {
-		name = "ETF2L 12v12 Div 2 Participation"
+		name = "ETF2L Highlander Division 2 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14208] = {
-		name = "ETF2L 12v12 Mid Gold"
+		name = "ETF2L Highlander Mid Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14209] = {
-		name = "ETF2L 12v12 Mid Silver"
+		name = "ETF2L Highlander Mid Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14210] = {
-		name = "ETF2L 12v12 Mid Bronze"
+		name = "ETF2L Highlander Mid Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14211] = {
-		name = "ETF2L 12v12 Mid Participation"
+		name = "ETF2L Highlander Mid Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14212] = {
-		name = "ETF2L 12v12 Low Gold"
+		name = "ETF2L Highlander Low Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14213] = {
-		name = "ETF2L 12v12 Low Silver"
+		name = "ETF2L Highlander Low Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14214] = {
-		name = "ETF2L 12v12 Low Bronze"
+		name = "ETF2L Highlander Low Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14215] = {
-		name = "ETF2L 12v12 Low Participation"
+		name = "ETF2L Highlander Low Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14216] = {
-		name = "ETF2L 12v12 Open Gold"
+		name = "ETF2L Highlander Open Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14217] = {
-		name = "ETF2L 12v12 Open Silver"
+		name = "ETF2L Highlander Open Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14218] = {
-		name = "ETF2L 12v12 Open Bronze"
+		name = "ETF2L Highlander Open Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14219] = {
-		name = "ETF2L 12v12 Open Playoff"
+		name = "ETF2L Highlander Open Playoff Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14220] = {
-		name = "ETF2L 12v12 Open Participation"
+		name = "ETF2L Highlander Open Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14221] = {
-		name = "ETF2L 12v12 Open 4 Gold"
+		name = "ETF2L Highlander Open 4 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14222] = {
-		name = "ETF2L 12v12 Open 4 Silver"
+		name = "ETF2L Highlander Open 4 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14223] = {
-		name = "ETF2L 12v12 Open 4 Bronze"
+		name = "ETF2L Highlander Open 4 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14224] = {
-		name = "ETF2L 12v12 Open 4 Participation"
+		name = "ETF2L Highlander Open 4 Participation Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14225] = {
-		name = "Sacred Scouts 6v6 Gold"
+		name = "Sacred Scouts 6v6 Gold Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14226] = {
-		name = "Sacred Scouts 6v6 Silver"
+		name = "Sacred Scouts 6v6 Silver Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14227] = {
-		name = "Sacred Scouts 6v6 Bronze"
+		name = "Sacred Scouts 6v6 Bronze Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[14228] = {
@@ -28675,47 +28675,47 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14229] = {
-		name = "AsiaFortress Liquid.tf Invite 1st"
+		name = "AsiaFortress Liquid.tf Invite 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14230] = {
-		name = "AsiaFortress Liquid.tf Invite 2nd"
+		name = "AsiaFortress Liquid.tf Invite 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14231] = {
-		name = "AsiaFortress Liquid.tf Invite 3rd"
+		name = "AsiaFortress Liquid.tf Invite 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14232] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open 1st"
+		name = "AsiaFortress Liquid.tf Highlander Open 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14233] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open 2nd"
+		name = "AsiaFortress Liquid.tf Highlander Open 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14234] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open 3rd"
+		name = "AsiaFortress Liquid.tf Highlander Open 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14235] = {
-		name = "AsiaFortress Liquid.tf 12v12 Invite Participant"
+		name = "AsiaFortress Liquid.tf Highlander Invite Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14236] = {
-		name = "AsiaFortress Liquid.tf 12v12 Open Participant"
+		name = "AsiaFortress Liquid.tf Highlander Open Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14237] = {
-		name = "ozfortress Sixes Premier 1st"
+		name = "ozfortress Sixes Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14238] = {
-		name = "ozfortress Sixes Premier 2nd"
+		name = "ozfortress Sixes Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14239] = {
-		name = "ozfortress Sixes Premier 3rd"
+		name = "ozfortress Sixes Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14240] = {
@@ -28723,15 +28723,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14241] = {
-		name = "ozfortress Sixes High 1st"
+		name = "ozfortress Sixes High First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14242] = {
-		name = "ozfortress Sixes High 2nd"
+		name = "ozfortress Sixes High Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14243] = {
-		name = "ozfortress Sixes High 3rd"
+		name = "ozfortress Sixes High Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14244] = {
@@ -28739,15 +28739,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14245] = {
-		name = "ozfortress Sixes Intermediate 1st"
+		name = "ozfortress Sixes Intermediate First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14246] = {
-		name = "ozfortress Sixes Intermediate 2nd"
+		name = "ozfortress Sixes Intermediate Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14247] = {
-		name = "ozfortress Sixes Intermediate 3rd"
+		name = "ozfortress Sixes Intermediate Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14248] = {
@@ -28755,15 +28755,15 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14249] = {
-		name = "ozfortress Sixes Open 1st"
+		name = "ozfortress Sixes Open First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14250] = {
-		name = "ozfortress Sixes Open 2nd"
+		name = "ozfortress Sixes Open Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14251] = {
-		name = "ozfortress Sixes Open 3rd"
+		name = "ozfortress Sixes Open Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14252] = {
@@ -28771,58 +28771,58 @@
 		type = CosmeticType.TournamentMedal
 	},
 	[14253] = {
-		name = "ozfortress 12v12 Premier 1st"
+		name = "ozfortress Highlander Premier First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14254] = {
-		name = "ozfortress 12v12 Premier 2nd"
+		name = "ozfortress Highlander Premier Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14255] = {
-		name = "ozfortress 12v12 Premier 3rd"
+		name = "ozfortress Highlander Premier Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14256] = {
-		name = "ozfortress 12v12 Premier Participant"
+		name = "ozfortress Highlander Premier Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14257] = {
-		name = "ozfortress 12v12 Main 1st"
+		name = "ozfortress Highlander Main First Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14258] = {
-		name = "ozfortress 12v12 Main 2nd"
+		name = "ozfortress Highlander Main Second Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14259] = {
-		name = "ozfortress 12v12 Main 3rd"
+		name = "ozfortress Highlander Main Third Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14260] = {
-		name = "ozfortress 12v12 Main Participant"
+		name = "ozfortress Highlander Main Participant"
 		type = CosmeticType.TournamentMedal
 	},
 	[14264] = {
-		name = "Ghoulish Gambit Haunted Tank '24"
+		name = "Ghoulish Gambit Haunted Tank 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 	},
 	[14265] = {
-		name = "Ghoulish Gambit Poisonous Potato '24"
+		name = "Ghoulish Gambit Poisonous Potato 2024"
 		type = CosmeticType.CommunityMedal
 		paint = true
 		styles = ["Style 1" "Style 2"]
 	},
 	[14266] = {
-		name = "AsiaFortress Liquid.tf Newbie Cup 1st"
+		name = "AsiaFortress Liquid.tf Newbie Cup 1st Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14267] = {
-		name = "AsiaFortress Liquid.tf Newbie Cup 2nd"
+		name = "AsiaFortress Liquid.tf Newbie Cup 2nd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14268] = {
-		name = "AsiaFortress Liquid.tf Newbie Cup 3rd"
+		name = "AsiaFortress Liquid.tf Newbie Cup 3rd Place"
 		type = CosmeticType.TournamentMedal
 	},
 	[14269] = {
@@ -28833,8 +28833,580 @@
 		name = "AsiaFortress Liquid.tf Newbie Cup Coach"
 		type = CosmeticType.TournamentMedal
 	},
+	[14271] = {
+		name = "ozfortress Sixes Premier First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14272] = {
+		name = "ozfortress Sixes Premier Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14273] = {
+		name = "ozfortress Sixes Premier Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14274] = {
+		name = "ozfortress Sixes Premier Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14275] = {
+		name = "ozfortress Sixes High First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14276] = {
+		name = "ozfortress Sixes High Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14277] = {
+		name = "ozfortress Sixes High Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14278] = {
+		name = "ozfortress Sixes High Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14279] = {
+		name = "ozfortress Sixes Intermediate First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14280] = {
+		name = "ozfortress Sixes Intermediate Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14281] = {
+		name = "ozfortress Sixes Intermediate Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14282] = {
+		name = "ozfortress Sixes Intermediate Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14283] = {
+		name = "ozfortress Sixes Main First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14284] = {
+		name = "ozfortress Sixes Main Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14285] = {
+		name = "ozfortress Sixes Main Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14286] = {
+		name = "ozfortress Sixes Main Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14287] = {
+		name = "ozfortress Sixes Open First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14288] = {
+		name = "ozfortress Sixes Open Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14289] = {
+		name = "ozfortress Sixes Open Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14290] = {
+		name = "ozfortress Sixes Open Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14291] = {
+		name = "ozfortress Highlander Premier First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14292] = {
+		name = "ozfortress Highlander Premier Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14293] = {
+		name = "ozfortress Highlander Premier Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14294] = {
+		name = "ozfortress Highlander Premier Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14295] = {
+		name = "ozfortress Highlander Intermediate First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14296] = {
+		name = "ozfortress Highlander Intermediate Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14297] = {
+		name = "ozfortress Highlander Intermediate Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14298] = {
+		name = "ozfortress Highlander Intermediate Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14299] = {
+		name = "ozfortress Highlander Open First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14300] = {
+		name = "ozfortress Highlander Open Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14301] = {
+		name = "ozfortress Highlander Open Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14302] = {
+		name = "ozfortress Highlander Open Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14303] = {
+		name = "ozfortress Summer Cup Sixes Division 1 First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14304] = {
+		name = "ozfortress Summer Cup Sixes Division 1 Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14305] = {
+		name = "ozfortress Summer Cup Sixes Division 1 Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14306] = {
+		name = "ozfortress Summer Cup Sixes Division 1 Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14307] = {
+		name = "ozfortress Summer Cup Sixes Division 2 First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14308] = {
+		name = "ozfortress Summer Cup Sixes Division 2 Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14309] = {
+		name = "ozfortress Summer Cup Sixes Division 2 Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14310] = {
+		name = "ozfortress Summer Cup Sixes Division 2 Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14311] = {
+		name = "ozfortress Summer Cup Sixes Division 3 First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14312] = {
+		name = "ozfortress Summer Cup Sixes Division 3 Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14313] = {
+		name = "ozfortress Summer Cup Sixes Division 3 Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14314] = {
+		name = "ozfortress Summer Cup Sixes Division 3 Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14315] = {
+		name = "ozfortress Summer Cup Sixes Division 4 First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14316] = {
+		name = "ozfortress Summer Cup Sixes Division 4 Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14317] = {
+		name = "ozfortress Summer Cup Sixes Division 4 Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14318] = {
+		name = "ozfortress Summer Cup Sixes Division 4 Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14319] = {
+		name = "ozfortress Summer Cup Sixes Division 5 First Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14320] = {
+		name = "ozfortress Summer Cup Sixes Division 5 Second Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14321] = {
+		name = "ozfortress Summer Cup Sixes Division 5 Third Place"
+		type = CosmeticType.TournamentMedal
+	},
+	[14322] = {
+		name = "ozfortress Summer Cup Sixes Division 5 Participant"
+		type = CosmeticType.TournamentMedal
+	},
+	[14323] = {
+		name = "RGL.gg - Invite Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14324] = {
+		name = "RGL.gg - Invite 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14325] = {
+		name = "RGL.gg - Invite 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14326] = {
+		name = "RGL.gg - Invite Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14327] = {
+		name = "RGL.gg - Advanced Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14328] = {
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14329] = {
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14330] = {
+		name = "RGL.gg - Advanced Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14331] = {
+		name = "RGL.gg - Main Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14332] = {
+		name = "RGL.gg - Main 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14333] = {
+		name = "RGL.gg - Main 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14334] = {
+		name = "RGL.gg - Main Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14335] = {
+		name = "RGL.gg - Intermediate Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14336] = {
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14337] = {
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14338] = {
+		name = "RGL.gg - Intermediate Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14339] = {
+		name = "RGL.gg - Amateur Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14340] = {
+		name = "RGL.gg - Newcomer Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14341] = {
+		name = "RGL.gg - Invite Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14342] = {
+		name = "RGL.gg - Invite 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14343] = {
+		name = "RGL.gg - Invite 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14344] = {
+		name = "RGL.gg - Invite Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14345] = {
+		name = "RGL.gg - Advanced Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14346] = {
+		name = "RGL.gg - Advanced 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14347] = {
+		name = "RGL.gg - Advanced 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14348] = {
+		name = "RGL.gg - Advanced Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14349] = {
+		name = "RGL.gg - Main Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14350] = {
+		name = "RGL.gg - Main 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14351] = {
+		name = "RGL.gg - Main 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14352] = {
+		name = "RGL.gg - Main Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14353] = {
+		name = "RGL.gg - Intermediate Champions - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14354] = {
+		name = "RGL.gg - Intermediate 2nd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14355] = {
+		name = "RGL.gg - Intermediate 3rd Place - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14356] = {
+		name = "RGL.gg - Intermediate Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14357] = {
+		name = "RGL.gg - Amateur Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14358] = {
+		name = "RGL.gg - Newcomer Participant - Highlander"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14359] = {
+		name = "RGL.gg - Invite Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14360] = {
+		name = "RGL.gg - Invite 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14361] = {
+		name = "RGL.gg - Invite 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14362] = {
+		name = "RGL.gg - Invite Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14363] = {
+		name = "RGL.gg - Advanced Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14364] = {
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14365] = {
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14366] = {
+		name = "RGL.gg - Advanced Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14367] = {
+		name = "RGL.gg - Main Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14368] = {
+		name = "RGL.gg - Main 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14369] = {
+		name = "RGL.gg - Main 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14370] = {
+		name = "RGL.gg - Main Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14371] = {
+		name = "RGL.gg - Intermediate Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14372] = {
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14373] = {
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14374] = {
+		name = "RGL.gg - Intermediate Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14375] = {
+		name = "RGL.gg - Amateur Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14376] = {
+		name = "RGL.gg - Newcomer Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14377] = {
+		name = "RGL.gg - Invite Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14378] = {
+		name = "RGL.gg - Invite 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14379] = {
+		name = "RGL.gg - Invite 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14380] = {
+		name = "RGL.gg - Invite Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14381] = {
+		name = "RGL.gg - Advanced Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14382] = {
+		name = "RGL.gg - Advanced 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14383] = {
+		name = "RGL.gg - Advanced 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14384] = {
+		name = "RGL.gg - Advanced Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14385] = {
+		name = "RGL.gg - Main Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14386] = {
+		name = "RGL.gg - Main 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14387] = {
+		name = "RGL.gg - Main 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14388] = {
+		name = "RGL.gg - Main Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14389] = {
+		name = "RGL.gg - Intermediate Champions - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14390] = {
+		name = "RGL.gg - Intermediate 2nd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14391] = {
+		name = "RGL.gg - Intermediate 3rd Place - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14392] = {
+		name = "RGL.gg - Intermediate Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14393] = {
+		name = "RGL.gg - Amateur Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14394] = {
+		name = "RGL.gg - Newcomer Participant - 6v6"
+		type = CosmeticType.TournamentMedal
+		paint = true
+	},
+	[14395] = {
+		name = "RGL.gg Highlander Experimental Maps Cup"
+		type = CosmeticType.TournamentMedal
+	},
 	[30000] = {
-		name = "Electric Badge-aloo"
+		name = "The Electric Badge-aloo"
 		type = CosmeticType.CommunityMedal
 	},
 	[30001] = {
@@ -31608,7 +32180,7 @@
 		paint = true
 	},
 	[30559] = {
-		name = "End of the Line Community Update"
+		name = "End of the Line Community Update Medal"
 		type = CosmeticType.CommunityMedal
 	},
 	[30561] = {
@@ -32000,7 +32572,7 @@
 		paint = true
 	},
 	[30670] = {
-		name = "Invasion Community Update"
+		name = "Invasion Community Update Medal"
 		type = CosmeticType.TournamentMedal
 	},
 	[30675] = {
