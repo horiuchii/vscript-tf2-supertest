@@ -22,11 +22,11 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     return weapon && weapon != "null" && (weapon in WEAPONS);
 }
 
-::CTFPlayer.ConvertWeaponClassname <- function(classname)
+::ConvertWeaponClassname <- function(class_index, classname)
 {
     if(classname == "saxxy")
     {
-        switch(GetPlayerClass())
+        switch(class_index)
         {
             case TF_CLASS_SCOUT: classname = "tf_weapon_bat"; break;
             case TF_CLASS_SOLDIER: classname = "tf_weapon_shovel"; break;
@@ -42,7 +42,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 
     if(classname == "tf_weapon_shotgun")
     {
-        switch(GetPlayerClass())
+        switch(class_index)
         {
             case TF_CLASS_SOLDIER: classname = "tf_weapon_shotgun_soldier"; break;
             case TF_CLASS_PYRO: classname = "tf_weapon_shotgun_pyro"; break;
@@ -53,7 +53,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 
     if(classname == "tf_weapon_pistol")
     {
-        switch(GetPlayerClass())
+        switch(class_index)
         {
             case TF_CLASS_SCOUT: classname = "tf_weapon_pistol_scout"; break;
         }
@@ -227,7 +227,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
 
 ::CTFPlayer.GiveWeapon <- function(weapon_id, classname, item_id)
 {
-    local weapon = CreateByClassname(ConvertWeaponClassname(classname))
+    local weapon = CreateByClassname(ConvertWeaponClassname(GetPlayerClass(), classname))
 
     weapon.ValidateScriptScope();
     local wep_scriptscope = weapon.GetScriptScope();

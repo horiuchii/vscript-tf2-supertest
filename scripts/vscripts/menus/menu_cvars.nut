@@ -61,13 +61,6 @@
         options = [0, 1]
         option_names = ["Off", "On"]
         description = "Whether bots will continuously jump."
-    },
-    {
-        name = "tf_bot_melee_only"
-        display_name = "Force Bot Melee"
-        options = [0, 1]
-        option_names = ["Off", "On"]
-        description = "Whether bots will have their melee out."
     }
 ]
 
@@ -119,9 +112,12 @@ foreach(cvar in CVarList)
 
             function OnSelected(player)
             {
-                Convars.SetValue(cvar_data.name, cvar_data.options[index]);
-                ServerCookies.Set(cvar_data.name, cvar_data.options[index]);
-                player.SendChat(CHAT_PREFIX + "Set CVar \"" + cvar_data.name + "\" to: " + cvar_data.options[index]);
+                SuppressMessages(0.2);
+                RunWithDelay(0.1, function(){
+                    Convars.SetValue(cvar_data.name, cvar_data.options[index]);
+                    ServerCookies.Set(cvar_data.name, cvar_data.options[index]);
+                    player.SendChat(CHAT_PREFIX + "Set CVar \"" + cvar_data.name + "\" to: " + cvar_data.options[index]);
+                })
             }
         }()
         menu.items.append(menu_item);

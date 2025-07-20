@@ -1851,7 +1851,7 @@ function GenerateSelectCollectionMenu()
         {
             Cookies.Set(player, "skin", null);
             player.SendChat(CHAT_PREFIX + "Unequipped your weapon override skin.");
-            SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
         }
     })
     for (local collection_index = 0; collection_index < SkinCollection.MAX; collection_index++)
@@ -1909,7 +1909,7 @@ function GenerateSkinSelectCollectionMenu()
                 {
                     Cookies.Set(player, "skin", skin_id);
                     player.SendChat(CHAT_PREFIX + "Equipped the " + titles[0] + " as your weapon override skin.");
-                    SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                    SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 }
             })
         }

@@ -96,12 +96,6 @@ Cookies.AddCookie("ignore_econ_cosmetics", 0);
         if(unusual_id != -1)
         {
             hat_entity.AddAttribute("attach particle effect", unusual_id, -1);
-            // local unusual_data = UNUSUAL[unusual_id];
-            // if(safeget(unusual_data, "team", false) && GetTeam() == TF_TEAM_BLUE)
-            // {
-            //     local blue_id = safeget(unusual_data, "blue_id", null);
-            //     unusual_id = (blue_id != null ? blue_id : (unusual_id + 1));
-            // }
         }
 
         //paint it
@@ -181,7 +175,7 @@ function GenerateCosmeticPrefabSelectMenu()
             {
                 Cookies.SetNamespace("cosmetic_prefab_" + class_name, player, "current", -1);
                 player.SendChat(CHAT_PREFIX + "Removed the " + UpperFirst(class_name) + "'s cosmetic prefab override.");
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         })
         for(local prefab_id = 0; prefab_id < COSMETIC_PREFAB_COUNT; prefab_id++)
@@ -230,7 +224,7 @@ function GenerateCosmeticPrefabMenu()
                 {
                     Cookies.SetNamespace("cosmetic_prefab_" + class_name, player, "current", prefab_index);
                     player.SendChat(CHAT_PREFIX + "Equipped Prefab #" + (prefab_index + 1) + " for the " + UpperFirst(class_name));
-                    SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                    SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 }
             })
             for(local cosmetic_slot_id = 0; cosmetic_slot_id < COSMESTICS_IN_PREFAB_COUNT; cosmetic_slot_id++)
@@ -372,7 +366,7 @@ GenerateCosmeticEditMenu();
             }
 
             player.GoToMenu("cosmetics_" + class_name + "_" + prefab_index + "_" + cosmetic_slot_index + "_editcosmetic");
-            
+
             local namespace = "cosmetic_prefab_" + class_name;
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index;
             local hat_id = Cookies.GetNamespace(namespace, player, cookie);
@@ -507,7 +501,7 @@ GenerateCosmeticEditMenu();
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_paint";
             Cookies.SetNamespace(namespace, player, cookie, index);
             player.SendChat(CHAT_PREFIX + "Set the paint of the current cosmetic to: " + PAINTS[index].name + ".");
-            SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
         }
     })
     //edit style
@@ -560,7 +554,7 @@ GenerateCosmeticEditMenu();
             local cookie = "prefab_" + prefab_index + "_cosmetic_" + cosmetic_slot_index + "_style";
             Cookies.SetNamespace(namespace, player, cookie, index);
             player.SendChat(CHAT_PREFIX + "Set the style of the current cosmetic to: " + titles[index].slice(7) + ".");
-            SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
         }
     })
 }
@@ -600,7 +594,7 @@ foreach(cosmetic_id, cosmetic_data in COSMETICS)
                 local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
                 Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
                 player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " to Slot " + (menu.cosmetic_slot_index + 1) + " for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         }
 
@@ -641,7 +635,7 @@ foreach(cosmetic_id, cosmetic_data in COSMETICS)
                 local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + (COSMESTICS_IN_PREFAB_COUNT - 1);
                 Cookies.SetNamespace(namespace, player, cookie, cosmetic_index);
                 player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " into the medal slot for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         }
 
@@ -679,7 +673,7 @@ foreach(tf_class_name in TF_CLASSES) {
             Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
             Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
             player.SendChat(CHAT_PREFIX + "Removed the Cosmetic in Slot " + (menu.cosmetic_slot_index + 1) + " for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-            SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+            SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
         }
     })
 }
@@ -702,7 +696,7 @@ CommunityMedalMenuItems.insert(0, class extends MenuItem
         Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
         Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
         player.SendChat(CHAT_PREFIX + "Removed the medal in it's slot for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+        SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
     }
 })
 TournamentMedalMenuItems.insert(0, class extends MenuItem
@@ -724,7 +718,7 @@ TournamentMedalMenuItems.insert(0, class extends MenuItem
         Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
         Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
         player.SendChat(CHAT_PREFIX + "Removed the medal in it's slot for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+        SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
     }
 })
 
@@ -754,7 +748,7 @@ foreach(unusual_id, unusual_data in UNUSUALS)
                 local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index + "_unusual";
                 Cookies.SetNamespace(namespace, player, cookie, unusual_index);
                 player.SendChat(CHAT_PREFIX + "Equiped the " + titles[0] + " to Slot " + (menu.cosmetic_slot_index + 1) + "'s Unusual for " + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         })
     }
@@ -779,7 +773,7 @@ CosmeticUnusualMenuItems.insert(0, class extends MenuItem
         local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index + "_unusual";
         Cookies.SetNamespace(namespace, player, cookie, -1);
         player.SendChat(CHAT_PREFIX + "Removed the Unusual in Slot " + (menu.cosmetic_slot_index + 1) + " for\n" + UpperFirst(menu.class_name) + "'s " + ordinal(menu.prefab_index + 1) + " Prefab.");
-        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+        SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
     }
 })
 

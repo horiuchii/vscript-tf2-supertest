@@ -1,5 +1,5 @@
 ::DEBUG <- !!GetDeveloperLevel();
-::IS_SUPERTEST <- GetMapName() == "supertest";
+::IS_SUPERTEST <- GetMapName().find("supertest") != null;
 
 ::projectDir <- ""
 IncludeScript(projectDir+"/__lizardlib/_lizardlib.nut", this);
@@ -14,8 +14,13 @@ IncludeScript(projectDir+"supertest_player.nut", this);
 IncludeScript(projectDir+"supertest_dpsmeter.nut", this);
 
 ServerCookies.LoadServerData();
-SetServerCookieCVars();
-RemoveSpawnedBots();
+SuppressMessages(0.2);
+RunWithDelay(0.1, function(){
+    SetServerCookieCVars();
+    RemoveSpawnedBots();
+})
+
+SetPropBool(tf_gamerules, "m_bIsInTraining", false)
 
 Convars.SetValue("mp_waitingforplayers_cancel", 1);
 Convars.SetValue("mp_teams_unbalance_limit", 0);

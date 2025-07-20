@@ -62,6 +62,7 @@ IncludeScript(projectDir+"menus/menu_weaponmods.nut", this);
 IncludeScript(projectDir+"menus/menu_weaponmods_skins.nut", this);
 IncludeScript(projectDir+"menus/menu_taunts.nut", this);
 IncludeScript(projectDir+"menus/menu_botrange.nut", this);
+IncludeScript(projectDir+"menus/menu_buildingrange.nut", this);
 IncludeScript(projectDir+"menus/menu_cvars.nut", this);
 IncludeScript(projectDir+"menus/menu_playermods.nut", this);
 IncludeScript(projectDir+"menus/menu_cosmetics.nut", this);

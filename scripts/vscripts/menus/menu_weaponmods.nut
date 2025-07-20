@@ -67,7 +67,7 @@ DefineMenu(class extends Menu{
                     case 4: wear = WEAR_BATTLE_SCARRED; break;
                 }
                 Cookies.Set(player, "wear", wear)
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 player.SendChat(CHAT_PREFIX + "Set your override weapon wear to: " + WEAR_NAME[wear] + ".")
             }
         }(),
@@ -88,7 +88,7 @@ DefineMenu(class extends Menu{
                 }
 
                 Cookies.Set(player, index == 0 ? "seed_lo" : "seed_hi", new_seed)
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         },
         class extends MenuItem{
@@ -107,7 +107,7 @@ DefineMenu(class extends Menu{
             function OnSelected(player)
             {
                 Cookies.Set(player, "festivizer", index);
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 if(index)
                     player.SendChat(CHAT_PREFIX + "Your override weapons will now be festivized.");
                 else
@@ -130,7 +130,7 @@ DefineMenu(class extends Menu{
             function OnSelected(player)
             {
                 Cookies.Set(player, "statclock", index);
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 if(index)
                     player.SendChat(CHAT_PREFIX + "Your override weapons will now show a Stat Clock.");
                 else
@@ -170,7 +170,7 @@ DefineMenu(class extends Menu{
                     case 4: unusual = WEAPON_UNUSUAL_ENERGYORB; break;
                 }
                 Cookies.Set(player, "unusual", unusual)
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 if(unusual)
                     player.SendChat(CHAT_PREFIX + "Set your override weapon unusual to: " + WEAPON_UNUSUAL_NAME[unusual] + ".");
                 else
@@ -193,7 +193,7 @@ DefineMenu(class extends Menu{
             function OnSelected(player)
             {
                 Cookies.Set(player, "spells", index);
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
                 if(index)
                     player.SendChat(CHAT_PREFIX + "Spells will appear on your override weapons.");
                 else
@@ -225,7 +225,7 @@ DefineMenu(class extends Menu{
                     case 3: message += "Professional"; break;
                 }
                 player.SendChat(message)
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         },
         class extends MenuItem{
@@ -246,7 +246,7 @@ DefineMenu(class extends Menu{
                 local sheen = Cookies.Set(player, "killstreak_sheen", index + 1);
                 local message = CHAT_PREFIX + "Your override weapon spec. killstreak sheen color is now: " + KS_SHEEN_NAME[sheen];
                 player.SendChat(message);
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         },
         class extends MenuItem{
@@ -288,7 +288,7 @@ DefineMenu(class extends Menu{
                 Cookies.Set(player, "killstreak_particle", particle_id);
                 local message = CHAT_PREFIX + "Your override weapon spec. killstreak sheen color is now: " + KS_EFFECT_NAME[particle_id];
                 player.SendChat(message);
-                SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+                SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
             }
         }]
     }
@@ -313,12 +313,12 @@ OnGameEvent("player_say", 100, function(params)
     {
         local seed = params.text.tointeger()
         Cookies.Set(player, "seed_lo", seed)
-        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+        SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
     }
     else if(title == "High Skin Seed Bytes")
     {
         local seed = params.text.tointeger()
         Cookies.Set(player, "seed_hi", seed)
-        SendGlobalGameEvent("post_inventory_application" {userid = player.GetUserID()});
+        SendGlobalGameEvent("post_inventory_application", {userid = player.GetUserID()});
     }
 })

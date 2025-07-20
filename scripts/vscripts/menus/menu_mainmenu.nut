@@ -94,6 +94,19 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
+        titles = ["Building Range"];
+
+        function GenerateDesc(player)
+        {
+            return "Interact with the buildings\ninside of the building range.";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("building_controls")
+        }
+    },
+    class extends MenuItem{
         titles = ["Server CVars"];
 
         function GenerateDesc(player)

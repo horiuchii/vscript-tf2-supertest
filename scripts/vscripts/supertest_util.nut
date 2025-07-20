@@ -301,6 +301,7 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
 
 	return wearable;
 }
+::CTFBot.GivePlayerCosmetic <- CTFPlayer.GivePlayerCosmetic;
 
 ::trigger_particle <- SpawnEntityFromTable("trigger_particle", {
     spawnflags = 1,
@@ -322,4 +323,35 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
 ::CTFPlayer.ClearParticle <- function()
 {
     EntFireByHandle(this, "DispatchEffect", "ParticleEffectStop", 0, this, this);
+}
+
+::SuppressMessages <- function(length)
+{
+    local message_suppressor = CreateByClassname("point_commentary_node");
+    message_suppressor.KeyValueFromString("classname", "killme"); //dont keep between rounds
+    RunWithDelay(length, function(){
+        message_suppressor.Kill();
+    })
+}
+
+::lerp <- function(a, b, t)
+{
+    // Ensure shortest path
+    local delta = b - a;
+    if (delta > 180) delta -= 360;
+    else if (delta < -180) delta += 360;
+    return a + delta * t;
+}
+
+::ClampAngleAround <- function(angle, center, max_delta)
+{
+    local delta = angle - center;
+
+    while (delta > 180) delta -= 360;
+    while (delta < -180) delta += 360;
+
+    if (delta > max_delta) delta = max_delta;
+    if (delta < -max_delta) delta = -max_delta;
+
+    return center + delta;
 }
