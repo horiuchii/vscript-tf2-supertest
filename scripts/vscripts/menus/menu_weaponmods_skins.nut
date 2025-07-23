@@ -412,8 +412,8 @@ enum SkinCollection
         order = 2
         replacements = {[205] = 15052}
     },
-    ["shell_shocker"] = {
-        display_name = "Shell Shocker"
+    ["current_event"] = {
+        display_name = "Current Event"
         collection = SkinCollection.Powerhouse
         type = SkinType.LegacySkin
         order = 3
@@ -1711,7 +1711,7 @@ enum SkinCollection
         index = 419
     },
     ["secretly_serviced"] = {
-        display_name = "Pacific Peacemaker"
+        display_name = "Secretly Serviced"
         collection = SkinCollection.Summer2023
         type = SkinType.Warpaint
         order = 8
