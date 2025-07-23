@@ -309,6 +309,7 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     StartDisabled = 0,
     TeamNum = 0
 });
+trigger_particle.SetSolid(SOLID_NONE);
 ::CTFPlayer.AttachParticle <- function(particle_name, attachment_type, attachment_name = null)
 {
     if(!trigger_particle)

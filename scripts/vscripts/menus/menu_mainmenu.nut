@@ -131,6 +131,19 @@ DefineMenu(class extends Menu{
         {
             player.GoToMenu("stats")
         }
+    },
+    class extends MenuItem{
+        titles = ["Changelog"];
+
+        function GenerateDesc(player)
+        {
+            return "View the history of Super Test updates.";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("changelog")
+        }
     }
     ]
 })

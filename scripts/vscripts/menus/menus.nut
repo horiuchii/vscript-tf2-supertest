@@ -68,6 +68,7 @@ IncludeScript(projectDir+"menus/menu_playermods.nut", this);
 IncludeScript(projectDir+"menus/menu_cosmetics.nut", this);
 IncludeScript(projectDir+"menus/menu_playersettings.nut", this);
 IncludeScript(projectDir+"menus/menu_stats.nut", this);
+IncludeScript(projectDir+"menus/menu_changelog.nut", this);
 
 OnGameEvent("player_say", 101, function(params)
 {
