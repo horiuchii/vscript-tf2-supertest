@@ -16,7 +16,7 @@ if(!IS_SUPERTEST)
     dps_boss.SetAbsAngles(QAngle(0,-120,0));
     dps_boss.AcceptInput("SetStepHeight", "0", null, null);
     dps_boss.AcceptInput("SetSpeed", "0", null, null);
-    dps_boss.AcceptInput("SetTeam", "0", null, null);
+    dps_boss.AcceptInput("SetTeam", "1", null, null); //unassigned breaks damage
     SetPropInt(dps_boss, "m_takedamage", DAMAGE_EVENTS_ONLY);
 
     local tank_attachment = null;

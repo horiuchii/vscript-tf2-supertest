@@ -130,6 +130,12 @@
 			"Added the building range menu, allowing you to\nsummon and adjust parameters of spawned buildings"
 		]
 	}
+	{
+		name = "v1.6.1"
+		changelog = [
+			"Fixed tank damage being inconsistent with expected values."
+		]
+	}
 ]
 
 DefineMenu(class extends Menu{
