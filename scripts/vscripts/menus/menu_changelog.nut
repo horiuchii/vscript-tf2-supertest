@@ -133,7 +133,10 @@
 	{
 		name = "v1.6.1"
 		changelog = [
-			"Fixed tank damage being inconsistent with expected values."
+			"Added Summer 2025 Content."
+			"Fixed tank damage being\ninconsistent with expected values."
+			"Bots can now only be spawned every 5\nseconds to prevent lag related bugs."
+			"Overhauled the chroma key room, colors\ncan be adjusted in the new chroma key menu."
 		]
 	}
 ]

@@ -81,6 +81,19 @@ DefineMenu(class extends Menu{
         }
     },
     class extends MenuItem{
+        titles = ["Chroma Key Room"];
+
+        function GenerateDesc(player)
+        {
+            return "Modify the chroma key room.";
+        }
+
+        function OnSelected(player)
+        {
+            player.GoToMenu("chroma")
+        }
+    },
+    class extends MenuItem{
         titles = ["Bot Range"];
 
         function GenerateDesc(player)

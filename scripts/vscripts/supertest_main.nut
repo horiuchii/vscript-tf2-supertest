@@ -37,6 +37,13 @@ function TickFrame()
     return -1;
 }
 
+::SlowTick <- function()
+{
+    FireListeners("tick_slow", {});
+    return 0.1;
+}
+AddThinkToEnt(tf_gamerules, "SlowTick")
+
 OnGameEvent("player_say", function(params)
 {
     if(params.text == "/toggle_debug")

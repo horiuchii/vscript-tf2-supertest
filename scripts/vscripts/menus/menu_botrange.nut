@@ -22,6 +22,8 @@
     }
 }
 
+::last_spawned_bot_time <- 0;
+
 ::last_player_that_spawned_bots <- null;
 ::bots <- [];
 ::SpawnedBotType <-
@@ -268,6 +270,10 @@ DefineMenu(class extends Menu{
 
             function OnSelected(player)
             {
+                if(last_spawned_bot_time + 5 > Time())
+                    return;
+
+                ::last_spawned_bot_time <- Time();
                 ::last_player_that_spawned_bots = player;
 
                 //keep this long because spawning can take time
@@ -287,6 +293,9 @@ DefineMenu(class extends Menu{
                     EntFire("botspawn", "spawnbot")
                     Convars.SetValue("tf_bot_count", 9)
                     RunWithDelay(1.5, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
+                    RunWithDelay(2, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
+                    RunWithDelay(2.5, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
+                    RunWithDelay(3, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
                 })
             }
         },

@@ -1,0 +1,66 @@
+"UnLitGeneric"
+{
+	"$color" "[0 0 0]"
+	"$nofog" "1"
+	"$nodecal" "1"
+	"$surfaceprop" "Default_silent"
+	
+	"$red" "0"
+	"$green" "1"
+	"$blue" "0"
+	
+	"Proxies"
+	{
+		"Equals"
+		{
+			"srcVar1" "$red"
+			"resultVar" "$color[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$green"
+			"resultVar" "$color[1]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$blue"
+			"resultVar" "$color[2]"
+		}
+		"MaterialModify"
+		{
+			"dummy" "0"
+		}
+	}
+}
+
+"UnlitGeneric"
+{
+	$basetexture "models/bk/wld/ttc/sandcastle/001c"
+    $color2      "[1 1 1]"
+"$varicolorred" "1"
+"$varicolorgreen" "1"
+"$varicolorblue" "1"
+
+ "Proxies"
+        {
+	"Equals"
+	{
+"srcVar1" "$varicolorred"
+"resultVar" "$color2[0]"
+	}
+	"Equals"
+	{
+"srcVar1" "$varicolorgreen"
+"resultVar" "$color2[1]"
+	}
+	"Equals"
+	{
+"srcVar1" "$varicolorblue"
+"resultVar" "$color2[2]"
+	}
+           "MaterialModify"
+            {
+	"dummy" "0"
+	}
+    }
+}
