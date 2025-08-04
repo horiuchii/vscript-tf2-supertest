@@ -238,7 +238,8 @@ enum CosmeticType
 ::DAI_PERIOD_TICKS <- [0 1 2 3 4 8] //how many ticks it takes to move the input
 
 ::SIDE_DAI_INITIAL_TICKS <- 10; // how many ticks until side DAI starts
-::SIDE_DAI_PERIOD_TICKS <- 10; // how many ticks inbetween side DAI inputs
+::SIDE_DAI_TICKS <- [1100 550 220 110 55 0] //how many ticks need to have passed until we start moving the menu faster
+::SIDE_DAI_PERIOD_TICKS <- [0 1 2 3 4 8] //how many ticks it takes to move the input
 
 ::FLAG_WARPAINT_AND_UNUSUAL <- 1
 ::FLAG_ACCEPTS_ENERGYORB <- 2

@@ -14,6 +14,13 @@
         description = "Whether engineer buildings should\nbe free to build and upgrade."
     },
     {
+        name = "weapon_medigun_charge_rate"
+        display_name = "Übercharge Build Rate"
+        options = [0.01, 5, 40]
+        option_names = ["Instant", "Fast", "Default"]
+        description = "How long it should take\nfor mediguns to build Übercharge."
+    },
+    {
         name = "tf_weapon_criticals"
         display_name = "Random Crits"
         options = [0, 1]
@@ -56,6 +63,13 @@
         description = "What holiday should be forced on."
     },
     {
+        name = "tf_force_holidays_off"
+        display_name = "Force No Holiday"
+        options = [0, 1]
+        option_names = ["Off", "On"]
+        description = "Whether holidays should be forcibly disabled."
+    },
+    {
         name = "tf_bot_force_jump"
         display_name = "Force Bot Jump"
         options = [0, 1]
@@ -96,14 +110,14 @@ foreach(cvar in CVarList)
                     titles.append(cvar_data.display_name + ": " + name);
                 }
 
-                local cvar_value = Convars.GetInt(cvar_data.name);
+                local cvar_value = Convars.GetFloat(cvar_data.name);
                 local cvar_index = cvar_data.options.find(cvar_value);
                 index = (cvar_index != null ? cvar_index : 0);
             }
 
             function GenerateDesc(player)
             {
-                local cvar_value = Convars.GetInt(cvar_data.name);
+                local cvar_value = Convars.GetFloat(cvar_data.name);
                 local cvar_index = cvar_data.options.find(cvar_value);
                 local cvar_option_displayname = (cvar_index != null ? cvar_data.option_names[cvar_index] : cvar_value);
 
@@ -117,6 +131,8 @@ foreach(cvar in CVarList)
                     Convars.SetValue(cvar_data.name, cvar_data.options[index]);
                     ServerCookies.Set(cvar_data.name, cvar_data.options[index]);
                     player.SendChat(CHAT_PREFIX + "Set CVar \"" + cvar_data.name + "\" to: " + cvar_data.options[index]);
+                    //hack to get the description to redraw because we're changing the cvar on delay
+                    player.SetVar("current_menuitem_desc", null);
                 })
             }
         }()

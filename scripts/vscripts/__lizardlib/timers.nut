@@ -100,7 +100,6 @@
 ::delays <- {};
 
 {
-    local worldspawn = Entities.FindByClassname(null, "worldspawn");
     worldspawn.ValidateScriptScope();
     worldspawn.GetScriptScope().LizardLibThink <- function()
     {

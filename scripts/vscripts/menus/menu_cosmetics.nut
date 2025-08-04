@@ -691,7 +691,7 @@ CommunityMedalMenuItems.insert(0, class extends MenuItem
     {
         local menu = player.GetVar("menu");
         local namespace = "cosmetic_prefab_" + menu.class_name;
-        local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+        local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + (COSMESTICS_IN_PREFAB_COUNT - 1);
         Cookies.SetNamespace(namespace, player, cookie, -1);
         Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
         Cookies.SetNamespace(namespace, player, cookie + "_style", 0);
@@ -713,7 +713,7 @@ TournamentMedalMenuItems.insert(0, class extends MenuItem
     {
         local menu = player.GetVar("menu");
         local namespace = "cosmetic_prefab_" + menu.class_name;
-        local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + menu.cosmetic_slot_index;
+        local cookie = "prefab_" + menu.prefab_index + "_cosmetic_" + (COSMESTICS_IN_PREFAB_COUNT - 1);
         Cookies.SetNamespace(namespace, player, cookie, -1);
         Cookies.SetNamespace(namespace, player, cookie + "_paint", 0);
         Cookies.SetNamespace(namespace, player, cookie + "_style", 0);

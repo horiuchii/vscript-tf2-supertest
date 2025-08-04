@@ -1,18 +1,12 @@
-const CHROMA_DELTA = 0.05
-
-::chroma_changer_0 <- FindByName(null, "chroma_color0")
-::chroma_changer_1 <- FindByName(null, "chroma_color1")
-::chroma_changer_2 <- FindByName(null, "chroma_color2")
+const CHROMA_DELTA = 0.01
 
 ServerCookies.AddCookie("chroma0", 0.0)
 ServerCookies.AddCookie("chroma1", 1.0)
 ServerCookies.AddCookie("chroma2", 0.0)
 
-AddListener("tick_slow", 100, function(){
-	for (local i = 0; i < 3; i++) {
-		getroottable()["chroma_changer_" + i].AcceptInput("SetMaterialVar", ServerCookies.Get("chroma" + i.tostring()).tostring(), null, null)
-	}
-
+AddListener("tick_frame", 100, function()
+{
+	SetPropVector(worldspawn, "m_WorldMins", Vector(ServerCookies.Get("chroma0")*100, ServerCookies.Get("chroma1")*100, ServerCookies.Get("chroma2")*100))
 })
 
 DefineMenu(class extends Menu{
@@ -29,7 +23,6 @@ DefineMenu(class extends Menu{
 			{
 				new_titles.append(name + ": " + (i * CHROMA_DELTA).tostring())
 			}
-
 
 			items.append(class extends MenuItem{
 				titles = new_titles
@@ -64,7 +57,6 @@ DefineMenu(class extends Menu{
 					player.SetVar("current_menuitem_desc", null);
 					player.PlaySoundForPlayer({sound_name = "ui/cyoa_node_absent.wav"});
 					ServerCookies.Set("chroma" + chroma, index * CHROMA_DELTA)
-					print("TEST")
 					return true;
 				}
 			})

@@ -324,7 +324,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         if (heldWeapon.GetSlot() != WEAPONS[weapon_id].slot)
             continue
         heldWeapon.Destroy()
-        SetPropEntityArray(this, "m_hMyWeapons" null, i)
+        SetPropEntityArray(this, "m_hMyWeapons", null, i)
     }
 
     Weapon_Equip(weapon)
@@ -394,7 +394,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         if (heldWeapon.GetSlot() != WEAPONS[weapon_id].slot)
             continue
         heldWeapon.Destroy()
-        SetPropEntityArray(this, "m_hMyWeapons" null, i)
+        SetPropEntityArray(this, "m_hMyWeapons", null, i)
     }
 
 	//recalculates bodygroups on the player
@@ -413,7 +413,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         if(!(wearable_index in WEARABLE_LOOKUP))
             continue;
 
-        if((WEARABLE_LOOKUP[wearable_index].slot == WEAPONS[weapon_id].slot || wearable_index == item_id) && GetVar("wearables").find(wearable) == null)
+        if((WEARABLE_LOOKUP[wearable_index].slot == WEAPONS[weapon_id].slot || wearable_index == item_id) && GetVar("weapon_wearables").find(wearable) == null)
         {
             wearables_to_kill.append(wearable)
         }
@@ -592,9 +592,9 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 0, -1);
-            weapon.AddAttribute("loot rarity" 1, -1);
-            weapon.AddAttribute("is australium item" 1, -1);
+            weapon.AddAttribute("item style override", 0, -1);
+            weapon.AddAttribute("loot rarity", 1, -1);
+            weapon.AddAttribute("is australium item", 1, -1);
         }
     },
     ["katana"] = {
@@ -840,7 +840,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variants = ["guillotine_thirstier"]
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 0, -1);
+            weapon.AddAttribute("item style override", 0, -1);
         }
     },
     ["guillotine_thirstier"] = {
@@ -852,7 +852,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 1, -1);
+            weapon.AddAttribute("item style override", 1, -1);
         }
     },
     //SCOUT MELEE
@@ -975,18 +975,18 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("attach particle effect" 2, -1);
-            weapon.AddAttribute("damage bonus" 200, -1);
-            weapon.AddAttribute("clip size bonus" 201, -1);
-            weapon.AddAttribute("fire rate bonus" 0.25, -1);
-            weapon.AddAttribute("heal on hit for slowfire" 250, -1);
-            weapon.AddAttribute("critboost on kill" 10, -1);
-            weapon.AddAttribute("Projectile speed increased" 1.5, -1);
-            weapon.AddAttribute("critboost on kill" 10, -1);
-            weapon.AddAttribute("move speed bonus" 2, -1);
-            weapon.AddAttribute("max health additive bonus" 250, -1);
-            weapon.AddAttribute("Reload time decreased" 0.25, -1);
-            weapon.AddAttribute("maxammo primary increased" 200, -1);
+            weapon.AddAttribute("attach particle effect", 2, -1);
+            weapon.AddAttribute("damage bonus", 200, -1);
+            weapon.AddAttribute("clip size bonus", 201, -1);
+            weapon.AddAttribute("fire rate bonus", 0.25, -1);
+            weapon.AddAttribute("heal on hit for slowfire", 250, -1);
+            weapon.AddAttribute("critboost on kill", 10, -1);
+            weapon.AddAttribute("Projectile speed increased", 1.5, -1);
+            weapon.AddAttribute("critboost on kill", 10, -1);
+            weapon.AddAttribute("move speed bonus", 2, -1);
+            weapon.AddAttribute("max health additive bonus", 250, -1);
+            weapon.AddAttribute("Reload time decreased", 0.25, -1);
+            weapon.AddAttribute("maxammo primary increased", 200, -1);
         }
     }),
     ["rocketlauncher_festive"] = combinetables(clone(WEP_BASE_ROCKETLAUNCHER), {
@@ -1617,7 +1617,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 1, -1);
+            weapon.AddAttribute("item style override", 1, -1);
         }
     }),
     ["splendid_screen_arrow"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
@@ -1628,7 +1628,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 2, -1);
+            weapon.AddAttribute("item style override", 2, -1);
         }
     }),
     ["splendid_screen_spikeandarrow"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
@@ -1639,7 +1639,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 3, -1);
+            weapon.AddAttribute("item style override", 3, -1);
         }
     }),
     ["tide_turner"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
@@ -1815,7 +1815,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id = 850
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("attack projectiles" 1, -1);
+            weapon.AddAttribute("attack projectiles", 1, -1);
         }
     }),
     //HEAVY SECONDARY
@@ -2616,7 +2616,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
         extra_code = function(weapon)
         {
-            weapon.AddAttribute("item style override" 1, -1);
+            weapon.AddAttribute("item style override", 1, -1);
         }
     }),
     ["silver_bk_knife_mk1"] = combinetables(clone(WEP_BASE_KNIFE), {
@@ -2825,9 +2825,9 @@ CreateStockWeaponReverseLookups()
                 flags = weapon_table.flags & FLAG_WARPAINT_AND_UNUSUAL ? weapon_table.flags - FLAG_WARPAINT_AND_UNUSUAL : weapon_table.flags
                 extra_code = function(weapon)
                 {
-                    weapon.AddAttribute("item style override" 1, -1);
-                    weapon.AddAttribute("loot rarity" 1, -1);
-                    weapon.AddAttribute("is australium item" 1, -1);
+                    weapon.AddAttribute("item style override", 1, -1);
+                    weapon.AddAttribute("loot rarity", 1, -1);
+                    weapon.AddAttribute("is australium item", 1, -1);
                 }
             })
         }

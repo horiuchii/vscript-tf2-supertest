@@ -5,12 +5,62 @@
 	"$nodecal" "1"
 	"$surfaceprop" "Default_silent"
 	
+	"$world_mins" "[0 0 0]"
+	
+	$zero 0
+	$hundred 100
+	
 	"$red" "0"
 	"$green" "1"
 	"$blue" "0"
 	
 	"Proxies"
 	{
+		"WorldDims"
+		{
+			"dummy" "0"
+		}
+        Clamp
+        {
+            srcVar1                      $zero
+            min                         "$world_mins[0]"
+            max                         "$world_mins[0]"
+            resultVar                    $red
+        }
+        
+        Clamp
+        {
+            srcVar1                      $zero
+            min                         "$world_mins[1]"
+            max                         "$world_mins[1]"
+            resultVar                    $green
+        }
+        
+        Clamp
+        {
+            srcVar1                      $zero
+            min                         "$world_mins[2]"
+            max                         "$world_mins[2]"
+            resultVar                    $blue
+        }
+		"Divide"
+		{
+			"srcVar1" "$red"
+			"srcVar2" "$hundred"
+			"resultVar" "$red"
+		}
+		"Divide"
+		{
+			"srcVar1" "$green"
+			"srcVar2" "$hundred"
+			"resultVar" "$green"
+		}
+		"Divide"
+		{
+			"srcVar1" "$blue"
+			"srcVar2" "$hundred"
+			"resultVar" "$blue"
+		}
 		"Equals"
 		{
 			"srcVar1" "$red"
@@ -26,41 +76,5 @@
 			"srcVar1" "$blue"
 			"resultVar" "$color[2]"
 		}
-		"MaterialModify"
-		{
-			"dummy" "0"
-		}
 	}
-}
-
-"UnlitGeneric"
-{
-	$basetexture "models/bk/wld/ttc/sandcastle/001c"
-    $color2      "[1 1 1]"
-"$varicolorred" "1"
-"$varicolorgreen" "1"
-"$varicolorblue" "1"
-
- "Proxies"
-        {
-	"Equals"
-	{
-"srcVar1" "$varicolorred"
-"resultVar" "$color2[0]"
-	}
-	"Equals"
-	{
-"srcVar1" "$varicolorgreen"
-"resultVar" "$color2[1]"
-	}
-	"Equals"
-	{
-"srcVar1" "$varicolorblue"
-"resultVar" "$color2[2]"
-	}
-           "MaterialModify"
-            {
-	"dummy" "0"
-	}
-    }
 }

@@ -164,17 +164,6 @@ CTFPlayer.ForceTaunt <- function(taunt_id)
     }))
 }
 
-::ParentEntity <- function(child, parent)
-{
-	if((!child || !child.IsValid()) || (!parent || !parent.IsValid()))
-	{
-		printl("ERROR: ParentEntity was called with a invalid entity, aborting! Child: " + child + " Parent: " + parent);
-		return;
-	}
-
-	EntFireByHandle(child, "SetParent", "!activator", -1, parent, null);
-}
-
 //stolen from kstf2's regen script (https://github.com/kstf2/regen.nut/blob/main/regen.nut)
 ::CTFWeaponBase.SetReserveAmmo <- function(amount)
 {
@@ -324,15 +313,6 @@ trigger_particle.SetSolid(SOLID_NONE);
 ::CTFPlayer.ClearParticle <- function()
 {
     EntFireByHandle(this, "DispatchEffect", "ParticleEffectStop", 0, this, this);
-}
-
-::SuppressMessages <- function(length)
-{
-    local message_suppressor = CreateByClassname("point_commentary_node");
-    message_suppressor.KeyValueFromString("classname", "killme"); //dont keep between rounds
-    RunWithDelay(length, function(){
-        message_suppressor.Kill();
-    })
 }
 
 ::lerp <- function(a, b, t)

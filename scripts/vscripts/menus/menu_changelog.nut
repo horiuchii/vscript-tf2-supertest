@@ -139,6 +139,25 @@
 			"Overhauled the chroma key room, colors\ncan be adjusted in the new chroma key menu."
 		]
 	}
+	{
+		name = "v1.7"
+		changelog = [
+			"Updated the items_game."
+			"Made the chroma key room\nchange color consistently."
+			"Chroma key room color can now\nbe changed on a scale of 0.01."
+			"Holding left or right on a menu\nitem will now cause it to slowly scroll faster."
+			"Changed how the buttons appear on\nthe Supertest menu to better\nindicate how to trigger certain actions."
+			"Removed a test print to console when\nchanging the chroma key room color."
+			"Added the option for the sentry in the\nbuilding range to spawn with a wrangler shield."
+			"Added CVar \"weapon_medigun_charge_rate\" to\nthe CVar menu, allowing faster Übercharge build."
+			"Added CVar \"tf_force_holidays_off\" to\nthe CVar menu, forcibly turning off all holidays."
+			"Added an additional set of\npickups in the spawn area."
+			"Added inteligence briefcases,\na capture point, payload carts and a\npair of spell pickups outside."
+			"Fixed major issues causing not being\nable to open the scoreboard or\nchange class or team after certain actions."
+			"Fixed not being able to\nunequip cosmetic override medals."
+			"Fixed an error from occuring when\nequipping weapons with cosmetics."
+		]
+	}
 ]
 
 DefineMenu(class extends Menu{

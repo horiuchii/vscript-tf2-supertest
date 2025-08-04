@@ -289,13 +289,9 @@ DefineMenu(class extends Menu{
                         entity.KeyValueFromString("team", index ? "blue" : "red")
                     }
                     //bots spawned in training always have just their class name
-                    SetPropBool(tf_gamerules, "m_bIsInTraining", true)
+                    SuppressMessages(3.0)
                     EntFire("botspawn", "spawnbot")
                     Convars.SetValue("tf_bot_count", 9)
-                    RunWithDelay(1.5, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
-                    RunWithDelay(2, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
-                    RunWithDelay(2.5, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
-                    RunWithDelay(3, function(){SetPropBool(tf_gamerules, "m_bIsInTraining", false)})
                 })
             }
         },

@@ -22,6 +22,12 @@
 	"wave" "misc/null.wav"
 }
 
+"MVM.TankDeploy"
+{
+	"volume"			"0"
+	"wave" "misc/null.wav"
+}
+
 "Announcer.MVM_Tank_Alert_Another"
 {
 	"volume"			"0"
@@ -35,6 +41,30 @@
 }
 
 "Announcer.MVM_Tank_Alert_Multiple"
+{
+	"volume"			"0"
+	"wave" "misc/null.wav"
+}
+
+"Announcer.Cart.Warning"
+{
+	"volume"			"0"
+	"wave" "misc/null.wav"
+}
+
+"Announcer.Cart.FinalWarning"
+{
+	"volume"			"0"
+	"wave" "misc/null.wav"
+}
+
+"Cart.Warning"
+{
+	"volume"			"0"
+	"wave" "misc/null.wav"
+}
+
+"Cart.WarningSingle"
 {
 	"volume"			"0"
 	"wave" "misc/null.wav"

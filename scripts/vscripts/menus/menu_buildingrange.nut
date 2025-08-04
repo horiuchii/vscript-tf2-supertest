@@ -10,7 +10,7 @@ ServerCookies.AddCookie("buildings_invulnerable", 0);
 ServerCookies.AddCookie("buildings_sentry_type", 0);
 ServerCookies.AddCookie("buildings_sentry_friendly", 0);
 ServerCookies.AddCookie("buildings_sentry_ammo", 0);
-ServerCookies.AddCookie("buildings_autorespawn", 0);
+ServerCookies.AddCookie("buildings_sentryshield", 0);
 
 ::sentry_pos <- FindByName(null, "spawnpoint_sentry");
 ::dispenser_pos <- FindByName(null, "spawnpoint_dispenser");
@@ -36,6 +36,16 @@ ServerCookies.AddCookie("buildings_autorespawn", 0);
 		disableshadows = true
 		spawnflags = invuln_flag + 4 + (ServerCookies.Get("buildings_sentry_ammo") == 2 ? 8 : 0) //make upgradable and check for infinite ammo
 	});
+
+	if(ServerCookies.Get("buildings_sentryshield"))
+	{
+		sentry.ValidateScriptScope()
+		sentry.GetScriptScope()["tick"] <- function() {
+			SetPropInt(self, "m_nShieldLevel", 1)
+			return -1;
+		}
+		AddThinkToEnt(sentry, "tick")
+	}
 
 	if(mini_sentry)
 	{
@@ -266,6 +276,28 @@ DefineMenu(class extends Menu{
 						player.SendChat(CHAT_PREFIX + "Spawned Sentries will now start with no ammo.");
 					if(index == 2)
 						player.SendChat(CHAT_PREFIX + "Spawned Sentries will now start with infinite ammo.");
+				}
+			}
+			class extends MenuItem{
+				titles = ["Shielded Sentry: False" "Shielded Sentry: True"];
+
+				function OnMenuOpened(player)
+				{
+					index = ServerCookies.Get("buildings_sentryshield");
+				}
+
+				function GenerateDesc(player)
+				{
+					return "Whether the Sentry will have\na wrangler shield when spawned.\nCurrent: " + (ServerCookies.Get("buildings_sentryshield").tointeger() ? "True" : "False");
+				}
+
+				function OnSelected(player)
+				{
+					ServerCookies.Set("buildings_sentryshield", index);
+					if(index)
+						player.SendChat(CHAT_PREFIX + "Spawned Sentries will now have a wrangler shield.");
+					else
+						player.SendChat(CHAT_PREFIX + "Spawned Sentries will no longer have a wrangler shield.");
 				}
 			}
 		]

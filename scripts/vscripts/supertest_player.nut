@@ -44,8 +44,6 @@ OnGameEvent("player_spawn", 1, function(params)
     if(player.GetTeam() != TF_TEAM_RED && player.GetTeam() != TF_TEAM_BLUE)
         return;
 
-    EntFireByHandle(GlobalRespawnroom, "StartTouch", null, 0.1, player, player);
-
     //this is so we collide with triggers like the mirror triggers
     player.AddSolidFlags(FSOLID_TRIGGER);
     RunWithDelay(-1, function()
@@ -217,6 +215,8 @@ AddListener("tick_frame", 0, function()
     SetVar("last_saved_ang", EyeAngles());
     SetVar("last_saved_ducked", GetPropBool(this, "m_Local.m_bDucked"));
     SetVar("last_saved_velocity", GetAbsVelocity());
+
+    EntFireByHandle(GlobalRespawnroom, "StartTouch", null, -1, this, this);
 
     if(GetVar("menu"))
     {

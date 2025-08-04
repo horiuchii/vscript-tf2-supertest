@@ -8,6 +8,7 @@
 ::root_table <- getroottable();
 ::tf_player_manager <- Entities.FindByClassname(null, "tf_player_manager");
 ::tf_gamerules <- Entities.FindByClassname(null, "tf_gamerules");
+::worldspawn <- Entities.FindByClassname(null, "worldspawn");
 tf_gamerules.ValidateScriptScope();
 
 ClearGameEventCallbacks();

@@ -223,9 +223,19 @@ OnGameEvent("player_say", 101, function(params)
         SetVar("side_dai_direction", null);
     }
 
-    if(GetVar("side_dai_direction") && GetVar("side_dai_ticks") > 0 && GetVar("side_dai_ticks") % SIDE_DAI_PERIOD_TICKS == 0)
+    if(GetVar("side_dai_direction") && GetVar("side_dai_ticks") > 0)
     {
-        ModifyMenuItem(GetVar("side_dai_direction"));
+        foreach(i, dai_delay in DAI_TICKS)
+        {
+            if(GetVar("side_dai_ticks") > dai_delay)
+            {
+                if(GetVar("side_dai_ticks") % SIDE_DAI_PERIOD_TICKS[i] == 0)
+                {
+                    ModifyMenuItem(GetVar("side_dai_direction"));
+                    break;
+                }
+            }
+        }
     }
 
     // Select Menu Item
