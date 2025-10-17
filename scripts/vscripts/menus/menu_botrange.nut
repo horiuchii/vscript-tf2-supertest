@@ -38,7 +38,6 @@ Cookies.AddCookie("spawned_bot_copy_loadout_weapons", 0);
 Cookies.AddCookie("spawned_bot_desired_slot", LOADOUT_SLOT_IDS[0]);
 Cookies.AddCookie("spawned_bot_copy_loadout_cosmetics", 0);
 Cookies.AddCookie("spawned_bot_killstreak", 0);
-Cookies.AddCookie("spawned_pair_bot_angle", 0);
 
 OnGameEvent("player_spawn", 0, function(params)
 {
@@ -58,8 +57,7 @@ OnGameEvent("player_spawn", 0, function(params)
                 entity.Kill()
         }
 
-        //player.SnapEyeAngles(QAngle(0,-90,0));
-        player.SetCollisionGroup(27)
+        player.SnapEyeAngles(QAngle(0,-90,0));
         if(player.GetPlayerClass() == TF_CLASS_SPY)
             player.AddCustomAttribute("cannot disguise", 1.0, -1)
 
@@ -247,7 +245,7 @@ OnGameEvent("player_spawn", 0, function(params)
 
 AddListener("tick_frame", 1, function()
 {
-    if(!::last_player_that_spawned_bots)
+    if (!IsValidPlayer(::last_player_that_spawned_bots))
         return;
 
     foreach(player in bots)
@@ -263,117 +261,6 @@ DefineMenu(class extends Menu{
     function constructor(){
         items = [
         class extends MenuItem{
-            titles = ["Generate Scout Pair" "Generate Soldier Pair" "Generate Pyro Pair" "Generate Demo Pair" "Generate Heavy Pair" "Generate Engi Pair" "Generate Medic Pair" "Generate Sniper Pair" "Generate Spy Pair"];
-
-            function GenerateDesc(player)
-            {
-                return "Generate a pair of bots infront of you for comparisons.";
-            }
-
-            function OnSelected(player)
-            {
-                if(last_spawned_bot_time + 3 > Time())
-                    return;
-
-                ::last_spawned_bot_time <- Time();
-                ::last_player_that_spawned_bots = player;
-
-                EntFire("temporary", "kill")
-
-                local class_name = "scout"
-                switch (index) {
-                    case 1:
-                        class_name = "soldier";
-                        break;
-                    case 2:
-                        class_name = "pyro";
-                        break;
-                    case 3:
-                        class_name = "demoman";
-                        break;
-                    case 4:
-                        class_name = "heavyweapons";
-                        break;
-                    case 5:
-                        class_name = "engineer";
-                        break;
-                    case 6:
-                        class_name = "medic";
-                        break;
-                    case 7:
-                        class_name = "sniper";
-                        break;
-                    case 8:
-                        class_name = "spy";
-                        break;
-                }
-
-                //keep this long because spawning can take time
-                SuppressMessages(1.5);
-                RunWithDelay(0.1, function(){
-                    RemoveSpawnedBots()
-                })
-                RunWithDelay(0.2, function()
-                {
-                    local eyeAngles = player.EyeAngles();
-                    local forward = eyeAngles.Forward();
-                    forward.z = 0;
-                    forward.Norm();
-                    local left = eyeAngles.Left();
-                    left.z = 0;
-                    left.Norm();
-
-                    SpawnEntityGroupFromTable(
-                    {
-                        [1] = {
-                            bot_generator =
-                            {
-                                targetname = "temporary"
-                                origin = player.GetOrigin() + (forward * 128) + (left * -25) + Vector(0,0,8)
-                                team = "red"
-                                "class" : class_name
-                                count = 1
-                                maxActive = 1
-                                suppressFire = 1
-                                //disableDodge = 1
-                                actionOnDeath = 0
-                            }
-                        },
-                        [2] = {
-                            bot_generator =
-                            {
-                                targetname = "temporary"
-                                origin = player.GetOrigin() + (forward * 128) + (left * 25) + Vector(0,0,4)
-                                team = "blue"
-                                "class" : class_name
-                                count = 1
-                                maxActive = 1
-                                suppressFire = 1
-                                //disableDodge = 1
-                                actionOnDeath = 0
-                            }
-                        },
-                    })
-                    EntFire("temporary", "spawnbot")
-                    RunWithDelay(0.5, function(){
-                        //look at the player that spawned us
-                        local entity = null
-                        while (entity = FindByClassname(entity, "player"))
-                        {
-                            if(!IsPlayerABot(entity) || entity.GetBotType() != TF_BOT_TYPE)
-                                continue;
-
-
-                            local dir = player.EyePosition() - (player.GetOrigin() + (forward * 128));
-                            dir.Norm();
-                            local yaw = atan2(dir.y, dir.x) * 180 / PI;
-                            entity.SnapEyeAngles(QAngle(0, yaw, 0))
-                        }
-                    })
-                })
-            }
-        },
-        class extends MenuItem{
             titles = ["Generate RED Bots" "Generate BLU Bots"];
 
             function GenerateDesc(player)
@@ -383,7 +270,7 @@ DefineMenu(class extends Menu{
 
             function OnSelected(player)
             {
-                if(last_spawned_bot_time + 3 > Time())
+                if(last_spawned_bot_time + 5 > Time())
                     return;
 
                 ::last_spawned_bot_time <- Time();
