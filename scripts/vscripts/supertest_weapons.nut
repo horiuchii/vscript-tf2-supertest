@@ -201,7 +201,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
             local wep_to_switch_to = null
             if(GetVar("priority_weapon_switch_slot") == weapon_slot_index)
             {
-                wep_to_switch_to = GetPropEntityArray(this, "m_hMyWeapons", GetVar("priority_weapon_switch_slot"))
+                wep_to_switch_to = GetWeaponBySlot(GetVar("priority_weapon_switch_slot"));
             }
 
             if(wep_to_switch_to)
@@ -216,7 +216,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     if(!switched_weapon)
     {
         DebugPrint("EQUIPPED LATE")
-        Weapon_Switch(GetPropEntityArray(this, "m_hMyWeapons", GetVar("priority_weapon_switch_slot") != null ? GetVar("priority_weapon_switch_slot") : 0))
+        Weapon_Switch(GetWeaponBySlot(GetVar("priority_weapon_switch_slot") != null ? GetVar("priority_weapon_switch_slot") : 0))
     }
 
     RunWithDelay(0.1, function()
@@ -539,7 +539,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Reserve Shooter"
         classname = "tf_weapon_shotgun"
         item_id = 415
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_SOLDIER, TF_CLASS_PYRO]
         slot = WeaponSlot.Secondary
     },
@@ -547,7 +547,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Panic Attack"
         classname = "tf_weapon_shotgun"
         item_id = 1153
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_SOLDIER, TF_CLASS_PYRO, TF_CLASS_HEAVY]
         slot = WeaponSlot.Secondary
     },
@@ -555,7 +555,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Panic Attack"
         classname = "tf_weapon_shotgun"
         item_id = 1153
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_ENGINEER]
         slot = WeaponSlot.Primary
     },
@@ -628,12 +628,48 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         variant = true
     },
     ["bat_outta_hell"] = {
-        display_name = "Bat Outta Hell"
+        display_name = "Bat Outta Hell (Universal)"
         classname = "saxxy"
         item_id = 939
         used_by_classes = [TF_CLASS_SCOUT, TF_CLASS_SOLDIER, TF_CLASS_PYRO, TF_CLASS_DEMOMAN, TF_CLASS_HEAVY, TF_CLASS_MEDIC, TF_CLASS_SNIPER]
         slot = WeaponSlot.Melee
         variant = true
+    },
+    ["bat_outta_hell_scout"] = {
+        display_name = "Bat Outta Hell (Scout)"
+        classname = "saxxy"
+        item_id = 939
+        used_by_classes = [TF_CLASS_SCOUT, TF_CLASS_SOLDIER, TF_CLASS_PYRO, TF_CLASS_DEMOMAN, TF_CLASS_HEAVY, TF_CLASS_MEDIC, TF_CLASS_SNIPER]
+        slot = WeaponSlot.Melee
+        variant = true
+        extra_code = function(weapon)
+        {
+            weapon.AddAttribute("item style override", 1, -1);
+        }
+    },
+    ["bat_outta_hell_demo"] = {
+        display_name = "Bat Outta Hell (Demoman)"
+        classname = "saxxy"
+        item_id = 939
+        used_by_classes = [TF_CLASS_SCOUT, TF_CLASS_SOLDIER, TF_CLASS_PYRO, TF_CLASS_DEMOMAN, TF_CLASS_HEAVY, TF_CLASS_MEDIC, TF_CLASS_SNIPER]
+        slot = WeaponSlot.Melee
+        variant = true
+        extra_code = function(weapon)
+        {
+            weapon.AddAttribute("item style override", 2, -1);
+        }
+    },
+    ["bat_outta_hell_soldier"] = {
+        display_name = "Bat Outta Hell (Soldier)"
+        classname = "saxxy"
+        item_id = 939
+        used_by_classes = [TF_CLASS_SCOUT, TF_CLASS_SOLDIER, TF_CLASS_PYRO, TF_CLASS_DEMOMAN, TF_CLASS_HEAVY, TF_CLASS_MEDIC, TF_CLASS_SNIPER]
+        slot = WeaponSlot.Melee
+        variant = true
+        extra_code = function(weapon)
+        {
+            weapon.AddAttribute("item style override", 3, -1);
+        }
     },
     ["objector"] = {
         display_name = "Conscientious Objector"
@@ -686,7 +722,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //SCOUT PRIMARY
     ["scattergun"] = combinetables(clone(WEP_BASE_SCATTERGUN), {
         item_id_override = 200
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_scattergun" "scattergun_festive" "silver_bk_scattergun_mk1" "gold_bk_scattergun_mk1" "rust_bk_scattergun_mk1" "blood_bk_scattergun_mk1" "carbonado_bk_scattergun_mk1" "diamond_bk_scattergun_mk1" "silver_bk_scattergun_mk2" "gold_bk_scattergun_mk2"]
     }),
     ["scattergun_festive"] = combinetables(clone(WEP_BASE_SCATTERGUN), {
@@ -749,13 +785,13 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Shortstop"
         classname = "tf_weapon_handgun_scout_primary"
         item_id = 220
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
     }),
     ["soda_popper"] = combinetables(clone(WEP_BASE_SCATTERGUN), {
         display_name = "Soda Popper"
         classname = "tf_weapon_soda_popper"
         item_id = 448
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
     }),
     ["baby_faces_blaster"] = combinetables(clone(WEP_BASE_SCATTERGUN), {
         display_name = "Baby Face's Blaster"
@@ -820,7 +856,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Winger"
         classname = "tf_weapon_handgun_scout_secondary"
         item_id = 449
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_SCOUT]
         slot = WeaponSlot.Secondary
     },
@@ -860,9 +896,10 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Bat"
         classname = "tf_weapon_bat"
         item_id = 0
+        item_id_override = 190
         used_by_classes = [TF_CLASS_SCOUT]
         slot = WeaponSlot.Melee
-        variants = ["holy_mackerel" "holy_mackerel_festive" "unarmed_combat" "bat_festive" "batsaber" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["holy_mackerel" "holy_mackerel_festive" "unarmed_combat" "bat_festive" "batsaber" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["bat_festive"] = {
         display_name = "Festive Bat"
@@ -884,7 +921,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Holy Mackerel"
         classname = "tf_weapon_bat_fish"
         item_id = 221
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_SCOUT]
         slot = WeaponSlot.Melee
         variant = true
@@ -909,7 +946,6 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Sandman"
         classname = "tf_weapon_bat_wood"
         item_id = 44
-        flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_SCOUT]
         slot = WeaponSlot.Melee
     },
@@ -967,7 +1003,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //SOLDIER PRIMARY
     ["rocketlauncher"] = combinetables(clone(WEP_BASE_ROCKETLAUNCHER), {
         item_id_override = 205
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_rocketlauncher" "rocketlauncher_festive" "valve_rocketlauncher" "silver_bk_rocketlauncher_mk1" "gold_bk_rocketlauncher_mk1" "rust_bk_rocketlauncher_mk1" "blood_bk_rocketlauncher_mk1" "carbonado_bk_rocketlauncher_mk1" "diamond_bk_rocketlauncher_mk1" "silver_bk_rocketlauncher_mk2" "gold_bk_rocketlauncher_mk2"]
     }),
     ["valve_rocketlauncher"] = combinetables(clone(WEP_BASE_ROCKETLAUNCHER), {
@@ -1042,7 +1078,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["black_box"] = combinetables(clone(WEP_BASE_ROCKETLAUNCHER), {
         display_name = "Black Box"
         item_id = 228
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_AUSTRAILIUM)
         variants = ["aus_black_box" "black_box_festive"]
     }),
     ["black_box_festive"] = combinetables(clone(WEP_BASE_ROCKETLAUNCHER), {
@@ -1073,7 +1109,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     }),
     ["air_strike"] = combinetables(clone(WEP_BASE_ROCKETLAUNCHER), {
         display_name = "Air Strike"
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         item_id = 1104
     }),
     //SOLDIER SECONDARY
@@ -1082,7 +1118,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_shotgun"
         item_id = 10
         item_id_override = 199
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_ACCEPTS_ENERGYORB)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB)
         used_by_classes = [TF_CLASS_SOLDIER]
         slot = WeaponSlot.Secondary
         variants = ["shotgun_soldier_festive"]
@@ -1162,10 +1198,9 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_shovel"
         item_id = 6
         item_id_override = 196
-        flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_SOLDIER]
         slot = WeaponSlot.Melee
-        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["equalizer"] = {
         display_name = "Equalizer"
@@ -1185,7 +1220,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Disciplinary Action"
         classname = "tf_weapon_shovel"
         item_id = 447
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_SOLDIER]
         slot = WeaponSlot.Melee
     },
@@ -1199,7 +1234,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //PYRO PRIMARY
     ["flamethrower"] = combinetables(clone(WEP_BASE_FLAMETHROWER), {
         item_id_override = 208
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_flamethrower" "flamethrower_festive" "rainblower" "nostromo_napalmer" "silver_bk_flamethrower_mk1" "gold_bk_flamethrower_mk1" "rust_bk_flamethrower_mk1" "blood_bk_flamethrower_mk1" "carbonado_bk_flamethrower_mk1" "diamond_bk_flamethrower_mk1" "silver_bk_flamethrower_mk2" "gold_bk_flamethrower_mk2"]
     }),
     ["flamethrower_festive"] = combinetables(clone(WEP_BASE_FLAMETHROWER), {
@@ -1270,7 +1305,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["degreaser"] = combinetables(clone(WEP_BASE_FLAMETHROWER), {
         display_name = "Degreaser"
         item_id = 215
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
     }),
     ["phlog"] = combinetables(clone(WEP_BASE_FLAMETHROWER), {
         display_name = "Phlogistinator"
@@ -1280,7 +1315,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Dragon's Fury"
         classname = "tf_weapon_rocketlauncher_fireball"
         item_id = 1178
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
     }),
     //PYRO SECONDARY
     ["shotgun_pyro"] = {
@@ -1288,7 +1323,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_shotgun"
         item_id = 12
         item_id_override = 199
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_ACCEPTS_ENERGYORB)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB)
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Secondary
         variants = ["shotgun_pyro_festive"]
@@ -1321,7 +1356,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Detonator"
         classname = "tf_weapon_flaregun"
         item_id = 351
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL)
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Secondary
     },
@@ -1336,7 +1371,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Scorch Shot"
         classname = "tf_weapon_flaregun"
         item_id = 740
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL)
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Secondary
     },
@@ -1361,10 +1396,9 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_fireaxe"
         item_id = 2
         item_id_override = 192
-        flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Melee
-        variants = ["lollichop" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["lollichop" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["lollichop"] = {
         display_name = "Lollichop"
@@ -1419,7 +1453,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Powerjack"
         classname = "tf_weapon_fireaxe"
         item_id = 214
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Melee
     },
@@ -1427,7 +1461,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Back Scratcher"
         classname = "tf_weapon_fireaxe"
         item_id = 326
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_PYRO]
         slot = WeaponSlot.Melee
     },
@@ -1465,7 +1499,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_grenadelauncher"
         item_id = 19
         item_id_override = 206
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_AUSTRAILIUM)
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Primary
         variants = ["aus_grenade_launcher" "grenade_launcher_festive"]
@@ -1482,7 +1516,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Loch-n-Load"
         classname = "tf_weapon_grenadelauncher"
         item_id = 308
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Primary
     },
@@ -1508,7 +1542,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Loose Cannon"
         classname = "tf_weapon_cannon"
         item_id = 996
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Primary
     },
@@ -1524,14 +1558,14 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Iron Bomber"
         classname = "tf_weapon_grenadelauncher"
         item_id = 1151
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Primary
     },
     //DEMO SECONDARY
     ["stickybomb_launcher"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
         item_id_override = 207
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_stickybomb_launcher" "stickybomb_launcher_festive" "silver_bk_stickybomb_launcher_mk1" "gold_bk_stickybomb_launcher_mk1" "rust_bk_stickybomb_launcher_mk1" "blood_bk_stickybomb_launcher_mk1" "carbonado_bk_stickybomb_launcher_mk1" "diamond_bk_stickybomb_launcher_mk1" "silver_bk_stickybomb_launcher_mk2" "gold_bk_stickybomb_launcher_mk2"]
     }),
     ["stickybomb_launcher_festive"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
@@ -1582,7 +1616,6 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["scottish_resistance"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
         display_name = "Scottish Resistance"
         item_id = 130
-        flags = (FLAG_FESTIVIZER)
     }),
     ["chargein_targe"] = combinetables(clone(WEP_BASE_STICKYBOMBLAUNCHER), {
         display_name = "Chargin' Targe"
@@ -1660,7 +1693,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id_override = 191
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Melee
-        variants = ["scottish_handshake" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["scottish_handshake" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["scottish_handshake"] = {
         display_name = "Scottish Handshake"
@@ -1707,7 +1740,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Scotsman's Skullcutter"
         classname = "tf_weapon_sword"
         item_id = 172
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_DEMOMAN]
         slot = WeaponSlot.Melee
     },
@@ -1737,7 +1770,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //HEAVY PRIMARY
     ["minigun"] = combinetables(clone(WEP_BASE_MINIGUN), {
         item_id_override = 202
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_minigun" "minigun_festive" "iron_curtain" "silver_bk_minigun_mk1" "gold_bk_minigun_mk1" "rust_bk_minigun_mk1" "blood_bk_minigun_mk1" "carbonado_bk_minigun_mk1" "diamond_bk_minigun_mk1" "silver_bk_minigun_mk2" "gold_bk_minigun_mk2"]
     }),
     ["minigun_festive"] = combinetables(clone(WEP_BASE_MINIGUN), {
@@ -1792,17 +1825,16 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     }),
     ["natascha"] = combinetables(clone(WEP_BASE_MINIGUN), {
         display_name = "Natascha"
-        flags = FLAG_FESTIVIZER
         item_id = 41
     }),
     ["brass_beast"] = combinetables(clone(WEP_BASE_MINIGUN), {
         display_name = "Brass Beast"
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         item_id = 312
     }),
     ["tomislav"] = combinetables(clone(WEP_BASE_MINIGUN), {
         display_name = "Tomislav"
-        flags = FLAG_FESTIVIZER | FLAG_AUSTRAILIUM | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_AUSTRAILIUM | FLAG_WARPAINT_AND_UNUSUAL
         item_id = 424
         variants = ["aus_tomislav"]
     }),
@@ -1824,7 +1856,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_shotgun"
         item_id = 11
         item_id_override = 199
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_ACCEPTS_ENERGYORB)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB)
         used_by_classes = [TF_CLASS_HEAVY]
         slot = WeaponSlot.Secondary
         variants = ["shotgun_heavy_festive"]
@@ -1888,7 +1920,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Family Business"
         classname = "tf_weapon_shotgun"
         item_id = 425
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_HEAVY]
         slot = WeaponSlot.Secondary
     },
@@ -1907,7 +1939,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id_override = 195
         used_by_classes = [TF_CLASS_HEAVY]
         slot = WeaponSlot.Melee
-        variants = ["apoco_fists" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["apoco_fists" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["apoco_fists"] = {
         display_name = "Apoco-Fists"
@@ -1982,7 +2014,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_shotgun"
         item_id = 9
         item_id_override = 199
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_ACCEPTS_ENERGYORB)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB)
         used_by_classes = [TF_CLASS_ENGINEER]
         slot = WeaponSlot.Primary
         variants = ["shotgun_engie_festive"]
@@ -2030,7 +2062,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Rescue Ranger"
         classname = "tf_weapon_shotgun_building_rescue"
         item_id = 997
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_ENGINEER]
         slot = WeaponSlot.Primary
     },
@@ -2079,7 +2111,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //ENGIE MELEE
     ["wrench"] = combinetables(clone(WEP_BASE_WRENCH), {
         item_id_override = 197
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_AUSTRAILIUM)
         variants = ["aus_wrench" "wrench_festive" "gold_wrench" "silver_bk_wrench_mk1" "gold_bk_wrench_mk1" "rust_bk_wrench_mk1" "blood_bk_wrench_mk1" "carbonado_bk_wrench_mk1" "diamond_bk_wrench_mk1" "silver_bk_wrench_mk2" "gold_bk_wrench_mk2" "gold_pan" "saxxy" "necro_smasher" "prinny_knife" "envballs"]
     }),
     ["wrench_festive"] = combinetables(clone(WEP_BASE_WRENCH), {
@@ -2144,7 +2176,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["jag"] = combinetables(clone(WEP_BASE_WRENCH), {
         display_name = "Jag"
         item_id = 329
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
     }),
     ["eureka_effect"] = combinetables(clone(WEP_BASE_WRENCH), {
         display_name = "Eureka Effect"
@@ -2172,7 +2204,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Crusader's Crossbow"
         classname = "tf_weapon_crossbow"
         item_id = 305
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_MEDIC]
         slot = WeaponSlot.Primary
         variants = ["crusaders_crossbow_festive"]
@@ -2195,7 +2227,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //MEDIC SECONDARY
     ["medigun"] = combinetables(clone(WEP_BASE_MEDIGUN), {
         item_id_override = 211
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_medigun" "medigun_festive" "silver_bk_medigun_mk1" "gold_bk_medigun_mk1" "rust_bk_medigun_mk1" "blood_bk_medigun_mk1" "carbonado_bk_medigun_mk1" "diamond_bk_medigun_mk1" "silver_bk_medigun_mk2" "gold_bk_medigun_mk2"]
     }),
     ["medigun_festive"] = combinetables(clone(WEP_BASE_MEDIGUN), {
@@ -2246,12 +2278,10 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["kritzkrieg"] = combinetables(clone(WEP_BASE_MEDIGUN), {
         display_name = "Kritzkrieg"
         item_id = 35
-        flags = FLAG_FESTIVIZER
     }),
     ["quickfix"] = combinetables(clone(WEP_BASE_MEDIGUN), {
         display_name = "Quick-Fix"
         item_id = 411
-        flags = FLAG_FESTIVIZER
     }),
     ["vaccinator"] = combinetables(clone(WEP_BASE_MEDIGUN), {
         display_name = "Vaccinator"
@@ -2265,7 +2295,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         item_id_override = 198
         used_by_classes = [TF_CLASS_MEDIC]
         slot = WeaponSlot.Melee
-        variants = ["bonesaw_festive" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["bonesaw_festive" "pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["bonesaw_festive"] = {
         display_name = "Festive Bonesaw"
@@ -2279,7 +2309,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Ubersaw"
         classname = "tf_weapon_bonesaw"
         item_id = 37
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_MEDIC]
         slot = WeaponSlot.Melee
         variants = ["ubersaw_festive"]
@@ -2303,7 +2333,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Amputator"
         classname = "tf_weapon_bonesaw"
         item_id = 304
-        flags = FLAG_FESTIVIZER | FLAG_WARPAINT_AND_UNUSUAL
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_MEDIC]
         slot = WeaponSlot.Melee
     },
@@ -2317,7 +2347,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //SNIPER PRIMARY
     ["sniperrifle"] = combinetables(clone(WEP_BASE_SNIPERRIFLE), {
         item_id_override = 201
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         variants = ["aus_sniperrifle" "sniperrifle_festive" "awperhand" "silver_bk_sniperrifle_mk1" "gold_bk_sniperrifle_mk1" "rust_bk_sniperrifle_mk1" "blood_bk_sniperrifle_mk1" "carbonado_bk_sniperrifle_mk1" "diamond_bk_sniperrifle_mk1" "silver_bk_sniperrifle_mk2" "gold_bk_sniperrifle_mk2"]
     }),
     ["sniperrifle_festive"] = combinetables(clone(WEP_BASE_SNIPERRIFLE), {
@@ -2395,7 +2425,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["bazaar_bargain"] = combinetables(clone(WEP_BASE_SNIPERRIFLE), {
         display_name = "Bazaar Bargain"
         classname = "tf_weapon_sniperrifle_decap"
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER)
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         item_id = 402
     }),
     ["machina"] = combinetables(clone(WEP_BASE_SNIPERRIFLE), {
@@ -2423,7 +2453,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_smg"
         item_id = 16
         item_id_override = 203
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB | FLAG_AUSTRAILIUM)
         used_by_classes = [TF_CLASS_SNIPER]
         slot = WeaponSlot.Secondary
         variants = ["aus_smg" "smg_festive"]
@@ -2497,10 +2527,9 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_club"
         item_id = 3
         item_id_override = 193
-        flags = (FLAG_FESTIVIZER)
         used_by_classes = [TF_CLASS_SNIPER]
         slot = WeaponSlot.Melee
-        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
+        variants = ["pan" "gold_pan" "saxxy" "memory_maker" "bat_outta_hell" "bat_outta_hell_scout" "bat_outta_hell_demo" "bat_outta_hell_soldier" "objector" "ham_shank" "necro_smasher" "freedom_staff" "crossing_guard" "prinny_knife" "envballs"]
     },
     ["tribalman_shiv"] = {
         display_name = "Tribalman's Shiv"
@@ -2520,7 +2549,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         display_name = "Shahanshah"
         classname = "tf_weapon_club"
         item_id = 401
-        flags = FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER
+        flags = FLAG_WARPAINT_AND_UNUSUAL
         used_by_classes = [TF_CLASS_SNIPER]
         slot = WeaponSlot.Melee
     },
@@ -2530,7 +2559,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
         classname = "tf_weapon_revolver"
         item_id = 24
         item_id_override = 210
-        flags = FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_ACCEPTS_ENERGYORB
+        flags = FLAG_WARPAINT_AND_UNUSUAL | FLAG_ACCEPTS_ENERGYORB
         used_by_classes = [TF_CLASS_SPY]
         slot = WeaponSlot.Primary
         variants = ["revolver_festive" "big_kill"]
@@ -2592,7 +2621,7 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     //SPY MELEE
     ["knife"] = combinetables(clone(WEP_BASE_KNIFE), {
         item_id_override = 194
-        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_FESTIVIZER | FLAG_AUSTRAILIUM)
+        flags = (FLAG_WARPAINT_AND_UNUSUAL | FLAG_AUSTRAILIUM)
         variants = ["aus_knife" "knife_festive" "sharp_dresser" "blackrose_teamcolor" "blackrose_baccara" "silver_bk_knife_mk1" "gold_pan" "saxxy" "prinny_knife" "gold_bk_knife_mk1" "rust_bk_knife_mk1" "blood_bk_knife_mk1" "carbonado_bk_knife_mk1" "diamond_bk_knife_mk1" "silver_bk_knife_mk2" "gold_bk_knife_mk2" "envballs"]
     }),
     ["knife_festive"] = combinetables(clone(WEP_BASE_KNIFE), {
@@ -2685,7 +2714,6 @@ for (local class_index = TF_CLASS_SCOUT; class_index < TF_CLASS_CIVILIAN; class_
     ["spycicle"] = combinetables(clone(WEP_BASE_KNIFE), {
         display_name = "Spy-cicle"
         item_id = 649
-        flags = FLAG_FESTIVIZER
     }),
     //SPY WATCH
     ["invis_watch"] = {

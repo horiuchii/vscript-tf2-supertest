@@ -176,14 +176,7 @@ GenerateClassWeaponSelectMenu();
                 player.EquipWeapon(class_id, weapon_idnames[index]);
                 if(slot_id != WeaponSlot.InvisWatch)
                 {
-                    local offset = 0
-
-                    if(player.GetPlayerClass() == TF_CLASS_SPY && slot_id == WeaponSlot.Secondary)
-                        offset = 1;
-                    if(player.GetPlayerClass() == TF_CLASS_SPY && slot_id == WeaponSlot.Melee)
-                        offset = -2;
-
-                    player.SetVar("priority_weapon_switch_slot", slot_id + offset);
+                    player.SetVar("priority_weapon_switch_slot", slot_id);
                 }
                 player.SendChat(CHAT_PREFIX + "Equipped the " + titles[index] + " for " + UpperFirst(class_name) + "'s " + slot_name + " override.")
             }

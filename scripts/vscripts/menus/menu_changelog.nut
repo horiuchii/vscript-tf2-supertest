@@ -1,5 +1,25 @@
 ::CHANGELOG <- [
 	{
+		name = "v1.7.5"
+		changelog = [
+			"Added Bat Outta Hell reskins."
+			"Fixed not being able to festivize the Bat."
+		]
+	}
+	{
+		name = "v1.7.4"
+		changelog = [
+			"Added Winter 2025 content."
+		]
+	}
+	{
+		name = "v1.7.3"
+		changelog = [
+			"Updated the items_game."
+			"Fixed a crash that could occur when loading supertest,\nloading another map, and loading supertest again\ndue to a bad team_train_watcher think."
+		]
+	}
+	{
 		name = "v1.7.2"
 		changelog = [
 			"Updated the items_game."
