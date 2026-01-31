@@ -1,3 +1,5 @@
+Cookies.AddCookie("menu_key", IN_ATTACK3);
+Cookies.AddCookie("menu_singlepress", 0);
 Cookies.AddCookie("menu_opacity", 0);
 
 ::CTFPlayer.GetMenuOpacity <- function()
@@ -26,6 +28,45 @@ DefineMenu(class extends Menu{
     menu_name = "player_settings"
     function constructor(){
         items = [
+            class extends MenuItem{
+                titles = ["Toggle Menu Action: Special Attack" "Toggle Menu Action: Reload"];
+
+                function OnMenuOpened(player)
+                {
+                    index = Cookies.Get(player, "menu_key") == IN_ATTACK3 ? 0 : 1;
+                }
+
+                function GenerateDesc(player)
+                {
+                    return "Set which action should toggle the Super Test menu.\nCurrent: " + Cookies.Get(player, "menu_key") == IN_ATTACK3 ? "Special Attack" : "Reload";
+                }
+
+                function OnSelected(player)
+                {
+                    Cookies.Set(player, "menu_key", index ? IN_ATTACK3 : IN_RELOAD);
+                    player.SendChat(CHAT_PREFIX + "Toggle Menu Action is now: " +  index ? "Special Attack" : "Reload");
+                }
+            },
+            class extends MenuItem{
+                titles = ["Toggle Menu With Single Press: Off" "Toggle Menu With Single Press: On"];
+
+                function OnMenuOpened(player)
+                {
+                    index = Cookies.Get(player, "menu_singlepress");
+                }
+
+                function GenerateDesc(player)
+                {
+                    return "Whether the Super Test menu should open when pressing\nthe Toggle Menu Action key once instead of double tapping.\nCurrent: " + Cookies.Get(player, "menu_key") == IN_ATTACK3 ? "Special Attack" : "Reload";
+                }
+
+                function OnSelected(player)
+                {
+                    Cookies.Set(player, "menu_key", index);
+                    local toggle = (index ? "now" : "no longer");
+                    player.SendChat(CHAT_PREFIX + "The menu will " + toggle + " open with a single press of the toggle menu action key.");
+                }
+            },
             class extends MenuItem{
                 titles = ["Menu Opacity: 100%" "Menu Opacity: 75%" "Menu Opacity: 50%" "Menu Opacity: 0%"];
 

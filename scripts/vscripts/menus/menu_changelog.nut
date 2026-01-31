@@ -1,5 +1,14 @@
 ::CHANGELOG <- [
 	{
+		name = "v1.7.6"
+		changelog = [
+			"In the Player Settings menu, added a toggle to\nwhether the menu should open with a double or single press of the menu button."
+			"In the Player Settings menu, added an option to\nchange what action should open the menu."
+			"Modified map visuals to make lighting more white"
+			"Added a date to changelog entries"
+		]
+	}
+	{
 		name = "v1.7.5"
 		changelog = [
 			"Added Bat Outta Hell reskins."
@@ -191,6 +200,7 @@
 	}
 	{
 		name = "v1.0"
+		date = "Jan 26, 2025"
 		changelog = [
 		"Initial Release"
 		]

@@ -54,6 +54,7 @@ OnGameEvent("player_spawn", 1, function(params)
     if(Time() - player.GetVar("last_show_menu_hint") < MENU_HINT_COOLDOWN_TIME)
     {
         player.SetVar("last_show_menu_hint", 0);
+        //TODO: UPDATE TEXT BEFORE SHOWING
         EntFireByHandle(env_hudhint_menu, "ShowHudHint", "", 0, player, player);
     }
 
@@ -256,9 +257,9 @@ AddListener("tick_frame", 0, function()
         DrawKeys();
     }
 
-    if(WasButtonJustPressed(IN_ATTACK3))
+    if(WasButtonJustPressed(Cookies.Get(player, "menu_key")))
     {
-        if(Time() - GetVar("last_press_menu_button") < OPEN_MENU_DOUBLEPRESS_TIME)
+        if(Time() - GetVar("last_press_menu_button") < OPEN_MENU_DOUBLEPRESS_TIME || Cookies.Get(player, "menu_singlepress"))
             OpenMenu();
         else
             SetVar("last_press_menu_button", Time());
