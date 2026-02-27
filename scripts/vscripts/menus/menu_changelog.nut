@@ -1,5 +1,11 @@
 ::CHANGELOG <- [
 	{
+		name = "v1.7.6"
+		changelog = [
+			"Fixed a long standing issue where other players in\na multiplayer session couldn't open the menu."
+		]
+	}
+	{
 		name = "v1.7.5"
 		changelog = [
 			"Added Bat Outta Hell reskins."
