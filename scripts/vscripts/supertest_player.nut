@@ -196,10 +196,10 @@ AddListener("tick_frame", 0, function()
     foreach(player in GetPlayers())
     {
         if(IsPlayerABot(player))
-            return;
+            continue;
 
         if(PlayerSpawned.find(player) == null)
-            return;
+            continue;
 
         player.OnTick();
         player.SetVar("last_buttons", player.GetButtons());
