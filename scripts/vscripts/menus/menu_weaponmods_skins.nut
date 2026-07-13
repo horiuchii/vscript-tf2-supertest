@@ -33,6 +33,7 @@ enum SkinCollection
     Halloween2022
     Summer2023
     Halloween2024
+	Summer2026
     MAX
 }
 
@@ -64,6 +65,7 @@ enum SkinCollection
     "Scream Fortress XIV"
     "Summer 2023"
     "Scream Fortress XVI"
+	"Summer 2026"
 ]
 
 ::SKINS <- {
@@ -1810,6 +1812,79 @@ enum SkinCollection
         type = SkinType.Warpaint
         order = 11
         index = 422
+    },
+
+
+
+    ["team_union"] = {
+        display_name = "Team Union"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 0
+        index = 439
+    },
+    ["storage_war"] = {
+        display_name = "Storage War"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 1
+        index = 441
+    },
+    ["taxi_cabbed"] = {
+        display_name = "Taxi Cabbed"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 2
+        index = 436
+    },
+    ["sandwich_diner"] = {
+        display_name = "Sandwich Diner"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 3
+        index = 433
+    },
+    ["krak_coated"] = {
+        display_name = "Krak-coated"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 4
+        index = 438
+    },
+    ["die_n_dasher"] = {
+        display_name = "Die'n Dasher"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 5
+        index = 442
+    },
+    ["army_guns"] = {
+        display_name = "Army Guns"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 6
+        index = 435
+    },
+    ["ocean_mapped"] = {
+        display_name = "Ocean Mapped"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 7
+        index = 437
+    },
+    ["sideshow"] = {
+        display_name = "Sideshow"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 8
+        index = 440
+    },
+    ["beachy_boy"] = {
+        display_name = "Beachy Boy"
+        collection = SkinCollection.Summer2026
+        type = SkinType.Warpaint
+        order = 9
+        index = 434
     },
 }
 
