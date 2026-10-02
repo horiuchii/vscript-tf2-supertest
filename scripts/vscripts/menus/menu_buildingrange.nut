@@ -128,6 +128,24 @@ DefineMenu(class extends Menu{
 	function constructor(){
 		items = [
 			class extends MenuItem{
+				titles = ["Teleport to building range"];
+
+				function GenerateDesc(player)
+				{
+					return "Teleport yourself to the building range.";
+				}
+
+				function OnSelected(player)
+				{
+					local teleport = FindByName(null, "buildingrange_teleport")
+					if(!teleport)
+						return;
+
+					player.SetAbsOrigin(teleport.GetOrigin())
+					player.SnapEyeAngles(QAngle(0,180,0))
+				}
+			},
+			class extends MenuItem{
 				titles = ["Generate RED Buildings" "Generate BLU Buildings"];
 
 				function OnMenuOpened(player)

@@ -13,7 +13,25 @@ DefineMenu(class extends Menu{
     id = "chroma"
     menu_name = "chroma"
     function constructor(){
-        items = []
+        items = [
+        class extends MenuItem{
+            titles = ["Teleport to chroma room"];
+
+            function GenerateDesc(player)
+            {
+                return "Teleport yourself to the chroma room.";
+            }
+
+            function OnSelected(player)
+            {
+                local teleport = FindByName(null, "chroma_teleport")
+                if(!teleport)
+                    return;
+
+                player.SetAbsOrigin(teleport.GetOrigin())
+                player.SnapEyeAngles(QAngle(0,0,0))
+            }
+        }]
 
 		foreach(chroma_index, name in ["Red Value" "Green Value" "Blue Value"])
 		{

@@ -1,5 +1,25 @@
 ::CHANGELOG <- [
 	{
+		name = "v1.7.9"
+		changelog = [
+			"Adjusted lighting and shadows\nto be more neutral colored."
+			"Added teleport buttons to the\nBuilding Range & Chroma Room."
+			"Added Halloween 2026 Content."
+		]
+	}
+	{
+		name = "v1.7.8"
+		changelog = [
+			"Added Summer 2026 Warpaints"
+		]
+	}
+	{
+		name = "v1.7.7"
+		changelog = [
+			"Added Summer 2026 Content."
+		]
+	}
+	{
 		name = "v1.7.6"
 		changelog = [
 			"Fixed a long standing issue where other players in\na multiplayer session couldn't open the menu."
